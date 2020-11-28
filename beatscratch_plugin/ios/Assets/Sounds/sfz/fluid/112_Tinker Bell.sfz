@@ -1,0 +1,202 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+loop_mode=no_loop
+effect1=5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\tinker bell.wav
+lokey=0 hikey=49
+pitch_keycenter=102
+fil_type=lpf_2p
+cutoff=5130
+fileg_depth=787
+effect1=12
+amplfo_freq=5.37859
+fillfo_freq=5.37859
+pitchlfo_freq=5.37859
+pitcheg_decay=4.14106
+fileg_decay=4.14106
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=3.52063
+fileg_release=3.52063
+ampeg_decay=6.36061
+ampeg_sustain=0.001
+ampeg_release=4.14106
+volume=-0.4764
+offset=0
+end=6164
+loop_start=8
+loop_end=6156
+
+<region>
+sample=samples\tinker bell.wav
+lokey=50 hikey=61
+pitch_keycenter=102
+fil_type=lpf_2p
+cutoff=5130
+fileg_depth=787
+effect1=12
+amplfo_freq=5.37859
+fillfo_freq=5.37859
+pitchlfo_freq=5.37859
+pitcheg_hold=0.0119999
+fileg_hold=0.0119999
+pitcheg_decay=4.27967
+fileg_decay=4.27967
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=3.61961
+fileg_release=3.61961
+ampeg_hold=0.0550099
+ampeg_decay=5.33936
+ampeg_sustain=0.001
+ampeg_release=3.81936
+volume=-0.4764
+offset=0
+end=6164
+loop_start=8
+loop_end=6156
+
+<region>
+sample=samples\tinker bell.wav
+lokey=62 hikey=73
+pitch_keycenter=102
+fil_type=lpf_2p
+cutoff=5299
+fileg_depth=787
+effect1=12
+amplfo_freq=5.37859
+fillfo_freq=5.37859
+pitchlfo_freq=5.37859
+pitcheg_decay=4.14106
+fileg_decay=4.14106
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=3.52063
+fileg_release=3.52063
+ampeg_decay=4.52892
+ampeg_sustain=0.001
+ampeg_release=3.0702
+volume=-0.4764
+offset=0
+end=6164
+loop_start=8
+loop_end=6156
+
+<region>
+sample=samples\tinker bell.wav
+lokey=74 hikey=85
+pitch_keycenter=102
+fil_type=lpf_2p
+cutoff=5299
+fileg_depth=787
+effect1=12
+amplfo_freq=5.37859
+fillfo_freq=5.37859
+pitchlfo_freq=5.37859
+pitcheg_decay=4.14106
+fileg_decay=4.14106
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=3.52063
+fileg_release=3.52063
+ampeg_decay=3.81055
+ampeg_sustain=0.001
+ampeg_release=2.71948
+offset=0
+end=6164
+loop_start=8
+loop_end=6156
+
+<region>
+sample=samples\tinker bell.wav
+lokey=86 hikey=97
+pitch_keycenter=102
+fil_type=lpf_2p
+cutoff=5299
+fileg_depth=787
+effect1=12
+amplfo_freq=5.37859
+fillfo_freq=5.37859
+pitchlfo_freq=5.37859
+pitcheg_decay=4.14106
+fileg_decay=4.14106
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=3.52063
+fileg_release=3.52063
+ampeg_decay=3.52063
+ampeg_sustain=0.001
+ampeg_release=2.43964
+offset=0
+end=6164
+loop_start=8
+loop_end=6156
+
+<region>
+sample=samples\tinker bell.wav
+lokey=98 hikey=102
+pitch_keycenter=102
+fil_type=lpf_2p
+cutoff=4471
+fileg_depth=787
+effect1=12
+amplfo_freq=5.37859
+fillfo_freq=5.37859
+pitchlfo_freq=5.37859
+pitcheg_hold=0.0119999
+fileg_hold=0.0119999
+pitcheg_decay=3.81936
+fileg_decay=3.81936
+fileg_sustain=13.7
+pitcheg_sustain=13.7
+pitcheg_release=3.2303
+fileg_release=3.2303
+ampeg_hold=0.031999
+ampeg_decay=3.2303
+ampeg_sustain=0.001
+ampeg_release=2.05979
+volume=-0.11116
+offset=0
+end=6164
+loop_start=8
+loop_end=6156
+
+<region>
+sample=samples\tinker bell.wav
+lokey=103 hikey=108
+pitch_keycenter=102
+fil_type=lpf_2p
+cutoff=5299
+fileg_depth=787
+effect1=12
+amplfo_freq=5.37859
+fillfo_freq=5.37859
+pitchlfo_freq=5.37859
+pitcheg_decay=3.81055
+fileg_decay=3.81055
+fileg_sustain=13.7
+pitcheg_sustain=13.7
+pitcheg_release=3.27917
+fileg_release=3.27917
+ampeg_decay=2.71948
+ampeg_sustain=0.001
+ampeg_release=1.85961
+volume=-0.2382
+offset=0
+end=6164
+loop_start=8
+loop_end=6156

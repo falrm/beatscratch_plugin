@@ -1,0 +1,148 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+resonance=5
+ampeg_decay=6.00015
+ampeg_sustain=0.001
+ampeg_release=6.00015
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Pizz C3(L).wav
+lokey=0 hikey=37
+pitch_keycenter=36
+offset=0
+end=77567
+loop_start=8
+loop_end=77559
+
+<region>
+sample=samples\Pizz D#3(L).wav
+lokey=38 hikey=41
+pitch_keycenter=39
+offset=0
+end=59647
+loop_start=8
+loop_end=59639
+
+<region>
+sample=samples\Pizz A3(L).wav
+lokey=42 hikey=45
+pitch_keycenter=45
+offset=0
+end=60287
+loop_start=8
+loop_end=60279
+
+<region>
+sample=samples\Pizz C4(L).wav
+lokey=46 hikey=48
+pitch_keycenter=48
+offset=0
+end=52991
+loop_start=8
+loop_end=52983
+
+<region>
+sample=samples\Pizz E4(L).wav
+lokey=49 hikey=52
+pitch_keycenter=52
+offset=0
+end=55935
+loop_start=8
+loop_end=55927
+
+<region>
+sample=samples\Pizz G#4(L).wav
+lokey=53 hikey=56
+pitch_keycenter=56
+offset=0
+end=46335
+loop_start=8
+loop_end=46327
+
+<region>
+sample=samples\Pizz B4(L).wav
+lokey=57 hikey=59
+pitch_keycenter=59
+offset=0
+end=46207
+loop_start=8
+loop_end=46199
+
+<region>
+sample=samples\Pizz D#5(L).wav
+lokey=60 hikey=63
+pitch_keycenter=63
+offset=0
+end=42879
+loop_start=8
+loop_end=42871
+
+<region>
+sample=samples\Pizz F#5(L).wav
+lokey=64 hikey=66
+pitch_keycenter=66
+offset=0
+end=43967
+loop_start=8
+loop_end=43959
+
+<region>
+sample=samples\Pizz A#5(L).wav
+lokey=67 hikey=70
+pitch_keycenter=70
+offset=0
+end=42879
+loop_start=8
+loop_end=42871
+
+<region>
+sample=samples\Pizz D6(L).wav
+lokey=71 hikey=74
+pitch_keycenter=74
+offset=0
+end=40063
+loop_start=8
+loop_end=40055
+
+<region>
+sample=samples\Pizz F#6(L).wav
+lokey=75 hikey=78
+pitch_keycenter=78
+offset=0
+end=48895
+loop_start=8
+loop_end=48887
+
+<region>
+sample=samples\Pizz B6(L).wav
+lokey=79 hikey=83
+pitch_keycenter=83
+offset=0
+end=42495
+loop_start=8
+loop_end=42487
+
+<region>
+sample=samples\Pizz E7(L).wav
+lokey=84 hikey=108
+pitch_keycenter=88
+ampeg_decay=9.99818
+ampeg_release=9.99818
+offset=0
+end=30719
+loop_start=8
+loop_end=30711

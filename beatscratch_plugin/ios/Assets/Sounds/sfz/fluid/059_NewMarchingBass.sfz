@@ -1,0 +1,156 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lochan=10 hichan=10
+pitch_keycenter=60
+pitch_keytrack=0
+loop_mode=no_loop
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\57_0_BD1NORM.wav
+lokey=37 hikey=37
+ampeg_release=0.0496063
+offset=0
+end=44136
+loop_start=8
+loop_end=44128
+
+<region>
+sample=samples\57_2_BD1_RIM.wav
+lokey=39 hikey=39
+ampeg_release=0.0496063
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_24_BD2_NORM.wav
+lokey=49 hikey=49
+ampeg_release=0.0496063
+tune=-4
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_26_BD2_RIM.wav
+lokey=51 hikey=51
+ampeg_release=0.0500091
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_48_BD3_NORM.wav
+lokey=61 hikey=61
+ampeg_release=0.0496063
+tune=-5
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_50_BD3_RIM.wav
+lokey=63 hikey=63
+ampeg_release=0.0500091
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_72_BD4_NORM.wav
+lokey=73 hikey=73
+ampeg_release=0.0496063
+tune=-24
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_74_BD4_RIM.wav
+lokey=75 hikey=75
+ampeg_release=0.0500091
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_96_BD5_NORM.wav
+lokey=85 hikey=85
+ampeg_release=0.0496063
+tune=-50
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_98_BD5_RIM.wav
+lokey=87 hikey=87
+ampeg_release=0.0500091
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_96_BD5_NORM.wav
+lokey=90 hikey=90
+tune=-50
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_72_BD4_NORM.wav
+lokey=90 hikey=90
+tune=-24
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_48_BD3_NORM.wav
+lokey=90 hikey=90
+tune=-5
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_24_BD2_NORM.wav
+lokey=90 hikey=90
+tune=-4
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_0_BD1NORM.wav
+lokey=90 hikey=90
+offset=0
+end=44136
+loop_start=8
+loop_end=44128

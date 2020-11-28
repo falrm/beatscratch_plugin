@@ -1,0 +1,199 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+ampeg_release=0.480187
+loop_mode=loop_continuous
+effect1=15
+volume=-1.9056
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Bass F2(L).wav
+lokey=0 hikey=29
+pitch_keycenter=29
+tune=11
+offset=0
+end=52759
+loop_start=42549
+loop_end=52720
+
+<region>
+sample=samples\Bass G#2(L).wav
+lokey=30 hikey=32
+pitch_keycenter=32
+tune=6
+offset=0
+end=44331
+loop_start=34085
+loop_end=44326
+
+<region>
+sample=samples\Bass B2(L).wav
+lokey=33 hikey=35
+pitch_keycenter=35
+tune=-7
+offset=0
+end=47139
+loop_start=36446
+loop_end=47122
+
+<region>
+sample=samples\Bass D3(L).wav
+lokey=36 hikey=38
+pitch_keycenter=38
+tune=22
+offset=0
+end=49163
+loop_start=39414
+loop_end=49147
+
+<region>
+sample=samples\Bass F3(L).wav
+lokey=39 hikey=41
+pitch_keycenter=41
+tune=14
+offset=0
+end=42595
+loop_start=31369
+loop_end=42574
+
+<region>
+sample=samples\Bass G#3(L).wav
+lokey=42 hikey=44
+pitch_keycenter=44
+tune=14
+offset=0
+end=53510
+loop_start=40659
+loop_end=53504
+
+<region>
+sample=samples\Bass B3(L).wav
+lokey=45 hikey=48
+pitch_keycenter=47
+volume=-3.4936
+tune=13
+offset=0
+end=43851
+loop_start=33761
+loop_end=43837
+
+<region>
+sample=samples\Bass D4(L).wav
+lokey=49 hikey=51
+pitch_keycenter=50
+volume=-3.4936
+tune=6
+offset=0
+end=38043
+loop_start=29290
+loop_end=38034
+
+<region>
+sample=samples\Cello E4(L).wav
+lokey=52 hikey=54
+pitch_keycenter=52
+tune=10
+offset=0
+end=46035
+loop_start=37671
+loop_end=46020
+
+<region>
+sample=samples\Cello G4(L).wav
+lokey=55 hikey=57
+pitch_keycenter=55
+tune=3
+offset=0
+end=64683
+loop_start=55160
+loop_end=64644
+
+<region>
+sample=samples\Cello A#4(L).wav
+lokey=58 hikey=60
+pitch_keycenter=58
+offset=0
+end=62487
+loop_start=52797
+loop_end=62448
+
+<region>
+sample=samples\Cello C#5(L).wav
+lokey=61 hikey=63
+pitch_keycenter=61
+tune=15
+offset=0
+end=78701
+loop_start=70634
+loop_end=78677
+
+<region>
+sample=samples\Cello E5(L).wav
+lokey=64 hikey=66
+pitch_keycenter=64
+tune=4
+offset=0
+end=85003
+loop_start=76431
+loop_end=84994
+
+<region>
+sample=samples\Cello G5(L).wav
+lokey=67 hikey=69
+pitch_keycenter=67
+offset=0
+end=66656
+loop_start=58773
+loop_end=66647
+
+<region>
+sample=samples\Cello A#5(L).wav
+lokey=70 hikey=72
+pitch_keycenter=70
+volume=-2.6996
+tune=4
+offset=0
+end=52009
+loop_start=43542
+loop_end=51989
+
+<region>
+sample=samples\Cello C#6(L).wav
+lokey=73 hikey=75
+pitch_keycenter=73
+tune=-5
+offset=0
+end=50519
+loop_start=42371
+loop_end=50481
+
+<region>
+sample=samples\Cello E6(L).wav
+lokey=76 hikey=78
+pitch_keycenter=76
+tune=16
+offset=0
+end=61369
+loop_start=53584
+loop_end=61365
+
+<region>
+sample=samples\Cello G6(L).wav
+lokey=79 hikey=81
+pitch_keycenter=79
+tune=14
+offset=0
+end=57741
+loop_start=49141
+loop_end=57719

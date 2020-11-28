@@ -1,0 +1,74 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+ampeg_release=1.38992
+loop_mode=loop_continuous
+effect2=30.5
+effect1=10
+volume=0
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Bottle Chiff C7(L).wav
+pitch_keycenter=84
+amplfo_depth=1
+volume=-3.2554
+offset=0
+end=26247
+loop_start=8008
+loop_end=26233
+
+<region>
+sample=samples\solo_vox_c2.wav
+lokey=0 hikey=48
+pitch_keycenter=48
+offset=0
+end=164153
+loop_start=25811
+loop_end=164125
+
+<region>
+sample=samples\solo_vox_c3.wav
+lokey=49 hikey=60
+pitch_keycenter=60
+offset=0
+end=86934
+loop_start=17580
+loop_end=86906
+
+<region>
+sample=samples\solo_vox_c4.wav
+lokey=61 hikey=72
+pitch_keycenter=72
+offset=0
+end=57619
+loop_start=23011
+loop_end=57591
+
+<region>
+sample=samples\solo_vox_c5.wav
+lokey=73 hikey=84
+pitch_keycenter=84
+offset=0
+end=28873
+loop_start=16422
+loop_end=28845
+
+<region>
+sample=samples\solo_vox_c6.wav
+lokey=85 hikey=127
+pitch_keycenter=96
+offset=0
+end=46008
+loop_start=23669
+loop_end=45980

@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+
+# Paths assume pwd is directory of build script.
+cd "$(dirname "$0")"
+
+protoc --dart_out=./lib/generated ./protos/*
+protoc --swift_out=./ios/Classes/Protos ./protos/*
+protoc --js_out=import_style=browser:./web/generated ./protos/*

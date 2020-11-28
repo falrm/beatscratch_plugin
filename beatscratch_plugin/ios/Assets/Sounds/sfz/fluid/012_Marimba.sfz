@@ -1,0 +1,744 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+ampeg_hold=0.100018
+ampeg_decay=2.4005
+ampeg_sustain=0.001
+ampeg_release=4.20129
+loop_mode=no_loop
+effect1=10
+volume=-2.00088
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Marimba C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+ampeg_decay=6.60015
+ampeg_release=6.60015
+offset=0
+end=95231
+loop_start=8
+loop_end=95223
+
+<region>
+sample=samples\Marimba C 5(L).wav
+lokey=54 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.52127
+ampeg_release=5.52127
+offset=0
+end=75903
+loop_start=8
+loop_end=75895
+
+<region>
+sample=samples\Marimba F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=4.80099
+ampeg_release=4.80099
+offset=0
+end=74097
+loop_start=8
+loop_end=74089
+
+<region>
+sample=samples\Marimba C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.20129
+ampeg_release=4.20129
+offset=0
+end=58623
+loop_start=8
+loop_end=58615
+
+<region>
+sample=samples\Marimba F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=3.60084
+ampeg_release=3.60084
+offset=0
+end=58027
+loop_start=8
+loop_end=58019
+
+<region>
+sample=samples\Marimba C 7(L).wav
+lokey=84 hikey=108
+pitch_keycenter=84
+ampeg_decay=3.00008
+ampeg_release=3.00008
+offset=0
+end=52735
+loop_start=8
+loop_end=52727
+
+<group>
+lovel=113 hivel=120
+ampeg_hold=0.100018
+ampeg_decay=2.19999
+ampeg_sustain=0.001
+ampeg_release=3.85038
+loop_mode=no_loop
+effect1=10
+volume=-2.00088
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Marimba C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+ampeg_decay=6.04887
+ampeg_release=6.04887
+offset=0
+end=95231
+loop_start=8
+loop_end=95223
+
+<region>
+sample=samples\Marimba C 5(L).wav
+lokey=54 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.0601
+ampeg_release=5.0601
+offset=0
+end=75903
+loop_start=8
+loop_end=75895
+
+<region>
+sample=samples\Marimba F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=4.39999
+ampeg_release=4.39999
+offset=0
+end=74097
+loop_start=8
+loop_end=74089
+
+<region>
+sample=samples\Marimba C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=3.85038
+ampeg_release=3.85038
+offset=0
+end=58623
+loop_start=8
+loop_end=58615
+
+<region>
+sample=samples\Marimba F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=3.30008
+ampeg_release=3.30008
+offset=0
+end=58027
+loop_start=8
+loop_end=58019
+
+<region>
+sample=samples\Marimba C 7(L).wav
+lokey=84 hikey=108
+pitch_keycenter=84
+ampeg_decay=2.74949
+ampeg_release=2.74949
+offset=0
+end=52735
+loop_start=8
+loop_end=52727
+
+<group>
+lovel=105 hivel=112
+ampeg_hold=0.100018
+ampeg_decay=2
+ampeg_sustain=0.001
+ampeg_release=3.50035
+loop_mode=no_loop
+effect1=10
+volume=-2.00088
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Marimba C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+ampeg_decay=5.49899
+ampeg_release=5.49899
+offset=0
+end=95231
+loop_start=8
+loop_end=95223
+
+<region>
+sample=samples\Marimba C 5(L).wav
+lokey=54 hikey=65
+pitch_keycenter=60
+ampeg_decay=4.6001
+ampeg_release=4.6001
+offset=0
+end=75903
+loop_start=8
+loop_end=75895
+
+<region>
+sample=samples\Marimba F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=4
+ampeg_release=4
+offset=0
+end=74097
+loop_start=8
+loop_end=74089
+
+<region>
+sample=samples\Marimba C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=3.50035
+ampeg_release=3.50035
+offset=0
+end=58623
+loop_start=8
+loop_end=58615
+
+<region>
+sample=samples\Marimba F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=3.00008
+ampeg_release=3.00008
+offset=0
+end=58027
+loop_start=8
+loop_end=58019
+
+<region>
+sample=samples\Marimba C 7(L).wav
+lokey=84 hikey=108
+pitch_keycenter=84
+ampeg_decay=2.49955
+ampeg_release=2.49955
+offset=0
+end=52735
+loop_start=8
+loop_end=52727
+
+<group>
+lovel=97 hivel=104
+ampeg_hold=0.100018
+ampeg_decay=1.89978
+ampeg_sustain=0.001
+ampeg_release=3.32495
+loop_mode=no_loop
+effect1=10
+volume=-2.00088
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Marimba C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+ampeg_decay=5.22344
+ampeg_release=5.22344
+offset=0
+end=95231
+loop_start=8
+loop_end=95223
+
+<region>
+sample=samples\Marimba C 5(L).wav
+lokey=54 hikey=65
+pitch_keycenter=60
+ampeg_decay=4.36959
+ampeg_release=4.36959
+offset=0
+end=75903
+loop_start=8
+loop_end=75895
+
+<region>
+sample=samples\Marimba F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=3.79956
+ampeg_release=3.79956
+offset=0
+end=74097
+loop_start=8
+loop_end=74089
+
+<region>
+sample=samples\Marimba C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=3.32495
+ampeg_release=3.32495
+offset=0
+end=58623
+loop_start=8
+loop_end=58615
+
+<region>
+sample=samples\Marimba F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=2.84974
+ampeg_release=2.84974
+offset=0
+end=58027
+loop_start=8
+loop_end=58019
+
+<region>
+sample=samples\Marimba C 7(L).wav
+lokey=84 hikey=108
+pitch_keycenter=84
+ampeg_decay=2.3743
+ampeg_release=2.3743
+offset=0
+end=52735
+loop_start=8
+loop_end=52727
+
+<group>
+lovel=89 hivel=96
+ampeg_hold=0.100018
+ampeg_decay=1.80042
+ampeg_sustain=0.001
+ampeg_release=3.15105
+loop_mode=no_loop
+effect1=10
+volume=-2.00088
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Marimba C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+ampeg_decay=4.95024
+ampeg_release=4.95024
+offset=0
+end=95231
+loop_start=8
+loop_end=95223
+
+<region>
+sample=samples\Marimba C 5(L).wav
+lokey=54 hikey=65
+pitch_keycenter=60
+ampeg_decay=4.14106
+ampeg_release=4.14106
+offset=0
+end=75903
+loop_start=8
+loop_end=75895
+
+<region>
+sample=samples\Marimba F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=3.60084
+ampeg_release=3.60084
+offset=0
+end=74097
+loop_start=8
+loop_end=74089
+
+<region>
+sample=samples\Marimba C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=3.15105
+ampeg_release=3.15105
+offset=0
+end=58623
+loop_start=8
+loop_end=58615
+
+<region>
+sample=samples\Marimba F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=2.7007
+ampeg_release=2.7007
+offset=0
+end=58027
+loop_start=8
+loop_end=58019
+
+<region>
+sample=samples\Marimba C 7(L).wav
+lokey=84 hikey=108
+pitch_keycenter=84
+ampeg_decay=2.25012
+ampeg_release=2.25012
+offset=0
+end=52735
+loop_start=8
+loop_end=52727
+
+<group>
+lovel=81 hivel=88
+ampeg_hold=0.100018
+ampeg_decay=1.70035
+ampeg_sustain=0.001
+ampeg_release=2.97591
+loop_mode=no_loop
+effect1=10
+volume=-2.00088
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Marimba C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+ampeg_decay=4.67511
+ampeg_release=4.67511
+offset=0
+end=95231
+loop_start=8
+loop_end=95223
+
+<region>
+sample=samples\Marimba C 5(L).wav
+lokey=54 hikey=65
+pitch_keycenter=60
+ampeg_decay=3.9109
+ampeg_release=3.9109
+offset=0
+end=75903
+loop_start=8
+loop_end=75895
+
+<region>
+sample=samples\Marimba F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=3.4007
+ampeg_release=3.4007
+offset=0
+end=74097
+loop_start=8
+loop_end=74089
+
+<region>
+sample=samples\Marimba C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=2.97591
+ampeg_release=2.97591
+offset=0
+end=58623
+loop_start=8
+loop_end=58615
+
+<region>
+sample=samples\Marimba F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=2.55059
+ampeg_release=2.55059
+offset=0
+end=58027
+loop_start=8
+loop_end=58019
+
+<region>
+sample=samples\Marimba C 7(L).wav
+lokey=84 hikey=108
+pitch_keycenter=84
+ampeg_decay=2.12505
+ampeg_release=2.12505
+offset=0
+end=52735
+loop_start=8
+loop_end=52727
+
+<group>
+lovel=73 hivel=80
+ampeg_hold=0.100018
+ampeg_decay=1.60029
+ampeg_sustain=0.001
+ampeg_release=2.80079
+loop_mode=no_loop
+effect1=10
+volume=-2.00088
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Marimba C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+ampeg_decay=4.39999
+ampeg_release=4.39999
+offset=0
+end=95231
+loop_start=8
+loop_end=95223
+
+<region>
+sample=samples\Marimba C 5(L).wav
+lokey=54 hikey=65
+pitch_keycenter=60
+ampeg_decay=3.68075
+ampeg_release=3.68075
+offset=0
+end=75903
+loop_start=8
+loop_end=75895
+
+<region>
+sample=samples\Marimba F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=3.20058
+ampeg_release=3.20058
+offset=0
+end=74097
+loop_start=8
+loop_end=74089
+
+<region>
+sample=samples\Marimba C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=2.80079
+ampeg_release=2.80079
+offset=0
+end=58623
+loop_start=8
+loop_end=58615
+
+<region>
+sample=samples\Marimba F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=2.4005
+ampeg_release=2.4005
+offset=0
+end=58027
+loop_start=8
+loop_end=58019
+
+<region>
+sample=samples\Marimba C 7(L).wav
+lokey=84 hikey=108
+pitch_keycenter=84
+ampeg_decay=2
+ampeg_release=2
+offset=0
+end=52735
+loop_start=8
+loop_end=52727
+
+<group>
+lovel=65 hivel=72
+ampeg_hold=0.100018
+ampeg_decay=1.50004
+ampeg_sustain=0.001
+ampeg_release=2.62533
+loop_mode=no_loop
+effect1=10
+volume=-2.00088
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Marimba C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+ampeg_decay=4.12435
+ampeg_release=4.12435
+offset=0
+end=95231
+loop_start=8
+loop_end=95223
+
+<region>
+sample=samples\Marimba C 5(L).wav
+lokey=54 hikey=65
+pitch_keycenter=60
+ampeg_decay=3.45017
+ampeg_release=3.45017
+offset=0
+end=75903
+loop_start=8
+loop_end=75895
+
+<region>
+sample=samples\Marimba F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=3.00008
+ampeg_release=3.00008
+offset=0
+end=74097
+loop_start=8
+loop_end=74089
+
+<region>
+sample=samples\Marimba C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=2.62533
+ampeg_release=2.62533
+offset=0
+end=58623
+loop_start=8
+loop_end=58615
+
+<region>
+sample=samples\Marimba F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=2.25012
+ampeg_release=2.25012
+offset=0
+end=58027
+loop_start=8
+loop_end=58019
+
+<region>
+sample=samples\Marimba C 7(L).wav
+lokey=84 hikey=108
+pitch_keycenter=84
+ampeg_decay=1.87471
+ampeg_release=1.87471
+offset=0
+end=52735
+loop_start=8
+loop_end=52727
+
+<group>
+lovel=0 hivel=64
+ampeg_hold=0.100018
+ampeg_decay=1.40039
+ampeg_sustain=0.001
+ampeg_release=2.45094
+loop_mode=no_loop
+effect1=10
+volume=-2.00088
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Marimba C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+ampeg_decay=3.85038
+ampeg_release=3.85038
+offset=0
+end=95231
+loop_start=8
+loop_end=95223
+
+<region>
+sample=samples\Marimba C 5(L).wav
+lokey=54 hikey=65
+pitch_keycenter=60
+ampeg_decay=3.22098
+ampeg_release=3.22098
+offset=0
+end=75903
+loop_start=8
+loop_end=75895
+
+<region>
+sample=samples\Marimba F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=2.80079
+ampeg_release=2.80079
+offset=0
+end=74097
+loop_start=8
+loop_end=74089
+
+<region>
+sample=samples\Marimba C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=2.45094
+ampeg_release=2.45094
+offset=0
+end=58623
+loop_start=8
+loop_end=58615
+
+<region>
+sample=samples\Marimba F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=2.10065
+ampeg_release=2.10065
+offset=0
+end=58027
+loop_start=8
+loop_end=58019
+
+<region>
+sample=samples\Marimba C 7(L).wav
+lokey=84 hikey=108
+pitch_keycenter=84
+ampeg_decay=1.75018
+ampeg_release=1.75018
+offset=0
+end=52735
+loop_start=8
+loop_end=52727

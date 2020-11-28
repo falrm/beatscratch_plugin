@@ -1,0 +1,1104 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+ampeg_release=0.0600234
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Harmonics 7.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+offset=0
+end=32015
+loop_start=31535
+loop_end=31934
+
+<region>
+sample=samples\Harmonics 8.wav
+lokey=29 hikey=33
+pitch_keycenter=33
+tune=-22
+offset=0
+end=21527
+loop_start=21023
+loop_end=21516
+
+<region>
+sample=samples\Harmonics 9.wav
+lokey=34 hikey=38
+pitch_keycenter=38
+tune=-20
+offset=0
+end=19662
+loop_start=19282
+loop_end=19578
+
+<region>
+sample=samples\Harmonics 1.wav
+lokey=39 hikey=40
+pitch_keycenter=40
+tune=-5
+offset=0
+end=13538
+loop_start=13327
+loop_end=13526
+
+<region>
+sample=samples\Harmonics 10.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-9
+offset=0
+end=35295
+loop_start=35139
+loop_end=35250
+
+<region>
+sample=samples\Harmonics 2.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+tune=-25
+offset=0
+end=12462
+loop_start=11894
+loop_end=12140
+
+<region>
+sample=samples\Harmonics 11.wav
+lokey=46 hikey=47
+pitch_keycenter=47
+tune=-30
+offset=0
+end=20686
+loop_start=20275
+loop_end=20581
+
+<region>
+sample=samples\Harmonics 3.wav
+lokey=48 hikey=50
+pitch_keycenter=50
+tune=-25
+offset=0
+end=15518
+loop_start=14822
+loop_end=15414
+
+<region>
+sample=samples\Harmonics 4.wav
+lokey=51 hikey=55
+pitch_keycenter=55
+tune=-15
+offset=0
+end=9982
+loop_start=9676
+loop_end=9898
+
+<region>
+sample=samples\Harmonics 5.wav
+lokey=56 hikey=59
+pitch_keycenter=59
+tune=-30
+offset=0
+end=6125
+loop_start=5630
+loop_end=6112
+
+<region>
+sample=samples\Harmonics 6.wav
+lokey=60 hikey=85
+pitch_keycenter=64
+tune=-50
+offset=0
+end=5126
+loop_start=4887
+loop_end=5114
+
+<group>
+lovel=113 hivel=120
+ampeg_release=0.0550099
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Harmonics 7.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+offset=0
+end=32015
+loop_start=31535
+loop_end=31934
+
+<region>
+sample=samples\Harmonics 8.wav
+lokey=29 hikey=33
+pitch_keycenter=33
+tune=-22
+offset=0
+end=21527
+loop_start=21023
+loop_end=21516
+
+<region>
+sample=samples\Harmonics 9.wav
+lokey=34 hikey=38
+pitch_keycenter=38
+tune=-20
+offset=0
+end=19662
+loop_start=19282
+loop_end=19578
+
+<region>
+sample=samples\Harmonics 1.wav
+lokey=39 hikey=40
+pitch_keycenter=40
+tune=-5
+offset=0
+end=13538
+loop_start=13327
+loop_end=13526
+
+<region>
+sample=samples\Harmonics 10.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-9
+offset=0
+end=35295
+loop_start=35139
+loop_end=35250
+
+<region>
+sample=samples\Harmonics 2.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+tune=-25
+offset=0
+end=12462
+loop_start=11894
+loop_end=12140
+
+<region>
+sample=samples\Harmonics 11.wav
+lokey=46 hikey=47
+pitch_keycenter=47
+tune=-30
+offset=0
+end=20686
+loop_start=20275
+loop_end=20581
+
+<region>
+sample=samples\Harmonics 3.wav
+lokey=48 hikey=50
+pitch_keycenter=50
+tune=-25
+offset=0
+end=15518
+loop_start=14822
+loop_end=15414
+
+<region>
+sample=samples\Harmonics 4.wav
+lokey=51 hikey=55
+pitch_keycenter=55
+tune=-15
+offset=0
+end=9982
+loop_start=9676
+loop_end=9898
+
+<region>
+sample=samples\Harmonics 5.wav
+lokey=56 hikey=59
+pitch_keycenter=59
+tune=-30
+offset=0
+end=6125
+loop_start=5630
+loop_end=6112
+
+<region>
+sample=samples\Harmonics 6.wav
+lokey=60 hikey=85
+pitch_keycenter=64
+tune=-50
+offset=0
+end=5126
+loop_start=4887
+loop_end=5114
+
+<group>
+lovel=105 hivel=112
+ampeg_release=0.0500091
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Harmonics 7.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+offset=0
+end=32015
+loop_start=31535
+loop_end=31934
+
+<region>
+sample=samples\Harmonics 8.wav
+lokey=29 hikey=33
+pitch_keycenter=33
+tune=-22
+offset=0
+end=21527
+loop_start=21023
+loop_end=21516
+
+<region>
+sample=samples\Harmonics 9.wav
+lokey=34 hikey=38
+pitch_keycenter=38
+tune=-20
+offset=0
+end=19662
+loop_start=19282
+loop_end=19578
+
+<region>
+sample=samples\Harmonics 1.wav
+lokey=39 hikey=40
+pitch_keycenter=40
+tune=-5
+offset=0
+end=13538
+loop_start=13327
+loop_end=13526
+
+<region>
+sample=samples\Harmonics 10.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-9
+offset=0
+end=35295
+loop_start=35139
+loop_end=35250
+
+<region>
+sample=samples\Harmonics 2.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+tune=-25
+offset=0
+end=12462
+loop_start=11894
+loop_end=12140
+
+<region>
+sample=samples\Harmonics 11.wav
+lokey=46 hikey=47
+pitch_keycenter=47
+tune=-30
+offset=0
+end=20686
+loop_start=20275
+loop_end=20581
+
+<region>
+sample=samples\Harmonics 3.wav
+lokey=48 hikey=50
+pitch_keycenter=50
+tune=-25
+offset=0
+end=15518
+loop_start=14822
+loop_end=15414
+
+<region>
+sample=samples\Harmonics 4.wav
+lokey=51 hikey=55
+pitch_keycenter=55
+tune=-15
+offset=0
+end=9982
+loop_start=9676
+loop_end=9898
+
+<region>
+sample=samples\Harmonics 5.wav
+lokey=56 hikey=59
+pitch_keycenter=59
+tune=-30
+offset=0
+end=6125
+loop_start=5630
+loop_end=6112
+
+<region>
+sample=samples\Harmonics 6.wav
+lokey=60 hikey=85
+pitch_keycenter=64
+tune=-50
+offset=0
+end=5126
+loop_start=4887
+loop_end=5114
+
+<group>
+lovel=97 hivel=104
+ampeg_release=0.0450187
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Harmonics 7.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+offset=0
+end=32015
+loop_start=31535
+loop_end=31934
+
+<region>
+sample=samples\Harmonics 8.wav
+lokey=29 hikey=33
+pitch_keycenter=33
+tune=-22
+offset=0
+end=21527
+loop_start=21023
+loop_end=21516
+
+<region>
+sample=samples\Harmonics 9.wav
+lokey=34 hikey=38
+pitch_keycenter=38
+tune=-20
+offset=0
+end=19662
+loop_start=19282
+loop_end=19578
+
+<region>
+sample=samples\Harmonics 1.wav
+lokey=39 hikey=40
+pitch_keycenter=40
+tune=-5
+offset=0
+end=13538
+loop_start=13327
+loop_end=13526
+
+<region>
+sample=samples\Harmonics 10.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-9
+offset=0
+end=35295
+loop_start=35139
+loop_end=35250
+
+<region>
+sample=samples\Harmonics 2.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+tune=-25
+offset=0
+end=12462
+loop_start=11894
+loop_end=12140
+
+<region>
+sample=samples\Harmonics 11.wav
+lokey=46 hikey=47
+pitch_keycenter=47
+tune=-30
+offset=0
+end=20686
+loop_start=20275
+loop_end=20581
+
+<region>
+sample=samples\Harmonics 3.wav
+lokey=48 hikey=50
+pitch_keycenter=50
+tune=-25
+offset=0
+end=15518
+loop_start=14822
+loop_end=15414
+
+<region>
+sample=samples\Harmonics 4.wav
+lokey=51 hikey=55
+pitch_keycenter=55
+tune=-15
+offset=0
+end=9982
+loop_start=9676
+loop_end=9898
+
+<region>
+sample=samples\Harmonics 5.wav
+lokey=56 hikey=59
+pitch_keycenter=59
+tune=-30
+offset=0
+end=6125
+loop_start=5630
+loop_end=6112
+
+<region>
+sample=samples\Harmonics 6.wav
+lokey=60 hikey=85
+pitch_keycenter=64
+tune=-50
+offset=0
+end=5126
+loop_start=4887
+loop_end=5114
+
+<group>
+lovel=89 hivel=96
+ampeg_release=0.0400146
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Harmonics 7.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+offset=0
+end=32015
+loop_start=31535
+loop_end=31934
+
+<region>
+sample=samples\Harmonics 8.wav
+lokey=29 hikey=33
+pitch_keycenter=33
+tune=-22
+offset=0
+end=21527
+loop_start=21023
+loop_end=21516
+
+<region>
+sample=samples\Harmonics 9.wav
+lokey=34 hikey=38
+pitch_keycenter=38
+tune=-20
+offset=0
+end=19662
+loop_start=19282
+loop_end=19578
+
+<region>
+sample=samples\Harmonics 1.wav
+lokey=39 hikey=40
+pitch_keycenter=40
+tune=-5
+offset=0
+end=13538
+loop_start=13327
+loop_end=13526
+
+<region>
+sample=samples\Harmonics 10.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-9
+offset=0
+end=35295
+loop_start=35139
+loop_end=35250
+
+<region>
+sample=samples\Harmonics 2.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+tune=-25
+offset=0
+end=12462
+loop_start=11894
+loop_end=12140
+
+<region>
+sample=samples\Harmonics 11.wav
+lokey=46 hikey=47
+pitch_keycenter=47
+tune=-30
+offset=0
+end=20686
+loop_start=20275
+loop_end=20581
+
+<region>
+sample=samples\Harmonics 3.wav
+lokey=48 hikey=50
+pitch_keycenter=50
+tune=-25
+offset=0
+end=15518
+loop_start=14822
+loop_end=15414
+
+<region>
+sample=samples\Harmonics 4.wav
+lokey=51 hikey=55
+pitch_keycenter=55
+tune=-15
+offset=0
+end=9982
+loop_start=9676
+loop_end=9898
+
+<region>
+sample=samples\Harmonics 5.wav
+lokey=56 hikey=59
+pitch_keycenter=59
+tune=-30
+offset=0
+end=6125
+loop_start=5630
+loop_end=6112
+
+<region>
+sample=samples\Harmonics 6.wav
+lokey=60 hikey=85
+pitch_keycenter=64
+tune=-50
+offset=0
+end=5126
+loop_start=4887
+loop_end=5114
+
+<group>
+lovel=81 hivel=88
+ampeg_release=0.0350163
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Harmonics 7.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+offset=0
+end=32015
+loop_start=31535
+loop_end=31934
+
+<region>
+sample=samples\Harmonics 8.wav
+lokey=29 hikey=33
+pitch_keycenter=33
+tune=-22
+offset=0
+end=21527
+loop_start=21023
+loop_end=21516
+
+<region>
+sample=samples\Harmonics 9.wav
+lokey=34 hikey=38
+pitch_keycenter=38
+tune=-20
+offset=0
+end=19662
+loop_start=19282
+loop_end=19578
+
+<region>
+sample=samples\Harmonics 1.wav
+lokey=39 hikey=40
+pitch_keycenter=40
+tune=-5
+offset=0
+end=13538
+loop_start=13327
+loop_end=13526
+
+<region>
+sample=samples\Harmonics 10.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-9
+offset=0
+end=35295
+loop_start=35139
+loop_end=35250
+
+<region>
+sample=samples\Harmonics 2.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+tune=-25
+offset=0
+end=12462
+loop_start=11894
+loop_end=12140
+
+<region>
+sample=samples\Harmonics 11.wav
+lokey=46 hikey=47
+pitch_keycenter=47
+tune=-30
+offset=0
+end=20686
+loop_start=20275
+loop_end=20581
+
+<region>
+sample=samples\Harmonics 3.wav
+lokey=48 hikey=50
+pitch_keycenter=50
+tune=-25
+offset=0
+end=15518
+loop_start=14822
+loop_end=15414
+
+<region>
+sample=samples\Harmonics 4.wav
+lokey=51 hikey=55
+pitch_keycenter=55
+tune=-15
+offset=0
+end=9982
+loop_start=9676
+loop_end=9898
+
+<region>
+sample=samples\Harmonics 5.wav
+lokey=56 hikey=59
+pitch_keycenter=59
+tune=-30
+offset=0
+end=6125
+loop_start=5630
+loop_end=6112
+
+<region>
+sample=samples\Harmonics 6.wav
+lokey=60 hikey=85
+pitch_keycenter=64
+tune=-50
+offset=0
+end=5126
+loop_start=4887
+loop_end=5114
+
+<group>
+lovel=73 hivel=80
+ampeg_release=0.0300117
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Harmonics 7.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+offset=0
+end=32015
+loop_start=31535
+loop_end=31934
+
+<region>
+sample=samples\Harmonics 8.wav
+lokey=29 hikey=33
+pitch_keycenter=33
+tune=-22
+offset=0
+end=21527
+loop_start=21023
+loop_end=21516
+
+<region>
+sample=samples\Harmonics 9.wav
+lokey=34 hikey=38
+pitch_keycenter=38
+tune=-20
+offset=0
+end=19662
+loop_start=19282
+loop_end=19578
+
+<region>
+sample=samples\Harmonics 1.wav
+lokey=39 hikey=40
+pitch_keycenter=40
+tune=-5
+offset=0
+end=13538
+loop_start=13327
+loop_end=13526
+
+<region>
+sample=samples\Harmonics 10.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-9
+offset=0
+end=35295
+loop_start=35139
+loop_end=35250
+
+<region>
+sample=samples\Harmonics 2.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+tune=-25
+offset=0
+end=12462
+loop_start=11894
+loop_end=12140
+
+<region>
+sample=samples\Harmonics 11.wav
+lokey=46 hikey=47
+pitch_keycenter=47
+tune=-30
+offset=0
+end=20686
+loop_start=20275
+loop_end=20581
+
+<region>
+sample=samples\Harmonics 3.wav
+lokey=48 hikey=50
+pitch_keycenter=50
+tune=-25
+offset=0
+end=15518
+loop_start=14822
+loop_end=15414
+
+<region>
+sample=samples\Harmonics 4.wav
+lokey=51 hikey=55
+pitch_keycenter=55
+tune=-15
+offset=0
+end=9982
+loop_start=9676
+loop_end=9898
+
+<region>
+sample=samples\Harmonics 5.wav
+lokey=56 hikey=59
+pitch_keycenter=59
+tune=-30
+offset=0
+end=6125
+loop_start=5630
+loop_end=6112
+
+<region>
+sample=samples\Harmonics 6.wav
+lokey=60 hikey=85
+pitch_keycenter=64
+tune=-50
+offset=0
+end=5126
+loop_start=4887
+loop_end=5114
+
+<group>
+lovel=65 hivel=72
+ampeg_release=0.0250046
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Harmonics 7.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+offset=0
+end=32015
+loop_start=31535
+loop_end=31934
+
+<region>
+sample=samples\Harmonics 8.wav
+lokey=29 hikey=33
+pitch_keycenter=33
+tune=-22
+offset=0
+end=21527
+loop_start=21023
+loop_end=21516
+
+<region>
+sample=samples\Harmonics 9.wav
+lokey=34 hikey=38
+pitch_keycenter=38
+tune=-20
+offset=0
+end=19662
+loop_start=19282
+loop_end=19578
+
+<region>
+sample=samples\Harmonics 1.wav
+lokey=39 hikey=40
+pitch_keycenter=40
+tune=-5
+offset=0
+end=13538
+loop_start=13327
+loop_end=13526
+
+<region>
+sample=samples\Harmonics 10.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-9
+offset=0
+end=35295
+loop_start=35139
+loop_end=35250
+
+<region>
+sample=samples\Harmonics 2.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+tune=-25
+offset=0
+end=12462
+loop_start=11894
+loop_end=12140
+
+<region>
+sample=samples\Harmonics 11.wav
+lokey=46 hikey=47
+pitch_keycenter=47
+tune=-30
+offset=0
+end=20686
+loop_start=20275
+loop_end=20581
+
+<region>
+sample=samples\Harmonics 3.wav
+lokey=48 hikey=50
+pitch_keycenter=50
+tune=-25
+offset=0
+end=15518
+loop_start=14822
+loop_end=15414
+
+<region>
+sample=samples\Harmonics 4.wav
+lokey=51 hikey=55
+pitch_keycenter=55
+tune=-15
+offset=0
+end=9982
+loop_start=9676
+loop_end=9898
+
+<region>
+sample=samples\Harmonics 5.wav
+lokey=56 hikey=59
+pitch_keycenter=59
+tune=-30
+offset=0
+end=6125
+loop_start=5630
+loop_end=6112
+
+<region>
+sample=samples\Harmonics 6.wav
+lokey=60 hikey=85
+pitch_keycenter=64
+tune=-50
+offset=0
+end=5126
+loop_start=4887
+loop_end=5114
+
+<group>
+lovel=0 hivel=64
+ampeg_release=0.0200073
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Harmonics 7.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+offset=0
+end=32015
+loop_start=31535
+loop_end=31934
+
+<region>
+sample=samples\Harmonics 8.wav
+lokey=29 hikey=33
+pitch_keycenter=33
+tune=-22
+offset=0
+end=21527
+loop_start=21023
+loop_end=21516
+
+<region>
+sample=samples\Harmonics 9.wav
+lokey=34 hikey=38
+pitch_keycenter=38
+tune=-20
+offset=0
+end=19662
+loop_start=19282
+loop_end=19578
+
+<region>
+sample=samples\Harmonics 1.wav
+lokey=39 hikey=40
+pitch_keycenter=40
+tune=-5
+offset=0
+end=13538
+loop_start=13327
+loop_end=13526
+
+<region>
+sample=samples\Harmonics 10.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-9
+offset=0
+end=35295
+loop_start=35139
+loop_end=35250
+
+<region>
+sample=samples\Harmonics 2.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+tune=-25
+offset=0
+end=12462
+loop_start=11894
+loop_end=12140
+
+<region>
+sample=samples\Harmonics 11.wav
+lokey=46 hikey=47
+pitch_keycenter=47
+tune=-30
+offset=0
+end=20686
+loop_start=20275
+loop_end=20581
+
+<region>
+sample=samples\Harmonics 3.wav
+lokey=48 hikey=50
+pitch_keycenter=50
+tune=-25
+offset=0
+end=15518
+loop_start=14822
+loop_end=15414
+
+<region>
+sample=samples\Harmonics 4.wav
+lokey=51 hikey=55
+pitch_keycenter=55
+tune=-15
+offset=0
+end=9982
+loop_start=9676
+loop_end=9898
+
+<region>
+sample=samples\Harmonics 5.wav
+lokey=56 hikey=59
+pitch_keycenter=59
+tune=-30
+offset=0
+end=6125
+loop_start=5630
+loop_end=6112
+
+<region>
+sample=samples\Harmonics 6.wav
+lokey=60 hikey=85
+pitch_keycenter=64
+tune=-50
+offset=0
+end=5126
+loop_start=4887
+loop_end=5114

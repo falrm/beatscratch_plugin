@@ -1,0 +1,1770 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=10002
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=10
+volume=-1.0322
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Baritone C#3(L).wav
+lokey=0 hikey=37
+pitch_keycenter=37
+tune=3
+offset=0
+end=77299
+loop_start=68903
+loop_end=77237
+
+<region>
+sample=samples\Baritone D3(L).wav
+lokey=38 hikey=39
+pitch_keycenter=38
+tune=3
+offset=0
+end=73319
+loop_start=65862
+loop_end=73298
+
+<region>
+sample=samples\Baritone E3(L).wav
+lokey=40 hikey=41
+pitch_keycenter=40
+tune=-4
+offset=0
+end=71319
+loop_start=63057
+loop_end=71193
+
+<region>
+sample=samples\Baritone G3(L).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+offset=0
+end=99175
+loop_start=90880
+loop_end=99061
+
+<region>
+sample=samples\Baritone A3(L).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+offset=0
+end=75175
+loop_start=67499
+loop_end=75073
+
+<region>
+sample=samples\Baritone B3(L).wav
+lokey=46 hikey=47
+pitch_keycenter=47
+offset=0
+end=73463
+loop_start=65890
+loop_end=73407
+
+<region>
+sample=samples\Baritone C4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+tune=-4
+offset=0
+end=92943
+loop_start=85419
+loop_end=92757
+
+<region>
+sample=samples\Baritone D4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+offset=0
+end=90407
+loop_start=82074
+loop_end=90366
+
+<region>
+sample=samples\Baritone E4(L).wav
+lokey=52 hikey=52
+pitch_keycenter=52
+offset=0
+end=83935
+loop_start=76315
+loop_end=83879
+
+<region>
+sample=samples\Baritone F#4(L).wav
+lokey=53 hikey=54
+pitch_keycenter=54
+tune=-5
+offset=0
+end=80827
+loop_start=72851
+loop_end=80789
+
+<region>
+sample=samples\Baritone G4(L).wav
+lokey=55 hikey=56
+pitch_keycenter=55
+tune=-3
+offset=0
+end=108591
+loop_start=100861
+loop_end=108523
+
+<region>
+sample=samples\Baritone A4(L).wav
+lokey=57 hikey=58
+pitch_keycenter=57
+tune=-9
+offset=0
+end=101087
+loop_start=93578
+loop_end=100970
+
+<region>
+sample=samples\Baritone B4(L).wav
+lokey=59 hikey=60
+pitch_keycenter=59
+tune=-9
+offset=0
+end=86443
+loop_start=79163
+loop_end=86390
+
+<region>
+sample=samples\Baritone D5(L).wav
+lokey=61 hikey=62
+pitch_keycenter=62
+tune=-5
+offset=0
+end=79343
+loop_start=72351
+loop_end=79303
+
+<region>
+sample=samples\Baritone E5(L).wav
+lokey=63 hikey=64
+pitch_keycenter=64
+tune=-6
+offset=0
+end=128071
+loop_start=120358
+loop_end=127993
+
+<region>
+sample=samples\Baritone F#5(L).wav
+lokey=65 hikey=66
+pitch_keycenter=66
+tune=-5
+offset=0
+end=98079
+loop_start=90141
+loop_end=97998
+
+<region>
+sample=samples\Baritone G#5(L).wav
+lokey=67 hikey=72
+pitch_keycenter=68
+tune=-3
+offset=0
+end=79831
+loop_start=71617
+loop_end=79740
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=73 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=9004
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00146489
+effect1=10
+volume=-1.0322
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Baritone C#3(L).wav
+lokey=0 hikey=37
+pitch_keycenter=37
+tune=3
+offset=0
+end=77299
+loop_start=68903
+loop_end=77237
+
+<region>
+sample=samples\Baritone D3(L).wav
+lokey=38 hikey=39
+pitch_keycenter=38
+tune=3
+offset=0
+end=73319
+loop_start=65862
+loop_end=73298
+
+<region>
+sample=samples\Baritone E3(L).wav
+lokey=40 hikey=41
+pitch_keycenter=40
+tune=-4
+offset=0
+end=71319
+loop_start=63057
+loop_end=71193
+
+<region>
+sample=samples\Baritone G3(L).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+offset=0
+end=99175
+loop_start=90880
+loop_end=99061
+
+<region>
+sample=samples\Baritone A3(L).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+offset=0
+end=75175
+loop_start=67499
+loop_end=75073
+
+<region>
+sample=samples\Baritone B3(L).wav
+lokey=46 hikey=47
+pitch_keycenter=47
+offset=0
+end=73463
+loop_start=65890
+loop_end=73407
+
+<region>
+sample=samples\Baritone C4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+tune=-4
+offset=0
+end=92943
+loop_start=85419
+loop_end=92757
+
+<region>
+sample=samples\Baritone D4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+offset=0
+end=90407
+loop_start=82074
+loop_end=90366
+
+<region>
+sample=samples\Baritone E4(L).wav
+lokey=52 hikey=52
+pitch_keycenter=52
+offset=0
+end=83935
+loop_start=76315
+loop_end=83879
+
+<region>
+sample=samples\Baritone F#4(L).wav
+lokey=53 hikey=54
+pitch_keycenter=54
+tune=-5
+offset=0
+end=80827
+loop_start=72851
+loop_end=80789
+
+<region>
+sample=samples\Baritone G4(L).wav
+lokey=55 hikey=56
+pitch_keycenter=55
+tune=-3
+offset=0
+end=108591
+loop_start=100861
+loop_end=108523
+
+<region>
+sample=samples\Baritone A4(L).wav
+lokey=57 hikey=58
+pitch_keycenter=57
+tune=-9
+offset=0
+end=101087
+loop_start=93578
+loop_end=100970
+
+<region>
+sample=samples\Baritone B4(L).wav
+lokey=59 hikey=60
+pitch_keycenter=59
+tune=-9
+offset=0
+end=86443
+loop_start=79163
+loop_end=86390
+
+<region>
+sample=samples\Baritone D5(L).wav
+lokey=61 hikey=62
+pitch_keycenter=62
+tune=-5
+offset=0
+end=79343
+loop_start=72351
+loop_end=79303
+
+<region>
+sample=samples\Baritone E5(L).wav
+lokey=63 hikey=64
+pitch_keycenter=64
+tune=-6
+offset=0
+end=128071
+loop_start=120358
+loop_end=127993
+
+<region>
+sample=samples\Baritone F#5(L).wav
+lokey=65 hikey=66
+pitch_keycenter=66
+tune=-5
+offset=0
+end=98079
+loop_start=90141
+loop_end=97998
+
+<region>
+sample=samples\Baritone G#5(L).wav
+lokey=67 hikey=72
+pitch_keycenter=68
+tune=-3
+offset=0
+end=79831
+loop_start=71617
+loop_end=79740
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=73 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=8003
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00195313
+effect1=10
+volume=-1.0322
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Baritone C#3(L).wav
+lokey=0 hikey=37
+pitch_keycenter=37
+tune=3
+offset=0
+end=77299
+loop_start=68903
+loop_end=77237
+
+<region>
+sample=samples\Baritone D3(L).wav
+lokey=38 hikey=39
+pitch_keycenter=38
+tune=3
+offset=0
+end=73319
+loop_start=65862
+loop_end=73298
+
+<region>
+sample=samples\Baritone E3(L).wav
+lokey=40 hikey=41
+pitch_keycenter=40
+tune=-4
+offset=0
+end=71319
+loop_start=63057
+loop_end=71193
+
+<region>
+sample=samples\Baritone G3(L).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+offset=0
+end=99175
+loop_start=90880
+loop_end=99061
+
+<region>
+sample=samples\Baritone A3(L).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+offset=0
+end=75175
+loop_start=67499
+loop_end=75073
+
+<region>
+sample=samples\Baritone B3(L).wav
+lokey=46 hikey=47
+pitch_keycenter=47
+offset=0
+end=73463
+loop_start=65890
+loop_end=73407
+
+<region>
+sample=samples\Baritone C4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+tune=-4
+offset=0
+end=92943
+loop_start=85419
+loop_end=92757
+
+<region>
+sample=samples\Baritone D4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+offset=0
+end=90407
+loop_start=82074
+loop_end=90366
+
+<region>
+sample=samples\Baritone E4(L).wav
+lokey=52 hikey=52
+pitch_keycenter=52
+offset=0
+end=83935
+loop_start=76315
+loop_end=83879
+
+<region>
+sample=samples\Baritone F#4(L).wav
+lokey=53 hikey=54
+pitch_keycenter=54
+tune=-5
+offset=0
+end=80827
+loop_start=72851
+loop_end=80789
+
+<region>
+sample=samples\Baritone G4(L).wav
+lokey=55 hikey=56
+pitch_keycenter=55
+tune=-3
+offset=0
+end=108591
+loop_start=100861
+loop_end=108523
+
+<region>
+sample=samples\Baritone A4(L).wav
+lokey=57 hikey=58
+pitch_keycenter=57
+tune=-9
+offset=0
+end=101087
+loop_start=93578
+loop_end=100970
+
+<region>
+sample=samples\Baritone B4(L).wav
+lokey=59 hikey=60
+pitch_keycenter=59
+tune=-9
+offset=0
+end=86443
+loop_start=79163
+loop_end=86390
+
+<region>
+sample=samples\Baritone D5(L).wav
+lokey=61 hikey=62
+pitch_keycenter=62
+tune=-5
+offset=0
+end=79343
+loop_start=72351
+loop_end=79303
+
+<region>
+sample=samples\Baritone E5(L).wav
+lokey=63 hikey=64
+pitch_keycenter=64
+tune=-6
+offset=0
+end=128071
+loop_start=120358
+loop_end=127993
+
+<region>
+sample=samples\Baritone F#5(L).wav
+lokey=65 hikey=66
+pitch_keycenter=66
+tune=-5
+offset=0
+end=98079
+loop_start=90141
+loop_end=97998
+
+<region>
+sample=samples\Baritone G#5(L).wav
+lokey=67 hikey=72
+pitch_keycenter=68
+tune=-3
+offset=0
+end=79831
+loop_start=71617
+loop_end=79740
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=73 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=7004
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00244097
+effect1=10
+volume=-1.0322
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Baritone C#3(L).wav
+lokey=0 hikey=37
+pitch_keycenter=37
+tune=3
+offset=0
+end=77299
+loop_start=68903
+loop_end=77237
+
+<region>
+sample=samples\Baritone D3(L).wav
+lokey=38 hikey=39
+pitch_keycenter=38
+tune=3
+offset=0
+end=73319
+loop_start=65862
+loop_end=73298
+
+<region>
+sample=samples\Baritone E3(L).wav
+lokey=40 hikey=41
+pitch_keycenter=40
+tune=-4
+offset=0
+end=71319
+loop_start=63057
+loop_end=71193
+
+<region>
+sample=samples\Baritone G3(L).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+offset=0
+end=99175
+loop_start=90880
+loop_end=99061
+
+<region>
+sample=samples\Baritone A3(L).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+offset=0
+end=75175
+loop_start=67499
+loop_end=75073
+
+<region>
+sample=samples\Baritone B3(L).wav
+lokey=46 hikey=47
+pitch_keycenter=47
+offset=0
+end=73463
+loop_start=65890
+loop_end=73407
+
+<region>
+sample=samples\Baritone C4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+tune=-4
+offset=0
+end=92943
+loop_start=85419
+loop_end=92757
+
+<region>
+sample=samples\Baritone D4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+offset=0
+end=90407
+loop_start=82074
+loop_end=90366
+
+<region>
+sample=samples\Baritone E4(L).wav
+lokey=52 hikey=52
+pitch_keycenter=52
+offset=0
+end=83935
+loop_start=76315
+loop_end=83879
+
+<region>
+sample=samples\Baritone F#4(L).wav
+lokey=53 hikey=54
+pitch_keycenter=54
+tune=-5
+offset=0
+end=80827
+loop_start=72851
+loop_end=80789
+
+<region>
+sample=samples\Baritone G4(L).wav
+lokey=55 hikey=56
+pitch_keycenter=55
+tune=-3
+offset=0
+end=108591
+loop_start=100861
+loop_end=108523
+
+<region>
+sample=samples\Baritone A4(L).wav
+lokey=57 hikey=58
+pitch_keycenter=57
+tune=-9
+offset=0
+end=101087
+loop_start=93578
+loop_end=100970
+
+<region>
+sample=samples\Baritone B4(L).wav
+lokey=59 hikey=60
+pitch_keycenter=59
+tune=-9
+offset=0
+end=86443
+loop_start=79163
+loop_end=86390
+
+<region>
+sample=samples\Baritone D5(L).wav
+lokey=61 hikey=62
+pitch_keycenter=62
+tune=-5
+offset=0
+end=79343
+loop_start=72351
+loop_end=79303
+
+<region>
+sample=samples\Baritone E5(L).wav
+lokey=63 hikey=64
+pitch_keycenter=64
+tune=-6
+offset=0
+end=128071
+loop_start=120358
+loop_end=127993
+
+<region>
+sample=samples\Baritone F#5(L).wav
+lokey=65 hikey=66
+pitch_keycenter=66
+tune=-5
+offset=0
+end=98079
+loop_start=90141
+loop_end=97998
+
+<region>
+sample=samples\Baritone G#5(L).wav
+lokey=67 hikey=72
+pitch_keycenter=68
+tune=-3
+offset=0
+end=79831
+loop_start=71617
+loop_end=79740
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=73 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=6003
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00292977
+effect1=10
+volume=-1.0322
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Baritone C#3(L).wav
+lokey=0 hikey=37
+pitch_keycenter=37
+tune=3
+offset=0
+end=77299
+loop_start=68903
+loop_end=77237
+
+<region>
+sample=samples\Baritone D3(L).wav
+lokey=38 hikey=39
+pitch_keycenter=38
+tune=3
+offset=0
+end=73319
+loop_start=65862
+loop_end=73298
+
+<region>
+sample=samples\Baritone E3(L).wav
+lokey=40 hikey=41
+pitch_keycenter=40
+tune=-4
+offset=0
+end=71319
+loop_start=63057
+loop_end=71193
+
+<region>
+sample=samples\Baritone G3(L).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+offset=0
+end=99175
+loop_start=90880
+loop_end=99061
+
+<region>
+sample=samples\Baritone A3(L).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+offset=0
+end=75175
+loop_start=67499
+loop_end=75073
+
+<region>
+sample=samples\Baritone B3(L).wav
+lokey=46 hikey=47
+pitch_keycenter=47
+offset=0
+end=73463
+loop_start=65890
+loop_end=73407
+
+<region>
+sample=samples\Baritone C4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+tune=-4
+offset=0
+end=92943
+loop_start=85419
+loop_end=92757
+
+<region>
+sample=samples\Baritone D4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+offset=0
+end=90407
+loop_start=82074
+loop_end=90366
+
+<region>
+sample=samples\Baritone E4(L).wav
+lokey=52 hikey=52
+pitch_keycenter=52
+offset=0
+end=83935
+loop_start=76315
+loop_end=83879
+
+<region>
+sample=samples\Baritone F#4(L).wav
+lokey=53 hikey=54
+pitch_keycenter=54
+tune=-5
+offset=0
+end=80827
+loop_start=72851
+loop_end=80789
+
+<region>
+sample=samples\Baritone G4(L).wav
+lokey=55 hikey=56
+pitch_keycenter=55
+tune=-3
+offset=0
+end=108591
+loop_start=100861
+loop_end=108523
+
+<region>
+sample=samples\Baritone A4(L).wav
+lokey=57 hikey=58
+pitch_keycenter=57
+tune=-9
+offset=0
+end=101087
+loop_start=93578
+loop_end=100970
+
+<region>
+sample=samples\Baritone B4(L).wav
+lokey=59 hikey=60
+pitch_keycenter=59
+tune=-9
+offset=0
+end=86443
+loop_start=79163
+loop_end=86390
+
+<region>
+sample=samples\Baritone D5(L).wav
+lokey=61 hikey=62
+pitch_keycenter=62
+tune=-5
+offset=0
+end=79343
+loop_start=72351
+loop_end=79303
+
+<region>
+sample=samples\Baritone E5(L).wav
+lokey=63 hikey=64
+pitch_keycenter=64
+tune=-6
+offset=0
+end=128071
+loop_start=120358
+loop_end=127993
+
+<region>
+sample=samples\Baritone F#5(L).wav
+lokey=65 hikey=66
+pitch_keycenter=66
+tune=-5
+offset=0
+end=98079
+loop_start=90141
+loop_end=97998
+
+<region>
+sample=samples\Baritone G#5(L).wav
+lokey=67 hikey=72
+pitch_keycenter=68
+tune=-3
+offset=0
+end=79831
+loop_start=71617
+loop_end=79740
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=73 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=5001
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00341832
+effect1=10
+volume=-1.0322
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Baritone C#3(L).wav
+lokey=0 hikey=37
+pitch_keycenter=37
+tune=3
+offset=0
+end=77299
+loop_start=68903
+loop_end=77237
+
+<region>
+sample=samples\Baritone D3(L).wav
+lokey=38 hikey=39
+pitch_keycenter=38
+tune=3
+offset=0
+end=73319
+loop_start=65862
+loop_end=73298
+
+<region>
+sample=samples\Baritone E3(L).wav
+lokey=40 hikey=41
+pitch_keycenter=40
+tune=-4
+offset=0
+end=71319
+loop_start=63057
+loop_end=71193
+
+<region>
+sample=samples\Baritone G3(L).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+offset=0
+end=99175
+loop_start=90880
+loop_end=99061
+
+<region>
+sample=samples\Baritone A3(L).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+offset=0
+end=75175
+loop_start=67499
+loop_end=75073
+
+<region>
+sample=samples\Baritone B3(L).wav
+lokey=46 hikey=47
+pitch_keycenter=47
+offset=0
+end=73463
+loop_start=65890
+loop_end=73407
+
+<region>
+sample=samples\Baritone C4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+tune=-4
+offset=0
+end=92943
+loop_start=85419
+loop_end=92757
+
+<region>
+sample=samples\Baritone D4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+offset=0
+end=90407
+loop_start=82074
+loop_end=90366
+
+<region>
+sample=samples\Baritone E4(L).wav
+lokey=52 hikey=52
+pitch_keycenter=52
+offset=0
+end=83935
+loop_start=76315
+loop_end=83879
+
+<region>
+sample=samples\Baritone F#4(L).wav
+lokey=53 hikey=54
+pitch_keycenter=54
+tune=-5
+offset=0
+end=80827
+loop_start=72851
+loop_end=80789
+
+<region>
+sample=samples\Baritone G4(L).wav
+lokey=55 hikey=56
+pitch_keycenter=55
+tune=-3
+offset=0
+end=108591
+loop_start=100861
+loop_end=108523
+
+<region>
+sample=samples\Baritone A4(L).wav
+lokey=57 hikey=58
+pitch_keycenter=57
+tune=-9
+offset=0
+end=101087
+loop_start=93578
+loop_end=100970
+
+<region>
+sample=samples\Baritone B4(L).wav
+lokey=59 hikey=60
+pitch_keycenter=59
+tune=-9
+offset=0
+end=86443
+loop_start=79163
+loop_end=86390
+
+<region>
+sample=samples\Baritone D5(L).wav
+lokey=61 hikey=62
+pitch_keycenter=62
+tune=-5
+offset=0
+end=79343
+loop_start=72351
+loop_end=79303
+
+<region>
+sample=samples\Baritone E5(L).wav
+lokey=63 hikey=64
+pitch_keycenter=64
+tune=-6
+offset=0
+end=128071
+loop_start=120358
+loop_end=127993
+
+<region>
+sample=samples\Baritone F#5(L).wav
+lokey=65 hikey=66
+pitch_keycenter=66
+tune=-5
+offset=0
+end=98079
+loop_start=90141
+loop_end=97998
+
+<region>
+sample=samples\Baritone G#5(L).wav
+lokey=67 hikey=72
+pitch_keycenter=68
+tune=-3
+offset=0
+end=79831
+loop_start=71617
+loop_end=79740
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=73 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=4002
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00390626
+effect1=10
+volume=-1.0322
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Baritone C#3(L).wav
+lokey=0 hikey=37
+pitch_keycenter=37
+tune=3
+offset=0
+end=77299
+loop_start=68903
+loop_end=77237
+
+<region>
+sample=samples\Baritone D3(L).wav
+lokey=38 hikey=39
+pitch_keycenter=38
+tune=3
+offset=0
+end=73319
+loop_start=65862
+loop_end=73298
+
+<region>
+sample=samples\Baritone E3(L).wav
+lokey=40 hikey=41
+pitch_keycenter=40
+tune=-4
+offset=0
+end=71319
+loop_start=63057
+loop_end=71193
+
+<region>
+sample=samples\Baritone G3(L).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+offset=0
+end=99175
+loop_start=90880
+loop_end=99061
+
+<region>
+sample=samples\Baritone A3(L).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+offset=0
+end=75175
+loop_start=67499
+loop_end=75073
+
+<region>
+sample=samples\Baritone B3(L).wav
+lokey=46 hikey=47
+pitch_keycenter=47
+offset=0
+end=73463
+loop_start=65890
+loop_end=73407
+
+<region>
+sample=samples\Baritone C4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+tune=-4
+offset=0
+end=92943
+loop_start=85419
+loop_end=92757
+
+<region>
+sample=samples\Baritone D4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+offset=0
+end=90407
+loop_start=82074
+loop_end=90366
+
+<region>
+sample=samples\Baritone E4(L).wav
+lokey=52 hikey=52
+pitch_keycenter=52
+offset=0
+end=83935
+loop_start=76315
+loop_end=83879
+
+<region>
+sample=samples\Baritone F#4(L).wav
+lokey=53 hikey=54
+pitch_keycenter=54
+tune=-5
+offset=0
+end=80827
+loop_start=72851
+loop_end=80789
+
+<region>
+sample=samples\Baritone G4(L).wav
+lokey=55 hikey=56
+pitch_keycenter=55
+tune=-3
+offset=0
+end=108591
+loop_start=100861
+loop_end=108523
+
+<region>
+sample=samples\Baritone A4(L).wav
+lokey=57 hikey=58
+pitch_keycenter=57
+tune=-9
+offset=0
+end=101087
+loop_start=93578
+loop_end=100970
+
+<region>
+sample=samples\Baritone B4(L).wav
+lokey=59 hikey=60
+pitch_keycenter=59
+tune=-9
+offset=0
+end=86443
+loop_start=79163
+loop_end=86390
+
+<region>
+sample=samples\Baritone D5(L).wav
+lokey=61 hikey=62
+pitch_keycenter=62
+tune=-5
+offset=0
+end=79343
+loop_start=72351
+loop_end=79303
+
+<region>
+sample=samples\Baritone E5(L).wav
+lokey=63 hikey=64
+pitch_keycenter=64
+tune=-6
+offset=0
+end=128071
+loop_start=120358
+loop_end=127993
+
+<region>
+sample=samples\Baritone F#5(L).wav
+lokey=65 hikey=66
+pitch_keycenter=66
+tune=-5
+offset=0
+end=98079
+loop_start=90141
+loop_end=97998
+
+<region>
+sample=samples\Baritone G#5(L).wav
+lokey=67 hikey=72
+pitch_keycenter=68
+tune=-3
+offset=0
+end=79831
+loop_start=71617
+loop_end=79740
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=73 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=3001
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00439477
+effect1=10
+volume=-1.0322
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Baritone C#3(L).wav
+lokey=0 hikey=37
+pitch_keycenter=37
+tune=3
+offset=0
+end=77299
+loop_start=68903
+loop_end=77237
+
+<region>
+sample=samples\Baritone D3(L).wav
+lokey=38 hikey=39
+pitch_keycenter=38
+tune=3
+offset=0
+end=73319
+loop_start=65862
+loop_end=73298
+
+<region>
+sample=samples\Baritone E3(L).wav
+lokey=40 hikey=41
+pitch_keycenter=40
+tune=-4
+offset=0
+end=71319
+loop_start=63057
+loop_end=71193
+
+<region>
+sample=samples\Baritone G3(L).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+offset=0
+end=99175
+loop_start=90880
+loop_end=99061
+
+<region>
+sample=samples\Baritone A3(L).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+offset=0
+end=75175
+loop_start=67499
+loop_end=75073
+
+<region>
+sample=samples\Baritone B3(L).wav
+lokey=46 hikey=47
+pitch_keycenter=47
+offset=0
+end=73463
+loop_start=65890
+loop_end=73407
+
+<region>
+sample=samples\Baritone C4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+tune=-4
+offset=0
+end=92943
+loop_start=85419
+loop_end=92757
+
+<region>
+sample=samples\Baritone D4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+offset=0
+end=90407
+loop_start=82074
+loop_end=90366
+
+<region>
+sample=samples\Baritone E4(L).wav
+lokey=52 hikey=52
+pitch_keycenter=52
+offset=0
+end=83935
+loop_start=76315
+loop_end=83879
+
+<region>
+sample=samples\Baritone F#4(L).wav
+lokey=53 hikey=54
+pitch_keycenter=54
+tune=-5
+offset=0
+end=80827
+loop_start=72851
+loop_end=80789
+
+<region>
+sample=samples\Baritone G4(L).wav
+lokey=55 hikey=56
+pitch_keycenter=55
+tune=-3
+offset=0
+end=108591
+loop_start=100861
+loop_end=108523
+
+<region>
+sample=samples\Baritone A4(L).wav
+lokey=57 hikey=58
+pitch_keycenter=57
+tune=-9
+offset=0
+end=101087
+loop_start=93578
+loop_end=100970
+
+<region>
+sample=samples\Baritone B4(L).wav
+lokey=59 hikey=60
+pitch_keycenter=59
+tune=-9
+offset=0
+end=86443
+loop_start=79163
+loop_end=86390
+
+<region>
+sample=samples\Baritone D5(L).wav
+lokey=61 hikey=62
+pitch_keycenter=62
+tune=-5
+offset=0
+end=79343
+loop_start=72351
+loop_end=79303
+
+<region>
+sample=samples\Baritone E5(L).wav
+lokey=63 hikey=64
+pitch_keycenter=64
+tune=-6
+offset=0
+end=128071
+loop_start=120358
+loop_end=127993
+
+<region>
+sample=samples\Baritone F#5(L).wav
+lokey=65 hikey=66
+pitch_keycenter=66
+tune=-5
+offset=0
+end=98079
+loop_start=90141
+loop_end=97998
+
+<region>
+sample=samples\Baritone G#5(L).wav
+lokey=67 hikey=72
+pitch_keycenter=68
+tune=-3
+offset=0
+end=79831
+loop_start=71617
+loop_end=79740
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=73 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=2001
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00488194
+effect1=10
+volume=-1.0322
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Baritone C#3(L).wav
+lokey=0 hikey=37
+pitch_keycenter=37
+tune=3
+offset=0
+end=77299
+loop_start=68903
+loop_end=77237
+
+<region>
+sample=samples\Baritone D3(L).wav
+lokey=38 hikey=39
+pitch_keycenter=38
+tune=3
+offset=0
+end=73319
+loop_start=65862
+loop_end=73298
+
+<region>
+sample=samples\Baritone E3(L).wav
+lokey=40 hikey=41
+pitch_keycenter=40
+tune=-4
+offset=0
+end=71319
+loop_start=63057
+loop_end=71193
+
+<region>
+sample=samples\Baritone G3(L).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+offset=0
+end=99175
+loop_start=90880
+loop_end=99061
+
+<region>
+sample=samples\Baritone A3(L).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+offset=0
+end=75175
+loop_start=67499
+loop_end=75073
+
+<region>
+sample=samples\Baritone B3(L).wav
+lokey=46 hikey=47
+pitch_keycenter=47
+offset=0
+end=73463
+loop_start=65890
+loop_end=73407
+
+<region>
+sample=samples\Baritone C4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+tune=-4
+offset=0
+end=92943
+loop_start=85419
+loop_end=92757
+
+<region>
+sample=samples\Baritone D4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+offset=0
+end=90407
+loop_start=82074
+loop_end=90366
+
+<region>
+sample=samples\Baritone E4(L).wav
+lokey=52 hikey=52
+pitch_keycenter=52
+offset=0
+end=83935
+loop_start=76315
+loop_end=83879
+
+<region>
+sample=samples\Baritone F#4(L).wav
+lokey=53 hikey=54
+pitch_keycenter=54
+tune=-5
+offset=0
+end=80827
+loop_start=72851
+loop_end=80789
+
+<region>
+sample=samples\Baritone G4(L).wav
+lokey=55 hikey=56
+pitch_keycenter=55
+tune=-3
+offset=0
+end=108591
+loop_start=100861
+loop_end=108523
+
+<region>
+sample=samples\Baritone A4(L).wav
+lokey=57 hikey=58
+pitch_keycenter=57
+tune=-9
+offset=0
+end=101087
+loop_start=93578
+loop_end=100970
+
+<region>
+sample=samples\Baritone B4(L).wav
+lokey=59 hikey=60
+pitch_keycenter=59
+tune=-9
+offset=0
+end=86443
+loop_start=79163
+loop_end=86390
+
+<region>
+sample=samples\Baritone D5(L).wav
+lokey=61 hikey=62
+pitch_keycenter=62
+tune=-5
+offset=0
+end=79343
+loop_start=72351
+loop_end=79303
+
+<region>
+sample=samples\Baritone E5(L).wav
+lokey=63 hikey=64
+pitch_keycenter=64
+tune=-6
+offset=0
+end=128071
+loop_start=120358
+loop_end=127993
+
+<region>
+sample=samples\Baritone F#5(L).wav
+lokey=65 hikey=66
+pitch_keycenter=66
+tune=-5
+offset=0
+end=98079
+loop_start=90141
+loop_end=97998
+
+<region>
+sample=samples\Baritone G#5(L).wav
+lokey=67 hikey=72
+pitch_keycenter=68
+tune=-3
+offset=0
+end=79831
+loop_start=71617
+loop_end=79740
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=73 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986

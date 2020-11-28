@@ -1,0 +1,256 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=10002
+ampeg_release=0.5
+volume=-0.4764
+loop_mode=loop_continuous
+pan=-100
+pitcheg_decay=0.00315824
+fileg_decay=0.00315824
+tune=4
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Brass Section F3.wav
+lokey=0 hikey=41
+pitch_keycenter=41
+pan=-100
+offset=0
+end=168837
+loop_start=113015
+loop_end=168708
+volume=-0.4764
+
+<region>
+sample=samples\Brass Section C4.wav
+lokey=42 hikey=48
+pitch_keycenter=48
+pan=-100
+offset=0
+end=157617
+loop_start=68786
+loop_end=157554
+volume=-0.4764
+
+<region>
+sample=samples\Brass Section F#4.wav
+lokey=49 hikey=54
+pitch_keycenter=54
+pan=-100
+offset=0
+end=160960
+loop_start=62794
+loop_end=160887
+volume=-0.4764
+
+<region>
+sample=samples\Brass Section A#4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+pan=-100
+offset=0
+end=141177
+loop_start=52012
+loop_end=141167
+volume=-0.4764
+
+<region>
+sample=samples\Brass Section C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+pan=-100
+offset=0
+end=118529
+loop_start=42371
+loop_end=118514
+volume=-0.4764
+
+<region>
+sample=samples\Brass Section F5.wav
+lokey=61 hikey=65
+pitch_keycenter=65
+pan=-100
+offset=0
+end=130757
+loop_start=47243
+loop_end=130749
+volume=-0.4764
+
+<region>
+sample=samples\Brass Section A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+pan=-100
+volume=-0.794
+offset=0
+end=109220
+loop_start=35349
+loop_end=109203
+
+<region>
+sample=samples\Brass Section C6.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+pan=-100
+volume=-0.794
+offset=0
+end=72436
+loop_start=14864
+loop_end=72434
+
+<region>
+sample=samples\Brass Section F6.wav
+lokey=73 hikey=77
+pitch_keycenter=77
+pan=-100
+volume=-0.794
+offset=0
+end=114044
+loop_start=46840
+loop_end=114032
+
+<region>
+sample=samples\Brass Section C7.wav
+lokey=78 hikey=96
+pitch_keycenter=84
+pan=-100
+volume=-0.794
+offset=0
+end=117765
+loop_start=38643
+loop_end=117758
+
+<group>
+fil_type=lpf_2p
+cutoff=7000
+ampeg_release=0.5
+volume=-0.4764
+loop_mode=loop_continuous
+pan=100
+pitcheg_decay=0.00315824
+fileg_decay=0.00315824
+tune=-4
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Brass Section F3.wav
+lokey=0 hikey=41
+pitch_keycenter=41
+pan=100
+offset=0
+end=168837
+loop_start=113015
+loop_end=168708
+volume=-0.4764
+
+<region>
+sample=samples\Brass Section C4.wav
+lokey=42 hikey=48
+pitch_keycenter=48
+pan=100
+offset=0
+end=157617
+loop_start=68786
+loop_end=157554
+volume=-0.4764
+
+<region>
+sample=samples\Brass Section F#4.wav
+lokey=49 hikey=54
+pitch_keycenter=54
+pan=100
+offset=0
+end=160960
+loop_start=62794
+loop_end=160887
+volume=-0.4764
+
+<region>
+sample=samples\Brass Section A#4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+pan=100
+offset=0
+end=141177
+loop_start=52012
+loop_end=141167
+volume=-0.4764
+
+<region>
+sample=samples\Brass Section C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+pan=100
+offset=0
+end=118529
+loop_start=42371
+loop_end=118514
+volume=-0.4764
+
+<region>
+sample=samples\Brass Section F5.wav
+lokey=61 hikey=65
+pitch_keycenter=65
+pan=100
+offset=0
+end=130757
+loop_start=47243
+loop_end=130749
+volume=-0.4764
+
+<region>
+sample=samples\Brass Section A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+pan=100
+volume=-0.794
+offset=0
+end=109220
+loop_start=35349
+loop_end=109203
+
+<region>
+sample=samples\Brass Section C6.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+pan=100
+volume=-0.794
+offset=0
+end=72436
+loop_start=14864
+loop_end=72434
+
+<region>
+sample=samples\Brass Section F6.wav
+lokey=73 hikey=77
+pitch_keycenter=77
+pan=100
+volume=-0.794
+offset=0
+end=114044
+loop_start=46840
+loop_end=114032
+
+<region>
+sample=samples\Brass Section C7.wav
+lokey=78 hikey=96
+pitch_keycenter=84
+pan=100
+volume=-0.794
+offset=0
+end=117765
+loop_start=38643
+loop_end=117758

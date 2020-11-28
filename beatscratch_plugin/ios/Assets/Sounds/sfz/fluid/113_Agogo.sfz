@@ -1,0 +1,37 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\High Agogo(L).wav
+lokey=0 hikey=108
+pitch_keycenter=78
+fil_type=lpf_2p
+cutoff=19914
+amplfo_freq=5.37859
+fillfo_freq=5.37859
+pitchlfo_freq=5.37859
+pitcheg_release=1.04006
+fileg_release=1.04006
+ampeg_hold=0.0190047
+ampeg_decay=1.84037
+ampeg_sustain=0.001
+ampeg_release=1.38992
+volume=-2.0644
+offset=0
+end=12394
+loop_start=8
+loop_end=12386

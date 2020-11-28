@@ -1,0 +1,136 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fileg_depth=12000
+effect2=20
+effect1=20
+pitcheg_release=38.2971
+fileg_release=38.2971
+ampeg_release=4.99909
+loop_mode=loop_continuous
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\solo_vox_c2.wav
+lokey=0 hikey=48
+pitch_keycenter=48
+pan=100
+transpose=12
+offset=0
+end=164153
+loop_start=25811
+loop_end=164125
+
+<region>
+sample=samples\Fantasia.wav
+lokey=0 hikey=98
+pitch_keycenter=76
+ampeg_decay=6.00015
+ampeg_sustain=0.398107
+ampeg_release=3.00008
+volume=-4.764
+offset=0
+end=155515
+loop_start=120000
+loop_end=155509
+
+<region>
+sample=samples\solo_vox_c2.wav
+lokey=0 hikey=48
+pitch_keycenter=48
+pan=-100
+offset=0
+end=164153
+loop_start=25811
+loop_end=164125
+
+<region>
+sample=samples\solo_vox_c3.wav
+lokey=49 hikey=60
+pitch_keycenter=60
+pan=100
+offset=0
+end=86934
+loop_start=17580
+loop_end=86906
+
+<region>
+sample=samples\solo_vox_c3.wav
+lokey=49 hikey=60
+pitch_keycenter=60
+pan=-100
+offset=0
+end=86934
+loop_start=17580
+loop_end=86906
+
+<region>
+sample=samples\solo_vox_c4.wav
+lokey=61 hikey=72
+pitch_keycenter=72
+pan=100
+offset=0
+end=57619
+loop_start=23011
+loop_end=57591
+
+<region>
+sample=samples\solo_vox_c4.wav
+lokey=61 hikey=72
+pitch_keycenter=72
+pan=-100
+offset=0
+end=57619
+loop_start=23011
+loop_end=57591
+
+<region>
+sample=samples\solo_vox_c5.wav
+lokey=73 hikey=84
+pitch_keycenter=84
+pan=100
+offset=0
+end=28873
+loop_start=16422
+loop_end=28845
+
+<region>
+sample=samples\solo_vox_c5.wav
+lokey=73 hikey=84
+pitch_keycenter=84
+pan=-100
+offset=0
+end=28873
+loop_start=16422
+loop_end=28845
+
+<region>
+sample=samples\solo_vox_c6.wav
+lokey=85 hikey=127
+pitch_keycenter=96
+pan=100
+offset=0
+end=46008
+loop_start=23669
+loop_end=45980
+
+<region>
+sample=samples\solo_vox_c6.wav
+lokey=85 hikey=127
+pitch_keycenter=96
+pan=-100
+offset=0
+end=46008
+loop_start=23669
+loop_end=45980

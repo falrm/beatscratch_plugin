@@ -1,0 +1,3014 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=1 hivel=100
+fil_type=lpf_2p
+cutoff=300
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_sustain=0.001
+ampeg_release=0.549999
+volume=-3.6524
+transpose=-2
+loop_mode=loop_continuous
+resonance=6
+fileg_depth=-750
+pitcheg_decay=0.00136758
+fileg_decay=0.00136758
+ampeg_decay=0.00136758
+tune=-5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piano MF Bv1(R).wav
+lokey=12 hikey=22
+pitch_keycenter=21
+pan=100
+pitcheg_hold=8.69889
+fileg_hold=8.69889
+pitcheg_decay=60.2336
+fileg_decay=60.2336
+ampeg_hold=8.69889
+ampeg_decay=60.2336
+volume=-2.57256
+offset=0
+end=537094
+loop_start=383950
+loop_end=537080
+
+<region>
+sample=samples\Piano MF Bv1(L).wav
+lokey=12 hikey=22
+pitch_keycenter=21
+pan=-100
+pitcheg_hold=8.69889
+fileg_hold=8.69889
+pitcheg_decay=60.2336
+fileg_decay=60.2336
+ampeg_hold=8.69889
+ampeg_decay=60.2336
+volume=-2.57256
+offset=0
+end=537094
+loop_start=383950
+loop_end=537080
+
+<region>
+sample=samples\Piano MF D#0(R).wav
+lokey=23 hikey=25
+pitch_keycenter=25
+pan=100
+pitcheg_hold=9.01086
+fileg_hold=9.01086
+pitcheg_decay=58.1147
+fileg_decay=58.1147
+ampeg_hold=9.01086
+ampeg_decay=58.1147
+volume=-3.4936
+offset=0
+end=540206
+loop_start=397427
+loop_end=540184
+
+<region>
+sample=samples\Piano MF D#0(L).wav
+lokey=23 hikey=25
+pitch_keycenter=25
+pan=-100
+pitcheg_hold=9.01086
+fileg_hold=9.01086
+pitcheg_decay=58.1147
+fileg_decay=58.1147
+ampeg_hold=9.01086
+ampeg_decay=58.1147
+volume=-3.4936
+offset=0
+end=540206
+loop_start=397427
+loop_end=540184
+
+<region>
+sample=samples\Piano MF F0(R).wav
+lokey=26 hikey=28
+pitch_keycenter=27
+pan=100
+pitcheg_hold=9.99818
+fileg_hold=9.99818
+pitcheg_decay=53.6311
+fileg_decay=53.6311
+ampeg_hold=10.998
+ampeg_decay=53.6311
+volume=-3.573
+offset=0
+end=611434
+loop_start=487341
+loop_end=611406
+
+<region>
+sample=samples\Piano MF F0(L).wav
+lokey=26 hikey=28
+pitch_keycenter=27
+pan=-100
+pitcheg_hold=9.99818
+fileg_hold=9.99818
+pitcheg_decay=53.6311
+fileg_decay=53.6311
+ampeg_hold=10.998
+ampeg_decay=53.6311
+volume=-3.573
+offset=0
+end=611434
+loop_start=487341
+loop_end=611406
+
+<region>
+sample=samples\Piano MF G0(R).wav
+lokey=29 hikey=30
+pitch_keycenter=29
+pan=100
+pitcheg_hold=8.97969
+fileg_hold=8.97969
+pitcheg_decay=54.758
+fileg_decay=54.758
+ampeg_hold=8.97969
+ampeg_decay=54.758
+volume=-3.4936
+offset=0
+end=538631
+loop_start=396192
+loop_end=538603
+
+<region>
+sample=samples\Piano MF G0(L).wav
+lokey=29 hikey=30
+pitch_keycenter=29
+pan=-100
+pitcheg_hold=8.97969
+fileg_hold=8.97969
+pitcheg_decay=54.758
+fileg_decay=54.758
+ampeg_hold=8.97969
+ampeg_decay=54.758
+volume=-3.4936
+offset=0
+end=538631
+loop_start=396192
+loop_end=538603
+
+<region>
+sample=samples\Piano MF A0(R).wav
+lokey=31 hikey=32
+pitch_keycenter=31
+pan=100
+pitcheg_hold=9.99818
+fileg_hold=9.99818
+pitcheg_decay=48.8684
+fileg_decay=48.8684
+ampeg_hold=12.0003
+ampeg_decay=48.8684
+volume=-2.6996
+offset=0
+end=632868
+loop_start=528364
+loop_end=632824
+
+<region>
+sample=samples\Piano MF A0(L).wav
+lokey=31 hikey=32
+pitch_keycenter=31
+pan=-100
+pitcheg_hold=9.99818
+fileg_hold=9.99818
+pitcheg_decay=48.8684
+fileg_decay=48.8684
+ampeg_hold=12.0003
+ampeg_decay=48.8684
+volume=-2.6996
+offset=0
+end=632868
+loop_start=528364
+loop_end=632824
+
+<region>
+sample=samples\Piano MF B0(R).wav
+lokey=33 hikey=34
+pitch_keycenter=33
+pan=100
+pitcheg_hold=9.99818
+fileg_hold=9.99818
+pitcheg_decay=47.8904
+fileg_decay=47.8904
+ampeg_hold=11.4982
+ampeg_decay=47.8904
+volume=-2.4614
+offset=0
+end=592407
+loop_start=507525
+loop_end=592390
+
+<region>
+sample=samples\Piano MF B0(L).wav
+lokey=33 hikey=34
+pitch_keycenter=33
+pan=-100
+pitcheg_hold=9.99818
+fileg_hold=9.99818
+pitcheg_decay=47.8904
+fileg_decay=47.8904
+ampeg_hold=11.4982
+ampeg_decay=47.8904
+volume=-2.4614
+offset=0
+end=592407
+loop_start=507525
+loop_end=592390
+
+<region>
+sample=samples\Piano MF D1(R).wav
+lokey=35 hikey=36
+pitch_keycenter=36
+pan=100
+pitcheg_hold=9.13137
+fileg_hold=9.13137
+pitcheg_decay=46.7696
+fileg_decay=46.7696
+ampeg_hold=9.13137
+ampeg_decay=46.7696
+volume=-3.4936
+offset=0
+end=557144
+loop_start=402737
+loop_end=557116
+
+<region>
+sample=samples\Piano MF D1(L).wav
+lokey=35 hikey=36
+pitch_keycenter=36
+pan=-100
+pitcheg_hold=9.13137
+fileg_hold=9.13137
+pitcheg_decay=46.7696
+fileg_decay=46.7696
+ampeg_hold=9.13137
+ampeg_decay=46.7696
+volume=-3.4936
+offset=0
+end=557144
+loop_start=402737
+loop_end=557116
+
+<region>
+sample=samples\Piano MF E1(R).wav
+lokey=37 hikey=39
+pitch_keycenter=38
+pan=100
+pitcheg_hold=9.50266
+fileg_hold=9.50266
+pitcheg_decay=43.9665
+fileg_decay=43.9665
+ampeg_hold=9.50266
+ampeg_decay=43.9665
+volume=-3.4936
+offset=0
+end=573454
+loop_start=419131
+loop_end=573420
+
+<region>
+sample=samples\Piano MF E1(L).wav
+lokey=37 hikey=39
+pitch_keycenter=38
+pan=-100
+pitcheg_hold=9.50266
+fileg_hold=9.50266
+pitcheg_decay=43.9665
+fileg_decay=43.9665
+ampeg_hold=9.50266
+ampeg_decay=43.9665
+volume=-3.4936
+offset=0
+end=573454
+loop_start=419131
+loop_end=573420
+
+<region>
+sample=samples\Piano MF G1(R).wav
+lokey=40 hikey=41
+pitch_keycenter=41
+pan=100
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=37.661
+fileg_decay=37.661
+ampeg_hold=9.99818
+ampeg_decay=37.661
+volume=-3.7318
+offset=0
+end=580616
+loop_start=442025
+loop_end=580589
+
+<region>
+sample=samples\Piano MF G1(L).wav
+lokey=40 hikey=41
+pitch_keycenter=41
+pan=-100
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=37.661
+fileg_decay=37.661
+ampeg_hold=9.99818
+ampeg_decay=37.661
+volume=-3.7318
+offset=0
+end=580616
+loop_start=442025
+loop_end=580589
+
+<region>
+sample=samples\Piano MF A1(R).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+pan=100
+pitcheg_hold=8.14924
+fileg_hold=8.14924
+pitcheg_decay=36.822
+fileg_decay=36.822
+ampeg_hold=8.14924
+ampeg_decay=36.822
+offset=0
+end=464291
+loop_start=359462
+loop_end=464261
+volume=-3.6524
+
+<region>
+sample=samples\Piano MF A1(L).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+pan=-100
+pitcheg_hold=8.14924
+fileg_hold=8.14924
+pitcheg_decay=36.822
+fileg_decay=36.822
+ampeg_hold=8.14924
+ampeg_decay=36.822
+offset=0
+end=464291
+loop_start=359462
+loop_end=464261
+volume=-3.6524
+
+<region>
+sample=samples\Piano MF B1(R).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+pan=100
+pitcheg_hold=7.45133
+fileg_hold=7.45133
+pitcheg_decay=34.3165
+fileg_decay=34.3165
+ampeg_hold=7.45133
+ampeg_decay=34.3165
+volume=-3.97
+offset=0
+end=478117
+loop_start=328404
+loop_end=478111
+
+<region>
+sample=samples\Piano MF B1(L).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+pan=-100
+pitcheg_hold=7.45133
+fileg_hold=7.45133
+pitcheg_decay=34.3165
+fileg_decay=34.3165
+ampeg_hold=7.45133
+ampeg_decay=34.3165
+volume=-3.97
+offset=0
+end=478117
+loop_start=328404
+loop_end=478111
+
+<region>
+sample=samples\Piano MF C2(R).wav
+lokey=46 hikey=47
+pitch_keycenter=46
+pan=100
+pitcheg_hold=9.22148
+fileg_hold=9.22148
+pitcheg_decay=29.412
+fileg_decay=29.412
+ampeg_hold=9.22148
+ampeg_decay=29.412
+offset=0
+end=501489
+loop_start=406525
+loop_end=501473
+volume=-3.6524
+
+<region>
+sample=samples\Piano MF C2(L).wav
+lokey=46 hikey=47
+pitch_keycenter=46
+pan=-100
+pitcheg_hold=9.22148
+fileg_hold=9.22148
+pitcheg_decay=29.412
+fileg_decay=29.412
+ampeg_hold=9.22148
+ampeg_decay=29.412
+offset=0
+end=501489
+loop_start=406525
+loop_end=501473
+volume=-3.6524
+
+<region>
+sample=samples\Piano MF D2(R).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+pan=100
+pitcheg_hold=7.25177
+fileg_hold=7.25177
+pitcheg_decay=29.6851
+fileg_decay=29.6851
+ampeg_hold=7.25177
+ampeg_decay=29.6851
+volume=-4.1288
+offset=0
+end=450898
+loop_start=319840
+loop_end=450884
+
+<region>
+sample=samples\Piano MF D2(L).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+pan=-100
+pitcheg_hold=7.25177
+fileg_hold=7.25177
+pitcheg_decay=29.6851
+fileg_decay=29.6851
+ampeg_hold=7.25177
+ampeg_decay=29.6851
+volume=-4.1288
+offset=0
+end=450898
+loop_start=319840
+loop_end=450884
+
+<region>
+sample=samples\Piano MF E2(R).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+pan=100
+pitcheg_hold=8.04169
+fileg_hold=8.04169
+pitcheg_decay=26.188
+fileg_decay=26.188
+ampeg_hold=8.04169
+ampeg_decay=26.188
+volume=-3.4936
+offset=0
+end=456858
+loop_start=354694
+loop_end=456791
+
+<region>
+sample=samples\Piano MF E2(L).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+pan=-100
+pitcheg_hold=8.04169
+fileg_hold=8.04169
+pitcheg_decay=26.188
+fileg_decay=26.188
+ampeg_hold=8.04169
+ampeg_decay=26.188
+volume=-3.4936
+offset=0
+end=456858
+loop_start=354694
+loop_end=456791
+
+<region>
+sample=samples\Piano MF G2(R).wav
+lokey=52 hikey=53
+pitch_keycenter=53
+pan=100
+pitcheg_hold=7.88075
+fileg_hold=7.88075
+pitcheg_decay=22.4063
+fileg_decay=22.4063
+ampeg_hold=7.88075
+ampeg_decay=22.4063
+volume=-3.97
+offset=0
+end=475991
+loop_start=347455
+loop_end=475959
+
+<region>
+sample=samples\Piano MF G2(L).wav
+lokey=52 hikey=53
+pitch_keycenter=53
+pan=-100
+pitcheg_hold=7.88075
+fileg_hold=7.88075
+pitcheg_decay=22.4063
+fileg_decay=22.4063
+ampeg_hold=7.88075
+ampeg_decay=22.4063
+volume=-3.97
+offset=0
+end=475991
+loop_start=347455
+loop_end=475959
+
+<region>
+sample=samples\Piano MF A2(R).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+pan=100
+pitcheg_hold=7.96771
+fileg_hold=7.96771
+pitcheg_decay=19.0493
+fileg_decay=19.0493
+ampeg_hold=7.96771
+ampeg_decay=19.0493
+volume=-3.4936
+offset=0
+end=459023
+loop_start=351660
+loop_end=458995
+
+<region>
+sample=samples\Piano MF A2(L).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+pan=-100
+pitcheg_hold=7.96771
+fileg_hold=7.96771
+pitcheg_decay=19.0493
+fileg_decay=19.0493
+ampeg_hold=7.96771
+ampeg_decay=19.0493
+volume=-3.4936
+offset=0
+end=459023
+loop_start=351660
+loop_end=458995
+
+<region>
+sample=samples\Piano MF B2(R).wav
+lokey=57 hikey=57
+pitch_keycenter=57
+pan=100
+pitcheg_hold=5.19935
+fileg_hold=5.19935
+pitcheg_decay=19.7439
+fileg_decay=19.7439
+ampeg_hold=5.19935
+ampeg_decay=19.7439
+volume=-4.2082
+offset=0
+end=355796
+loop_start=229448
+loop_end=355769
+
+<region>
+sample=samples\Piano MF B2(L).wav
+lokey=57 hikey=57
+pitch_keycenter=57
+pan=-100
+pitcheg_hold=5.19935
+fileg_hold=5.19935
+pitcheg_decay=19.7439
+fileg_decay=19.7439
+ampeg_hold=5.19935
+ampeg_decay=19.7439
+volume=-4.2082
+offset=0
+end=355796
+loop_start=229448
+loop_end=355769
+
+<region>
+sample=samples\Piano MF C3(R).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+pan=100
+pitcheg_hold=5.461
+fileg_hold=5.461
+pitcheg_decay=19.0493
+fileg_decay=19.0493
+ampeg_hold=5.461
+ampeg_decay=19.0493
+volume=-3.3348
+offset=0
+end=321866
+loop_start=240697
+loop_end=321803
+
+<region>
+sample=samples\Piano MF C3(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+pan=-100
+pitcheg_hold=5.461
+fileg_hold=5.461
+pitcheg_decay=19.0493
+fileg_decay=19.0493
+ampeg_hold=5.461
+ampeg_decay=19.0493
+volume=-3.3348
+offset=0
+end=321866
+loop_start=240697
+loop_end=321803
+
+<region>
+sample=samples\Piano MF D3(R).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+pan=100
+pitcheg_hold=6.4494
+fileg_hold=6.4494
+pitcheg_decay=17.3677
+fileg_decay=17.3677
+ampeg_hold=6.4494
+ampeg_decay=17.3677
+volume=-3.14424
+offset=0
+end=405979
+loop_start=284613
+loop_end=405890
+
+<region>
+sample=samples\Piano MF D3(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+pan=-100
+pitcheg_hold=6.4494
+fileg_hold=6.4494
+pitcheg_decay=17.3677
+fileg_decay=17.3677
+ampeg_hold=6.4494
+ampeg_decay=17.3677
+volume=-3.14424
+offset=0
+end=405979
+loop_start=284613
+loop_end=405890
+
+<region>
+sample=samples\Piano MF E3(R).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+pan=100
+pitcheg_hold=6.04887
+fileg_hold=6.04887
+pitcheg_decay=17.5087
+fileg_decay=17.5087
+ampeg_hold=6.04887
+ampeg_decay=17.5087
+volume=-3.8112
+offset=0
+end=372114
+loop_start=266746
+loop_end=372033
+
+<region>
+sample=samples\Piano MF E3(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+pan=-100
+pitcheg_hold=6.04887
+fileg_hold=6.04887
+pitcheg_decay=17.5087
+fileg_decay=17.5087
+ampeg_hold=6.04887
+ampeg_decay=17.5087
+volume=-3.8112
+offset=0
+end=372114
+loop_start=266746
+loop_end=372033
+
+<region>
+sample=samples\Piano MF G3(R).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+pan=100
+pitcheg_hold=5.64054
+fileg_hold=5.64054
+pitcheg_decay=17.3677
+fileg_decay=17.3677
+ampeg_hold=5.64054
+ampeg_decay=17.3677
+offset=0
+end=326781
+loop_start=248959
+loop_end=326754
+volume=-3.6524
+
+<region>
+sample=samples\Piano MF G3(L).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+pan=-100
+pitcheg_hold=5.64054
+fileg_hold=5.64054
+pitcheg_decay=17.3677
+fileg_decay=17.3677
+ampeg_hold=5.64054
+ampeg_decay=17.3677
+offset=0
+end=326781
+loop_start=248959
+loop_end=326754
+volume=-3.6524
+
+<region>
+sample=samples\Piano MF A3(R).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+pan=100
+pitcheg_hold=4.83997
+fileg_hold=4.83997
+pitcheg_decay=17.089
+fileg_decay=17.089
+ampeg_hold=4.83997
+ampeg_decay=17.089
+volume=-3.97
+offset=0
+end=292285
+loop_start=213409
+loop_end=292238
+
+<region>
+sample=samples\Piano MF A3(L).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+pan=-100
+pitcheg_hold=4.83997
+fileg_hold=4.83997
+pitcheg_decay=17.089
+fileg_decay=17.089
+ampeg_hold=4.83997
+ampeg_decay=17.089
+volume=-3.97
+offset=0
+end=292285
+loop_start=213409
+loop_end=292238
+
+<region>
+sample=samples\Piano MF B3(R).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+pan=100
+pitcheg_hold=4
+fileg_hold=4
+pitcheg_decay=17.7839
+fileg_decay=17.7839
+ampeg_hold=4
+ampeg_decay=17.7839
+volume=-3.2554
+offset=0
+end=242732
+loop_start=176262
+loop_end=242679
+
+<region>
+sample=samples\Piano MF B3(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+pan=-100
+pitcheg_hold=4
+fileg_hold=4
+pitcheg_decay=17.7839
+fileg_decay=17.7839
+ampeg_hold=4
+ampeg_decay=17.7839
+volume=-3.2554
+offset=0
+end=242732
+loop_start=176262
+loop_end=242679
+
+<region>
+sample=samples\Piano MF C4(R).wav
+lokey=70 hikey=72
+pitch_keycenter=70
+pan=100
+pitcheg_hold=2.95024
+fileg_hold=2.95024
+pitcheg_decay=17.7839
+fileg_decay=17.7839
+ampeg_hold=2.95024
+ampeg_decay=17.7839
+volume=-3.3348
+offset=0
+end=190603
+loop_start=130089
+loop_end=190561
+
+<region>
+sample=samples\Piano MF C4(L).wav
+lokey=70 hikey=72
+pitch_keycenter=70
+pan=-100
+pitcheg_hold=2.95024
+fileg_hold=2.95024
+pitcheg_decay=17.7839
+fileg_decay=17.7839
+ampeg_hold=2.95024
+ampeg_decay=17.7839
+volume=-3.3348
+offset=0
+end=190603
+loop_start=130089
+loop_end=190561
+
+<region>
+sample=samples\Piano MF E4(R).wav
+lokey=73 hikey=75
+pitch_keycenter=74
+pan=100
+pitcheg_hold=4.10059
+fileg_hold=4.10059
+pitcheg_decay=13.3846
+fileg_decay=13.3846
+ampeg_hold=4.10059
+ampeg_decay=13.3846
+volume=-3.3348
+offset=0
+end=238098
+loop_start=180860
+loop_end=238045
+
+<region>
+sample=samples\Piano MF E4(L).wav
+lokey=73 hikey=75
+pitch_keycenter=74
+pan=-100
+pitcheg_hold=4.10059
+fileg_hold=4.10059
+pitcheg_decay=13.3846
+fileg_decay=13.3846
+ampeg_hold=4.10059
+ampeg_decay=13.3846
+volume=-3.3348
+offset=0
+end=238098
+loop_start=180860
+loop_end=238045
+
+<region>
+sample=samples\Piano MF G4(R).wav
+lokey=76 hikey=77
+pitch_keycenter=77
+fileg_depth=-950
+pan=100
+pitcheg_hold=5.01934
+fileg_hold=5.01934
+pitcheg_decay=9.50815
+fileg_decay=9.50815
+ampeg_hold=5.01934
+ampeg_decay=9.50815
+volume=-3.7318
+offset=0
+end=253008
+loop_start=221233
+loop_end=252976
+
+<region>
+sample=samples\Piano MF G4(L).wav
+lokey=76 hikey=77
+pitch_keycenter=77
+fileg_depth=-950
+pan=-100
+pitcheg_hold=5.01934
+fileg_hold=5.01934
+pitcheg_decay=9.50815
+fileg_decay=9.50815
+ampeg_hold=5.01934
+ampeg_decay=9.50815
+volume=-3.7318
+offset=0
+end=253008
+loop_start=221233
+loop_end=252976
+
+<region>
+sample=samples\Piano MF G#4(R).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+fileg_depth=-950
+pan=100
+pitcheg_hold=2.22942
+fileg_hold=2.22942
+pitcheg_decay=12.1819
+fileg_decay=12.1819
+ampeg_hold=2.22942
+ampeg_decay=12.1819
+volume=-4.41464
+offset=0
+end=138533
+loop_start=98410
+loop_end=138505
+
+<region>
+sample=samples\Piano MF G#4(L).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+fileg_depth=-950
+pan=-100
+pitcheg_hold=2.22942
+fileg_hold=2.22942
+pitcheg_decay=12.1819
+fileg_decay=12.1819
+ampeg_hold=2.22942
+ampeg_decay=12.1819
+volume=-4.41464
+offset=0
+end=138533
+loop_start=98410
+loop_end=138505
+
+<region>
+sample=samples\Piano MF B4(R).wav
+lokey=80 hikey=81
+pitch_keycenter=81
+pan=100
+pitcheg_hold=3.3597
+fileg_hold=3.3597
+pitcheg_decay=6.96038
+fileg_decay=6.96038
+ampeg_hold=3.3597
+ampeg_decay=6.96038
+volume=-3.97
+offset=0
+end=199856
+loop_start=148147
+loop_end=199835
+
+<region>
+sample=samples\Piano MF B4(L).wav
+lokey=80 hikey=81
+pitch_keycenter=81
+pan=-100
+pitcheg_hold=3.3597
+fileg_hold=3.3597
+pitcheg_decay=6.96038
+fileg_decay=6.96038
+ampeg_hold=3.3597
+ampeg_decay=6.96038
+volume=-3.97
+offset=0
+end=199856
+loop_start=148147
+loop_end=199835
+
+<region>
+sample=samples\Piano MF C#5(R).wav
+lokey=82 hikey=84
+pitch_keycenter=83
+pan=100
+pitcheg_hold=3.43029
+fileg_hold=3.43029
+pitcheg_decay=6.40116
+fileg_decay=6.40116
+ampeg_hold=3.43029
+ampeg_decay=6.40116
+volume=-3.4936
+offset=0
+end=171154
+loop_start=151492
+loop_end=171115
+
+<region>
+sample=samples\Piano MF C#5(L).wav
+lokey=82 hikey=84
+pitch_keycenter=83
+pan=-100
+pitcheg_hold=3.43029
+fileg_hold=3.43029
+pitcheg_decay=6.40116
+fileg_decay=6.40116
+ampeg_hold=3.43029
+ampeg_decay=6.40116
+volume=-3.4936
+offset=0
+end=171154
+loop_start=151492
+loop_end=171115
+
+<region>
+sample=samples\Piano MF D#5(R).wav
+lokey=85 hikey=86
+pitch_keycenter=85
+pan=100
+pitcheg_hold=3.16016
+fileg_hold=3.16016
+pitcheg_decay=5.83945
+fileg_decay=5.83945
+ampeg_hold=3.16016
+ampeg_decay=5.83945
+offset=0
+end=162306
+loop_start=139478
+loop_end=162263
+volume=-3.6524
+
+<region>
+sample=samples\Piano MF D#5(L).wav
+lokey=85 hikey=86
+pitch_keycenter=85
+pan=-100
+pitcheg_hold=3.16016
+fileg_hold=3.16016
+pitcheg_decay=5.83945
+fileg_decay=5.83945
+ampeg_hold=3.16016
+ampeg_decay=5.83945
+offset=0
+end=162306
+loop_start=139478
+loop_end=162263
+volume=-3.6524
+
+<region>
+sample=samples\Piano MF F5(R).wav
+lokey=87 hikey=87
+pitch_keycenter=87
+pan=100
+pitcheg_hold=3.51047
+fileg_hold=3.51047
+pitcheg_decay=4.41016
+fileg_decay=4.41016
+ampeg_hold=3.51047
+ampeg_decay=4.41016
+volume=-3.4142
+offset=0
+end=177939
+loop_start=154905
+loop_end=177917
+
+<region>
+sample=samples\Piano MF F5(L).wav
+lokey=87 hikey=87
+pitch_keycenter=87
+pan=-100
+pitcheg_hold=3.51047
+fileg_hold=3.51047
+pitcheg_decay=4.41016
+fileg_decay=4.41016
+ampeg_hold=3.51047
+ampeg_decay=4.41016
+volume=-3.4142
+offset=0
+end=177939
+loop_start=154905
+loop_end=177917
+
+<group>
+lovel=1 hivel=100
+fil_type=lpf_2p
+cutoff=300
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.75002
+fileg_release=0.75002
+ampeg_sustain=0.001
+ampeg_release=1.50004
+volume=-3.6524
+transpose=-2
+loop_mode=loop_continuous
+resonance=6
+fileg_depth=-750
+pitcheg_decay=0.00136758
+fileg_decay=0.00136758
+ampeg_decay=0.00136758
+tune=-5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piano MF F5(R).wav
+lokey=88 hikey=88
+pitch_keycenter=87
+pan=100
+pitcheg_hold=3.51047
+fileg_hold=3.51047
+pitcheg_decay=4.41016
+fileg_decay=4.41016
+pitcheg_release=10.004
+fileg_release=10.004
+ampeg_hold=3.51047
+ampeg_decay=4.41016
+ampeg_release=20.0079
+volume=-3.4142
+offset=0
+end=177939
+loop_start=154905
+loop_end=177917
+
+<region>
+sample=samples\Piano MF F5(L).wav
+lokey=88 hikey=88
+pitch_keycenter=87
+pan=-100
+pitcheg_hold=3.51047
+fileg_hold=3.51047
+pitcheg_decay=4.41016
+fileg_decay=4.41016
+pitcheg_release=10.004
+fileg_release=10.004
+ampeg_hold=3.51047
+ampeg_decay=4.41016
+ampeg_release=20.0079
+volume=-3.4142
+offset=0
+end=177939
+loop_start=154905
+loop_end=177917
+
+<region>
+sample=samples\Piano MF G5(R).wav
+lokey=89 hikey=90
+pitch_keycenter=89
+pan=100
+pitcheg_hold=2.2697
+fileg_hold=2.2697
+pitcheg_decay=5.22344
+fileg_decay=5.22344
+pitcheg_release=9.00046
+fileg_release=9.00046
+ampeg_hold=2.2697
+ampeg_decay=5.22344
+ampeg_release=18.0009
+volume=-3.97
+offset=0
+end=125936
+loop_start=100148
+loop_end=125908
+
+<region>
+sample=samples\Piano MF G5(L).wav
+lokey=89 hikey=90
+pitch_keycenter=89
+pan=-100
+pitcheg_hold=2.2697
+fileg_hold=2.2697
+pitcheg_decay=5.22344
+fileg_decay=5.22344
+pitcheg_release=9.00046
+fileg_release=9.00046
+ampeg_hold=2.2697
+ampeg_decay=5.22344
+ampeg_release=18.0009
+volume=-3.97
+offset=0
+end=125936
+loop_start=100148
+loop_end=125908
+
+<region>
+sample=samples\Piano MF A5(R).wav
+lokey=91 hikey=92
+pitch_keycenter=91
+pan=100
+pitcheg_hold=2.23974
+fileg_hold=2.23974
+pitcheg_decay=4.3269
+fileg_decay=4.3269
+pitcheg_release=7.99537
+fileg_release=7.99537
+ampeg_hold=2.23974
+ampeg_decay=4.3269
+ampeg_release=15.9907
+volume=-2.98544
+offset=0
+end=117137
+loop_start=98939
+loop_end=117102
+
+<region>
+sample=samples\Piano MF A5(L).wav
+lokey=91 hikey=92
+pitch_keycenter=91
+pan=-100
+pitcheg_hold=2.23974
+fileg_hold=2.23974
+pitcheg_decay=4.3269
+fileg_decay=4.3269
+pitcheg_release=7.99537
+fileg_release=7.99537
+ampeg_hold=2.23974
+ampeg_decay=4.3269
+ampeg_release=15.9907
+volume=-2.98544
+offset=0
+end=117137
+loop_start=98939
+loop_end=117102
+
+<region>
+sample=samples\Piano MF B5(R).wav
+lokey=93 hikey=94
+pitch_keycenter=93
+pan=100
+pitcheg_hold=2.18985
+fileg_hold=2.18985
+pitcheg_decay=3.47216
+fileg_decay=3.47216
+pitcheg_release=7.00474
+fileg_release=7.00474
+ampeg_hold=2.18985
+ampeg_decay=3.47216
+ampeg_release=14.0095
+volume=-4.0494
+offset=0
+end=113347
+loop_start=96658
+loop_end=113311
+
+<region>
+sample=samples\Piano MF B5(L).wav
+lokey=93 hikey=94
+pitch_keycenter=93
+pan=-100
+pitcheg_hold=2.18985
+fileg_hold=2.18985
+pitcheg_decay=3.47216
+fileg_decay=3.47216
+pitcheg_release=7.00474
+fileg_release=7.00474
+ampeg_hold=2.18985
+ampeg_decay=3.47216
+ampeg_release=14.0095
+volume=-4.0494
+offset=0
+end=113347
+loop_start=96658
+loop_end=113311
+
+<region>
+sample=samples\Piano MF C#6(R).wav
+lokey=95 hikey=96
+pitch_keycenter=95
+pan=100
+pitcheg_hold=1.75018
+fileg_hold=1.75018
+pitcheg_decay=3.43029
+fileg_decay=3.43029
+pitcheg_release=6.29846
+fileg_release=6.29846
+ampeg_hold=1.75018
+ampeg_decay=3.43029
+ampeg_release=12.5969
+volume=-4.2082
+offset=0
+end=90982
+loop_start=77014
+loop_end=90968
+
+<region>
+sample=samples\Piano MF C#6(L).wav
+lokey=95 hikey=96
+pitch_keycenter=95
+pan=-100
+pitcheg_hold=1.75018
+fileg_hold=1.75018
+pitcheg_decay=3.43029
+fileg_decay=3.43029
+pitcheg_release=6.29846
+fileg_release=6.29846
+ampeg_hold=1.75018
+ampeg_decay=3.43029
+ampeg_release=12.5969
+volume=-4.2082
+offset=0
+end=90982
+loop_start=77014
+loop_end=90968
+
+<region>
+sample=samples\Piano MF D#6(R).wav
+lokey=97 hikey=98
+pitch_keycenter=97
+pan=100
+pitcheg_hold=2.22942
+fileg_hold=2.22942
+pitcheg_decay=2.11404
+fileg_decay=2.11404
+pitcheg_release=5.59511
+fileg_release=5.59511
+ampeg_hold=2.22942
+ampeg_decay=2.11404
+ampeg_release=11.1902
+volume=-3.8112
+offset=0
+end=108931
+loop_start=98154
+loop_end=108918
+
+<region>
+sample=samples\Piano MF D#6(L).wav
+lokey=97 hikey=98
+pitch_keycenter=97
+pan=-100
+pitcheg_hold=2.22942
+fileg_hold=2.22942
+pitcheg_decay=2.11404
+fileg_decay=2.11404
+pitcheg_release=5.59511
+fileg_release=5.59511
+ampeg_hold=2.22942
+ampeg_decay=2.11404
+ampeg_release=11.1902
+volume=-3.8112
+offset=0
+end=108931
+loop_start=98154
+loop_end=108918
+
+<region>
+sample=samples\Piano MF F6(R).wav
+lokey=99 hikey=100
+pitch_keycenter=99
+pan=100
+pitcheg_hold=1.76031
+fileg_hold=1.76031
+pitcheg_decay=2.11404
+fileg_decay=2.11404
+pitcheg_release=4.9047
+fileg_release=4.9047
+ampeg_hold=1.76031
+ampeg_decay=2.11404
+ampeg_release=9.8094
+volume=-3.8906
+offset=0
+end=87872
+loop_start=77463
+loop_end=87854
+
+<region>
+sample=samples\Piano MF F6(L).wav
+lokey=99 hikey=100
+pitch_keycenter=99
+pan=-100
+pitcheg_hold=1.76031
+fileg_hold=1.76031
+pitcheg_decay=2.11404
+fileg_decay=2.11404
+pitcheg_release=4.9047
+fileg_release=4.9047
+ampeg_hold=1.76031
+ampeg_decay=2.11404
+ampeg_release=9.8094
+volume=-3.8906
+offset=0
+end=87872
+loop_start=77463
+loop_end=87854
+
+<region>
+sample=samples\Piano MF G6(R).wav
+lokey=101 hikey=102
+pitch_keycenter=101
+pan=100
+pitcheg_hold=1.87038
+fileg_hold=1.87038
+pitcheg_decay=1.44226
+fileg_decay=1.44226
+pitcheg_release=4.34945
+fileg_release=4.34945
+ampeg_hold=1.87038
+ampeg_decay=1.44226
+ampeg_release=8.69889
+offset=0
+end=102763
+loop_start=82353
+loop_end=102743
+volume=-3.6524
+
+<region>
+sample=samples\Piano MF G6(L).wav
+lokey=101 hikey=102
+pitch_keycenter=101
+pan=-100
+pitcheg_hold=1.87038
+fileg_hold=1.87038
+pitcheg_decay=1.44226
+fileg_decay=1.44226
+pitcheg_release=4.34945
+fileg_release=4.34945
+ampeg_hold=1.87038
+ampeg_decay=1.44226
+ampeg_release=8.69889
+offset=0
+end=102763
+loop_start=82353
+loop_end=102743
+volume=-3.6524
+
+<region>
+sample=samples\Piano MF A6(R).wav
+lokey=103 hikey=104
+pitch_keycenter=103
+pan=100
+pitcheg_hold=2.01042
+fileg_hold=2.01042
+pitcheg_decay=1.40039
+fileg_decay=1.40039
+pitcheg_release=3.79517
+fileg_release=3.79517
+ampeg_hold=2.01042
+ampeg_decay=1.40039
+ampeg_release=7.59035
+volume=-3.8906
+offset=0
+end=102833
+loop_start=88602
+loop_end=102813
+
+<region>
+sample=samples\Piano MF A6(L).wav
+lokey=103 hikey=104
+pitch_keycenter=103
+pan=-100
+pitcheg_hold=2.01042
+fileg_hold=2.01042
+pitcheg_decay=1.40039
+fileg_decay=1.40039
+pitcheg_release=3.79517
+fileg_release=3.79517
+ampeg_hold=2.01042
+ampeg_decay=1.40039
+ampeg_release=7.59035
+volume=-3.8906
+offset=0
+end=102833
+loop_start=88602
+loop_end=102813
+
+<region>
+sample=samples\Piano MF B6(R).wav
+lokey=105 hikey=108
+pitch_keycenter=105
+pan=100
+pitcheg_hold=2.07053
+fileg_hold=2.07053
+pitcheg_decay=1.40039
+fileg_decay=1.40039
+pitcheg_release=3.25464
+fileg_release=3.25464
+ampeg_hold=2.07053
+ampeg_decay=1.40039
+ampeg_release=6.50928
+volume=-3.97
+offset=0
+end=115698
+loop_start=91424
+loop_end=115676
+
+<region>
+sample=samples\Piano MF B6(L).wav
+lokey=105 hikey=108
+pitch_keycenter=105
+pan=-100
+pitcheg_hold=2.07053
+fileg_hold=2.07053
+pitcheg_decay=1.40039
+fileg_decay=1.40039
+pitcheg_release=3.25464
+fileg_release=3.25464
+ampeg_hold=2.07053
+ampeg_decay=1.40039
+ampeg_release=6.50928
+volume=-3.97
+offset=0
+end=115698
+loop_start=91424
+loop_end=115676
+
+<group>
+lovel=101 hivel=127
+fil_type=lpf_2p
+cutoff=300
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_sustain=0.001
+ampeg_release=0.549999
+volume=-3.6524
+transpose=-2
+loop_mode=loop_continuous
+resonance=6
+fileg_depth=-750
+pitcheg_decay=0.00136758
+fileg_decay=0.00136758
+ampeg_decay=0.00136758
+tune=-5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piano FF Bv1(R).wav
+lokey=12 hikey=22
+pitch_keycenter=21
+pan=100
+pitcheg_hold=9.8094
+fileg_hold=9.8094
+pitcheg_decay=64.7061
+fileg_decay=64.7061
+ampeg_hold=9.8094
+ampeg_decay=64.7061
+volume=-2.57256
+offset=0
+end=575599
+loop_start=432525
+loop_end=575585
+
+<region>
+sample=samples\Piano FF Bv1(L).wav
+lokey=12 hikey=22
+pitch_keycenter=21
+pan=-100
+pitcheg_hold=9.8094
+fileg_hold=9.8094
+pitcheg_decay=64.7061
+fileg_decay=64.7061
+ampeg_hold=9.8094
+ampeg_decay=64.7061
+volume=-2.57256
+offset=0
+end=575599
+loop_start=432525
+loop_end=575585
+
+<region>
+sample=samples\Piano FF D#0(R).wav
+lokey=23 hikey=25
+pitch_keycenter=25
+pan=100
+pitcheg_hold=9.16837
+fileg_hold=9.16837
+pitcheg_decay=64.1479
+fileg_decay=64.1479
+ampeg_hold=9.16837
+ampeg_decay=64.1479
+volume=-3.4936
+offset=0
+end=549205
+loop_start=404247
+loop_end=549183
+
+<region>
+sample=samples\Piano FF D#0(L).wav
+lokey=23 hikey=25
+pitch_keycenter=25
+pan=-100
+pitcheg_hold=9.16837
+fileg_hold=9.16837
+pitcheg_decay=64.1479
+fileg_decay=64.1479
+ampeg_hold=9.16837
+ampeg_decay=64.1479
+volume=-3.4936
+offset=0
+end=549205
+loop_start=404247
+loop_end=549183
+
+<region>
+sample=samples\Piano FF F0(R).wav
+lokey=26 hikey=28
+pitch_keycenter=27
+pan=100
+pitcheg_hold=9.99818
+fileg_hold=9.99818
+pitcheg_decay=59.783
+fileg_decay=59.783
+ampeg_hold=11.3006
+ampeg_decay=59.783
+volume=-3.573
+offset=0
+end=626912
+loop_start=497342
+loop_end=626898
+
+<region>
+sample=samples\Piano FF F0(L).wav
+lokey=26 hikey=28
+pitch_keycenter=27
+pan=-100
+pitcheg_hold=9.99818
+fileg_hold=9.99818
+pitcheg_decay=59.783
+fileg_decay=59.783
+ampeg_hold=11.3006
+ampeg_decay=59.783
+volume=-3.573
+offset=0
+end=626912
+loop_start=497342
+loop_end=626898
+
+<region>
+sample=samples\Piano FF G0(R).wav
+lokey=29 hikey=30
+pitch_keycenter=29
+pan=100
+pitcheg_hold=8.90222
+fileg_hold=8.90222
+pitcheg_decay=61.3219
+fileg_decay=61.3219
+ampeg_hold=8.90222
+ampeg_decay=61.3219
+volume=-3.4936
+offset=0
+end=540816
+loop_start=392312
+loop_end=540788
+
+<region>
+sample=samples\Piano FF G0(L).wav
+lokey=29 hikey=30
+pitch_keycenter=29
+pan=-100
+pitcheg_hold=8.90222
+fileg_hold=8.90222
+pitcheg_decay=61.3219
+fileg_decay=61.3219
+ampeg_hold=8.90222
+ampeg_decay=61.3219
+volume=-3.4936
+offset=0
+end=540816
+loop_start=392312
+loop_end=540788
+
+<region>
+sample=samples\Piano FF A0(R).wav
+lokey=31 hikey=32
+pitch_keycenter=31
+pan=100
+pitcheg_hold=9.37184
+fileg_hold=9.37184
+pitcheg_decay=58.8239
+fileg_decay=58.8239
+ampeg_hold=9.37184
+ampeg_decay=58.8239
+volume=-3.0172
+offset=0
+end=544810
+loop_start=413209
+loop_end=544769
+
+<region>
+sample=samples\Piano FF A0(L).wav
+lokey=31 hikey=32
+pitch_keycenter=31
+pan=-100
+pitcheg_hold=9.37184
+fileg_hold=9.37184
+pitcheg_decay=58.8239
+fileg_decay=58.8239
+ampeg_hold=9.37184
+ampeg_decay=58.8239
+volume=-3.0172
+offset=0
+end=544810
+loop_start=413209
+loop_end=544769
+
+<region>
+sample=samples\Piano FF B0(R).wav
+lokey=33 hikey=34
+pitch_keycenter=33
+pan=100
+pitcheg_hold=8.91766
+fileg_hold=8.91766
+pitcheg_decay=57.5468
+fileg_decay=57.5468
+ampeg_hold=8.91766
+ampeg_decay=57.5468
+volume=-2.779
+offset=0
+end=519597
+loop_start=393237
+loop_end=519583
+
+<region>
+sample=samples\Piano FF B0(L).wav
+lokey=33 hikey=34
+pitch_keycenter=33
+pan=-100
+pitcheg_hold=8.91766
+fileg_hold=8.91766
+pitcheg_decay=57.5468
+fileg_decay=57.5468
+ampeg_hold=8.91766
+ampeg_decay=57.5468
+volume=-2.779
+offset=0
+end=519597
+loop_start=393237
+loop_end=519583
+
+<region>
+sample=samples\Piano FF D1(R).wav
+lokey=35 hikey=36
+pitch_keycenter=36
+pan=100
+pitcheg_hold=9.15779
+fileg_hold=9.15779
+pitcheg_decay=52.9233
+fileg_decay=52.9233
+ampeg_hold=9.15779
+ampeg_decay=52.9233
+volume=-3.4936
+offset=0
+end=560356
+loop_start=404178
+loop_end=560342
+
+<region>
+sample=samples\Piano FF D1(L).wav
+lokey=35 hikey=36
+pitch_keycenter=36
+pan=-100
+pitcheg_hold=9.15779
+fileg_hold=9.15779
+pitcheg_decay=52.9233
+fileg_decay=52.9233
+ampeg_hold=9.15779
+ampeg_decay=52.9233
+volume=-3.4936
+offset=0
+end=560356
+loop_start=404178
+loop_end=560342
+
+<region>
+sample=samples\Piano FF E1(R).wav
+lokey=37 hikey=39
+pitch_keycenter=38
+pan=100
+pitcheg_hold=8.87142
+fileg_hold=8.87142
+pitcheg_decay=51.2684
+fileg_decay=51.2684
+ampeg_hold=8.87142
+ampeg_decay=51.2684
+volume=-3.4936
+offset=0
+end=536821
+loop_start=391041
+loop_end=536789
+
+<region>
+sample=samples\Piano FF E1(L).wav
+lokey=37 hikey=39
+pitch_keycenter=38
+pan=-100
+pitcheg_hold=8.87142
+fileg_hold=8.87142
+pitcheg_decay=51.2684
+fileg_decay=51.2684
+ampeg_hold=8.87142
+ampeg_decay=51.2684
+volume=-3.4936
+offset=0
+end=536821
+loop_start=391041
+loop_end=536789
+
+<region>
+sample=samples\Piano FF G1(R).wav
+lokey=40 hikey=41
+pitch_keycenter=41
+pan=100
+pitcheg_hold=8.12105
+fileg_hold=8.12105
+pitcheg_decay=47.0405
+fileg_decay=47.0405
+ampeg_hold=8.12105
+ampeg_decay=47.0405
+volume=-3.7318
+offset=0
+end=506392
+loop_start=357943
+loop_end=506378
+
+<region>
+sample=samples\Piano FF G1(L).wav
+lokey=40 hikey=41
+pitch_keycenter=41
+pan=-100
+pitcheg_hold=8.12105
+fileg_hold=8.12105
+pitcheg_decay=47.0405
+fileg_decay=47.0405
+ampeg_hold=8.12105
+ampeg_decay=47.0405
+volume=-3.7318
+offset=0
+end=506392
+loop_start=357943
+loop_end=506378
+
+<region>
+sample=samples\Piano FF A1(R).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+pan=100
+pitcheg_hold=9.33941
+fileg_hold=9.33941
+pitcheg_decay=42.0053
+fileg_decay=42.0053
+ampeg_hold=9.33941
+ampeg_decay=42.0053
+offset=0
+end=559010
+loop_start=412232
+loop_end=558982
+volume=-3.6524
+
+<region>
+sample=samples\Piano FF A1(L).wav
+lokey=42 hikey=43
+pitch_keycenter=43
+pan=-100
+pitcheg_hold=9.33941
+fileg_hold=9.33941
+pitcheg_decay=42.0053
+fileg_decay=42.0053
+ampeg_hold=9.33941
+ampeg_decay=42.0053
+offset=0
+end=559010
+loop_start=412232
+loop_end=558982
+volume=-3.6524
+
+<region>
+sample=samples\Piano FF B1(R).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+pan=100
+pitcheg_hold=9.40981
+fileg_hold=9.40981
+pitcheg_decay=38.6527
+fileg_decay=38.6527
+ampeg_hold=9.40981
+ampeg_decay=38.6527
+volume=-3.97
+offset=0
+end=562007
+loop_start=414963
+loop_end=561993
+
+<region>
+sample=samples\Piano FF B1(L).wav
+lokey=44 hikey=45
+pitch_keycenter=45
+pan=-100
+pitcheg_hold=9.40981
+fileg_hold=9.40981
+pitcheg_decay=38.6527
+fileg_decay=38.6527
+ampeg_hold=9.40981
+ampeg_decay=38.6527
+volume=-3.97
+offset=0
+end=562007
+loop_start=414963
+loop_end=561993
+
+<region>
+sample=samples\Piano FF C2(R).wav
+lokey=46 hikey=47
+pitch_keycenter=46
+pan=100
+pitcheg_hold=8.63881
+fileg_hold=8.63881
+pitcheg_decay=36.9712
+fileg_decay=36.9712
+ampeg_hold=8.63881
+ampeg_decay=36.9712
+offset=0
+end=521174
+loop_start=381146
+loop_end=521160
+volume=-3.6524
+
+<region>
+sample=samples\Piano FF C2(L).wav
+lokey=46 hikey=47
+pitch_keycenter=46
+pan=-100
+pitcheg_hold=8.63881
+fileg_hold=8.63881
+pitcheg_decay=36.9712
+fileg_decay=36.9712
+ampeg_hold=8.63881
+ampeg_decay=36.9712
+offset=0
+end=521174
+loop_start=381146
+loop_end=521160
+volume=-3.6524
+
+<region>
+sample=samples\Piano FF D2(R).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+pan=100
+pitcheg_hold=9.79242
+fileg_hold=9.79242
+pitcheg_decay=32.4842
+fileg_decay=32.4842
+ampeg_hold=9.79242
+ampeg_decay=32.4842
+volume=-4.1288
+offset=0
+end=551345
+loop_start=431665
+loop_end=551331
+
+<region>
+sample=samples\Piano FF D2(L).wav
+lokey=48 hikey=49
+pitch_keycenter=48
+pan=-100
+pitcheg_hold=9.79242
+fileg_hold=9.79242
+pitcheg_decay=32.4842
+fileg_decay=32.4842
+ampeg_hold=9.79242
+ampeg_decay=32.4842
+volume=-4.1288
+offset=0
+end=551345
+loop_start=431665
+loop_end=551331
+
+<region>
+sample=samples\Piano FF E2(R).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+pan=100
+pitcheg_hold=8.87142
+fileg_hold=8.87142
+pitcheg_decay=30.9456
+fileg_decay=30.9456
+ampeg_hold=8.87142
+ampeg_decay=30.9456
+volume=-3.4936
+offset=0
+end=530351
+loop_start=391146
+loop_end=530285
+
+<region>
+sample=samples\Piano FF E2(L).wav
+lokey=50 hikey=51
+pitch_keycenter=50
+pan=-100
+pitcheg_hold=8.87142
+fileg_hold=8.87142
+pitcheg_decay=30.9456
+fileg_decay=30.9456
+ampeg_hold=8.87142
+ampeg_decay=30.9456
+volume=-3.4936
+offset=0
+end=530351
+loop_start=391146
+loop_end=530285
+
+<region>
+sample=samples\Piano FF G2(R).wav
+lokey=52 hikey=53
+pitch_keycenter=53
+pan=100
+pitcheg_hold=6.50177
+fileg_hold=6.50177
+pitcheg_decay=29.8225
+fileg_decay=29.8225
+ampeg_hold=6.50177
+ampeg_decay=29.8225
+volume=-3.97
+offset=0
+end=370284
+loop_start=286640
+loop_end=370254
+
+<region>
+sample=samples\Piano FF G2(L).wav
+lokey=52 hikey=53
+pitch_keycenter=53
+pan=-100
+pitcheg_hold=6.50177
+fileg_hold=6.50177
+pitcheg_decay=29.8225
+fileg_decay=29.8225
+ampeg_hold=6.50177
+ampeg_decay=29.8225
+volume=-3.97
+offset=0
+end=370284
+loop_start=286640
+loop_end=370254
+
+<region>
+sample=samples\Piano FF A2(R).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+pan=100
+pitcheg_hold=6.47927
+fileg_hold=6.47927
+pitcheg_decay=26.4617
+fileg_decay=26.4617
+ampeg_hold=6.47927
+ampeg_decay=26.4617
+volume=-3.4936
+offset=0
+end=387301
+loop_start=285534
+loop_end=387287
+
+<region>
+sample=samples\Piano FF A2(L).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+pan=-100
+pitcheg_hold=6.47927
+fileg_hold=6.47927
+pitcheg_decay=26.4617
+fileg_decay=26.4617
+ampeg_hold=6.47927
+ampeg_decay=26.4617
+volume=-3.4936
+offset=0
+end=387301
+loop_start=285534
+loop_end=387287
+
+<region>
+sample=samples\Piano FF B2(R).wav
+lokey=57 hikey=57
+pitch_keycenter=57
+pan=100
+pitcheg_hold=6.49051
+fileg_hold=6.49051
+pitcheg_decay=23.1028
+fileg_decay=23.1028
+ampeg_hold=6.49051
+ampeg_decay=23.1028
+volume=-4.2082
+offset=0
+end=362864
+loop_start=286320
+loop_end=362850
+
+<region>
+sample=samples\Piano FF B2(L).wav
+lokey=57 hikey=57
+pitch_keycenter=57
+pan=-100
+pitcheg_hold=6.49051
+fileg_hold=6.49051
+pitcheg_decay=23.1028
+fileg_decay=23.1028
+ampeg_hold=6.49051
+ampeg_decay=23.1028
+volume=-4.2082
+offset=0
+end=362864
+loop_start=286320
+loop_end=362850
+
+<region>
+sample=samples\Piano FF C3(R).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+pan=100
+pitcheg_hold=4.57889
+fileg_hold=4.57889
+pitcheg_decay=25.4866
+fileg_decay=25.4866
+ampeg_hold=4.57889
+ampeg_decay=25.4866
+volume=-3.3348
+offset=0
+end=281888
+loop_start=202193
+loop_end=281804
+
+<region>
+sample=samples\Piano FF C3(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+pan=-100
+pitcheg_hold=4.57889
+fileg_hold=4.57889
+pitcheg_decay=25.4866
+fileg_decay=25.4866
+ampeg_hold=4.57889
+ampeg_decay=25.4866
+volume=-3.3348
+offset=0
+end=281888
+loop_start=202193
+loop_end=281804
+
+<region>
+sample=samples\Piano FF D3(R).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+pan=100
+pitcheg_hold=5.25977
+fileg_hold=5.25977
+pitcheg_decay=24.0839
+fileg_decay=24.0839
+ampeg_hold=5.25977
+ampeg_decay=24.0839
+volume=-3.14424
+offset=0
+end=288995
+loop_start=231802
+loop_end=288908
+
+<region>
+sample=samples\Piano FF D3(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+pan=-100
+pitcheg_hold=5.25977
+fileg_hold=5.25977
+pitcheg_decay=24.0839
+fileg_decay=24.0839
+ampeg_hold=5.25977
+ampeg_decay=24.0839
+volume=-3.14424
+offset=0
+end=288995
+loop_start=231802
+loop_end=288908
+
+<region>
+sample=samples\Piano FF E3(R).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+pan=100
+pitcheg_hold=6.09094
+fileg_hold=6.09094
+pitcheg_decay=22.6928
+fileg_decay=22.6928
+ampeg_hold=6.09094
+ampeg_decay=22.6928
+volume=-3.8112
+offset=0
+end=343579
+loop_start=268599
+loop_end=343512
+
+<region>
+sample=samples\Piano FF E3(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+pan=-100
+pitcheg_hold=6.09094
+fileg_hold=6.09094
+pitcheg_decay=22.6928
+fileg_decay=22.6928
+ampeg_hold=6.09094
+ampeg_decay=22.6928
+volume=-3.8112
+offset=0
+end=343579
+loop_start=268599
+loop_end=343512
+
+<region>
+sample=samples\Piano FF G3(R).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+pan=100
+pitcheg_hold=4.35951
+fileg_hold=4.35951
+pitcheg_decay=24.2234
+fileg_decay=24.2234
+ampeg_hold=4.35951
+ampeg_decay=24.2234
+offset=0
+end=254066
+loop_start=192186
+loop_end=254052
+volume=-3.6524
+
+<region>
+sample=samples\Piano FF G3(L).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+pan=-100
+pitcheg_hold=4.35951
+fileg_hold=4.35951
+pitcheg_decay=24.2234
+fileg_decay=24.2234
+ampeg_hold=4.35951
+ampeg_decay=24.2234
+offset=0
+end=254066
+loop_start=192186
+loop_end=254052
+volume=-3.6524
+
+<region>
+sample=samples\Piano FF A3(R).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+pan=100
+pitcheg_hold=4.45111
+fileg_hold=4.45111
+pitcheg_decay=22.2644
+fileg_decay=22.2644
+ampeg_hold=4.45111
+ampeg_decay=22.2644
+volume=-3.97
+offset=0
+end=270461
+loop_start=196036
+loop_end=270428
+
+<region>
+sample=samples\Piano FF A3(L).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+pan=-100
+pitcheg_hold=4.45111
+fileg_hold=4.45111
+pitcheg_decay=22.2644
+fileg_decay=22.2644
+ampeg_hold=4.45111
+ampeg_decay=22.2644
+volume=-3.97
+offset=0
+end=270461
+loop_start=196036
+loop_end=270428
+
+<region>
+sample=samples\Piano FF B3(R).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+pan=100
+pitcheg_hold=3.97007
+fileg_hold=3.97007
+pitcheg_decay=22.4063
+fileg_decay=22.4063
+ampeg_hold=3.97007
+ampeg_decay=22.4063
+volume=-3.2554
+offset=0
+end=232339
+loop_start=175016
+loop_end=232300
+
+<region>
+sample=samples\Piano FF B3(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+pan=-100
+pitcheg_hold=3.97007
+fileg_hold=3.97007
+pitcheg_decay=22.4063
+fileg_decay=22.4063
+ampeg_hold=3.97007
+ampeg_decay=22.4063
+volume=-3.2554
+offset=0
+end=232339
+loop_start=175016
+loop_end=232300
+
+<region>
+sample=samples\Piano FF C4(R).wav
+lokey=70 hikey=72
+pitch_keycenter=70
+pan=100
+pitcheg_hold=2.83006
+fileg_hold=2.83006
+pitcheg_decay=22.2644
+fileg_decay=22.2644
+ampeg_hold=2.83006
+ampeg_decay=22.2644
+volume=-3.3348
+offset=0
+end=167805
+loop_start=124674
+loop_end=167778
+
+<region>
+sample=samples\Piano FF C4(L).wav
+lokey=70 hikey=72
+pitch_keycenter=70
+pan=-100
+pitcheg_hold=2.83006
+fileg_hold=2.83006
+pitcheg_decay=22.2644
+fileg_decay=22.2644
+ampeg_hold=2.83006
+ampeg_decay=22.2644
+volume=-3.3348
+offset=0
+end=167805
+loop_start=124674
+loop_end=167778
+
+<region>
+sample=samples\Piano FF E4(R).wav
+lokey=73 hikey=75
+pitch_keycenter=74
+pan=100
+pitcheg_hold=4.3294
+fileg_hold=4.3294
+pitcheg_decay=16.6602
+fileg_decay=16.6602
+ampeg_hold=4.3294
+ampeg_decay=16.6602
+volume=-3.3348
+offset=0
+end=229407
+loop_start=190833
+loop_end=229355
+
+<region>
+sample=samples\Piano FF E4(L).wav
+lokey=73 hikey=75
+pitch_keycenter=74
+pan=-100
+pitcheg_hold=4.3294
+fileg_hold=4.3294
+pitcheg_decay=16.6602
+fileg_decay=16.6602
+ampeg_hold=4.3294
+ampeg_decay=16.6602
+volume=-3.3348
+offset=0
+end=229407
+loop_start=190833
+loop_end=229355
+
+<region>
+sample=samples\Piano FF G4(R).wav
+lokey=76 hikey=77
+pitch_keycenter=77
+pan=100
+pitcheg_hold=2.37979
+fileg_hold=2.37979
+pitcheg_decay=16.2421
+fileg_decay=16.2421
+ampeg_hold=2.37979
+ampeg_decay=16.2421
+volume=-3.7318
+offset=0
+end=157147
+loop_start=104849
+loop_end=157129
+
+<region>
+sample=samples\Piano FF G4(L).wav
+lokey=76 hikey=77
+pitch_keycenter=77
+pan=-100
+pitcheg_hold=2.37979
+fileg_hold=2.37979
+pitcheg_decay=16.2421
+fileg_decay=16.2421
+ampeg_hold=2.37979
+ampeg_decay=16.2421
+volume=-3.7318
+offset=0
+end=157147
+loop_start=104849
+loop_end=157129
+
+<region>
+sample=samples\Piano FF G#4(R).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+pan=100
+pitcheg_hold=3.2303
+fileg_hold=3.2303
+pitcheg_decay=13.6816
+fileg_decay=13.6816
+ampeg_hold=3.2303
+ampeg_decay=13.6816
+volume=-4.41464
+offset=0
+end=170834
+loop_start=142491
+loop_end=170820
+
+<region>
+sample=samples\Piano FF G#4(L).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+pan=-100
+pitcheg_hold=3.2303
+fileg_hold=3.2303
+pitcheg_decay=13.6816
+fileg_decay=13.6816
+ampeg_hold=3.2303
+ampeg_decay=13.6816
+volume=-4.41464
+offset=0
+end=170834
+loop_start=142491
+loop_end=170820
+
+<region>
+sample=samples\Piano FF B4(R).wav
+lokey=80 hikey=81
+pitch_keycenter=81
+pan=100
+pitcheg_hold=3.1005
+fileg_hold=3.1005
+pitcheg_decay=9.66318
+fileg_decay=9.66318
+ampeg_hold=3.1005
+ampeg_decay=9.66318
+volume=-3.97
+offset=0
+end=160146
+loop_start=136702
+loop_end=160126
+
+<region>
+sample=samples\Piano FF B4(L).wav
+lokey=80 hikey=81
+pitch_keycenter=81
+pan=-100
+pitcheg_hold=3.1005
+fileg_hold=3.1005
+pitcheg_decay=9.66318
+fileg_decay=9.66318
+ampeg_hold=3.1005
+ampeg_decay=9.66318
+volume=-3.97
+offset=0
+end=160146
+loop_start=136702
+loop_end=160126
+
+<region>
+sample=samples\Piano FF C#5(R).wav
+lokey=82 hikey=84
+pitch_keycenter=83
+pan=100
+pitcheg_hold=3.25089
+fileg_hold=3.25089
+pitcheg_decay=8.89194
+fileg_decay=8.89194
+ampeg_hold=3.25089
+ampeg_decay=8.89194
+volume=-3.8906
+offset=0
+end=167205
+loop_start=143362
+loop_end=167179
+
+<region>
+sample=samples\Piano FF C#5(L).wav
+lokey=82 hikey=84
+pitch_keycenter=83
+pan=-100
+pitcheg_hold=3.25089
+fileg_hold=3.25089
+pitcheg_decay=8.89194
+fileg_decay=8.89194
+ampeg_hold=3.25089
+ampeg_decay=8.89194
+volume=-3.8906
+offset=0
+end=167205
+loop_start=143362
+loop_end=167179
+
+<region>
+sample=samples\Piano MF D#5(R).wav
+lokey=85 hikey=86
+pitch_keycenter=85
+pan=100
+pitcheg_hold=3.16016
+fileg_hold=3.16016
+pitcheg_decay=5.83945
+fileg_decay=5.83945
+ampeg_hold=3.16016
+ampeg_decay=5.83945
+volume=-3.176
+offset=0
+end=162306
+loop_start=139478
+loop_end=162263
+
+<region>
+sample=samples\Piano MF D#5(L).wav
+lokey=85 hikey=86
+pitch_keycenter=85
+pan=-100
+pitcheg_hold=3.16016
+fileg_hold=3.16016
+pitcheg_decay=5.83945
+fileg_decay=5.83945
+ampeg_hold=3.16016
+ampeg_decay=5.83945
+volume=-3.176
+offset=0
+end=162306
+loop_start=139478
+loop_end=162263
+
+<region>
+sample=samples\Piano FF F5(R).wav
+lokey=87 hikey=87
+pitch_keycenter=87
+pan=100
+pitcheg_hold=2.26054
+fileg_hold=2.26054
+pitcheg_decay=8.05099
+fileg_decay=8.05099
+ampeg_hold=2.26054
+ampeg_decay=8.05099
+volume=-3.4142
+offset=0
+end=112547
+loop_start=99465
+loop_end=112527
+
+<region>
+sample=samples\Piano FF F5(L).wav
+lokey=87 hikey=87
+pitch_keycenter=87
+pan=-100
+pitcheg_hold=2.26054
+fileg_hold=2.26054
+pitcheg_decay=8.05099
+fileg_decay=8.05099
+ampeg_hold=2.26054
+ampeg_decay=8.05099
+volume=-3.4142
+offset=0
+end=112547
+loop_start=99465
+loop_end=112527
+
+<group>
+lovel=101 hivel=127
+fil_type=lpf_2p
+cutoff=300
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.75002
+fileg_release=0.75002
+ampeg_sustain=0.001
+ampeg_release=1.50004
+volume=-3.6524
+transpose=-2
+loop_mode=loop_continuous
+resonance=6
+fileg_depth=-750
+pitcheg_decay=0.00136758
+fileg_decay=0.00136758
+ampeg_decay=0.00136758
+tune=-5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piano FF F5(R).wav
+lokey=88 hikey=88
+pitch_keycenter=87
+pan=100
+pitcheg_hold=2.26054
+fileg_hold=2.26054
+pitcheg_decay=8.05099
+fileg_decay=8.05099
+pitcheg_release=12.0003
+fileg_release=12.0003
+ampeg_hold=2.26054
+ampeg_decay=8.05099
+ampeg_release=24.0006
+volume=-3.176
+offset=0
+end=112547
+loop_start=99465
+loop_end=112527
+
+<region>
+sample=samples\Piano FF F5(L).wav
+lokey=88 hikey=88
+pitch_keycenter=87
+pan=-100
+pitcheg_hold=2.26054
+fileg_hold=2.26054
+pitcheg_decay=8.05099
+fileg_decay=8.05099
+pitcheg_release=12.0003
+fileg_release=12.0003
+ampeg_hold=2.26054
+ampeg_decay=8.05099
+ampeg_release=24.0006
+volume=-3.176
+offset=0
+end=112547
+loop_start=99465
+loop_end=112527
+
+<region>
+sample=samples\Piano FF G5(R).wav
+lokey=89 hikey=90
+pitch_keycenter=89
+pan=100
+pitcheg_hold=2.05979
+fileg_hold=2.05979
+pitcheg_decay=7.39559
+fileg_decay=7.39559
+pitcheg_release=10.998
+fileg_release=10.998
+ampeg_hold=2.05979
+ampeg_decay=7.39559
+ampeg_release=21.9959
+offset=0
+end=107777
+loop_start=90665
+loop_end=107763
+volume=-3.6524
+
+<region>
+sample=samples\Piano FF G5(L).wav
+lokey=89 hikey=90
+pitch_keycenter=89
+pan=-100
+pitcheg_hold=2.05979
+fileg_hold=2.05979
+pitcheg_decay=7.39559
+fileg_decay=7.39559
+pitcheg_release=10.998
+fileg_release=10.998
+ampeg_hold=2.05979
+ampeg_decay=7.39559
+ampeg_release=21.9959
+offset=0
+end=107777
+loop_start=90665
+loop_end=107763
+volume=-3.6524
+
+<region>
+sample=samples\Piano FF A5(R).wav
+lokey=91 hikey=92
+pitch_keycenter=91
+pan=100
+pitcheg_hold=1.43976
+fileg_hold=1.43976
+pitcheg_decay=7.32333
+fileg_decay=7.32333
+pitcheg_release=10.004
+fileg_release=10.004
+ampeg_hold=1.43976
+ampeg_decay=7.32333
+ampeg_release=20.0079
+volume=-2.98544
+offset=0
+end=79503
+loop_start=63466
+loop_end=79482
+
+<region>
+sample=samples\Piano FF A5(L).wav
+lokey=91 hikey=92
+pitch_keycenter=91
+pan=-100
+pitcheg_hold=1.43976
+fileg_hold=1.43976
+pitcheg_decay=7.32333
+fileg_decay=7.32333
+pitcheg_release=10.004
+fileg_release=10.004
+ampeg_hold=1.43976
+ampeg_decay=7.32333
+ampeg_release=20.0079
+volume=-2.98544
+offset=0
+end=79503
+loop_start=63466
+loop_end=79482
+
+<region>
+sample=samples\Piano MF B5(R).wav
+lokey=93 hikey=94
+pitch_keycenter=93
+pan=100
+pitcheg_hold=2.18985
+fileg_hold=2.18985
+pitcheg_decay=3.47216
+fileg_decay=3.47216
+pitcheg_release=9.00046
+fileg_release=9.00046
+ampeg_hold=2.18985
+ampeg_decay=3.47216
+ampeg_release=18.0009
+volume=-3.2554
+offset=0
+end=113347
+loop_start=96658
+loop_end=113311
+
+<region>
+sample=samples\Piano MF B5(L).wav
+lokey=93 hikey=94
+pitch_keycenter=93
+pan=-100
+pitcheg_hold=2.18985
+fileg_hold=2.18985
+pitcheg_decay=3.47216
+fileg_decay=3.47216
+pitcheg_release=9.00046
+fileg_release=9.00046
+ampeg_hold=2.18985
+ampeg_decay=3.47216
+ampeg_release=18.0009
+volume=-3.2554
+offset=0
+end=113347
+loop_start=96658
+loop_end=113311
+
+<region>
+sample=samples\Piano MF C#6(R).wav
+lokey=95 hikey=96
+pitch_keycenter=95
+pan=100
+pitcheg_hold=1.75018
+fileg_hold=1.75018
+pitcheg_decay=3.43029
+fileg_decay=3.43029
+pitcheg_release=7.99537
+fileg_release=7.99537
+ampeg_hold=1.75018
+ampeg_decay=3.43029
+ampeg_release=15.9907
+volume=-3.4142
+offset=0
+end=90982
+loop_start=77014
+loop_end=90968
+
+<region>
+sample=samples\Piano MF C#6(L).wav
+lokey=95 hikey=96
+pitch_keycenter=95
+pan=-100
+pitcheg_hold=1.75018
+fileg_hold=1.75018
+pitcheg_decay=3.43029
+fileg_decay=3.43029
+pitcheg_release=7.99537
+fileg_release=7.99537
+ampeg_hold=1.75018
+ampeg_decay=3.43029
+ampeg_release=15.9907
+volume=-3.4142
+offset=0
+end=90982
+loop_start=77014
+loop_end=90968
+
+<region>
+sample=samples\Piano MF D#6(R).wav
+lokey=97 hikey=98
+pitch_keycenter=97
+pan=100
+pitcheg_hold=2.22942
+fileg_hold=2.22942
+pitcheg_decay=2.11404
+fileg_decay=2.11404
+pitcheg_release=7.00474
+fileg_release=7.00474
+ampeg_hold=2.22942
+ampeg_decay=2.11404
+ampeg_release=14.0095
+volume=-3.8112
+offset=0
+end=108931
+loop_start=98154
+loop_end=108918
+
+<region>
+sample=samples\Piano MF D#6(L).wav
+lokey=97 hikey=98
+pitch_keycenter=97
+pan=-100
+pitcheg_hold=2.22942
+fileg_hold=2.22942
+pitcheg_decay=2.11404
+fileg_decay=2.11404
+pitcheg_release=7.00474
+fileg_release=7.00474
+ampeg_hold=2.22942
+ampeg_decay=2.11404
+ampeg_release=14.0095
+volume=-3.8112
+offset=0
+end=108931
+loop_start=98154
+loop_end=108918
+
+<region>
+sample=samples\Piano MF F6(R).wav
+lokey=99 hikey=100
+pitch_keycenter=99
+pan=100
+pitcheg_hold=1.76031
+fileg_hold=1.76031
+pitcheg_decay=2.11404
+fileg_decay=2.11404
+pitcheg_release=6.00015
+fileg_release=6.00015
+ampeg_hold=1.76031
+ampeg_decay=2.11404
+ampeg_release=12.0003
+volume=-3.8906
+offset=0
+end=87872
+loop_start=77463
+loop_end=87854
+
+<region>
+sample=samples\Piano MF F6(L).wav
+lokey=99 hikey=100
+pitch_keycenter=99
+pan=-100
+pitcheg_hold=1.76031
+fileg_hold=1.76031
+pitcheg_decay=2.11404
+fileg_decay=2.11404
+pitcheg_release=6.00015
+fileg_release=6.00015
+ampeg_hold=1.76031
+ampeg_decay=2.11404
+ampeg_release=12.0003
+volume=-3.8906
+offset=0
+end=87872
+loop_start=77463
+loop_end=87854
+
+<region>
+sample=samples\Piano MF G6(R).wav
+lokey=101 hikey=102
+pitch_keycenter=101
+pan=100
+pitcheg_hold=1.87038
+fileg_hold=1.87038
+pitcheg_decay=1.44226
+fileg_decay=1.44226
+pitcheg_release=5.25066
+fileg_release=5.25066
+ampeg_hold=1.87038
+ampeg_decay=1.44226
+ampeg_release=10.5013
+offset=0
+end=102763
+loop_start=82353
+loop_end=102743
+volume=-3.6524
+
+<region>
+sample=samples\Piano MF G6(L).wav
+lokey=101 hikey=102
+pitch_keycenter=101
+pan=-100
+pitcheg_hold=1.87038
+fileg_hold=1.87038
+pitcheg_decay=1.44226
+fileg_decay=1.44226
+pitcheg_release=5.25066
+fileg_release=5.25066
+ampeg_hold=1.87038
+ampeg_decay=1.44226
+ampeg_release=10.5013
+offset=0
+end=102763
+loop_start=82353
+loop_end=102743
+volume=-3.6524
+
+<region>
+sample=samples\Piano MF A6(R).wav
+lokey=103 hikey=104
+pitch_keycenter=103
+pan=100
+pitcheg_hold=2.01042
+fileg_hold=2.01042
+pitcheg_decay=1.40039
+fileg_decay=1.40039
+pitcheg_release=4.50023
+fileg_release=4.50023
+ampeg_hold=2.01042
+ampeg_decay=1.40039
+ampeg_release=9.00046
+volume=-3.8906
+offset=0
+end=102833
+loop_start=88602
+loop_end=102813
+
+<region>
+sample=samples\Piano MF A6(L).wav
+lokey=103 hikey=104
+pitch_keycenter=103
+pan=-100
+pitcheg_hold=2.01042
+fileg_hold=2.01042
+pitcheg_decay=1.40039
+fileg_decay=1.40039
+pitcheg_release=4.50023
+fileg_release=4.50023
+ampeg_hold=2.01042
+ampeg_decay=1.40039
+ampeg_release=9.00046
+volume=-3.8906
+offset=0
+end=102833
+loop_start=88602
+loop_end=102813
+
+<region>
+sample=samples\Piano MF B6(R).wav
+lokey=105 hikey=108
+pitch_keycenter=105
+pan=100
+pitcheg_hold=2.07053
+fileg_hold=2.07053
+pitcheg_decay=1.40039
+fileg_decay=1.40039
+pitcheg_release=3.74942
+fileg_release=3.74942
+ampeg_hold=2.07053
+ampeg_decay=1.40039
+ampeg_release=7.49883
+volume=-3.97
+offset=0
+end=115698
+loop_start=91424
+loop_end=115676
+
+<region>
+sample=samples\Piano MF B6(L).wav
+lokey=105 hikey=108
+pitch_keycenter=105
+pan=-100
+pitcheg_hold=2.07053
+fileg_hold=2.07053
+pitcheg_decay=1.40039
+fileg_decay=1.40039
+pitcheg_release=3.74942
+fileg_release=3.74942
+ampeg_hold=2.07053
+ampeg_decay=1.40039
+ampeg_release=7.49883
+volume=-3.97
+offset=0
+end=115698
+loop_start=91424
+loop_end=115676

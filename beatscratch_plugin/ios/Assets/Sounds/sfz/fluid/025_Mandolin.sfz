@@ -1,0 +1,149 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+ampeg_sustain=0.001
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=5975
+effect1=4
+pitcheg_decay=0.00164238
+fileg_decay=0.00164238
+fileg_sustain=99.5
+pitcheg_sustain=99.5
+ampeg_decay=0.001
+ampeg_release=0.001
+ampeg_decaycc133=-5 // sfz v2
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Steel E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_hold=1
+ampeg_decay=16.8538
+ampeg_release=2.50099
+tune=5
+offset=0
+end=220607
+loop_start=218317
+loop_end=220475
+
+<region>
+sample=samples\Steel A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_hold=1
+ampeg_decay=15.7342
+ampeg_release=2.19999
+tune=-2
+offset=0
+end=132175
+loop_start=131333
+loop_end=132133
+
+<region>
+sample=samples\Steel D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_hold=1
+ampeg_decay=14.6044
+ampeg_release=1.90088
+tune=1
+offset=0
+end=187407
+loop_start=186167
+loop_end=187368
+
+<region>
+sample=samples\Steel G4.wav
+lokey=54 hikey=58
+pitch_keycenter=55
+ampeg_hold=1
+ampeg_decay=13.8566
+ampeg_release=1.60029
+tune=-6
+offset=0
+end=113439
+loop_start=112678
+loop_end=113350
+
+<region>
+sample=samples\Steel B4.wav
+lokey=59 hikey=62
+pitch_keycenter=59
+ampeg_hold=1
+ampeg_decay=13.1091
+ampeg_release=1.30059
+offset=0
+end=118607
+loop_start=117803
+loop_end=118517
+
+<region>
+sample=samples\Steel E5.wav
+lokey=63 hikey=67
+pitch_keycenter=64
+ampeg_hold=1
+ampeg_decay=11.9864
+ampeg_release=1
+tune=-3
+offset=0
+end=65639
+loop_start=64535
+loop_end=65603
+
+<region>
+sample=samples\Steel A5.wav
+lokey=68 hikey=70
+pitch_keycenter=69
+ampeg_decay=8.61389
+ampeg_release=0.700197
+tune=-1
+offset=0
+end=68671
+loop_start=68254
+loop_end=68654
+
+<region>
+sample=samples\Steel B6.wav
+lokey=71 hikey=75
+pitch_keycenter=71
+ampeg_decay=6.74273
+ampeg_release=0.400073
+tune=-4
+offset=0
+end=71823
+loop_start=70810
+loop_end=71790
+
+<region>
+sample=samples\Steel E6.wav
+lokey=76 hikey=83
+pitch_keycenter=76
+ampeg_decay=2.99661
+ampeg_release=0.100018
+tune=-6
+offset=0
+end=54831
+loop_start=53730
+loop_end=54795
+
+<region>
+sample=samples\Extension.wav
+lokey=84 hikey=127
+pitch_keycenter=84
+ampeg_hold=0.200036
+ampeg_decay=2.24752
+tune=-13
+offset=0
+end=19825
+loop_start=19524
+loop_end=19816

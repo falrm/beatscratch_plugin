@@ -1,0 +1,216 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+ampeg_release=4.99909
+loop_mode=no_loop
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Temple Block 1 p(L).wav
+lokey=58 hikey=58
+pitch_keycenter=60
+lovel=0 hivel=35
+offset=0
+end=18933
+loop_start=8
+loop_end=18925
+
+<region>
+sample=samples\Temple Block 1 mp(L.wav
+lokey=58 hikey=58
+pitch_keycenter=60
+lovel=36 hivel=66
+offset=0
+end=29353
+loop_start=8
+loop_end=29345
+
+<region>
+sample=samples\Temple Block 1 mf(L.wav
+lokey=58 hikey=58
+pitch_keycenter=60
+lovel=67 hivel=100
+offset=0
+end=29184
+loop_start=8
+loop_end=29176
+
+<region>
+sample=samples\Temple Block 1 f(L).wav
+lokey=58 hikey=58
+pitch_keycenter=60
+lovel=101 hivel=127
+offset=0
+end=31410
+loop_start=8
+loop_end=31402
+
+<region>
+sample=samples\Temple Block 2 p(L).wav
+lokey=59 hikey=59
+pitch_keycenter=60
+lovel=0 hivel=35
+offset=0
+end=18449
+loop_start=8
+loop_end=18441
+
+<region>
+sample=samples\Temple Block 2 mp(L.wav
+lokey=59 hikey=59
+pitch_keycenter=60
+lovel=36 hivel=66
+offset=0
+end=28879
+loop_start=8
+loop_end=28871
+
+<region>
+sample=samples\Temple Block 2 mf(L.wav
+lokey=59 hikey=59
+pitch_keycenter=60
+lovel=67 hivel=100
+offset=0
+end=30215
+loop_start=8
+loop_end=30207
+
+<region>
+sample=samples\Temple Block 2 f(L).wav
+lokey=59 hikey=59
+pitch_keycenter=60
+lovel=101 hivel=127
+offset=0
+end=29675
+loop_start=8
+loop_end=29667
+
+<region>
+sample=samples\Temple Block 3 p(L).wav
+lokey=60 hikey=60
+pitch_keycenter=60
+lovel=0 hivel=35
+offset=0
+end=16801
+loop_start=8
+loop_end=16793
+
+<region>
+sample=samples\Temple Block 3 mp(L.wav
+lokey=60 hikey=60
+pitch_keycenter=60
+lovel=36 hivel=66
+offset=0
+end=26431
+loop_start=8
+loop_end=26423
+
+<region>
+sample=samples\Temple Block 3 mf(L.wav
+lokey=60 hikey=60
+pitch_keycenter=60
+lovel=67 hivel=100
+offset=0
+end=24584
+loop_start=8
+loop_end=24576
+
+<region>
+sample=samples\Temple Block 3 f(L).wav
+lokey=60 hikey=60
+pitch_keycenter=60
+lovel=101 hivel=127
+offset=0
+end=39929
+loop_start=8
+loop_end=39921
+
+<region>
+sample=samples\Temple Block 4 p(L).wav
+lokey=61 hikey=61
+pitch_keycenter=60
+lovel=0 hivel=35
+offset=0
+end=20839
+loop_start=8
+loop_end=20831
+
+<region>
+sample=samples\Temple Block 4 mp(L.wav
+lokey=61 hikey=61
+pitch_keycenter=60
+lovel=36 hivel=66
+offset=0
+end=22023
+loop_start=8
+loop_end=22015
+
+<region>
+sample=samples\Temple Block 4 mf(L.wav
+lokey=61 hikey=61
+pitch_keycenter=60
+lovel=67 hivel=100
+offset=0
+end=25914
+loop_start=8
+loop_end=25906
+
+<region>
+sample=samples\Temple Block 4 f(L).wav
+lokey=61 hikey=61
+pitch_keycenter=60
+lovel=101 hivel=127
+offset=0
+end=27548
+loop_start=8
+loop_end=27540
+
+<region>
+sample=samples\Temple Block 5 p(L).wav
+lokey=62 hikey=62
+pitch_keycenter=60
+lovel=0 hivel=35
+offset=0
+end=19955
+loop_start=8
+loop_end=19947
+
+<region>
+sample=samples\Temple Block 5 mp(L.wav
+lokey=62 hikey=62
+pitch_keycenter=60
+lovel=36 hivel=66
+offset=0
+end=24350
+loop_start=8
+loop_end=24342
+
+<region>
+sample=samples\Temple Block 5 mf(L.wav
+lokey=62 hikey=62
+pitch_keycenter=60
+lovel=67 hivel=100
+offset=0
+end=24244
+loop_start=8
+loop_end=24236
+
+<region>
+sample=samples\Temple Block 5 f(L).wav
+lokey=62 hikey=62
+pitch_keycenter=60
+lovel=101 hivel=127
+offset=0
+end=30300
+loop_start=8
+loop_end=30292

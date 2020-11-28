@@ -1,0 +1,100 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=7000
+effect2=2
+ampeg_release=0.400073
+loop_mode=loop_continuous
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Tuba C3.wav
+lokey=0 hikey=24
+pitch_keycenter=24
+fil_type=lpf_2p
+cutoff=303
+tune=13
+offset=0
+end=35455
+loop_start=27190
+loop_end=35346
+
+<region>
+sample=samples\Tuba F3.wav
+lokey=25 hikey=29
+pitch_keycenter=29
+tune=20
+offset=0
+end=19009
+loop_start=16955
+loop_end=19000
+
+<region>
+sample=samples\Tuba A#3.wav
+lokey=30 hikey=34
+pitch_keycenter=34
+tune=13
+offset=0
+end=10005
+loop_start=8475
+loop_end=10000
+
+<region>
+sample=samples\Tuba D#4.wav
+lokey=35 hikey=39
+pitch_keycenter=39
+tune=1
+offset=0
+end=9003
+loop_start=7866
+loop_end=9000
+
+<region>
+sample=samples\Tuba G#4.wav
+lokey=40 hikey=44
+pitch_keycenter=44
+tune=16
+offset=0
+end=6005
+loop_start=5572
+loop_end=6000
+
+<region>
+sample=samples\Tuba C#5.wav
+lokey=45 hikey=49
+pitch_keycenter=49
+tune=8
+offset=0
+end=5001
+loop_start=4361
+loop_end=5000
+
+<region>
+sample=samples\Tuba F#5.wav
+lokey=50 hikey=54
+pitch_keycenter=54
+tune=-15
+offset=0
+end=6015
+loop_start=5528
+loop_end=6000
+
+<region>
+sample=samples\Tuba B5.wav
+lokey=55 hikey=72
+pitch_keycenter=59
+tune=-16
+offset=0
+end=7001
+loop_start=6824
+loop_end=7000

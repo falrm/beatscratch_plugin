@@ -1,0 +1,112 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lochan=10 hichan=10
+pitch_keycenter=60
+pitch_keytrack=0
+loop_mode=no_loop
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\57_0_BD1NORM.wav
+lokey=1 hikey=1
+ampeg_release=0.0496063
+offset=0
+end=44136
+loop_start=8
+loop_end=44128
+
+<region>
+sample=samples\57_2_BD1_RIM.wav
+lokey=2 hikey=2
+ampeg_release=0.0496063
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_24_BD2_NORM.wav
+lokey=24 hikey=24
+ampeg_release=0.0496063
+tune=-4
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_26_BD2_RIM.wav
+lokey=26 hikey=26
+ampeg_release=0.0500091
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_48_BD3_NORM.wav
+lokey=48 hikey=48
+ampeg_release=0.0496063
+tune=-5
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_50_BD3_RIM.wav
+lokey=50 hikey=50
+ampeg_release=0.0500091
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_72_BD4_NORM.wav
+lokey=69 hikey=69
+ampeg_release=0.0496063
+tune=-24
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_74_BD4_RIM.wav
+lokey=71 hikey=71
+ampeg_release=0.0500091
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_96_BD5_NORM.wav
+lokey=96 hikey=96
+ampeg_release=0.0496063
+tune=-50
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\57_98_BD5_RIM.wav
+lokey=98 hikey=98
+ampeg_release=0.0500091
+offset=0
+end=44099
+loop_start=8
+loop_end=44091

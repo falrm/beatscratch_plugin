@@ -1,0 +1,109 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+resonance=17
+pan=-30
+ampeg_sustain=0.001
+loop_mode=loop_continuous
+effect1=10
+amplfo_freq=4.90662
+fillfo_freq=4.90662
+pitchlfo_freq=4.90662
+ampeg_decay=0.001
+ampeg_decaycc133=17 // sfz v2
+volume=-0.794
+ampeg_attack=0.001
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Celeste-F#5-delay.wav
+lokey=0 hikey=80
+pitch_keycenter=78
+loop_start=9131
+loop_end=9354
+pan=30
+ampeg_decay=2.80079
+ampeg_release=2.89956
+transpose=12
+tune=13
+offset=0
+end=9360
+
+<region>
+sample=samples\Celeste-D#4.wav
+lokey=0 hikey=72
+pitch_keycenter=63
+ampeg_decay=3.52063
+ampeg_release=3.50035
+offset=0
+end=8112
+loop_start=7894
+loop_end=8106
+
+<region>
+sample=samples\Celeste-A4.wav
+lokey=73 hikey=80
+pitch_keycenter=69
+offset=0
+end=7341
+loop_start=7110
+loop_end=7335
+ampeg_decay=3.16016
+ampeg_release=3.25089
+tune=10
+
+<region>
+sample=samples\Celeste-D#7-delay.wav
+lokey=81 hikey=113
+pitch_keycenter=99
+loop_start=10831
+loop_end=11203
+pan=30
+ampeg_decay=2
+ampeg_release=2.19999
+transpose=12
+tune=10
+offset=0
+end=11209
+
+<region>
+sample=samples\Celeste-F#5.wav
+lokey=81 hikey=90
+pitch_keycenter=78
+ampeg_decay=2.80079
+ampeg_release=2.89956
+tune=13
+offset=0
+end=7710
+loop_start=7481
+loop_end=7704
+
+<region>
+sample=samples\Celeste-D#6.wav
+lokey=91 hikey=97
+pitch_keycenter=87
+loop_start=6038
+loop_end=6250
+ampeg_decay=2.4005
+ampeg_release=2.55059
+tune=10
+offset=0
+end=6256
+
+<region>
+sample=samples\Celeste-D#7.wav
+lokey=98 hikey=125
+pitch_keycenter=99
+loop_start=9181
+loop_end=9553
+ampeg_decay=2
+ampeg_release=2.19999
+tune=10
+offset=0
+end=9559

@@ -1,0 +1,708 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=8999
+ampeg_release=0.720299
+loop_mode=loop_continuous
+resonance=2
+effect1=20
+volume=-0.3176
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\French Horns D#3(L).wav
+lokey=0 hikey=40
+pitch_keycenter=39
+volume=-0.6352
+offset=0
+end=93077
+loop_start=45473
+loop_end=93047
+
+<region>
+sample=samples\French Horns A3(L).wav
+lokey=41 hikey=46
+pitch_keycenter=45
+offset=0
+end=95898
+loop_start=38855
+loop_end=95852
+
+<region>
+sample=samples\French Horns D#4(L).wav
+lokey=47 hikey=52
+pitch_keycenter=51
+offset=0
+end=135218
+loop_start=41611
+loop_end=135205
+
+<region>
+sample=samples\French Horns A4(L).wav
+lokey=53 hikey=58
+pitch_keycenter=57
+offset=0
+end=79746
+loop_start=22154
+loop_end=79736
+
+<region>
+sample=samples\French Horns D#5(L).wav
+lokey=59 hikey=64
+pitch_keycenter=63
+offset=0
+end=160885
+loop_start=67304
+loop_end=160868
+
+<region>
+sample=samples\French Horns A5(L).wav
+lokey=65 hikey=70
+pitch_keycenter=69
+offset=0
+end=84224
+loop_start=36851
+loop_end=84203
+
+<region>
+sample=samples\French Horns D#6(L).wav
+lokey=71 hikey=96
+pitch_keycenter=75
+offset=0
+end=99204
+loop_start=23034
+loop_end=99196
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=7201
+ampeg_release=0.684205
+loop_mode=loop_continuous
+resonance=2
+effect1=20
+volume=-0.3176
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\French Horns D#3(L).wav
+lokey=0 hikey=40
+pitch_keycenter=39
+volume=-0.6352
+offset=0
+end=93077
+loop_start=45473
+loop_end=93047
+
+<region>
+sample=samples\French Horns A3(L).wav
+lokey=41 hikey=46
+pitch_keycenter=45
+offset=0
+end=95898
+loop_start=38855
+loop_end=95852
+
+<region>
+sample=samples\French Horns D#4(L).wav
+lokey=47 hikey=52
+pitch_keycenter=51
+offset=0
+end=135218
+loop_start=41611
+loop_end=135205
+
+<region>
+sample=samples\French Horns A4(L).wav
+lokey=53 hikey=58
+pitch_keycenter=57
+offset=0
+end=79746
+loop_start=22154
+loop_end=79736
+
+<region>
+sample=samples\French Horns D#5(L).wav
+lokey=59 hikey=64
+pitch_keycenter=63
+offset=0
+end=160885
+loop_start=67304
+loop_end=160868
+
+<region>
+sample=samples\French Horns A5(L).wav
+lokey=65 hikey=70
+pitch_keycenter=69
+offset=0
+end=84224
+loop_start=36851
+loop_end=84203
+
+<region>
+sample=samples\French Horns D#6(L).wav
+lokey=71 hikey=96
+pitch_keycenter=75
+offset=0
+end=99204
+loop_start=23034
+loop_end=99196
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=6301
+ampeg_release=0.660135
+loop_mode=loop_continuous
+resonance=2
+effect1=20
+volume=-0.3176
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\French Horns D#3(L).wav
+lokey=0 hikey=40
+pitch_keycenter=39
+volume=-0.6352
+offset=0
+end=93077
+loop_start=45473
+loop_end=93047
+
+<region>
+sample=samples\French Horns A3(L).wav
+lokey=41 hikey=46
+pitch_keycenter=45
+offset=0
+end=95898
+loop_start=38855
+loop_end=95852
+
+<region>
+sample=samples\French Horns D#4(L).wav
+lokey=47 hikey=52
+pitch_keycenter=51
+offset=0
+end=135218
+loop_start=41611
+loop_end=135205
+
+<region>
+sample=samples\French Horns A4(L).wav
+lokey=53 hikey=58
+pitch_keycenter=57
+offset=0
+end=79746
+loop_start=22154
+loop_end=79736
+
+<region>
+sample=samples\French Horns D#5(L).wav
+lokey=59 hikey=64
+pitch_keycenter=63
+offset=0
+end=160885
+loop_start=67304
+loop_end=160868
+
+<region>
+sample=samples\French Horns A5(L).wav
+lokey=65 hikey=70
+pitch_keycenter=69
+offset=0
+end=84224
+loop_start=36851
+loop_end=84203
+
+<region>
+sample=samples\French Horns D#6(L).wav
+lokey=71 hikey=96
+pitch_keycenter=75
+offset=0
+end=99204
+loop_start=23034
+loop_end=99196
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=5401
+ampeg_release=0.629961
+loop_mode=loop_continuous
+resonance=2
+effect1=20
+volume=-0.3176
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\French Horns D#3(L).wav
+lokey=0 hikey=40
+pitch_keycenter=39
+volume=-0.6352
+offset=0
+end=93077
+loop_start=45473
+loop_end=93047
+
+<region>
+sample=samples\French Horns A3(L).wav
+lokey=41 hikey=46
+pitch_keycenter=45
+offset=0
+end=95898
+loop_start=38855
+loop_end=95852
+
+<region>
+sample=samples\French Horns D#4(L).wav
+lokey=47 hikey=52
+pitch_keycenter=51
+offset=0
+end=135218
+loop_start=41611
+loop_end=135205
+
+<region>
+sample=samples\French Horns A4(L).wav
+lokey=53 hikey=58
+pitch_keycenter=57
+offset=0
+end=79746
+loop_start=22154
+loop_end=79736
+
+<region>
+sample=samples\French Horns D#5(L).wav
+lokey=59 hikey=64
+pitch_keycenter=63
+offset=0
+end=160885
+loop_start=67304
+loop_end=160868
+
+<region>
+sample=samples\French Horns A5(L).wav
+lokey=65 hikey=70
+pitch_keycenter=69
+offset=0
+end=84224
+loop_start=36851
+loop_end=84203
+
+<region>
+sample=samples\French Horns D#6(L).wav
+lokey=71 hikey=96
+pitch_keycenter=75
+offset=0
+end=99204
+loop_start=23034
+loop_end=99196
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=4500
+ampeg_release=0.600124
+loop_mode=loop_continuous
+resonance=2
+effect1=20
+volume=-0.3176
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\French Horns D#3(L).wav
+lokey=0 hikey=40
+pitch_keycenter=39
+volume=-0.6352
+offset=0
+end=93077
+loop_start=45473
+loop_end=93047
+
+<region>
+sample=samples\French Horns A3(L).wav
+lokey=41 hikey=46
+pitch_keycenter=45
+offset=0
+end=95898
+loop_start=38855
+loop_end=95852
+
+<region>
+sample=samples\French Horns D#4(L).wav
+lokey=47 hikey=52
+pitch_keycenter=51
+offset=0
+end=135218
+loop_start=41611
+loop_end=135205
+
+<region>
+sample=samples\French Horns A4(L).wav
+lokey=53 hikey=58
+pitch_keycenter=57
+offset=0
+end=79746
+loop_start=22154
+loop_end=79736
+
+<region>
+sample=samples\French Horns D#5(L).wav
+lokey=59 hikey=64
+pitch_keycenter=63
+offset=0
+end=160885
+loop_start=67304
+loop_end=160868
+
+<region>
+sample=samples\French Horns A5(L).wav
+lokey=65 hikey=70
+pitch_keycenter=69
+offset=0
+end=84224
+loop_start=36851
+loop_end=84203
+
+<region>
+sample=samples\French Horns D#6(L).wav
+lokey=71 hikey=96
+pitch_keycenter=75
+offset=0
+end=99204
+loop_start=23034
+loop_end=99196
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=3600
+ampeg_release=0.570053
+loop_mode=loop_continuous
+resonance=2
+effect1=20
+volume=-0.3176
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\French Horns D#3(L).wav
+lokey=0 hikey=40
+pitch_keycenter=39
+volume=-0.6352
+offset=0
+end=93077
+loop_start=45473
+loop_end=93047
+
+<region>
+sample=samples\French Horns A3(L).wav
+lokey=41 hikey=46
+pitch_keycenter=45
+offset=0
+end=95898
+loop_start=38855
+loop_end=95852
+
+<region>
+sample=samples\French Horns D#4(L).wav
+lokey=47 hikey=52
+pitch_keycenter=51
+offset=0
+end=135218
+loop_start=41611
+loop_end=135205
+
+<region>
+sample=samples\French Horns A4(L).wav
+lokey=53 hikey=58
+pitch_keycenter=57
+offset=0
+end=79746
+loop_start=22154
+loop_end=79736
+
+<region>
+sample=samples\French Horns D#5(L).wav
+lokey=59 hikey=64
+pitch_keycenter=63
+offset=0
+end=160885
+loop_start=67304
+loop_end=160868
+
+<region>
+sample=samples\French Horns A5(L).wav
+lokey=65 hikey=70
+pitch_keycenter=69
+offset=0
+end=84224
+loop_start=36851
+loop_end=84203
+
+<region>
+sample=samples\French Horns D#6(L).wav
+lokey=71 hikey=96
+pitch_keycenter=75
+offset=0
+end=99204
+loop_start=23034
+loop_end=99196
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=2700
+ampeg_release=0.540238
+loop_mode=loop_continuous
+resonance=2
+effect1=20
+volume=-0.3176
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\French Horns D#3(L).wav
+lokey=0 hikey=40
+pitch_keycenter=39
+volume=-0.6352
+offset=0
+end=93077
+loop_start=45473
+loop_end=93047
+
+<region>
+sample=samples\French Horns A3(L).wav
+lokey=41 hikey=46
+pitch_keycenter=45
+offset=0
+end=95898
+loop_start=38855
+loop_end=95852
+
+<region>
+sample=samples\French Horns D#4(L).wav
+lokey=47 hikey=52
+pitch_keycenter=51
+offset=0
+end=135218
+loop_start=41611
+loop_end=135205
+
+<region>
+sample=samples\French Horns A4(L).wav
+lokey=53 hikey=58
+pitch_keycenter=57
+offset=0
+end=79746
+loop_start=22154
+loop_end=79736
+
+<region>
+sample=samples\French Horns D#5(L).wav
+lokey=59 hikey=64
+pitch_keycenter=63
+offset=0
+end=160885
+loop_start=67304
+loop_end=160868
+
+<region>
+sample=samples\French Horns A5(L).wav
+lokey=65 hikey=70
+pitch_keycenter=69
+offset=0
+end=84224
+loop_start=36851
+loop_end=84203
+
+<region>
+sample=samples\French Horns D#6(L).wav
+lokey=71 hikey=96
+pitch_keycenter=75
+offset=0
+end=99204
+loop_start=23034
+loop_end=99196
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=1800
+ampeg_release=0.510211
+loop_mode=loop_continuous
+resonance=2
+effect1=20
+volume=-0.3176
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\French Horns D#3(L).wav
+lokey=0 hikey=40
+pitch_keycenter=39
+volume=-0.6352
+offset=0
+end=93077
+loop_start=45473
+loop_end=93047
+
+<region>
+sample=samples\French Horns A3(L).wav
+lokey=41 hikey=46
+pitch_keycenter=45
+offset=0
+end=95898
+loop_start=38855
+loop_end=95852
+
+<region>
+sample=samples\French Horns D#4(L).wav
+lokey=47 hikey=52
+pitch_keycenter=51
+offset=0
+end=135218
+loop_start=41611
+loop_end=135205
+
+<region>
+sample=samples\French Horns A4(L).wav
+lokey=53 hikey=58
+pitch_keycenter=57
+offset=0
+end=79746
+loop_start=22154
+loop_end=79736
+
+<region>
+sample=samples\French Horns D#5(L).wav
+lokey=59 hikey=64
+pitch_keycenter=63
+offset=0
+end=160885
+loop_start=67304
+loop_end=160868
+
+<region>
+sample=samples\French Horns A5(L).wav
+lokey=65 hikey=70
+pitch_keycenter=69
+offset=0
+end=84224
+loop_start=36851
+loop_end=84203
+
+<region>
+sample=samples\French Horns D#6(L).wav
+lokey=71 hikey=96
+pitch_keycenter=75
+offset=0
+end=99204
+loop_start=23034
+loop_end=99196
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=900
+ampeg_release=0.480187
+loop_mode=loop_continuous
+resonance=2
+effect1=20
+volume=-0.3176
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\French Horns D#3(L).wav
+lokey=0 hikey=40
+pitch_keycenter=39
+volume=-0.6352
+offset=0
+end=93077
+loop_start=45473
+loop_end=93047
+
+<region>
+sample=samples\French Horns A3(L).wav
+lokey=41 hikey=46
+pitch_keycenter=45
+offset=0
+end=95898
+loop_start=38855
+loop_end=95852
+
+<region>
+sample=samples\French Horns D#4(L).wav
+lokey=47 hikey=52
+pitch_keycenter=51
+offset=0
+end=135218
+loop_start=41611
+loop_end=135205
+
+<region>
+sample=samples\French Horns A4(L).wav
+lokey=53 hikey=58
+pitch_keycenter=57
+offset=0
+end=79746
+loop_start=22154
+loop_end=79736
+
+<region>
+sample=samples\French Horns D#5(L).wav
+lokey=59 hikey=64
+pitch_keycenter=63
+offset=0
+end=160885
+loop_start=67304
+loop_end=160868
+
+<region>
+sample=samples\French Horns A5(L).wav
+lokey=65 hikey=70
+pitch_keycenter=69
+offset=0
+end=84224
+loop_start=36851
+loop_end=84203
+
+<region>
+sample=samples\French Horns D#6(L).wav
+lokey=71 hikey=96
+pitch_keycenter=75
+offset=0
+end=99204
+loop_start=23034
+loop_end=99196

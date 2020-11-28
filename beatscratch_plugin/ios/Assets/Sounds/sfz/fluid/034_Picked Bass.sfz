@@ -1,0 +1,118 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+pitcheg_release=0.400073
+fileg_release=0.400073
+ampeg_hold=3.00008
+ampeg_sustain=0.001
+ampeg_release=0.200036
+loop_mode=loop_continuous
+effect1=2
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Picked Bass E0.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+ampeg_hold=4
+ampeg_decay=39.9927
+tune=-8
+offset=0
+end=126815
+loop_start=126173
+loop_end=126704
+
+<region>
+sample=samples\Picked Bass E2.wav
+lokey=29 hikey=30
+pitch_keycenter=30
+ampeg_decay=38.0106
+tune=-10
+offset=0
+end=97263
+loop_start=96750
+loop_end=97223
+
+<region>
+sample=samples\Picked Bass E4.wav
+lokey=31 hikey=32
+pitch_keycenter=32
+ampeg_decay=36.0018
+tune=-9
+offset=0
+end=75583
+loop_start=75125
+loop_end=75548
+
+<region>
+sample=samples\Picked Bass A1.wav
+lokey=33 hikey=34
+pitch_keycenter=34
+ampeg_decay=34.0008
+offset=0
+end=96327
+loop_start=95921
+loop_end=96299
+
+<region>
+sample=samples\Picked Bass A3.wav
+lokey=35 hikey=37
+pitch_keycenter=36
+ampeg_decay=32
+offset=0
+end=92831
+loop_start=92485
+loop_end=92821
+
+<region>
+sample=samples\Picked Bass D1.wav
+lokey=38 hikey=39
+pitch_keycenter=39
+ampeg_decay=29.9953
+tune=1
+offset=0
+end=93199
+loop_start=92543
+loop_end=93110
+
+<region>
+sample=samples\Picked Bass D3.wav
+lokey=40 hikey=42
+pitch_keycenter=41
+ampeg_decay=28.0028
+tune=1
+offset=0
+end=87855
+loop_start=87285
+loop_end=87791
+
+<region>
+sample=samples\Picked Bass GO.wav
+lokey=43 hikey=47
+pitch_keycenter=43
+ampeg_decay=26.0071
+offset=0
+end=98063
+loop_start=97318
+loop_end=97992
+
+<region>
+sample=samples\Picked Bass G5.wav
+lokey=48 hikey=84
+pitch_keycenter=48
+ampeg_decay=24.0006
+tune=-3
+offset=0
+end=74615
+loop_start=73976
+loop_end=74481

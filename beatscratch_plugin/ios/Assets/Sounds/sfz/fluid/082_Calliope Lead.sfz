@@ -1,0 +1,231 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+amplfo_depth=1
+effect2=80
+effect1=22
+amplfo_freq=0.001
+fillfo_freq=0.001
+ampeg_release=3.60084
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=7966
+volume=-0.8734
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Calliope Lead (L).wav
+lokey=0 hikey=108
+pitch_keycenter=84
+loop_start=24827
+loop_end=63741
+offset=0
+end=63759
+volume=-1
+
+<group>
+lovel=113 hivel=120
+amplfo_depth=1
+effect2=80
+effect1=22
+amplfo_freq=0.001
+fillfo_freq=0.001
+ampeg_release=3.30008
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=6971
+volume=-0.8734
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Calliope Lead (L).wav
+lokey=0 hikey=108
+pitch_keycenter=84
+loop_start=24827
+loop_end=63741
+offset=0
+end=63759
+volume=-1
+
+<group>
+lovel=105 hivel=112
+amplfo_depth=1
+effect2=80
+effect1=22
+amplfo_freq=0.001
+fillfo_freq=0.001
+ampeg_release=3.00008
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=5975
+volume=-0.8734
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Calliope Lead (L).wav
+lokey=0 hikey=108
+pitch_keycenter=84
+loop_start=24827
+loop_end=63741
+offset=0
+end=63759
+volume=-1
+
+<group>
+lovel=97 hivel=104
+amplfo_depth=1
+effect2=80
+effect1=22
+amplfo_freq=0.001
+fillfo_freq=0.001
+ampeg_release=2.7007
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=4978
+volume=-0.8734
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Calliope Lead (L).wav
+lokey=0 hikey=108
+pitch_keycenter=84
+loop_start=24827
+loop_end=63741
+offset=0
+end=63759
+volume=-1
+
+<group>
+lovel=89 hivel=96
+amplfo_depth=1
+effect2=80
+effect1=22
+amplfo_freq=0.001
+fillfo_freq=0.001
+ampeg_release=2.4005
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=3983
+volume=-0.8734
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Calliope Lead (L).wav
+lokey=0 hikey=108
+pitch_keycenter=84
+loop_start=24827
+loop_end=63741
+offset=0
+end=63759
+volume=-1
+
+<group>
+lovel=81 hivel=88
+amplfo_depth=1
+effect2=80
+effect1=22
+amplfo_freq=0.001
+fillfo_freq=0.001
+ampeg_release=2.10065
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=2988
+volume=-0.8734
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Calliope Lead (L).wav
+lokey=0 hikey=108
+pitch_keycenter=84
+loop_start=24827
+loop_end=63741
+offset=0
+end=63759
+volume=-1
+
+<group>
+lovel=73 hivel=80
+amplfo_depth=1
+effect2=80
+effect1=22
+amplfo_freq=0.001
+fillfo_freq=0.001
+ampeg_release=1.80042
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=1992
+volume=-0.8734
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Calliope Lead (L).wav
+lokey=0 hikey=108
+pitch_keycenter=84
+loop_start=24827
+loop_end=63741
+offset=0
+end=63759
+volume=-1
+
+<group>
+lovel=65 hivel=72
+amplfo_depth=1
+effect2=80
+effect1=22
+amplfo_freq=0.001
+fillfo_freq=0.001
+ampeg_release=1.50004
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=996
+volume=-0.8734
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Calliope Lead (L).wav
+lokey=0 hikey=108
+pitch_keycenter=84
+loop_start=24827
+loop_end=63741
+offset=0
+end=63759
+volume=-1
+
+<group>
+lovel=0 hivel=64
+amplfo_depth=1
+effect2=80
+effect1=22
+amplfo_freq=0.001
+fillfo_freq=0.001
+ampeg_release=1.20025
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=199
+volume=-0.8734
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Calliope Lead (L).wav
+lokey=0 hikey=108
+pitch_keycenter=84
+loop_start=24827
+loop_end=63741
+offset=0
+end=63759
+volume=-1

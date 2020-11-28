@@ -1,0 +1,1077 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+ampeg_release=0.330068
+loop_mode=loop_continuous
+effect1=15
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Recorder C6.wav
+lokey=0 hikey=72
+pitch_keycenter=72
+volume=-2.0644
+tune=-10
+offset=0
+end=24927
+loop_start=14176
+loop_end=24885
+
+<region>
+sample=samples\Recorder D7.wav
+lokey=73 hikey=74
+pitch_keycenter=74
+pitcheg_depth=-30
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=23
+offset=0
+end=46191
+loop_start=35109
+loop_end=46144
+
+<region>
+sample=samples\Recorder E7.wav
+lokey=75 hikey=76
+pitch_keycenter=76
+pitcheg_depth=-14
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=0
+offset=0
+end=57135
+loop_start=45607
+loop_end=57045
+
+<region>
+sample=samples\Recorder F7.wav
+lokey=77 hikey=77
+pitch_keycenter=77
+volume=-2.0644
+tune=-58
+offset=0
+end=26191
+loop_start=14442
+loop_end=26153
+
+<region>
+sample=samples\Recorder G7.wav
+lokey=78 hikey=79
+pitch_keycenter=79
+volume=-2.0644
+tune=-15
+offset=0
+end=28783
+loop_start=18274
+loop_end=28748
+
+<region>
+sample=samples\Recorder A7.wav
+lokey=80 hikey=81
+pitch_keycenter=81
+tune=5
+offset=0
+end=36567
+loop_start=26123
+loop_end=36546
+
+<region>
+sample=samples\Recorder B7.wav
+lokey=82 hikey=83
+pitch_keycenter=83
+tune=10
+offset=0
+end=36303
+loop_start=23089
+loop_end=36225
+
+<region>
+sample=samples\Recorder D8.wav
+lokey=84 hikey=127
+pitch_keycenter=86
+pitcheg_depth=30
+pitcheg_decay=0.0799829
+fileg_decay=0.0799829
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.0799829
+fileg_release=0.0799829
+tune=9
+offset=0
+end=28207
+loop_start=16907
+loop_end=28155
+
+<group>
+lovel=113 hivel=120
+ampeg_release=0.31498
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=17925
+effect1=15
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Recorder C6.wav
+lokey=0 hikey=72
+pitch_keycenter=72
+volume=-2.0644
+tune=-10
+offset=0
+end=24927
+loop_start=14176
+loop_end=24885
+
+<region>
+sample=samples\Recorder D7.wav
+lokey=73 hikey=74
+pitch_keycenter=74
+pitcheg_depth=-30
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=23
+offset=0
+end=46191
+loop_start=35109
+loop_end=46144
+
+<region>
+sample=samples\Recorder E7.wav
+lokey=75 hikey=76
+pitch_keycenter=76
+pitcheg_depth=-14
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=0
+offset=0
+end=57135
+loop_start=45607
+loop_end=57045
+
+<region>
+sample=samples\Recorder F7.wav
+lokey=77 hikey=77
+pitch_keycenter=77
+volume=-2.0644
+tune=-58
+offset=0
+end=26191
+loop_start=14442
+loop_end=26153
+
+<region>
+sample=samples\Recorder G7.wav
+lokey=78 hikey=79
+pitch_keycenter=79
+volume=-2.0644
+tune=-15
+offset=0
+end=28783
+loop_start=18274
+loop_end=28748
+
+<region>
+sample=samples\Recorder A7.wav
+lokey=80 hikey=81
+pitch_keycenter=81
+tune=5
+offset=0
+end=36567
+loop_start=26123
+loop_end=36546
+
+<region>
+sample=samples\Recorder B7.wav
+lokey=82 hikey=83
+pitch_keycenter=83
+tune=10
+offset=0
+end=36303
+loop_start=23089
+loop_end=36225
+
+<region>
+sample=samples\Recorder D8.wav
+lokey=84 hikey=127
+pitch_keycenter=86
+pitcheg_depth=30
+pitcheg_decay=0.0799829
+fileg_decay=0.0799829
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.0799829
+fileg_release=0.0799829
+tune=9
+offset=0
+end=28207
+loop_start=16907
+loop_end=28155
+
+<group>
+lovel=105 hivel=112
+ampeg_release=0.300062
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=15933
+effect1=15
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Recorder C6.wav
+lokey=0 hikey=72
+pitch_keycenter=72
+volume=-2.0644
+tune=-10
+offset=0
+end=24927
+loop_start=14176
+loop_end=24885
+
+<region>
+sample=samples\Recorder D7.wav
+lokey=73 hikey=74
+pitch_keycenter=74
+pitcheg_depth=-30
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=23
+offset=0
+end=46191
+loop_start=35109
+loop_end=46144
+
+<region>
+sample=samples\Recorder E7.wav
+lokey=75 hikey=76
+pitch_keycenter=76
+pitcheg_depth=-14
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=0
+offset=0
+end=57135
+loop_start=45607
+loop_end=57045
+
+<region>
+sample=samples\Recorder F7.wav
+lokey=77 hikey=77
+pitch_keycenter=77
+volume=-2.0644
+tune=-58
+offset=0
+end=26191
+loop_start=14442
+loop_end=26153
+
+<region>
+sample=samples\Recorder G7.wav
+lokey=78 hikey=79
+pitch_keycenter=79
+volume=-2.0644
+tune=-15
+offset=0
+end=28783
+loop_start=18274
+loop_end=28748
+
+<region>
+sample=samples\Recorder A7.wav
+lokey=80 hikey=81
+pitch_keycenter=81
+tune=5
+offset=0
+end=36567
+loop_start=26123
+loop_end=36546
+
+<region>
+sample=samples\Recorder B7.wav
+lokey=82 hikey=83
+pitch_keycenter=83
+tune=10
+offset=0
+end=36303
+loop_start=23089
+loop_end=36225
+
+<region>
+sample=samples\Recorder D8.wav
+lokey=84 hikey=127
+pitch_keycenter=86
+pitcheg_depth=30
+pitcheg_decay=0.0799829
+fileg_decay=0.0799829
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.0799829
+fileg_release=0.0799829
+tune=9
+offset=0
+end=28207
+loop_start=16907
+loop_end=28155
+
+<group>
+lovel=97 hivel=104
+ampeg_release=0.285026
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=13943
+effect1=15
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Recorder C6.wav
+lokey=0 hikey=72
+pitch_keycenter=72
+volume=-2.0644
+tune=-10
+offset=0
+end=24927
+loop_start=14176
+loop_end=24885
+
+<region>
+sample=samples\Recorder D7.wav
+lokey=73 hikey=74
+pitch_keycenter=74
+pitcheg_depth=-30
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=23
+offset=0
+end=46191
+loop_start=35109
+loop_end=46144
+
+<region>
+sample=samples\Recorder E7.wav
+lokey=75 hikey=76
+pitch_keycenter=76
+pitcheg_depth=-14
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=0
+offset=0
+end=57135
+loop_start=45607
+loop_end=57045
+
+<region>
+sample=samples\Recorder F7.wav
+lokey=77 hikey=77
+pitch_keycenter=77
+volume=-2.0644
+tune=-58
+offset=0
+end=26191
+loop_start=14442
+loop_end=26153
+
+<region>
+sample=samples\Recorder G7.wav
+lokey=78 hikey=79
+pitch_keycenter=79
+volume=-2.0644
+tune=-15
+offset=0
+end=28783
+loop_start=18274
+loop_end=28748
+
+<region>
+sample=samples\Recorder A7.wav
+lokey=80 hikey=81
+pitch_keycenter=81
+tune=5
+offset=0
+end=36567
+loop_start=26123
+loop_end=36546
+
+<region>
+sample=samples\Recorder B7.wav
+lokey=82 hikey=83
+pitch_keycenter=83
+tune=10
+offset=0
+end=36303
+loop_start=23089
+loop_end=36225
+
+<region>
+sample=samples\Recorder D8.wav
+lokey=84 hikey=127
+pitch_keycenter=86
+pitcheg_depth=30
+pitcheg_decay=0.0799829
+fileg_decay=0.0799829
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.0799829
+fileg_release=0.0799829
+tune=9
+offset=0
+end=28207
+loop_start=16907
+loop_end=28155
+
+<group>
+lovel=89 hivel=96
+ampeg_release=0.270119
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=11950
+effect1=15
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Recorder C6.wav
+lokey=0 hikey=72
+pitch_keycenter=72
+volume=-2.0644
+tune=-10
+offset=0
+end=24927
+loop_start=14176
+loop_end=24885
+
+<region>
+sample=samples\Recorder D7.wav
+lokey=73 hikey=74
+pitch_keycenter=74
+pitcheg_depth=-30
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=23
+offset=0
+end=46191
+loop_start=35109
+loop_end=46144
+
+<region>
+sample=samples\Recorder E7.wav
+lokey=75 hikey=76
+pitch_keycenter=76
+pitcheg_depth=-14
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=0
+offset=0
+end=57135
+loop_start=45607
+loop_end=57045
+
+<region>
+sample=samples\Recorder F7.wav
+lokey=77 hikey=77
+pitch_keycenter=77
+volume=-2.0644
+tune=-58
+offset=0
+end=26191
+loop_start=14442
+loop_end=26153
+
+<region>
+sample=samples\Recorder G7.wav
+lokey=78 hikey=79
+pitch_keycenter=79
+volume=-2.0644
+tune=-15
+offset=0
+end=28783
+loop_start=18274
+loop_end=28748
+
+<region>
+sample=samples\Recorder A7.wav
+lokey=80 hikey=81
+pitch_keycenter=81
+tune=5
+offset=0
+end=36567
+loop_start=26123
+loop_end=36546
+
+<region>
+sample=samples\Recorder B7.wav
+lokey=82 hikey=83
+pitch_keycenter=83
+tune=10
+offset=0
+end=36303
+loop_start=23089
+loop_end=36225
+
+<region>
+sample=samples\Recorder D8.wav
+lokey=84 hikey=127
+pitch_keycenter=86
+pitcheg_depth=30
+pitcheg_decay=0.0799829
+fileg_decay=0.0799829
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.0799829
+fileg_release=0.0799829
+tune=9
+offset=0
+end=28207
+loop_start=16907
+loop_end=28155
+
+<group>
+lovel=81 hivel=88
+ampeg_release=0.255106
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=9956
+effect1=15
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Recorder C6.wav
+lokey=0 hikey=72
+pitch_keycenter=72
+volume=-2.0644
+tune=-10
+offset=0
+end=24927
+loop_start=14176
+loop_end=24885
+
+<region>
+sample=samples\Recorder D7.wav
+lokey=73 hikey=74
+pitch_keycenter=74
+pitcheg_depth=-30
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=23
+offset=0
+end=46191
+loop_start=35109
+loop_end=46144
+
+<region>
+sample=samples\Recorder E7.wav
+lokey=75 hikey=76
+pitch_keycenter=76
+pitcheg_depth=-14
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=0
+offset=0
+end=57135
+loop_start=45607
+loop_end=57045
+
+<region>
+sample=samples\Recorder F7.wav
+lokey=77 hikey=77
+pitch_keycenter=77
+volume=-2.0644
+tune=-58
+offset=0
+end=26191
+loop_start=14442
+loop_end=26153
+
+<region>
+sample=samples\Recorder G7.wav
+lokey=78 hikey=79
+pitch_keycenter=79
+volume=-2.0644
+tune=-15
+offset=0
+end=28783
+loop_start=18274
+loop_end=28748
+
+<region>
+sample=samples\Recorder A7.wav
+lokey=80 hikey=81
+pitch_keycenter=81
+tune=5
+offset=0
+end=36567
+loop_start=26123
+loop_end=36546
+
+<region>
+sample=samples\Recorder B7.wav
+lokey=82 hikey=83
+pitch_keycenter=83
+tune=10
+offset=0
+end=36303
+loop_start=23089
+loop_end=36225
+
+<region>
+sample=samples\Recorder D8.wav
+lokey=84 hikey=127
+pitch_keycenter=86
+pitcheg_depth=30
+pitcheg_decay=0.0799829
+fileg_decay=0.0799829
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.0799829
+fileg_release=0.0799829
+tune=9
+offset=0
+end=28207
+loop_start=16907
+loop_end=28155
+
+<group>
+lovel=73 hivel=80
+ampeg_release=0.240093
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=7966
+effect1=15
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Recorder C6.wav
+lokey=0 hikey=72
+pitch_keycenter=72
+volume=-2.0644
+tune=-10
+offset=0
+end=24927
+loop_start=14176
+loop_end=24885
+
+<region>
+sample=samples\Recorder D7.wav
+lokey=73 hikey=74
+pitch_keycenter=74
+pitcheg_depth=-30
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=23
+offset=0
+end=46191
+loop_start=35109
+loop_end=46144
+
+<region>
+sample=samples\Recorder E7.wav
+lokey=75 hikey=76
+pitch_keycenter=76
+pitcheg_depth=-14
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=0
+offset=0
+end=57135
+loop_start=45607
+loop_end=57045
+
+<region>
+sample=samples\Recorder F7.wav
+lokey=77 hikey=77
+pitch_keycenter=77
+volume=-2.0644
+tune=-58
+offset=0
+end=26191
+loop_start=14442
+loop_end=26153
+
+<region>
+sample=samples\Recorder G7.wav
+lokey=78 hikey=79
+pitch_keycenter=79
+volume=-2.0644
+tune=-15
+offset=0
+end=28783
+loop_start=18274
+loop_end=28748
+
+<region>
+sample=samples\Recorder A7.wav
+lokey=80 hikey=81
+pitch_keycenter=81
+tune=5
+offset=0
+end=36567
+loop_start=26123
+loop_end=36546
+
+<region>
+sample=samples\Recorder B7.wav
+lokey=82 hikey=83
+pitch_keycenter=83
+tune=10
+offset=0
+end=36303
+loop_start=23089
+loop_end=36225
+
+<region>
+sample=samples\Recorder D8.wav
+lokey=84 hikey=127
+pitch_keycenter=86
+pitcheg_depth=30
+pitcheg_decay=0.0799829
+fileg_decay=0.0799829
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.0799829
+fileg_release=0.0799829
+tune=9
+offset=0
+end=28207
+loop_start=16907
+loop_end=28155
+
+<group>
+lovel=65 hivel=72
+ampeg_release=0.225053
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=5975
+effect1=15
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Recorder C6.wav
+lokey=0 hikey=72
+pitch_keycenter=72
+volume=-2.0644
+tune=-10
+offset=0
+end=24927
+loop_start=14176
+loop_end=24885
+
+<region>
+sample=samples\Recorder D7.wav
+lokey=73 hikey=74
+pitch_keycenter=74
+pitcheg_depth=-30
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=23
+offset=0
+end=46191
+loop_start=35109
+loop_end=46144
+
+<region>
+sample=samples\Recorder E7.wav
+lokey=75 hikey=76
+pitch_keycenter=76
+pitcheg_depth=-14
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=0
+offset=0
+end=57135
+loop_start=45607
+loop_end=57045
+
+<region>
+sample=samples\Recorder F7.wav
+lokey=77 hikey=77
+pitch_keycenter=77
+volume=-2.0644
+tune=-58
+offset=0
+end=26191
+loop_start=14442
+loop_end=26153
+
+<region>
+sample=samples\Recorder G7.wav
+lokey=78 hikey=79
+pitch_keycenter=79
+volume=-2.0644
+tune=-15
+offset=0
+end=28783
+loop_start=18274
+loop_end=28748
+
+<region>
+sample=samples\Recorder A7.wav
+lokey=80 hikey=81
+pitch_keycenter=81
+tune=5
+offset=0
+end=36567
+loop_start=26123
+loop_end=36546
+
+<region>
+sample=samples\Recorder B7.wav
+lokey=82 hikey=83
+pitch_keycenter=83
+tune=10
+offset=0
+end=36303
+loop_start=23089
+loop_end=36225
+
+<region>
+sample=samples\Recorder D8.wav
+lokey=84 hikey=127
+pitch_keycenter=86
+pitcheg_depth=30
+pitcheg_decay=0.0799829
+fileg_decay=0.0799829
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.0799829
+fileg_release=0.0799829
+tune=9
+offset=0
+end=28207
+loop_start=16907
+loop_end=28155
+
+<group>
+lovel=0 hivel=64
+ampeg_release=0.210103
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=3983
+effect1=15
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Recorder C6.wav
+lokey=0 hikey=72
+pitch_keycenter=72
+volume=-2.0644
+tune=-10
+offset=0
+end=24927
+loop_start=14176
+loop_end=24885
+
+<region>
+sample=samples\Recorder D7.wav
+lokey=73 hikey=74
+pitch_keycenter=74
+pitcheg_depth=-30
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=23
+offset=0
+end=46191
+loop_start=35109
+loop_end=46144
+
+<region>
+sample=samples\Recorder E7.wav
+lokey=75 hikey=76
+pitch_keycenter=76
+pitcheg_depth=-14
+pitcheg_decay=0.800145
+fileg_decay=0.800145
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.800145
+fileg_release=0.800145
+volume=-2.0644
+tune=0
+offset=0
+end=57135
+loop_start=45607
+loop_end=57045
+
+<region>
+sample=samples\Recorder F7.wav
+lokey=77 hikey=77
+pitch_keycenter=77
+volume=-2.0644
+tune=-58
+offset=0
+end=26191
+loop_start=14442
+loop_end=26153
+
+<region>
+sample=samples\Recorder G7.wav
+lokey=78 hikey=79
+pitch_keycenter=79
+volume=-2.0644
+tune=-15
+offset=0
+end=28783
+loop_start=18274
+loop_end=28748
+
+<region>
+sample=samples\Recorder A7.wav
+lokey=80 hikey=81
+pitch_keycenter=81
+tune=5
+offset=0
+end=36567
+loop_start=26123
+loop_end=36546
+
+<region>
+sample=samples\Recorder B7.wav
+lokey=82 hikey=83
+pitch_keycenter=83
+tune=10
+offset=0
+end=36303
+loop_start=23089
+loop_end=36225
+
+<region>
+sample=samples\Recorder D8.wav
+lokey=84 hikey=127
+pitch_keycenter=86
+pitcheg_depth=30
+pitcheg_decay=0.0799829
+fileg_decay=0.0799829
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.0799829
+fileg_release=0.0799829
+tune=9
+offset=0
+end=28207
+loop_start=16907
+loop_end=28155

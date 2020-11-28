@@ -1,0 +1,261 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=8799
+ampeg_decay=25.0053
+ampeg_sustain=0.001
+ampeg_release=0.450105
+loop_mode=loop_continuous
+pan=20.4
+volume=-4.1288
+tune=2
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Harpsichord D3.wav
+lokey=0 hikey=39
+pitch_keycenter=38
+ampeg_decay=22.9963
+ampeg_sustain=0.0501187
+offset=0
+end=171087
+loop_start=167374
+loop_end=170994
+
+<region>
+sample=samples\Harpsichord G3.wav
+lokey=40 hikey=44
+pitch_keycenter=43
+ampeg_decay=21.0026
+offset=0
+end=86528
+loop_start=82026
+loop_end=86527
+
+<region>
+sample=samples\Harpsichord C4.wav
+lokey=45 hikey=48
+pitch_keycenter=48
+ampeg_decay=21.0026
+offset=0
+end=102511
+loop_start=99441
+loop_end=102476
+
+<region>
+sample=samples\Harpsichord F4.wav
+lokey=49 hikey=54
+pitch_keycenter=53
+ampeg_decay=14.0014
+offset=0
+end=47463
+loop_start=47196
+loop_end=47447
+
+<region>
+sample=samples\Harpsichord C5.wav
+lokey=55 hikey=61
+pitch_keycenter=60
+ampeg_decay=19.9964
+offset=0
+end=93250
+loop_start=91398
+loop_end=93248
+
+<region>
+sample=samples\Harpsichord F5.wav
+lokey=62 hikey=65
+pitch_keycenter=65
+ampeg_decay=11.4982
+offset=0
+end=37255
+loop_start=36618
+loop_end=36996
+
+<region>
+sample=samples\Harpsichord B5.wav
+lokey=66 hikey=71
+pitch_keycenter=71
+ampeg_decay=9.99818
+offset=0
+end=39095
+loop_start=37383
+loop_end=39080
+
+<region>
+sample=samples\Harpsichord F6.wav
+lokey=72 hikey=77
+pitch_keycenter=77
+ampeg_decay=8.50021
+offset=0
+end=31906
+loop_start=30673
+loop_end=31872
+
+<region>
+sample=samples\Harpsichord D7.wav
+lokey=78 hikey=86
+pitch_keycenter=86
+ampeg_decay=7.0007
+offset=0
+end=30398
+loop_start=30172
+loop_end=30396
+
+<region>
+sample=samples\Harpsichord B7.wav
+lokey=87 hikey=95
+pitch_keycenter=95
+ampeg_decay=7.29799
+offset=0
+end=20576
+loop_start=20130
+loop_end=20575
+
+<region>
+sample=samples\Harpsichord C8.wav
+lokey=96 hikey=127
+pitch_keycenter=96
+ampeg_decay=6.00015
+offset=0
+end=36755
+loop_start=35993
+loop_end=36752
+
+<group>
+fil_type=lpf_2p
+cutoff=8799
+ampeg_decay=14.8683
+ampeg_sustain=0.001
+ampeg_release=0.450105
+loop_mode=loop_continuous
+pan=-25
+volume=-1.95324
+transpose=12
+tune=-5
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Harpsichord D3.wav
+lokey=0 hikey=39
+pitch_keycenter=38
+ampeg_decay=13.6737
+ampeg_sustain=0.0501187
+offset=0
+end=171087
+loop_start=167374
+loop_end=170994
+
+<region>
+sample=samples\Harpsichord G3.wav
+lokey=40 hikey=44
+pitch_keycenter=43
+ampeg_decay=12.4882
+offset=0
+end=86528
+loop_start=82026
+loop_end=86527
+
+<region>
+sample=samples\Harpsichord C4.wav
+lokey=45 hikey=48
+pitch_keycenter=48
+ampeg_decay=12.4882
+offset=0
+end=102511
+loop_start=99441
+loop_end=102476
+
+<region>
+sample=samples\Harpsichord F4.wav
+lokey=49 hikey=54
+pitch_keycenter=53
+ampeg_decay=8.32528
+offset=0
+end=47463
+loop_start=47196
+loop_end=47447
+
+<region>
+sample=samples\Harpsichord C5.wav
+lokey=55 hikey=61
+pitch_keycenter=60
+ampeg_decay=11.8899
+offset=0
+end=93250
+loop_start=91398
+loop_end=93248
+
+<region>
+sample=samples\Harpsichord F5.wav
+lokey=62 hikey=65
+pitch_keycenter=65
+ampeg_decay=6.83685
+offset=0
+end=37255
+loop_start=36618
+loop_end=36996
+
+<region>
+sample=samples\Harpsichord B5.wav
+lokey=66 hikey=71
+pitch_keycenter=71
+ampeg_decay=5.94495
+offset=0
+end=39095
+loop_start=37383
+loop_end=39080
+
+<region>
+sample=samples\Harpsichord F6.wav
+lokey=72 hikey=77
+pitch_keycenter=77
+ampeg_decay=5.05426
+offset=0
+end=31906
+loop_start=30673
+loop_end=31872
+
+<region>
+sample=samples\Harpsichord D7.wav
+lokey=78 hikey=86
+pitch_keycenter=86
+ampeg_decay=4.16264
+offset=0
+end=30398
+loop_start=30172
+loop_end=30396
+
+<region>
+sample=samples\Harpsichord B7.wav
+lokey=87 hikey=95
+pitch_keycenter=95
+ampeg_decay=4.33941
+offset=0
+end=20576
+loop_start=20130
+loop_end=20575
+
+<region>
+sample=samples\Harpsichord C8.wav
+lokey=96 hikey=127
+pitch_keycenter=96
+ampeg_decay=3.56771
+offset=0
+end=36755
+loop_start=35993
+loop_end=36752

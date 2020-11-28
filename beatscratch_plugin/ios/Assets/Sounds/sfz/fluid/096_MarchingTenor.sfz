@@ -1,0 +1,230 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lochan=10 hichan=10
+pitch_keycenter=60
+pitch_keytrack=0
+loop_mode=no_loop
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\55_24_TNR4_NORM.wav
+lokey=36 hikey=36
+ampeg_decay=4.02085
+ampeg_sustain=98.8553
+ampeg_release=4.25994
+offset=0
+end=88199
+loop_start=8
+loop_end=88191
+
+<region>
+sample=samples\55_25_TNR4_RIM.wav
+lokey=37 hikey=37
+ampeg_decay=4.02085
+ampeg_sustain=98.8553
+ampeg_release=4.25994
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_TNR4Roll.wav
+lokey=38 hikey=38
+loop_mode=loop_sustain
+offset=0
+end=61700
+loop_start=8
+loop_end=8426
+
+<region>
+sample=samples\55_27_TNR4_MUTED.wav
+lokey=39 hikey=39
+offset=0
+end=88199
+loop_start=8
+loop_end=88191
+
+<region>
+sample=samples\55_28_TNR4_SHELL.wav
+lokey=40 hikey=40
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\Sticks(L).wav
+lokey=43 hikey=43
+offset=0
+end=8004
+loop_start=8
+loop_end=7996
+
+<region>
+sample=samples\55_48_TNR3_NORM.wav
+lokey=48 hikey=48
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_49_TNR3_RIM.wav
+lokey=49 hikey=49
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_TNR3Roll.wav
+lokey=50 hikey=50
+loop_mode=loop_sustain
+offset=0
+end=37900
+loop_start=8
+loop_end=8259
+
+<region>
+sample=samples\55_51_TNR3_MUTED.wav
+lokey=51 hikey=51
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_52_TNR3_SHELL.wav
+lokey=52 hikey=52
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_72_TNR2_NORM.wav
+lokey=60 hikey=60
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_73_TNR2_RIM.wav
+lokey=61 hikey=61
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_TNR2Roll.wav
+lokey=62 hikey=62
+loop_mode=loop_sustain
+offset=0
+end=37288
+loop_start=8
+loop_end=8140
+
+<region>
+sample=samples\55_75_TNR2_MUTED.wav
+lokey=63 hikey=63
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_96_TNR1_NORM.wav
+lokey=72 hikey=72
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_97_TNR1_RIM.wav
+lokey=73 hikey=73
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_TNR1Roll.wav
+lokey=74 hikey=74
+loop_mode=loop_sustain
+offset=0
+end=29626
+loop_start=8
+loop_end=8087
+
+<region>
+sample=samples\55_99_TNR1_MUTED.wav
+lokey=75 hikey=75
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_120_TNRSPOCK_NOR.wav
+lokey=84 hikey=84
+offset=0
+end=10623
+loop_start=8
+loop_end=10615
+
+<region>
+sample=samples\55_121_TNRSPOCK_RIM.wav
+lokey=85 hikey=85
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_SPK1Roll.wav
+lokey=86 hikey=86
+loop_mode=loop_sustain
+offset=0
+end=29364
+loop_start=8
+loop_end=8229
+
+<region>
+sample=samples\55_125_TNRSPOCK2_NO.wav
+lokey=96 hikey=96
+offset=0
+end=9243
+loop_start=8
+loop_end=9235
+
+<region>
+sample=samples\55_126_TNRSPOCK2_RI.wav
+lokey=97 hikey=97
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\55_SPK2Roll.wav
+lokey=98 hikey=98
+loop_mode=loop_sustain
+offset=0
+end=30122
+loop_start=8
+loop_end=8418

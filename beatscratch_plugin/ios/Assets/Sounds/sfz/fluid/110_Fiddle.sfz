@@ -1,0 +1,1464 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+ampeg_release=0.480187
+loop_mode=loop_continuous
+effect1=30
+resonance=7
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Violin G#4(L).wav
+lokey=0 hikey=58
+pitch_keycenter=56
+tune=15
+offset=0
+end=64139
+loop_start=55974
+loop_end=64116
+
+<region>
+sample=samples\Violin B4(L).wav
+lokey=59 hikey=61
+pitch_keycenter=59
+tune=12
+offset=0
+end=43343
+loop_start=35549
+loop_end=43311
+
+<region>
+sample=samples\Violin D5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=62
+tune=-5
+offset=0
+end=41139
+loop_start=32545
+loop_end=41094
+
+<region>
+sample=samples\Violin F5(L).wav
+lokey=65 hikey=67
+pitch_keycenter=65
+offset=0
+end=59151
+loop_start=50770
+loop_end=59098
+
+<region>
+sample=samples\Violin G#5(L).wav
+lokey=68 hikey=71
+pitch_keycenter=68
+tune=-5
+offset=0
+end=56743
+loop_start=48995
+loop_end=56728
+
+<region>
+sample=samples\Violin D6(L).wav
+lokey=72 hikey=74
+pitch_keycenter=74
+tune=-2
+offset=0
+end=75325
+loop_start=67663
+loop_end=75311
+
+<region>
+sample=samples\Violin F6(L).wav
+lokey=75 hikey=77
+pitch_keycenter=77
+tune=0
+offset=0
+end=52287
+loop_start=43991
+loop_end=52238
+
+<region>
+sample=samples\Violin G#6(L).wav
+lokey=78 hikey=81
+pitch_keycenter=80
+tune=4
+offset=0
+end=51059
+loop_start=43346
+loop_end=51046
+
+<region>
+sample=samples\Violin D7(L).wav
+lokey=82 hikey=86
+pitch_keycenter=86
+pitcheg_depth=-13
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_decay=1.20025
+fileg_decay=1.20025
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=1.20025
+fileg_release=1.20025
+tune=-7
+offset=0
+end=65311
+loop_start=57501
+loop_end=65271
+
+<region>
+sample=samples\Violin F7(L).wav
+lokey=87 hikey=89
+pitch_keycenter=89
+tune=-13
+offset=0
+end=58187
+loop_start=50513
+loop_end=58173
+
+<region>
+sample=samples\Violin G#7(L).wav
+lokey=90 hikey=93
+pitch_keycenter=92
+pitcheg_depth=60
+pitcheg_delay=0.200152
+fileg_delay=0.200152
+pitcheg_attack=0.0300117
+fileg_attack=0.0300117
+pitcheg_decay=0.140065
+fileg_decay=0.140065
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.169968
+fileg_release=0.169968
+tune=-1
+offset=0
+end=50267
+loop_start=42433
+loop_end=50230
+
+<region>
+sample=samples\Violin B7(L).wav
+lokey=94 hikey=96
+pitch_keycenter=95
+tune=21
+offset=0
+end=44415
+loop_start=36489
+loop_end=44267
+
+<region>
+sample=samples\Violin D8(L).wav
+lokey=97 hikey=103
+pitch_keycenter=98
+tune=0
+offset=0
+end=33547
+loop_start=25376
+loop_end=33536
+
+<group>
+lovel=113 hivel=120
+ampeg_release=0.440079
+loop_mode=loop_continuous
+effect1=27
+resonance=7
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Violin G#4(L).wav
+lokey=0 hikey=58
+pitch_keycenter=56
+tune=15
+offset=0
+end=64139
+loop_start=55974
+loop_end=64116
+
+<region>
+sample=samples\Violin B4(L).wav
+lokey=59 hikey=61
+pitch_keycenter=59
+tune=12
+offset=0
+end=43343
+loop_start=35549
+loop_end=43311
+
+<region>
+sample=samples\Violin D5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=62
+tune=-5
+offset=0
+end=41139
+loop_start=32545
+loop_end=41094
+
+<region>
+sample=samples\Violin F5(L).wav
+lokey=65 hikey=67
+pitch_keycenter=65
+offset=0
+end=59151
+loop_start=50770
+loop_end=59098
+
+<region>
+sample=samples\Violin G#5(L).wav
+lokey=68 hikey=71
+pitch_keycenter=68
+tune=-5
+offset=0
+end=56743
+loop_start=48995
+loop_end=56728
+
+<region>
+sample=samples\Violin D6(L).wav
+lokey=72 hikey=74
+pitch_keycenter=74
+tune=-2
+offset=0
+end=75325
+loop_start=67663
+loop_end=75311
+
+<region>
+sample=samples\Violin F6(L).wav
+lokey=75 hikey=77
+pitch_keycenter=77
+tune=0
+offset=0
+end=52287
+loop_start=43991
+loop_end=52238
+
+<region>
+sample=samples\Violin G#6(L).wav
+lokey=78 hikey=81
+pitch_keycenter=80
+tune=4
+offset=0
+end=51059
+loop_start=43346
+loop_end=51046
+
+<region>
+sample=samples\Violin D7(L).wav
+lokey=82 hikey=86
+pitch_keycenter=86
+pitcheg_depth=-13
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_decay=1.20025
+fileg_decay=1.20025
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=1.20025
+fileg_release=1.20025
+tune=-7
+offset=0
+end=65311
+loop_start=57501
+loop_end=65271
+
+<region>
+sample=samples\Violin F7(L).wav
+lokey=87 hikey=89
+pitch_keycenter=89
+tune=-13
+offset=0
+end=58187
+loop_start=50513
+loop_end=58173
+
+<region>
+sample=samples\Violin G#7(L).wav
+lokey=90 hikey=93
+pitch_keycenter=92
+pitcheg_depth=60
+pitcheg_delay=0.200152
+fileg_delay=0.200152
+pitcheg_attack=0.0300117
+fileg_attack=0.0300117
+pitcheg_decay=0.140065
+fileg_decay=0.140065
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.169968
+fileg_release=0.169968
+tune=-1
+offset=0
+end=50267
+loop_start=42433
+loop_end=50230
+
+<region>
+sample=samples\Violin B7(L).wav
+lokey=94 hikey=96
+pitch_keycenter=95
+tune=21
+offset=0
+end=44415
+loop_start=36489
+loop_end=44267
+
+<region>
+sample=samples\Violin D8(L).wav
+lokey=97 hikey=103
+pitch_keycenter=98
+tune=0
+offset=0
+end=33547
+loop_start=25376
+loop_end=33536
+
+<group>
+lovel=105 hivel=112
+ampeg_release=0.400073
+loop_mode=loop_continuous
+effect1=24
+resonance=7
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Violin G#4(L).wav
+lokey=0 hikey=58
+pitch_keycenter=56
+tune=15
+offset=0
+end=64139
+loop_start=55974
+loop_end=64116
+
+<region>
+sample=samples\Violin B4(L).wav
+lokey=59 hikey=61
+pitch_keycenter=59
+tune=12
+offset=0
+end=43343
+loop_start=35549
+loop_end=43311
+
+<region>
+sample=samples\Violin D5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=62
+tune=-5
+offset=0
+end=41139
+loop_start=32545
+loop_end=41094
+
+<region>
+sample=samples\Violin F5(L).wav
+lokey=65 hikey=67
+pitch_keycenter=65
+offset=0
+end=59151
+loop_start=50770
+loop_end=59098
+
+<region>
+sample=samples\Violin G#5(L).wav
+lokey=68 hikey=71
+pitch_keycenter=68
+tune=-5
+offset=0
+end=56743
+loop_start=48995
+loop_end=56728
+
+<region>
+sample=samples\Violin D6(L).wav
+lokey=72 hikey=74
+pitch_keycenter=74
+tune=-2
+offset=0
+end=75325
+loop_start=67663
+loop_end=75311
+
+<region>
+sample=samples\Violin F6(L).wav
+lokey=75 hikey=77
+pitch_keycenter=77
+tune=0
+offset=0
+end=52287
+loop_start=43991
+loop_end=52238
+
+<region>
+sample=samples\Violin G#6(L).wav
+lokey=78 hikey=81
+pitch_keycenter=80
+tune=4
+offset=0
+end=51059
+loop_start=43346
+loop_end=51046
+
+<region>
+sample=samples\Violin D7(L).wav
+lokey=82 hikey=86
+pitch_keycenter=86
+pitcheg_depth=-13
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_decay=1.20025
+fileg_decay=1.20025
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=1.20025
+fileg_release=1.20025
+tune=-7
+offset=0
+end=65311
+loop_start=57501
+loop_end=65271
+
+<region>
+sample=samples\Violin F7(L).wav
+lokey=87 hikey=89
+pitch_keycenter=89
+tune=-13
+offset=0
+end=58187
+loop_start=50513
+loop_end=58173
+
+<region>
+sample=samples\Violin G#7(L).wav
+lokey=90 hikey=93
+pitch_keycenter=92
+pitcheg_depth=60
+pitcheg_delay=0.200152
+fileg_delay=0.200152
+pitcheg_attack=0.0300117
+fileg_attack=0.0300117
+pitcheg_decay=0.140065
+fileg_decay=0.140065
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.169968
+fileg_release=0.169968
+tune=-1
+offset=0
+end=50267
+loop_start=42433
+loop_end=50230
+
+<region>
+sample=samples\Violin B7(L).wav
+lokey=94 hikey=96
+pitch_keycenter=95
+tune=21
+offset=0
+end=44415
+loop_start=36489
+loop_end=44267
+
+<region>
+sample=samples\Violin D8(L).wav
+lokey=97 hikey=103
+pitch_keycenter=98
+tune=0
+offset=0
+end=33547
+loop_start=25376
+loop_end=33536
+
+<group>
+lovel=97 hivel=104
+ampeg_release=0.360149
+loop_mode=loop_continuous
+effect1=21
+resonance=7
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Violin G#4(L).wav
+lokey=0 hikey=58
+pitch_keycenter=56
+tune=15
+offset=0
+end=64139
+loop_start=55974
+loop_end=64116
+
+<region>
+sample=samples\Violin B4(L).wav
+lokey=59 hikey=61
+pitch_keycenter=59
+tune=12
+offset=0
+end=43343
+loop_start=35549
+loop_end=43311
+
+<region>
+sample=samples\Violin D5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=62
+tune=-5
+offset=0
+end=41139
+loop_start=32545
+loop_end=41094
+
+<region>
+sample=samples\Violin F5(L).wav
+lokey=65 hikey=67
+pitch_keycenter=65
+offset=0
+end=59151
+loop_start=50770
+loop_end=59098
+
+<region>
+sample=samples\Violin G#5(L).wav
+lokey=68 hikey=71
+pitch_keycenter=68
+tune=-5
+offset=0
+end=56743
+loop_start=48995
+loop_end=56728
+
+<region>
+sample=samples\Violin D6(L).wav
+lokey=72 hikey=74
+pitch_keycenter=74
+tune=-2
+offset=0
+end=75325
+loop_start=67663
+loop_end=75311
+
+<region>
+sample=samples\Violin F6(L).wav
+lokey=75 hikey=77
+pitch_keycenter=77
+tune=0
+offset=0
+end=52287
+loop_start=43991
+loop_end=52238
+
+<region>
+sample=samples\Violin G#6(L).wav
+lokey=78 hikey=81
+pitch_keycenter=80
+tune=4
+offset=0
+end=51059
+loop_start=43346
+loop_end=51046
+
+<region>
+sample=samples\Violin D7(L).wav
+lokey=82 hikey=86
+pitch_keycenter=86
+pitcheg_depth=-13
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_decay=1.20025
+fileg_decay=1.20025
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=1.20025
+fileg_release=1.20025
+tune=-7
+offset=0
+end=65311
+loop_start=57501
+loop_end=65271
+
+<region>
+sample=samples\Violin F7(L).wav
+lokey=87 hikey=89
+pitch_keycenter=89
+tune=-13
+offset=0
+end=58187
+loop_start=50513
+loop_end=58173
+
+<region>
+sample=samples\Violin G#7(L).wav
+lokey=90 hikey=93
+pitch_keycenter=92
+pitcheg_depth=60
+pitcheg_delay=0.200152
+fileg_delay=0.200152
+pitcheg_attack=0.0300117
+fileg_attack=0.0300117
+pitcheg_decay=0.140065
+fileg_decay=0.140065
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.169968
+fileg_release=0.169968
+tune=-1
+offset=0
+end=50267
+loop_start=42433
+loop_end=50230
+
+<region>
+sample=samples\Violin B7(L).wav
+lokey=94 hikey=96
+pitch_keycenter=95
+tune=21
+offset=0
+end=44415
+loop_start=36489
+loop_end=44267
+
+<region>
+sample=samples\Violin D8(L).wav
+lokey=97 hikey=103
+pitch_keycenter=98
+tune=0
+offset=0
+end=33547
+loop_start=25376
+loop_end=33536
+
+<group>
+lovel=89 hivel=96
+ampeg_release=0.320116
+loop_mode=loop_continuous
+effect1=18
+resonance=7
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Violin G#4(L).wav
+lokey=0 hikey=58
+pitch_keycenter=56
+tune=15
+offset=0
+end=64139
+loop_start=55974
+loop_end=64116
+
+<region>
+sample=samples\Violin B4(L).wav
+lokey=59 hikey=61
+pitch_keycenter=59
+tune=12
+offset=0
+end=43343
+loop_start=35549
+loop_end=43311
+
+<region>
+sample=samples\Violin D5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=62
+tune=-5
+offset=0
+end=41139
+loop_start=32545
+loop_end=41094
+
+<region>
+sample=samples\Violin F5(L).wav
+lokey=65 hikey=67
+pitch_keycenter=65
+offset=0
+end=59151
+loop_start=50770
+loop_end=59098
+
+<region>
+sample=samples\Violin G#5(L).wav
+lokey=68 hikey=71
+pitch_keycenter=68
+tune=-5
+offset=0
+end=56743
+loop_start=48995
+loop_end=56728
+
+<region>
+sample=samples\Violin D6(L).wav
+lokey=72 hikey=74
+pitch_keycenter=74
+tune=-2
+offset=0
+end=75325
+loop_start=67663
+loop_end=75311
+
+<region>
+sample=samples\Violin F6(L).wav
+lokey=75 hikey=77
+pitch_keycenter=77
+tune=0
+offset=0
+end=52287
+loop_start=43991
+loop_end=52238
+
+<region>
+sample=samples\Violin G#6(L).wav
+lokey=78 hikey=81
+pitch_keycenter=80
+tune=4
+offset=0
+end=51059
+loop_start=43346
+loop_end=51046
+
+<region>
+sample=samples\Violin D7(L).wav
+lokey=82 hikey=86
+pitch_keycenter=86
+pitcheg_depth=-13
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_decay=1.20025
+fileg_decay=1.20025
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=1.20025
+fileg_release=1.20025
+tune=-7
+offset=0
+end=65311
+loop_start=57501
+loop_end=65271
+
+<region>
+sample=samples\Violin F7(L).wav
+lokey=87 hikey=89
+pitch_keycenter=89
+tune=-13
+offset=0
+end=58187
+loop_start=50513
+loop_end=58173
+
+<region>
+sample=samples\Violin G#7(L).wav
+lokey=90 hikey=93
+pitch_keycenter=92
+pitcheg_depth=60
+pitcheg_delay=0.200152
+fileg_delay=0.200152
+pitcheg_attack=0.0300117
+fileg_attack=0.0300117
+pitcheg_decay=0.140065
+fileg_decay=0.140065
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.169968
+fileg_release=0.169968
+tune=-1
+offset=0
+end=50267
+loop_start=42433
+loop_end=50230
+
+<region>
+sample=samples\Violin B7(L).wav
+lokey=94 hikey=96
+pitch_keycenter=95
+tune=21
+offset=0
+end=44415
+loop_start=36489
+loop_end=44267
+
+<region>
+sample=samples\Violin D8(L).wav
+lokey=97 hikey=103
+pitch_keycenter=98
+tune=0
+offset=0
+end=33547
+loop_start=25376
+loop_end=33536
+
+<group>
+lovel=81 hivel=88
+ampeg_release=0.28013
+loop_mode=loop_continuous
+effect1=15
+resonance=7
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Violin G#4(L).wav
+lokey=0 hikey=58
+pitch_keycenter=56
+tune=15
+offset=0
+end=64139
+loop_start=55974
+loop_end=64116
+
+<region>
+sample=samples\Violin B4(L).wav
+lokey=59 hikey=61
+pitch_keycenter=59
+tune=12
+offset=0
+end=43343
+loop_start=35549
+loop_end=43311
+
+<region>
+sample=samples\Violin D5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=62
+tune=-5
+offset=0
+end=41139
+loop_start=32545
+loop_end=41094
+
+<region>
+sample=samples\Violin F5(L).wav
+lokey=65 hikey=67
+pitch_keycenter=65
+offset=0
+end=59151
+loop_start=50770
+loop_end=59098
+
+<region>
+sample=samples\Violin G#5(L).wav
+lokey=68 hikey=71
+pitch_keycenter=68
+tune=-5
+offset=0
+end=56743
+loop_start=48995
+loop_end=56728
+
+<region>
+sample=samples\Violin D6(L).wav
+lokey=72 hikey=74
+pitch_keycenter=74
+tune=-2
+offset=0
+end=75325
+loop_start=67663
+loop_end=75311
+
+<region>
+sample=samples\Violin F6(L).wav
+lokey=75 hikey=77
+pitch_keycenter=77
+tune=0
+offset=0
+end=52287
+loop_start=43991
+loop_end=52238
+
+<region>
+sample=samples\Violin G#6(L).wav
+lokey=78 hikey=81
+pitch_keycenter=80
+tune=4
+offset=0
+end=51059
+loop_start=43346
+loop_end=51046
+
+<region>
+sample=samples\Violin D7(L).wav
+lokey=82 hikey=86
+pitch_keycenter=86
+pitcheg_depth=-13
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_decay=1.20025
+fileg_decay=1.20025
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=1.20025
+fileg_release=1.20025
+tune=-7
+offset=0
+end=65311
+loop_start=57501
+loop_end=65271
+
+<region>
+sample=samples\Violin F7(L).wav
+lokey=87 hikey=89
+pitch_keycenter=89
+tune=-13
+offset=0
+end=58187
+loop_start=50513
+loop_end=58173
+
+<region>
+sample=samples\Violin G#7(L).wav
+lokey=90 hikey=93
+pitch_keycenter=92
+pitcheg_depth=60
+pitcheg_delay=0.200152
+fileg_delay=0.200152
+pitcheg_attack=0.0300117
+fileg_attack=0.0300117
+pitcheg_decay=0.140065
+fileg_decay=0.140065
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.169968
+fileg_release=0.169968
+tune=-1
+offset=0
+end=50267
+loop_start=42433
+loop_end=50230
+
+<region>
+sample=samples\Violin B7(L).wav
+lokey=94 hikey=96
+pitch_keycenter=95
+tune=21
+offset=0
+end=44415
+loop_start=36489
+loop_end=44267
+
+<region>
+sample=samples\Violin D8(L).wav
+lokey=97 hikey=103
+pitch_keycenter=98
+tune=0
+offset=0
+end=33547
+loop_start=25376
+loop_end=33536
+
+<group>
+lovel=73 hivel=80
+ampeg_release=0.240093
+loop_mode=loop_continuous
+effect1=12
+resonance=7
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Violin G#4(L).wav
+lokey=0 hikey=58
+pitch_keycenter=56
+tune=15
+offset=0
+end=64139
+loop_start=55974
+loop_end=64116
+
+<region>
+sample=samples\Violin B4(L).wav
+lokey=59 hikey=61
+pitch_keycenter=59
+tune=12
+offset=0
+end=43343
+loop_start=35549
+loop_end=43311
+
+<region>
+sample=samples\Violin D5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=62
+tune=-5
+offset=0
+end=41139
+loop_start=32545
+loop_end=41094
+
+<region>
+sample=samples\Violin F5(L).wav
+lokey=65 hikey=67
+pitch_keycenter=65
+offset=0
+end=59151
+loop_start=50770
+loop_end=59098
+
+<region>
+sample=samples\Violin G#5(L).wav
+lokey=68 hikey=71
+pitch_keycenter=68
+tune=-5
+offset=0
+end=56743
+loop_start=48995
+loop_end=56728
+
+<region>
+sample=samples\Violin D6(L).wav
+lokey=72 hikey=74
+pitch_keycenter=74
+tune=-2
+offset=0
+end=75325
+loop_start=67663
+loop_end=75311
+
+<region>
+sample=samples\Violin F6(L).wav
+lokey=75 hikey=77
+pitch_keycenter=77
+tune=0
+offset=0
+end=52287
+loop_start=43991
+loop_end=52238
+
+<region>
+sample=samples\Violin G#6(L).wav
+lokey=78 hikey=81
+pitch_keycenter=80
+tune=4
+offset=0
+end=51059
+loop_start=43346
+loop_end=51046
+
+<region>
+sample=samples\Violin D7(L).wav
+lokey=82 hikey=86
+pitch_keycenter=86
+pitcheg_depth=-13
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_decay=1.20025
+fileg_decay=1.20025
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=1.20025
+fileg_release=1.20025
+tune=-7
+offset=0
+end=65311
+loop_start=57501
+loop_end=65271
+
+<region>
+sample=samples\Violin F7(L).wav
+lokey=87 hikey=89
+pitch_keycenter=89
+tune=-13
+offset=0
+end=58187
+loop_start=50513
+loop_end=58173
+
+<region>
+sample=samples\Violin G#7(L).wav
+lokey=90 hikey=93
+pitch_keycenter=92
+pitcheg_depth=60
+pitcheg_delay=0.200152
+fileg_delay=0.200152
+pitcheg_attack=0.0300117
+fileg_attack=0.0300117
+pitcheg_decay=0.140065
+fileg_decay=0.140065
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.169968
+fileg_release=0.169968
+tune=-1
+offset=0
+end=50267
+loop_start=42433
+loop_end=50230
+
+<region>
+sample=samples\Violin B7(L).wav
+lokey=94 hikey=96
+pitch_keycenter=95
+tune=21
+offset=0
+end=44415
+loop_start=36489
+loop_end=44267
+
+<region>
+sample=samples\Violin D8(L).wav
+lokey=97 hikey=103
+pitch_keycenter=98
+tune=0
+offset=0
+end=33547
+loop_start=25376
+loop_end=33536
+
+<group>
+lovel=65 hivel=72
+ampeg_release=0.200036
+loop_mode=loop_continuous
+effect1=9
+resonance=7
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Violin G#4(L).wav
+lokey=0 hikey=58
+pitch_keycenter=56
+tune=15
+offset=0
+end=64139
+loop_start=55974
+loop_end=64116
+
+<region>
+sample=samples\Violin B4(L).wav
+lokey=59 hikey=61
+pitch_keycenter=59
+tune=12
+offset=0
+end=43343
+loop_start=35549
+loop_end=43311
+
+<region>
+sample=samples\Violin D5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=62
+tune=-5
+offset=0
+end=41139
+loop_start=32545
+loop_end=41094
+
+<region>
+sample=samples\Violin F5(L).wav
+lokey=65 hikey=67
+pitch_keycenter=65
+offset=0
+end=59151
+loop_start=50770
+loop_end=59098
+
+<region>
+sample=samples\Violin G#5(L).wav
+lokey=68 hikey=71
+pitch_keycenter=68
+tune=-5
+offset=0
+end=56743
+loop_start=48995
+loop_end=56728
+
+<region>
+sample=samples\Violin D6(L).wav
+lokey=72 hikey=74
+pitch_keycenter=74
+tune=-2
+offset=0
+end=75325
+loop_start=67663
+loop_end=75311
+
+<region>
+sample=samples\Violin F6(L).wav
+lokey=75 hikey=77
+pitch_keycenter=77
+tune=0
+offset=0
+end=52287
+loop_start=43991
+loop_end=52238
+
+<region>
+sample=samples\Violin G#6(L).wav
+lokey=78 hikey=81
+pitch_keycenter=80
+tune=4
+offset=0
+end=51059
+loop_start=43346
+loop_end=51046
+
+<region>
+sample=samples\Violin D7(L).wav
+lokey=82 hikey=86
+pitch_keycenter=86
+pitcheg_depth=-13
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_decay=1.20025
+fileg_decay=1.20025
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=1.20025
+fileg_release=1.20025
+tune=-7
+offset=0
+end=65311
+loop_start=57501
+loop_end=65271
+
+<region>
+sample=samples\Violin F7(L).wav
+lokey=87 hikey=89
+pitch_keycenter=89
+tune=-13
+offset=0
+end=58187
+loop_start=50513
+loop_end=58173
+
+<region>
+sample=samples\Violin G#7(L).wav
+lokey=90 hikey=93
+pitch_keycenter=92
+pitcheg_depth=60
+pitcheg_delay=0.200152
+fileg_delay=0.200152
+pitcheg_attack=0.0300117
+fileg_attack=0.0300117
+pitcheg_decay=0.140065
+fileg_decay=0.140065
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.169968
+fileg_release=0.169968
+tune=-1
+offset=0
+end=50267
+loop_start=42433
+loop_end=50230
+
+<region>
+sample=samples\Violin B7(L).wav
+lokey=94 hikey=96
+pitch_keycenter=95
+tune=21
+offset=0
+end=44415
+loop_start=36489
+loop_end=44267
+
+<region>
+sample=samples\Violin D8(L).wav
+lokey=97 hikey=103
+pitch_keycenter=98
+tune=0
+offset=0
+end=33547
+loop_start=25376
+loop_end=33536
+
+<group>
+lovel=0 hivel=64
+ampeg_release=0.160058
+loop_mode=loop_continuous
+effect1=6
+resonance=7
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Violin G#4(L).wav
+lokey=0 hikey=58
+pitch_keycenter=56
+tune=15
+offset=0
+end=64139
+loop_start=55974
+loop_end=64116
+
+<region>
+sample=samples\Violin B4(L).wav
+lokey=59 hikey=61
+pitch_keycenter=59
+tune=12
+offset=0
+end=43343
+loop_start=35549
+loop_end=43311
+
+<region>
+sample=samples\Violin D5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=62
+tune=-5
+offset=0
+end=41139
+loop_start=32545
+loop_end=41094
+
+<region>
+sample=samples\Violin F5(L).wav
+lokey=65 hikey=67
+pitch_keycenter=65
+offset=0
+end=59151
+loop_start=50770
+loop_end=59098
+
+<region>
+sample=samples\Violin G#5(L).wav
+lokey=68 hikey=71
+pitch_keycenter=68
+tune=-5
+offset=0
+end=56743
+loop_start=48995
+loop_end=56728
+
+<region>
+sample=samples\Violin D6(L).wav
+lokey=72 hikey=74
+pitch_keycenter=74
+tune=-2
+offset=0
+end=75325
+loop_start=67663
+loop_end=75311
+
+<region>
+sample=samples\Violin F6(L).wav
+lokey=75 hikey=77
+pitch_keycenter=77
+tune=0
+offset=0
+end=52287
+loop_start=43991
+loop_end=52238
+
+<region>
+sample=samples\Violin G#6(L).wav
+lokey=78 hikey=81
+pitch_keycenter=80
+tune=4
+offset=0
+end=51059
+loop_start=43346
+loop_end=51046
+
+<region>
+sample=samples\Violin D7(L).wav
+lokey=82 hikey=86
+pitch_keycenter=86
+pitcheg_depth=-13
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_decay=1.20025
+fileg_decay=1.20025
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=1.20025
+fileg_release=1.20025
+tune=-7
+offset=0
+end=65311
+loop_start=57501
+loop_end=65271
+
+<region>
+sample=samples\Violin F7(L).wav
+lokey=87 hikey=89
+pitch_keycenter=89
+tune=-13
+offset=0
+end=58187
+loop_start=50513
+loop_end=58173
+
+<region>
+sample=samples\Violin G#7(L).wav
+lokey=90 hikey=93
+pitch_keycenter=92
+pitcheg_depth=60
+pitcheg_delay=0.200152
+fileg_delay=0.200152
+pitcheg_attack=0.0300117
+fileg_attack=0.0300117
+pitcheg_decay=0.140065
+fileg_decay=0.140065
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.169968
+fileg_release=0.169968
+tune=-1
+offset=0
+end=50267
+loop_start=42433
+loop_end=50230
+
+<region>
+sample=samples\Violin B7(L).wav
+lokey=94 hikey=96
+pitch_keycenter=95
+tune=21
+offset=0
+end=44415
+loop_start=36489
+loop_end=44267
+
+<region>
+sample=samples\Violin D8(L).wav
+lokey=97 hikey=103
+pitch_keycenter=98
+tune=0
+offset=0
+end=33547
+loop_start=25376
+loop_end=33536

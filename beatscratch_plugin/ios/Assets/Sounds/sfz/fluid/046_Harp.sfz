@@ -1,0 +1,244 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=7110
+pitcheg_release=100.021
+fileg_release=100.021
+loop_mode=loop_continuous
+effect1=3
+ampeg_release=0.00117212
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Harp A#1(L).wav
+lokey=0 hikey=39
+pitch_keycenter=34
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=13.0035
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=53967
+loop_start=52377
+loop_end=53888
+
+<region>
+sample=samples\Harp G#2(L).wav
+lokey=40 hikey=46
+pitch_keycenter=44
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=11.6992
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=48175
+loop_start=46854
+loop_end=48128
+
+<region>
+sample=samples\Harp C#3(L).wav
+lokey=47 hikey=50
+pitch_keycenter=49
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=10.9031
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=44509
+loop_start=44187
+loop_end=44504
+
+<region>
+sample=samples\Harp F#3(L).wav
+lokey=51 hikey=55
+pitch_keycenter=54
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=10.2024
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=52383
+loop_start=51328
+loop_end=52277
+
+<region>
+sample=samples\Harp G#3(L).wav
+lokey=56 hikey=59
+pitch_keycenter=56
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=9.50266
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=45695
+loop_start=44800
+loop_end=45650
+
+<region>
+sample=samples\Harp C#4(L).wav
+lokey=60 hikey=62
+pitch_keycenter=61
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=9.00046
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=31015
+loop_start=30340
+loop_end=30976
+
+<region>
+sample=samples\Harp D#4(L).wav
+lokey=63 hikey=65
+pitch_keycenter=63
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=8.50021
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=18995
+loop_start=18560
+loop_end=18984
+
+<region>
+sample=samples\Harp G#4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=68
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=7.99999
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=23307
+loop_start=22767
+loop_end=23296
+
+<region>
+sample=samples\Harp A#4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=7.49883
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=25887
+loop_start=25472
+loop_end=25850
+
+<region>
+sample=samples\Harp C#5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=73
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=7.0007
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=23263
+loop_start=22848
+loop_end=23245
+
+<region>
+sample=samples\Harp F#5(L).wav
+lokey=76 hikey=81
+pitch_keycenter=78
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=6.50177
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=19123
+loop_start=18866
+loop_end=19104
+
+<region>
+sample=samples\Harp B5(L).wav
+lokey=82 hikey=98
+pitch_keycenter=83
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=6.00015
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=14647
+loop_start=14176
+loop_end=14620
+
+<region>
+sample=samples\Harp D#7(L).wav
+lokey=99 hikey=101
+pitch_keycenter=99
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=5.49899
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=11255
+loop_start=10894
+loop_end=11232
+
+<region>
+sample=samples\Harp F#7(L).wav
+lokey=102 hikey=108
+pitch_keycenter=102
+effect1=10
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_decay=4.99909
+ampeg_sustain=0.001
+ampeg_release=9.60198
+offset=0
+end=9295
+loop_start=8909
+loop_end=9263

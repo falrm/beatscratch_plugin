@@ -1,0 +1,1527 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=10002
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=10
+volume=-0.6352
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Tenor B3(L).wav
+lokey=0 hikey=47
+pitch_keycenter=47
+offset=0
+end=59849
+loop_start=52484
+loop_end=59756
+
+<region>
+sample=samples\Tenor C#4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=71436
+loop_start=63798
+loop_end=71186
+
+<region>
+sample=samples\Tenor D#4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=51
+tune=-5
+offset=0
+end=55878
+loop_start=48435
+loop_end=55820
+
+<region>
+sample=samples\Tenor E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=-10
+offset=0
+end=49737
+loop_start=42874
+loop_end=49632
+
+<region>
+sample=samples\Tenor G4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=55
+tune=-5
+offset=0
+end=65619
+loop_start=58042
+loop_end=65527
+
+<region>
+sample=samples\Tenor G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=-4
+offset=0
+end=69712
+loop_start=61913
+loop_end=69605
+
+<region>
+sample=samples\Tenor A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=75104
+loop_start=66853
+loop_end=75076
+
+<region>
+sample=samples\Tenor C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-15
+offset=0
+end=58167
+loop_start=50730
+loop_end=58128
+
+<region>
+sample=samples\Tenor D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=-13
+offset=0
+end=95573
+loop_start=87615
+loop_end=95519
+
+<region>
+sample=samples\Tenor F5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=-8
+offset=0
+end=89582
+loop_start=82333
+loop_end=89532
+
+<region>
+sample=samples\Tenor F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=-13
+offset=0
+end=78390
+loop_start=71375
+loop_end=78322
+
+<region>
+sample=samples\Tenor A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=-6
+offset=0
+end=69236
+loop_start=61594
+loop_end=69189
+
+<region>
+sample=samples\Tenor B5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=71
+tune=-3
+offset=0
+end=81455
+loop_start=73510
+loop_end=81350
+
+<region>
+sample=samples\Tenor C#6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=73
+tune=-2
+offset=0
+end=92433
+loop_start=84624
+loop_end=92347
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=74 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=9004
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00146489
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Tenor B3(L).wav
+lokey=0 hikey=47
+pitch_keycenter=47
+offset=0
+end=59849
+loop_start=52484
+loop_end=59756
+
+<region>
+sample=samples\Tenor C#4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=71436
+loop_start=63798
+loop_end=71186
+
+<region>
+sample=samples\Tenor D#4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=51
+tune=-5
+offset=0
+end=55878
+loop_start=48435
+loop_end=55820
+
+<region>
+sample=samples\Tenor E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=-10
+offset=0
+end=49737
+loop_start=42874
+loop_end=49632
+
+<region>
+sample=samples\Tenor G4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=55
+tune=-5
+offset=0
+end=65619
+loop_start=58042
+loop_end=65527
+
+<region>
+sample=samples\Tenor G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=-4
+offset=0
+end=69712
+loop_start=61913
+loop_end=69605
+
+<region>
+sample=samples\Tenor A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=75104
+loop_start=66853
+loop_end=75076
+
+<region>
+sample=samples\Tenor C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-15
+offset=0
+end=58167
+loop_start=50730
+loop_end=58128
+
+<region>
+sample=samples\Tenor D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=-13
+offset=0
+end=95573
+loop_start=87615
+loop_end=95519
+
+<region>
+sample=samples\Tenor F5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=-8
+offset=0
+end=89582
+loop_start=82333
+loop_end=89532
+
+<region>
+sample=samples\Tenor F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=-13
+offset=0
+end=78390
+loop_start=71375
+loop_end=78322
+
+<region>
+sample=samples\Tenor A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=-6
+offset=0
+end=69236
+loop_start=61594
+loop_end=69189
+
+<region>
+sample=samples\Tenor B5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=71
+tune=-3
+offset=0
+end=81455
+loop_start=73510
+loop_end=81350
+
+<region>
+sample=samples\Tenor C#6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=73
+tune=-2
+offset=0
+end=92433
+loop_start=84624
+loop_end=92347
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=74 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=8003
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00195313
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Tenor B3(L).wav
+lokey=0 hikey=47
+pitch_keycenter=47
+offset=0
+end=59849
+loop_start=52484
+loop_end=59756
+
+<region>
+sample=samples\Tenor C#4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=71436
+loop_start=63798
+loop_end=71186
+
+<region>
+sample=samples\Tenor D#4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=51
+tune=-5
+offset=0
+end=55878
+loop_start=48435
+loop_end=55820
+
+<region>
+sample=samples\Tenor E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=-10
+offset=0
+end=49737
+loop_start=42874
+loop_end=49632
+
+<region>
+sample=samples\Tenor G4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=55
+tune=-5
+offset=0
+end=65619
+loop_start=58042
+loop_end=65527
+
+<region>
+sample=samples\Tenor G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=-4
+offset=0
+end=69712
+loop_start=61913
+loop_end=69605
+
+<region>
+sample=samples\Tenor A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=75104
+loop_start=66853
+loop_end=75076
+
+<region>
+sample=samples\Tenor C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-15
+offset=0
+end=58167
+loop_start=50730
+loop_end=58128
+
+<region>
+sample=samples\Tenor D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=-13
+offset=0
+end=95573
+loop_start=87615
+loop_end=95519
+
+<region>
+sample=samples\Tenor F5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=-8
+offset=0
+end=89582
+loop_start=82333
+loop_end=89532
+
+<region>
+sample=samples\Tenor F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=-13
+offset=0
+end=78390
+loop_start=71375
+loop_end=78322
+
+<region>
+sample=samples\Tenor A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=-6
+offset=0
+end=69236
+loop_start=61594
+loop_end=69189
+
+<region>
+sample=samples\Tenor B5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=71
+tune=-3
+offset=0
+end=81455
+loop_start=73510
+loop_end=81350
+
+<region>
+sample=samples\Tenor C#6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=73
+tune=-2
+offset=0
+end=92433
+loop_start=84624
+loop_end=92347
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=74 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=7004
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00244097
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Tenor B3(L).wav
+lokey=0 hikey=47
+pitch_keycenter=47
+offset=0
+end=59849
+loop_start=52484
+loop_end=59756
+
+<region>
+sample=samples\Tenor C#4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=71436
+loop_start=63798
+loop_end=71186
+
+<region>
+sample=samples\Tenor D#4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=51
+tune=-5
+offset=0
+end=55878
+loop_start=48435
+loop_end=55820
+
+<region>
+sample=samples\Tenor E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=-10
+offset=0
+end=49737
+loop_start=42874
+loop_end=49632
+
+<region>
+sample=samples\Tenor G4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=55
+tune=-5
+offset=0
+end=65619
+loop_start=58042
+loop_end=65527
+
+<region>
+sample=samples\Tenor G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=-4
+offset=0
+end=69712
+loop_start=61913
+loop_end=69605
+
+<region>
+sample=samples\Tenor A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=75104
+loop_start=66853
+loop_end=75076
+
+<region>
+sample=samples\Tenor C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-15
+offset=0
+end=58167
+loop_start=50730
+loop_end=58128
+
+<region>
+sample=samples\Tenor D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=-13
+offset=0
+end=95573
+loop_start=87615
+loop_end=95519
+
+<region>
+sample=samples\Tenor F5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=-8
+offset=0
+end=89582
+loop_start=82333
+loop_end=89532
+
+<region>
+sample=samples\Tenor F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=-13
+offset=0
+end=78390
+loop_start=71375
+loop_end=78322
+
+<region>
+sample=samples\Tenor A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=-6
+offset=0
+end=69236
+loop_start=61594
+loop_end=69189
+
+<region>
+sample=samples\Tenor B5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=71
+tune=-3
+offset=0
+end=81455
+loop_start=73510
+loop_end=81350
+
+<region>
+sample=samples\Tenor C#6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=73
+tune=-2
+offset=0
+end=92433
+loop_start=84624
+loop_end=92347
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=74 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=6003
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00292977
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Tenor B3(L).wav
+lokey=0 hikey=47
+pitch_keycenter=47
+offset=0
+end=59849
+loop_start=52484
+loop_end=59756
+
+<region>
+sample=samples\Tenor C#4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=71436
+loop_start=63798
+loop_end=71186
+
+<region>
+sample=samples\Tenor D#4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=51
+tune=-5
+offset=0
+end=55878
+loop_start=48435
+loop_end=55820
+
+<region>
+sample=samples\Tenor E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=-10
+offset=0
+end=49737
+loop_start=42874
+loop_end=49632
+
+<region>
+sample=samples\Tenor G4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=55
+tune=-5
+offset=0
+end=65619
+loop_start=58042
+loop_end=65527
+
+<region>
+sample=samples\Tenor G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=-4
+offset=0
+end=69712
+loop_start=61913
+loop_end=69605
+
+<region>
+sample=samples\Tenor A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=75104
+loop_start=66853
+loop_end=75076
+
+<region>
+sample=samples\Tenor C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-15
+offset=0
+end=58167
+loop_start=50730
+loop_end=58128
+
+<region>
+sample=samples\Tenor D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=-13
+offset=0
+end=95573
+loop_start=87615
+loop_end=95519
+
+<region>
+sample=samples\Tenor F5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=-8
+offset=0
+end=89582
+loop_start=82333
+loop_end=89532
+
+<region>
+sample=samples\Tenor F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=-13
+offset=0
+end=78390
+loop_start=71375
+loop_end=78322
+
+<region>
+sample=samples\Tenor A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=-6
+offset=0
+end=69236
+loop_start=61594
+loop_end=69189
+
+<region>
+sample=samples\Tenor B5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=71
+tune=-3
+offset=0
+end=81455
+loop_start=73510
+loop_end=81350
+
+<region>
+sample=samples\Tenor C#6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=73
+tune=-2
+offset=0
+end=92433
+loop_start=84624
+loop_end=92347
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=74 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=5001
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00341832
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Tenor B3(L).wav
+lokey=0 hikey=47
+pitch_keycenter=47
+offset=0
+end=59849
+loop_start=52484
+loop_end=59756
+
+<region>
+sample=samples\Tenor C#4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=71436
+loop_start=63798
+loop_end=71186
+
+<region>
+sample=samples\Tenor D#4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=51
+tune=-5
+offset=0
+end=55878
+loop_start=48435
+loop_end=55820
+
+<region>
+sample=samples\Tenor E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=-10
+offset=0
+end=49737
+loop_start=42874
+loop_end=49632
+
+<region>
+sample=samples\Tenor G4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=55
+tune=-5
+offset=0
+end=65619
+loop_start=58042
+loop_end=65527
+
+<region>
+sample=samples\Tenor G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=-4
+offset=0
+end=69712
+loop_start=61913
+loop_end=69605
+
+<region>
+sample=samples\Tenor A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=75104
+loop_start=66853
+loop_end=75076
+
+<region>
+sample=samples\Tenor C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-15
+offset=0
+end=58167
+loop_start=50730
+loop_end=58128
+
+<region>
+sample=samples\Tenor D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=-13
+offset=0
+end=95573
+loop_start=87615
+loop_end=95519
+
+<region>
+sample=samples\Tenor F5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=-8
+offset=0
+end=89582
+loop_start=82333
+loop_end=89532
+
+<region>
+sample=samples\Tenor F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=-13
+offset=0
+end=78390
+loop_start=71375
+loop_end=78322
+
+<region>
+sample=samples\Tenor A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=-6
+offset=0
+end=69236
+loop_start=61594
+loop_end=69189
+
+<region>
+sample=samples\Tenor B5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=71
+tune=-3
+offset=0
+end=81455
+loop_start=73510
+loop_end=81350
+
+<region>
+sample=samples\Tenor C#6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=73
+tune=-2
+offset=0
+end=92433
+loop_start=84624
+loop_end=92347
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=74 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=4002
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00390626
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Tenor B3(L).wav
+lokey=0 hikey=47
+pitch_keycenter=47
+offset=0
+end=59849
+loop_start=52484
+loop_end=59756
+
+<region>
+sample=samples\Tenor C#4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=71436
+loop_start=63798
+loop_end=71186
+
+<region>
+sample=samples\Tenor D#4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=51
+tune=-5
+offset=0
+end=55878
+loop_start=48435
+loop_end=55820
+
+<region>
+sample=samples\Tenor E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=-10
+offset=0
+end=49737
+loop_start=42874
+loop_end=49632
+
+<region>
+sample=samples\Tenor G4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=55
+tune=-5
+offset=0
+end=65619
+loop_start=58042
+loop_end=65527
+
+<region>
+sample=samples\Tenor G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=-4
+offset=0
+end=69712
+loop_start=61913
+loop_end=69605
+
+<region>
+sample=samples\Tenor A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=75104
+loop_start=66853
+loop_end=75076
+
+<region>
+sample=samples\Tenor C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-15
+offset=0
+end=58167
+loop_start=50730
+loop_end=58128
+
+<region>
+sample=samples\Tenor D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=-13
+offset=0
+end=95573
+loop_start=87615
+loop_end=95519
+
+<region>
+sample=samples\Tenor F5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=-8
+offset=0
+end=89582
+loop_start=82333
+loop_end=89532
+
+<region>
+sample=samples\Tenor F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=-13
+offset=0
+end=78390
+loop_start=71375
+loop_end=78322
+
+<region>
+sample=samples\Tenor A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=-6
+offset=0
+end=69236
+loop_start=61594
+loop_end=69189
+
+<region>
+sample=samples\Tenor B5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=71
+tune=-3
+offset=0
+end=81455
+loop_start=73510
+loop_end=81350
+
+<region>
+sample=samples\Tenor C#6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=73
+tune=-2
+offset=0
+end=92433
+loop_start=84624
+loop_end=92347
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=74 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=3001
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00439477
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Tenor B3(L).wav
+lokey=0 hikey=47
+pitch_keycenter=47
+offset=0
+end=59849
+loop_start=52484
+loop_end=59756
+
+<region>
+sample=samples\Tenor C#4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=71436
+loop_start=63798
+loop_end=71186
+
+<region>
+sample=samples\Tenor D#4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=51
+tune=-5
+offset=0
+end=55878
+loop_start=48435
+loop_end=55820
+
+<region>
+sample=samples\Tenor E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=-10
+offset=0
+end=49737
+loop_start=42874
+loop_end=49632
+
+<region>
+sample=samples\Tenor G4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=55
+tune=-5
+offset=0
+end=65619
+loop_start=58042
+loop_end=65527
+
+<region>
+sample=samples\Tenor G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=-4
+offset=0
+end=69712
+loop_start=61913
+loop_end=69605
+
+<region>
+sample=samples\Tenor A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=75104
+loop_start=66853
+loop_end=75076
+
+<region>
+sample=samples\Tenor C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-15
+offset=0
+end=58167
+loop_start=50730
+loop_end=58128
+
+<region>
+sample=samples\Tenor D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=-13
+offset=0
+end=95573
+loop_start=87615
+loop_end=95519
+
+<region>
+sample=samples\Tenor F5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=-8
+offset=0
+end=89582
+loop_start=82333
+loop_end=89532
+
+<region>
+sample=samples\Tenor F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=-13
+offset=0
+end=78390
+loop_start=71375
+loop_end=78322
+
+<region>
+sample=samples\Tenor A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=-6
+offset=0
+end=69236
+loop_start=61594
+loop_end=69189
+
+<region>
+sample=samples\Tenor B5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=71
+tune=-3
+offset=0
+end=81455
+loop_start=73510
+loop_end=81350
+
+<region>
+sample=samples\Tenor C#6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=73
+tune=-2
+offset=0
+end=92433
+loop_start=84624
+loop_end=92347
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=74 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=2001
+fileg_depth=-1957
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00488194
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Tenor B3(L).wav
+lokey=0 hikey=47
+pitch_keycenter=47
+offset=0
+end=59849
+loop_start=52484
+loop_end=59756
+
+<region>
+sample=samples\Tenor C#4(L).wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=71436
+loop_start=63798
+loop_end=71186
+
+<region>
+sample=samples\Tenor D#4(L).wav
+lokey=50 hikey=51
+pitch_keycenter=51
+tune=-5
+offset=0
+end=55878
+loop_start=48435
+loop_end=55820
+
+<region>
+sample=samples\Tenor E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=-10
+offset=0
+end=49737
+loop_start=42874
+loop_end=49632
+
+<region>
+sample=samples\Tenor G4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=55
+tune=-5
+offset=0
+end=65619
+loop_start=58042
+loop_end=65527
+
+<region>
+sample=samples\Tenor G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=-4
+offset=0
+end=69712
+loop_start=61913
+loop_end=69605
+
+<region>
+sample=samples\Tenor A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=75104
+loop_start=66853
+loop_end=75076
+
+<region>
+sample=samples\Tenor C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-15
+offset=0
+end=58167
+loop_start=50730
+loop_end=58128
+
+<region>
+sample=samples\Tenor D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=-13
+offset=0
+end=95573
+loop_start=87615
+loop_end=95519
+
+<region>
+sample=samples\Tenor F5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=-8
+offset=0
+end=89582
+loop_start=82333
+loop_end=89532
+
+<region>
+sample=samples\Tenor F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=-13
+offset=0
+end=78390
+loop_start=71375
+loop_end=78322
+
+<region>
+sample=samples\Tenor A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=-6
+offset=0
+end=69236
+loop_start=61594
+loop_end=69189
+
+<region>
+sample=samples\Tenor B5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=71
+tune=-3
+offset=0
+end=81455
+loop_start=73510
+loop_end=81350
+
+<region>
+sample=samples\Tenor C#6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=73
+tune=-2
+offset=0
+end=92433
+loop_start=84624
+loop_end=92347
+
+<region>
+sample=samples\Tenor D#6(L).wav
+lokey=74 hikey=127
+pitch_keycenter=75
+offset=0
+end=69063
+loop_start=60813
+loop_end=68986

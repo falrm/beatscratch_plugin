@@ -1,0 +1,1376 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=122 hivel=127
+effect2=5
+ampeg_hold=1.43976
+ampeg_decay=26.0071
+ampeg_sustain=0.001
+ampeg_release=1.24977
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=5975
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Electric Piano G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=26.0071
+offset=0
+end=158127
+loop_start=155339
+loop_end=158041
+
+<region>
+sample=samples\Electric Piano C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=24.0006
+offset=0
+end=153023
+loop_start=152289
+loop_end=152962
+
+<region>
+sample=samples\Electric Piano G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=21.9959
+offset=0
+end=172263
+loop_start=171305
+loop_end=172202
+
+<region>
+sample=samples\Electric Piano C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=19.9964
+offset=0
+end=134399
+loop_start=132976
+loop_end=134328
+
+<region>
+sample=samples\Electric Piano G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=18.0009
+offset=0
+end=129247
+loop_start=128291
+loop_end=129191
+
+<region>
+sample=samples\Electric Piano C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=16
+offset=0
+end=127423
+loop_start=126209
+loop_end=127387
+
+<region>
+sample=samples\Electric Piano G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=14.0014
+offset=0
+end=113077
+loop_start=112938
+loop_end=113049
+
+<region>
+sample=samples\Electric Piano C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=12.0003
+offset=0
+end=127263
+loop_start=126017
+loop_end=127196
+
+<region>
+sample=samples\Electric Piano G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=9.99818
+offset=0
+end=85999
+loop_start=85419
+loop_end=85978
+
+<region>
+sample=samples\Electric Piano C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=7.99999
+offset=0
+end=98055
+loop_start=97181
+loop_end=98020
+
+<region>
+sample=samples\Electric Piano G7.wav
+lokey=85 hikey=91
+pitch_keycenter=91
+ampeg_decay=6.00015
+offset=0
+end=82231
+loop_start=82118
+loop_end=82201
+
+<region>
+sample=samples\Electric Piano C8.wav
+lokey=92 hikey=108
+pitch_keycenter=96
+ampeg_decay=4
+offset=0
+end=72079
+loop_start=71050
+loop_end=72053
+
+<group>
+lovel=116 hivel=121
+effect2=5
+ampeg_hold=1.43976
+ampeg_decay=23.4118
+ampeg_sustain=0.001
+ampeg_release=1.24977
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=5575
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Electric Piano G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=23.4118
+offset=0
+end=158127
+loop_start=155339
+loop_end=158041
+
+<region>
+sample=samples\Electric Piano C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=21.6056
+offset=0
+end=153023
+loop_start=152289
+loop_end=152962
+
+<region>
+sample=samples\Electric Piano G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=19.801
+offset=0
+end=172263
+loop_start=171305
+loop_end=172202
+
+<region>
+sample=samples\Electric Piano C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=18.0009
+offset=0
+end=134399
+loop_start=132976
+loop_end=134328
+
+<region>
+sample=samples\Electric Piano G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=16.2046
+offset=0
+end=129247
+loop_start=128291
+loop_end=129191
+
+<region>
+sample=samples\Electric Piano C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=14.4033
+offset=0
+end=127423
+loop_start=126209
+loop_end=127387
+
+<region>
+sample=samples\Electric Piano G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=12.6042
+offset=0
+end=113077
+loop_start=112938
+loop_end=113049
+
+<region>
+sample=samples\Electric Piano C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=10.8028
+offset=0
+end=127263
+loop_start=126017
+loop_end=127196
+
+<region>
+sample=samples\Electric Piano G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=9.00046
+offset=0
+end=85999
+loop_start=85419
+loop_end=85978
+
+<region>
+sample=samples\Electric Piano C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=7.20167
+offset=0
+end=98055
+loop_start=97181
+loop_end=98020
+
+<region>
+sample=samples\Electric Piano G7.wav
+lokey=85 hikey=91
+pitch_keycenter=91
+ampeg_decay=5.4014
+offset=0
+end=82231
+loop_start=82118
+loop_end=82201
+
+<region>
+sample=samples\Electric Piano C8.wav
+lokey=92 hikey=108
+pitch_keycenter=96
+ampeg_decay=3.60084
+offset=0
+end=72079
+loop_start=71050
+loop_end=72053
+
+<group>
+lovel=110 hivel=115
+effect2=5
+ampeg_hold=1.43976
+ampeg_decay=20.8094
+ampeg_sustain=0.001
+ampeg_release=1.24977
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=5575
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Electric Piano G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=20.8094
+offset=0
+end=158127
+loop_start=155339
+loop_end=158041
+
+<region>
+sample=samples\Electric Piano C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=19.204
+offset=0
+end=153023
+loop_start=152289
+loop_end=152962
+
+<region>
+sample=samples\Electric Piano G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=17.5999
+offset=0
+end=172263
+loop_start=171305
+loop_end=172202
+
+<region>
+sample=samples\Electric Piano C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=16
+offset=0
+end=134399
+loop_start=132976
+loop_end=134328
+
+<region>
+sample=samples\Electric Piano G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=14.4033
+offset=0
+end=129247
+loop_start=128291
+loop_end=129191
+
+<region>
+sample=samples\Electric Piano C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=12.8023
+offset=0
+end=127423
+loop_start=126209
+loop_end=127387
+
+<region>
+sample=samples\Electric Piano G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=11.2031
+offset=0
+end=113077
+loop_start=112938
+loop_end=113049
+
+<region>
+sample=samples\Electric Piano C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=9.60198
+offset=0
+end=127263
+loop_start=126017
+loop_end=127196
+
+<region>
+sample=samples\Electric Piano G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=7.99999
+offset=0
+end=85999
+loop_start=85419
+loop_end=85978
+
+<region>
+sample=samples\Electric Piano C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=6.40116
+offset=0
+end=98055
+loop_start=97181
+loop_end=98020
+
+<region>
+sample=samples\Electric Piano G7.wav
+lokey=85 hikey=91
+pitch_keycenter=91
+ampeg_decay=4.80099
+offset=0
+end=82231
+loop_start=82118
+loop_end=82201
+
+<region>
+sample=samples\Electric Piano C8.wav
+lokey=92 hikey=108
+pitch_keycenter=96
+ampeg_decay=3.20058
+offset=0
+end=72079
+loop_start=71050
+loop_end=72053
+
+<group>
+lovel=104 hivel=109
+effect2=5
+ampeg_hold=1.43976
+ampeg_decay=18.2101
+ampeg_sustain=0.001
+ampeg_release=1.24977
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=5376
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Electric Piano G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=18.2101
+offset=0
+end=158127
+loop_start=155339
+loop_end=158041
+
+<region>
+sample=samples\Electric Piano C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=16.8052
+offset=0
+end=153023
+loop_start=152289
+loop_end=152962
+
+<region>
+sample=samples\Electric Piano G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=15.4015
+offset=0
+end=172263
+loop_start=171305
+loop_end=172202
+
+<region>
+sample=samples\Electric Piano C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=14.0014
+offset=0
+end=134399
+loop_start=132976
+loop_end=134328
+
+<region>
+sample=samples\Electric Piano G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=12.6042
+offset=0
+end=129247
+loop_start=128291
+loop_end=129191
+
+<region>
+sample=samples\Electric Piano C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=11.2031
+offset=0
+end=127423
+loop_start=126209
+loop_end=127387
+
+<region>
+sample=samples\Electric Piano G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=9.80374
+offset=0
+end=113077
+loop_start=112938
+loop_end=113049
+
+<region>
+sample=samples\Electric Piano C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=8.40258
+offset=0
+end=127263
+loop_start=126017
+loop_end=127196
+
+<region>
+sample=samples\Electric Piano G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=7.0007
+offset=0
+end=85999
+loop_start=85419
+loop_end=85978
+
+<region>
+sample=samples\Electric Piano C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=5.60157
+offset=0
+end=98055
+loop_start=97181
+loop_end=98020
+
+<region>
+sample=samples\Electric Piano G7.wav
+lokey=85 hikey=91
+pitch_keycenter=91
+ampeg_decay=4.20129
+offset=0
+end=82231
+loop_start=82118
+loop_end=82201
+
+<region>
+sample=samples\Electric Piano C8.wav
+lokey=92 hikey=108
+pitch_keycenter=96
+ampeg_decay=2.80079
+offset=0
+end=72079
+loop_start=71050
+loop_end=72053
+
+<group>
+lovel=98 hivel=103
+effect2=5
+ampeg_hold=1.43976
+ampeg_decay=15.6075
+ampeg_sustain=0.001
+ampeg_release=1.24977
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=5178
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Electric Piano G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=15.6075
+offset=0
+end=158127
+loop_start=155339
+loop_end=158041
+
+<region>
+sample=samples\Electric Piano C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=14.4033
+offset=0
+end=153023
+loop_start=152289
+loop_end=152962
+
+<region>
+sample=samples\Electric Piano G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=13.2003
+offset=0
+end=172263
+loop_start=171305
+loop_end=172202
+
+<region>
+sample=samples\Electric Piano C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=12.0003
+offset=0
+end=134399
+loop_start=132976
+loop_end=134328
+
+<region>
+sample=samples\Electric Piano G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=10.8028
+offset=0
+end=129247
+loop_start=128291
+loop_end=129191
+
+<region>
+sample=samples\Electric Piano C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=9.60198
+offset=0
+end=127423
+loop_start=126209
+loop_end=127387
+
+<region>
+sample=samples\Electric Piano G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=8.40258
+offset=0
+end=113077
+loop_start=112938
+loop_end=113049
+
+<region>
+sample=samples\Electric Piano C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=7.20167
+offset=0
+end=127263
+loop_start=126017
+loop_end=127196
+
+<region>
+sample=samples\Electric Piano G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=6.00015
+offset=0
+end=85999
+loop_start=85419
+loop_end=85978
+
+<region>
+sample=samples\Electric Piano C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=4.80099
+offset=0
+end=98055
+loop_start=97181
+loop_end=98020
+
+<region>
+sample=samples\Electric Piano G7.wav
+lokey=85 hikey=91
+pitch_keycenter=91
+ampeg_decay=3.60084
+offset=0
+end=82231
+loop_start=82118
+loop_end=82201
+
+<region>
+sample=samples\Electric Piano C8.wav
+lokey=92 hikey=108
+pitch_keycenter=96
+ampeg_decay=2.4005
+offset=0
+end=72079
+loop_start=71050
+loop_end=72053
+
+<group>
+lovel=92 hivel=97
+effect2=5
+ampeg_hold=1.43976
+ampeg_decay=13.0035
+ampeg_sustain=0.001
+ampeg_release=1.24977
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=4978
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Electric Piano G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=13.0035
+offset=0
+end=158127
+loop_start=155339
+loop_end=158041
+
+<region>
+sample=samples\Electric Piano C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=12.0003
+offset=0
+end=153023
+loop_start=152289
+loop_end=152962
+
+<region>
+sample=samples\Electric Piano G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=10.998
+offset=0
+end=172263
+loop_start=171305
+loop_end=172202
+
+<region>
+sample=samples\Electric Piano C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=9.99818
+offset=0
+end=134399
+loop_start=132976
+loop_end=134328
+
+<region>
+sample=samples\Electric Piano G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=9.00046
+offset=0
+end=129247
+loop_start=128291
+loop_end=129191
+
+<region>
+sample=samples\Electric Piano C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=7.99999
+offset=0
+end=127423
+loop_start=126209
+loop_end=127387
+
+<region>
+sample=samples\Electric Piano G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=7.0007
+offset=0
+end=113077
+loop_start=112938
+loop_end=113049
+
+<region>
+sample=samples\Electric Piano C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=6.00015
+offset=0
+end=127263
+loop_start=126017
+loop_end=127196
+
+<region>
+sample=samples\Electric Piano G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=4.99909
+offset=0
+end=85999
+loop_start=85419
+loop_end=85978
+
+<region>
+sample=samples\Electric Piano C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=4
+offset=0
+end=98055
+loop_start=97181
+loop_end=98020
+
+<region>
+sample=samples\Electric Piano G7.wav
+lokey=85 hikey=91
+pitch_keycenter=91
+ampeg_decay=3.00008
+offset=0
+end=82231
+loop_start=82118
+loop_end=82201
+
+<region>
+sample=samples\Electric Piano C8.wav
+lokey=92 hikey=108
+pitch_keycenter=96
+ampeg_decay=2
+offset=0
+end=72079
+loop_start=71050
+loop_end=72053
+
+<group>
+lovel=86 hivel=91
+effect2=5
+ampeg_hold=1.43976
+ampeg_decay=10.4047
+ampeg_sustain=0.001
+ampeg_release=1.24977
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=4778
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Electric Piano G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=10.4047
+offset=0
+end=158127
+loop_start=155339
+loop_end=158041
+
+<region>
+sample=samples\Electric Piano C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=9.60198
+offset=0
+end=153023
+loop_start=152289
+loop_end=152962
+
+<region>
+sample=samples\Electric Piano G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=8.79997
+offset=0
+end=172263
+loop_start=171305
+loop_end=172202
+
+<region>
+sample=samples\Electric Piano C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=7.99999
+offset=0
+end=134399
+loop_start=132976
+loop_end=134328
+
+<region>
+sample=samples\Electric Piano G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=7.20167
+offset=0
+end=129247
+loop_start=128291
+loop_end=129191
+
+<region>
+sample=samples\Electric Piano C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=6.40116
+offset=0
+end=127423
+loop_start=126209
+loop_end=127387
+
+<region>
+sample=samples\Electric Piano G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=5.60157
+offset=0
+end=113077
+loop_start=112938
+loop_end=113049
+
+<region>
+sample=samples\Electric Piano C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=4.80099
+offset=0
+end=127263
+loop_start=126017
+loop_end=127196
+
+<region>
+sample=samples\Electric Piano G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=4
+offset=0
+end=85999
+loop_start=85419
+loop_end=85978
+
+<region>
+sample=samples\Electric Piano C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=3.20058
+offset=0
+end=98055
+loop_start=97181
+loop_end=98020
+
+<region>
+sample=samples\Electric Piano G7.wav
+lokey=85 hikey=91
+pitch_keycenter=91
+ampeg_decay=2.4005
+offset=0
+end=82231
+loop_start=82118
+loop_end=82201
+
+<region>
+sample=samples\Electric Piano C8.wav
+lokey=92 hikey=108
+pitch_keycenter=96
+ampeg_decay=1.60029
+offset=0
+end=72079
+loop_start=71050
+loop_end=72053
+
+<group>
+lovel=80 hivel=85
+effect2=5
+ampeg_hold=1.43976
+ampeg_decay=7.80374
+ampeg_sustain=0.001
+ampeg_release=1.24977
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=4581
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Electric Piano G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=7.80374
+offset=0
+end=158127
+loop_start=155339
+loop_end=158041
+
+<region>
+sample=samples\Electric Piano C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=7.20167
+offset=0
+end=153023
+loop_start=152289
+loop_end=152962
+
+<region>
+sample=samples\Electric Piano G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=6.60015
+offset=0
+end=172263
+loop_start=171305
+loop_end=172202
+
+<region>
+sample=samples\Electric Piano C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=6.00015
+offset=0
+end=134399
+loop_start=132976
+loop_end=134328
+
+<region>
+sample=samples\Electric Piano G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=5.4014
+offset=0
+end=129247
+loop_start=128291
+loop_end=129191
+
+<region>
+sample=samples\Electric Piano C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=4.80099
+offset=0
+end=127423
+loop_start=126209
+loop_end=127387
+
+<region>
+sample=samples\Electric Piano G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=4.20129
+offset=0
+end=113077
+loop_start=112938
+loop_end=113049
+
+<region>
+sample=samples\Electric Piano C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=3.60084
+offset=0
+end=127263
+loop_start=126017
+loop_end=127196
+
+<region>
+sample=samples\Electric Piano G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=3.00008
+offset=0
+end=85999
+loop_start=85419
+loop_end=85978
+
+<region>
+sample=samples\Electric Piano C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=2.4005
+offset=0
+end=98055
+loop_start=97181
+loop_end=98020
+
+<region>
+sample=samples\Electric Piano G7.wav
+lokey=85 hikey=91
+pitch_keycenter=91
+ampeg_decay=1.80042
+offset=0
+end=82231
+loop_start=82118
+loop_end=82201
+
+<region>
+sample=samples\Electric Piano C8.wav
+lokey=92 hikey=108
+pitch_keycenter=96
+ampeg_decay=1.20025
+offset=0
+end=72079
+loop_start=71050
+loop_end=72053
+
+<group>
+lovel=68 hivel=79
+effect2=5
+ampeg_hold=1.43976
+ampeg_decay=5.20236
+ampeg_sustain=0.001
+ampeg_release=1.24977
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=4382
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Electric Piano G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=5.20236
+offset=0
+end=158127
+loop_start=155339
+loop_end=158041
+
+<region>
+sample=samples\Electric Piano C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=4.80099
+offset=0
+end=153023
+loop_start=152289
+loop_end=152962
+
+<region>
+sample=samples\Electric Piano G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=4.39999
+offset=0
+end=172263
+loop_start=171305
+loop_end=172202
+
+<region>
+sample=samples\Electric Piano C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=4
+offset=0
+end=134399
+loop_start=132976
+loop_end=134328
+
+<region>
+sample=samples\Electric Piano G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=3.60084
+offset=0
+end=129247
+loop_start=128291
+loop_end=129191
+
+<region>
+sample=samples\Electric Piano C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=3.20058
+offset=0
+end=127423
+loop_start=126209
+loop_end=127387
+
+<region>
+sample=samples\Electric Piano G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=2.80079
+offset=0
+end=113077
+loop_start=112938
+loop_end=113049
+
+<region>
+sample=samples\Electric Piano C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=2.4005
+offset=0
+end=127263
+loop_start=126017
+loop_end=127196
+
+<region>
+sample=samples\Electric Piano G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=2
+offset=0
+end=85999
+loop_start=85419
+loop_end=85978
+
+<region>
+sample=samples\Electric Piano C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=1.60029
+offset=0
+end=98055
+loop_start=97181
+loop_end=98020
+
+<region>
+sample=samples\Electric Piano G7.wav
+lokey=85 hikey=91
+pitch_keycenter=91
+ampeg_decay=1.20025
+offset=0
+end=82231
+loop_start=82118
+loop_end=82201
+
+<region>
+sample=samples\Electric Piano C8.wav
+lokey=92 hikey=108
+pitch_keycenter=96
+ampeg_decay=0.800145
+offset=0
+end=72079
+loop_start=71050
+loop_end=72053
+
+<group>
+lovel=0 hivel=67
+effect2=5
+ampeg_hold=1.43976
+ampeg_decay=2.60118
+ampeg_sustain=0.001
+ampeg_release=1.24977
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=4181
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Electric Piano G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=2.60118
+offset=0
+end=158127
+loop_start=155339
+loop_end=158041
+
+<region>
+sample=samples\Electric Piano C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=2.4005
+offset=0
+end=153023
+loop_start=152289
+loop_end=152962
+
+<region>
+sample=samples\Electric Piano G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=2.19999
+offset=0
+end=172263
+loop_start=171305
+loop_end=172202
+
+<region>
+sample=samples\Electric Piano C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=2
+offset=0
+end=134399
+loop_start=132976
+loop_end=134328
+
+<region>
+sample=samples\Electric Piano G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=1.80042
+offset=0
+end=129247
+loop_start=128291
+loop_end=129191
+
+<region>
+sample=samples\Electric Piano C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=1.60029
+offset=0
+end=127423
+loop_start=126209
+loop_end=127387
+
+<region>
+sample=samples\Electric Piano G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=1.40039
+offset=0
+end=113077
+loop_start=112938
+loop_end=113049
+
+<region>
+sample=samples\Electric Piano C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=1.20025
+offset=0
+end=127263
+loop_start=126017
+loop_end=127196
+
+<region>
+sample=samples\Electric Piano G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=1
+offset=0
+end=85999
+loop_start=85419
+loop_end=85978
+
+<region>
+sample=samples\Electric Piano C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=0.800145
+offset=0
+end=98055
+loop_start=97181
+loop_end=98020
+
+<region>
+sample=samples\Electric Piano G7.wav
+lokey=85 hikey=91
+pitch_keycenter=91
+ampeg_decay=0.600124
+offset=0
+end=82231
+loop_start=82118
+loop_end=82201
+
+<region>
+sample=samples\Electric Piano C8.wav
+lokey=92 hikey=108
+pitch_keycenter=96
+ampeg_decay=0.400073
+offset=0
+end=72079
+loop_start=71050
+loop_end=72053

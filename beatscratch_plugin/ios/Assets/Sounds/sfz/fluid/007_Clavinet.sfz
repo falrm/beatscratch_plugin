@@ -1,0 +1,1140 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+effect2=5
+ampeg_decay=26.0071
+ampeg_sustain=0.001
+ampeg_release=0.360149
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Clavinet G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=26.0071
+offset=0
+end=9367
+loop_start=8438
+loop_end=9339
+
+<region>
+sample=samples\Clavinet C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=24.0006
+offset=0
+end=9517
+loop_start=8819
+loop_end=9489
+
+<region>
+sample=samples\Clavinet G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=21.9959
+offset=0
+end=7933
+loop_start=7456
+loop_end=7905
+
+<region>
+sample=samples\Clavinet C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=19.9964
+offset=0
+end=9299
+loop_start=8935
+loop_end=9271
+
+<region>
+sample=samples\Clavinet G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=18.0009
+offset=0
+end=8621
+loop_start=8370
+loop_end=8593
+
+<region>
+sample=samples\Clavinet C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=16
+offset=0
+end=7651
+loop_start=7456
+loop_end=7623
+
+<region>
+sample=samples\Clavinet G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=14.0014
+offset=0
+end=7705
+loop_start=7453
+loop_end=7677
+
+<region>
+sample=samples\Clavinet C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=12.0003
+offset=0
+end=7573
+loop_start=7462
+loop_end=7545
+
+<region>
+sample=samples\Clavinet G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=9.99818
+offset=0
+end=9306
+loop_start=9054
+loop_end=9278
+
+<region>
+sample=samples\Clavinet C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=7.99999
+offset=0
+end=7763
+loop_start=7441
+loop_end=7735
+
+<region>
+sample=samples\Clavinet G7.wav
+lokey=85 hikey=108
+pitch_keycenter=91
+ampeg_decay=6.00015
+offset=0
+end=8671
+loop_start=8391
+loop_end=8643
+
+<group>
+lovel=113 hivel=120
+effect2=5
+ampeg_decay=26.0071
+ampeg_sustain=0.001
+ampeg_release=0.330068
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Clavinet G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=26.0071
+offset=0
+end=9367
+loop_start=8438
+loop_end=9339
+
+<region>
+sample=samples\Clavinet C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=24.0006
+offset=0
+end=9517
+loop_start=8819
+loop_end=9489
+
+<region>
+sample=samples\Clavinet G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=21.9959
+offset=0
+end=7933
+loop_start=7456
+loop_end=7905
+
+<region>
+sample=samples\Clavinet C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=19.9964
+offset=0
+end=9299
+loop_start=8935
+loop_end=9271
+
+<region>
+sample=samples\Clavinet G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=18.0009
+offset=0
+end=8621
+loop_start=8370
+loop_end=8593
+
+<region>
+sample=samples\Clavinet C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=16
+offset=0
+end=7651
+loop_start=7456
+loop_end=7623
+
+<region>
+sample=samples\Clavinet G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=14.0014
+offset=0
+end=7705
+loop_start=7453
+loop_end=7677
+
+<region>
+sample=samples\Clavinet C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=12.0003
+offset=0
+end=7573
+loop_start=7462
+loop_end=7545
+
+<region>
+sample=samples\Clavinet G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=9.99818
+offset=0
+end=9306
+loop_start=9054
+loop_end=9278
+
+<region>
+sample=samples\Clavinet C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=7.99999
+offset=0
+end=7763
+loop_start=7441
+loop_end=7735
+
+<region>
+sample=samples\Clavinet G7.wav
+lokey=85 hikey=108
+pitch_keycenter=91
+ampeg_decay=6.00015
+offset=0
+end=8671
+loop_start=8391
+loop_end=8643
+
+<group>
+lovel=105 hivel=112
+effect2=5
+ampeg_decay=26.0071
+ampeg_sustain=0.001
+ampeg_release=0.300062
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Clavinet G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=26.0071
+offset=0
+end=9367
+loop_start=8438
+loop_end=9339
+
+<region>
+sample=samples\Clavinet C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=24.0006
+offset=0
+end=9517
+loop_start=8819
+loop_end=9489
+
+<region>
+sample=samples\Clavinet G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=21.9959
+offset=0
+end=7933
+loop_start=7456
+loop_end=7905
+
+<region>
+sample=samples\Clavinet C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=19.9964
+offset=0
+end=9299
+loop_start=8935
+loop_end=9271
+
+<region>
+sample=samples\Clavinet G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=18.0009
+offset=0
+end=8621
+loop_start=8370
+loop_end=8593
+
+<region>
+sample=samples\Clavinet C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=16
+offset=0
+end=7651
+loop_start=7456
+loop_end=7623
+
+<region>
+sample=samples\Clavinet G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=14.0014
+offset=0
+end=7705
+loop_start=7453
+loop_end=7677
+
+<region>
+sample=samples\Clavinet C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=12.0003
+offset=0
+end=7573
+loop_start=7462
+loop_end=7545
+
+<region>
+sample=samples\Clavinet G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=9.99818
+offset=0
+end=9306
+loop_start=9054
+loop_end=9278
+
+<region>
+sample=samples\Clavinet C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=7.99999
+offset=0
+end=7763
+loop_start=7441
+loop_end=7735
+
+<region>
+sample=samples\Clavinet G7.wav
+lokey=85 hikey=108
+pitch_keycenter=91
+ampeg_decay=6.00015
+offset=0
+end=8671
+loop_start=8391
+loop_end=8643
+
+<group>
+lovel=97 hivel=104
+effect2=5
+ampeg_decay=26.0071
+ampeg_sustain=0.001
+ampeg_release=0.270119
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Clavinet G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=26.0071
+offset=0
+end=9367
+loop_start=8438
+loop_end=9339
+
+<region>
+sample=samples\Clavinet C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=24.0006
+offset=0
+end=9517
+loop_start=8819
+loop_end=9489
+
+<region>
+sample=samples\Clavinet G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=21.9959
+offset=0
+end=7933
+loop_start=7456
+loop_end=7905
+
+<region>
+sample=samples\Clavinet C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=19.9964
+offset=0
+end=9299
+loop_start=8935
+loop_end=9271
+
+<region>
+sample=samples\Clavinet G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=18.0009
+offset=0
+end=8621
+loop_start=8370
+loop_end=8593
+
+<region>
+sample=samples\Clavinet C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=16
+offset=0
+end=7651
+loop_start=7456
+loop_end=7623
+
+<region>
+sample=samples\Clavinet G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=14.0014
+offset=0
+end=7705
+loop_start=7453
+loop_end=7677
+
+<region>
+sample=samples\Clavinet C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=12.0003
+offset=0
+end=7573
+loop_start=7462
+loop_end=7545
+
+<region>
+sample=samples\Clavinet G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=9.99818
+offset=0
+end=9306
+loop_start=9054
+loop_end=9278
+
+<region>
+sample=samples\Clavinet C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=7.99999
+offset=0
+end=7763
+loop_start=7441
+loop_end=7735
+
+<region>
+sample=samples\Clavinet G7.wav
+lokey=85 hikey=108
+pitch_keycenter=91
+ampeg_decay=6.00015
+offset=0
+end=8671
+loop_start=8391
+loop_end=8643
+
+<group>
+lovel=89 hivel=96
+effect2=5
+ampeg_decay=26.0071
+ampeg_sustain=0.001
+ampeg_release=0.240093
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Clavinet G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=26.0071
+offset=0
+end=9367
+loop_start=8438
+loop_end=9339
+
+<region>
+sample=samples\Clavinet C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=24.0006
+offset=0
+end=9517
+loop_start=8819
+loop_end=9489
+
+<region>
+sample=samples\Clavinet G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=21.9959
+offset=0
+end=7933
+loop_start=7456
+loop_end=7905
+
+<region>
+sample=samples\Clavinet C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=19.9964
+offset=0
+end=9299
+loop_start=8935
+loop_end=9271
+
+<region>
+sample=samples\Clavinet G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=18.0009
+offset=0
+end=8621
+loop_start=8370
+loop_end=8593
+
+<region>
+sample=samples\Clavinet C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=16
+offset=0
+end=7651
+loop_start=7456
+loop_end=7623
+
+<region>
+sample=samples\Clavinet G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=14.0014
+offset=0
+end=7705
+loop_start=7453
+loop_end=7677
+
+<region>
+sample=samples\Clavinet C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=12.0003
+offset=0
+end=7573
+loop_start=7462
+loop_end=7545
+
+<region>
+sample=samples\Clavinet G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=9.99818
+offset=0
+end=9306
+loop_start=9054
+loop_end=9278
+
+<region>
+sample=samples\Clavinet C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=7.99999
+offset=0
+end=7763
+loop_start=7441
+loop_end=7735
+
+<region>
+sample=samples\Clavinet G7.wav
+lokey=85 hikey=108
+pitch_keycenter=91
+ampeg_decay=6.00015
+offset=0
+end=8671
+loop_start=8391
+loop_end=8643
+
+<group>
+lovel=81 hivel=88
+effect2=5
+ampeg_decay=26.0071
+ampeg_sustain=0.001
+ampeg_release=0.210103
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Clavinet G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=26.0071
+offset=0
+end=9367
+loop_start=8438
+loop_end=9339
+
+<region>
+sample=samples\Clavinet C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=24.0006
+offset=0
+end=9517
+loop_start=8819
+loop_end=9489
+
+<region>
+sample=samples\Clavinet G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=21.9959
+offset=0
+end=7933
+loop_start=7456
+loop_end=7905
+
+<region>
+sample=samples\Clavinet C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=19.9964
+offset=0
+end=9299
+loop_start=8935
+loop_end=9271
+
+<region>
+sample=samples\Clavinet G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=18.0009
+offset=0
+end=8621
+loop_start=8370
+loop_end=8593
+
+<region>
+sample=samples\Clavinet C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=16
+offset=0
+end=7651
+loop_start=7456
+loop_end=7623
+
+<region>
+sample=samples\Clavinet G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=14.0014
+offset=0
+end=7705
+loop_start=7453
+loop_end=7677
+
+<region>
+sample=samples\Clavinet C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=12.0003
+offset=0
+end=7573
+loop_start=7462
+loop_end=7545
+
+<region>
+sample=samples\Clavinet G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=9.99818
+offset=0
+end=9306
+loop_start=9054
+loop_end=9278
+
+<region>
+sample=samples\Clavinet C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=7.99999
+offset=0
+end=7763
+loop_start=7441
+loop_end=7735
+
+<region>
+sample=samples\Clavinet G7.wav
+lokey=85 hikey=108
+pitch_keycenter=91
+ampeg_decay=6.00015
+offset=0
+end=8671
+loop_start=8391
+loop_end=8643
+
+<group>
+lovel=73 hivel=80
+effect2=5
+ampeg_decay=26.0071
+ampeg_sustain=0.001
+ampeg_release=0.180075
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Clavinet G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=26.0071
+offset=0
+end=9367
+loop_start=8438
+loop_end=9339
+
+<region>
+sample=samples\Clavinet C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=24.0006
+offset=0
+end=9517
+loop_start=8819
+loop_end=9489
+
+<region>
+sample=samples\Clavinet G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=21.9959
+offset=0
+end=7933
+loop_start=7456
+loop_end=7905
+
+<region>
+sample=samples\Clavinet C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=19.9964
+offset=0
+end=9299
+loop_start=8935
+loop_end=9271
+
+<region>
+sample=samples\Clavinet G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=18.0009
+offset=0
+end=8621
+loop_start=8370
+loop_end=8593
+
+<region>
+sample=samples\Clavinet C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=16
+offset=0
+end=7651
+loop_start=7456
+loop_end=7623
+
+<region>
+sample=samples\Clavinet G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=14.0014
+offset=0
+end=7705
+loop_start=7453
+loop_end=7677
+
+<region>
+sample=samples\Clavinet C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=12.0003
+offset=0
+end=7573
+loop_start=7462
+loop_end=7545
+
+<region>
+sample=samples\Clavinet G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=9.99818
+offset=0
+end=9306
+loop_start=9054
+loop_end=9278
+
+<region>
+sample=samples\Clavinet C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=7.99999
+offset=0
+end=7763
+loop_start=7441
+loop_end=7735
+
+<region>
+sample=samples\Clavinet G7.wav
+lokey=85 hikey=108
+pitch_keycenter=91
+ampeg_decay=6.00015
+offset=0
+end=8671
+loop_start=8391
+loop_end=8643
+
+<group>
+lovel=65 hivel=72
+effect2=5
+ampeg_decay=26.0071
+ampeg_sustain=0.001
+ampeg_release=0.150031
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Clavinet G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=26.0071
+offset=0
+end=9367
+loop_start=8438
+loop_end=9339
+
+<region>
+sample=samples\Clavinet C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=24.0006
+offset=0
+end=9517
+loop_start=8819
+loop_end=9489
+
+<region>
+sample=samples\Clavinet G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=21.9959
+offset=0
+end=7933
+loop_start=7456
+loop_end=7905
+
+<region>
+sample=samples\Clavinet C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=19.9964
+offset=0
+end=9299
+loop_start=8935
+loop_end=9271
+
+<region>
+sample=samples\Clavinet G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=18.0009
+offset=0
+end=8621
+loop_start=8370
+loop_end=8593
+
+<region>
+sample=samples\Clavinet C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=16
+offset=0
+end=7651
+loop_start=7456
+loop_end=7623
+
+<region>
+sample=samples\Clavinet G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=14.0014
+offset=0
+end=7705
+loop_start=7453
+loop_end=7677
+
+<region>
+sample=samples\Clavinet C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=12.0003
+offset=0
+end=7573
+loop_start=7462
+loop_end=7545
+
+<region>
+sample=samples\Clavinet G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=9.99818
+offset=0
+end=9306
+loop_start=9054
+loop_end=9278
+
+<region>
+sample=samples\Clavinet C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=7.99999
+offset=0
+end=7763
+loop_start=7441
+loop_end=7735
+
+<region>
+sample=samples\Clavinet G7.wav
+lokey=85 hikey=108
+pitch_keycenter=91
+ampeg_decay=6.00015
+offset=0
+end=8671
+loop_start=8391
+loop_end=8643
+
+<group>
+lovel=0 hivel=64
+effect2=5
+ampeg_decay=26.0071
+ampeg_sustain=0.001
+ampeg_release=0.120047
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Clavinet G2.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+ampeg_decay=26.0071
+offset=0
+end=9367
+loop_start=8438
+loop_end=9339
+
+<region>
+sample=samples\Clavinet C3.wav
+lokey=32 hikey=36
+pitch_keycenter=36
+ampeg_decay=24.0006
+offset=0
+end=9517
+loop_start=8819
+loop_end=9489
+
+<region>
+sample=samples\Clavinet G3.wav
+lokey=37 hikey=43
+pitch_keycenter=43
+ampeg_decay=21.9959
+offset=0
+end=7933
+loop_start=7456
+loop_end=7905
+
+<region>
+sample=samples\Clavinet C4.wav
+lokey=44 hikey=48
+pitch_keycenter=48
+ampeg_decay=19.9964
+offset=0
+end=9299
+loop_start=8935
+loop_end=9271
+
+<region>
+sample=samples\Clavinet G4.wav
+lokey=49 hikey=55
+pitch_keycenter=55
+ampeg_decay=18.0009
+offset=0
+end=8621
+loop_start=8370
+loop_end=8593
+
+<region>
+sample=samples\Clavinet C5.wav
+lokey=56 hikey=60
+pitch_keycenter=60
+ampeg_decay=16
+offset=0
+end=7651
+loop_start=7456
+loop_end=7623
+
+<region>
+sample=samples\Clavinet G5.wav
+lokey=61 hikey=67
+pitch_keycenter=67
+ampeg_decay=14.0014
+offset=0
+end=7705
+loop_start=7453
+loop_end=7677
+
+<region>
+sample=samples\Clavinet C6.wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=12.0003
+offset=0
+end=7573
+loop_start=7462
+loop_end=7545
+
+<region>
+sample=samples\Clavinet G6.wav
+lokey=73 hikey=79
+pitch_keycenter=79
+ampeg_decay=9.99818
+offset=0
+end=9306
+loop_start=9054
+loop_end=9278
+
+<region>
+sample=samples\Clavinet C7.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+ampeg_decay=7.99999
+offset=0
+end=7763
+loop_start=7441
+loop_end=7735
+
+<region>
+sample=samples\Clavinet G7.wav
+lokey=85 hikey=108
+pitch_keycenter=91
+ampeg_decay=6.00015
+offset=0
+end=8671
+loop_start=8391
+loop_end=8643

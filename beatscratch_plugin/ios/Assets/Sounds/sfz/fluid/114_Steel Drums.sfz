@@ -1,0 +1,55 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+effect2=10
+ampeg_release=9.99818
+loop_mode=no_loop
+resonance=9
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Steel Drum F# 5(L).wav
+lokey=0 hikey=66
+pitch_keycenter=66
+offset=0
+end=14609
+loop_start=8
+loop_end=14601
+
+<region>
+sample=samples\Steel Drum C 6(L).wav
+lokey=67 hikey=72
+pitch_keycenter=72
+offset=0
+end=14667
+loop_start=8
+loop_end=14659
+
+<region>
+sample=samples\Steel Drum F# 6(L).wav
+lokey=73 hikey=78
+pitch_keycenter=78
+offset=0
+end=13502
+loop_start=8
+loop_end=13494
+
+<region>
+sample=samples\Steel Drum C 7(L).wav
+lokey=79 hikey=127
+pitch_keycenter=84
+offset=0
+end=7397
+loop_start=8
+loop_end=7389

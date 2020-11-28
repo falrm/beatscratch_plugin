@@ -1,0 +1,482 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=7999
+fileg_depth=-1000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00799974
+loop_mode=no_loop
+ampeg_release=0.00117212
+effect1=10
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Timpani 1(L).wav
+lokey=0 hikey=36
+pitch_keycenter=36
+effect1=30
+ampeg_decay=17.8044
+ampeg_release=24.0006
+tune=12
+offset=0
+end=120910
+loop_start=5
+loop_end=120903
+
+<region>
+sample=samples\Timpani 2(L).wav
+lokey=37 hikey=42
+pitch_keycenter=38
+effect1=30
+ampeg_decay=9.37184
+ampeg_release=18.1261
+offset=0
+end=107175
+loop_start=5
+loop_end=104250
+
+<region>
+sample=samples\Timpani 3(L).wav
+lokey=43 hikey=127
+pitch_keycenter=43
+effect1=30
+ampeg_decay=12.5969
+ampeg_release=17.1682
+offset=0
+end=112505
+loop_start=4
+loop_end=112498
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=7201
+fileg_depth=-1000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00799974
+loop_mode=no_loop
+effect1=9
+ampeg_decay=0.001
+ampeg_release=0.00107422
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Timpani 1(L).wav
+lokey=0 hikey=36
+pitch_keycenter=36
+effect1=29
+ampeg_decay=16.0277
+ampeg_release=21.9959
+tune=12
+offset=0
+end=120910
+loop_start=5
+loop_end=120903
+
+<region>
+sample=samples\Timpani 2(L).wav
+lokey=37 hikey=42
+pitch_keycenter=38
+effect1=29
+ampeg_decay=8.43662
+ampeg_release=16.6121
+offset=0
+end=107175
+loop_start=5
+loop_end=104250
+
+<region>
+sample=samples\Timpani 3(L).wav
+lokey=43 hikey=127
+pitch_keycenter=43
+effect1=29
+ampeg_decay=11.3399
+ampeg_release=15.7342
+offset=0
+end=112505
+loop_start=4
+loop_end=112498
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=6400
+fileg_depth=-1000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00799974
+loop_mode=no_loop
+effect1=8
+ampeg_decay=0.001
+ampeg_release=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Timpani 1(L).wav
+lokey=0 hikey=36
+pitch_keycenter=36
+effect1=28
+ampeg_decay=14.2461
+ampeg_release=19.9964
+tune=12
+offset=0
+end=120910
+loop_start=5
+loop_end=120903
+
+<region>
+sample=samples\Timpani 2(L).wav
+lokey=37 hikey=42
+pitch_keycenter=38
+effect1=28
+ampeg_decay=7.49883
+ampeg_release=15.102
+offset=0
+end=107175
+loop_start=5
+loop_end=104250
+
+<region>
+sample=samples\Timpani 3(L).wav
+lokey=43 hikey=127
+pitch_keycenter=43
+effect1=28
+ampeg_decay=10.0794
+ampeg_release=14.3039
+offset=0
+end=112505
+loop_start=4
+loop_end=112498
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=5601
+fileg_depth=-1000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00799974
+loop_mode=no_loop
+effect1=7
+ampeg_decay=0.001
+ampeg_release=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Timpani 1(L).wav
+lokey=0 hikey=36
+pitch_keycenter=36
+effect1=27
+ampeg_decay=12.4666
+ampeg_release=18.0009
+tune=12
+offset=0
+end=120910
+loop_start=5
+loop_end=120903
+
+<region>
+sample=samples\Timpani 2(L).wav
+lokey=37 hikey=42
+pitch_keycenter=38
+effect1=27
+ampeg_decay=6.56214
+ampeg_release=13.5949
+offset=0
+end=107175
+loop_start=5
+loop_end=104250
+
+<region>
+sample=samples\Timpani 3(L).wav
+lokey=43 hikey=127
+pitch_keycenter=43
+effect1=27
+ampeg_decay=8.82033
+ampeg_release=12.8765
+offset=0
+end=112505
+loop_start=4
+loop_end=112498
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=4800
+fileg_depth=-1000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00799974
+loop_mode=no_loop
+effect1=6
+ampeg_decay=0.001
+ampeg_release=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Timpani 1(L).wav
+lokey=0 hikey=36
+pitch_keycenter=36
+effect1=26
+ampeg_decay=10.6849
+ampeg_release=16
+tune=12
+offset=0
+end=120910
+loop_start=5
+loop_end=120903
+
+<region>
+sample=samples\Timpani 2(L).wav
+lokey=37 hikey=42
+pitch_keycenter=38
+effect1=26
+ampeg_decay=5.62427
+ampeg_release=12.0838
+offset=0
+end=107175
+loop_start=5
+loop_end=104250
+
+<region>
+sample=samples\Timpani 3(L).wav
+lokey=43 hikey=127
+pitch_keycenter=43
+effect1=26
+ampeg_decay=7.55972
+ampeg_release=11.4452
+offset=0
+end=112505
+loop_start=4
+loop_end=112498
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=3999
+fileg_depth=-1000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00799974
+loop_mode=no_loop
+effect1=5
+ampeg_decay=0.001
+ampeg_release=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Timpani 1(L).wav
+lokey=0 hikey=36
+pitch_keycenter=36
+effect1=25
+ampeg_decay=8.90222
+ampeg_release=14.0014
+tune=12
+offset=0
+end=120910
+loop_start=5
+loop_end=120903
+
+<region>
+sample=samples\Timpani 2(L).wav
+lokey=37 hikey=42
+pitch_keycenter=38
+effect1=25
+ampeg_decay=4.68592
+ampeg_release=10.5744
+offset=0
+end=107175
+loop_start=5
+loop_end=104250
+
+<region>
+sample=samples\Timpani 3(L).wav
+lokey=43 hikey=127
+pitch_keycenter=43
+effect1=25
+ampeg_decay=6.29846
+ampeg_release=10.0155
+offset=0
+end=112505
+loop_start=4
+loop_end=112498
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=3200
+fileg_depth=-1000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00799974
+loop_mode=no_loop
+effect1=4
+ampeg_decay=0.001
+ampeg_release=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Timpani 1(L).wav
+lokey=0 hikey=36
+pitch_keycenter=36
+effect1=24
+ampeg_decay=7.12307
+ampeg_release=12.0003
+tune=12
+offset=0
+end=120910
+loop_start=5
+loop_end=120903
+
+<region>
+sample=samples\Timpani 2(L).wav
+lokey=37 hikey=42
+pitch_keycenter=38
+effect1=24
+ampeg_decay=3.74942
+ampeg_release=9.06306
+offset=0
+end=107175
+loop_start=5
+loop_end=104250
+
+<region>
+sample=samples\Timpani 3(L).wav
+lokey=43 hikey=127
+pitch_keycenter=43
+effect1=24
+ampeg_decay=5.03968
+ampeg_release=8.58409
+offset=0
+end=112505
+loop_start=4
+loop_end=112498
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=2400
+fileg_depth=-1000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00799974
+loop_mode=no_loop
+effect1=3
+ampeg_decay=0.001
+ampeg_release=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Timpani 1(L).wav
+lokey=0 hikey=36
+pitch_keycenter=36
+effect1=23
+ampeg_decay=5.34244
+ampeg_release=9.99818
+tune=12
+offset=0
+end=120910
+loop_start=5
+loop_end=120903
+
+<region>
+sample=samples\Timpani 2(L).wav
+lokey=37 hikey=42
+pitch_keycenter=38
+effect1=23
+ampeg_decay=2.81214
+ampeg_release=7.55099
+offset=0
+end=107175
+loop_start=5
+loop_end=104250
+
+<region>
+sample=samples\Timpani 3(L).wav
+lokey=43 hikey=127
+pitch_keycenter=43
+effect1=23
+ampeg_decay=3.77986
+ampeg_release=7.15193
+offset=0
+end=112505
+loop_start=4
+loop_end=112498
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=1600
+fileg_depth=-1000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00799974
+loop_mode=no_loop
+effect1=2
+ampeg_decay=0.001
+ampeg_release=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Timpani 1(L).wav
+lokey=0 hikey=36
+pitch_keycenter=36
+effect1=22
+ampeg_decay=3.56154
+ampeg_release=7.99999
+tune=12
+offset=0
+end=120910
+loop_start=5
+loop_end=120903
+
+<region>
+sample=samples\Timpani 2(L).wav
+lokey=37 hikey=42
+pitch_keycenter=38
+effect1=22
+ampeg_decay=1.87471
+ampeg_release=6.04189
+offset=0
+end=107175
+loop_start=5
+loop_end=104250
+
+<region>
+sample=samples\Timpani 3(L).wav
+lokey=43 hikey=127
+pitch_keycenter=43
+effect1=22
+ampeg_decay=2.51984
+ampeg_release=5.72258
+offset=0
+end=112505
+loop_start=4
+loop_end=112498

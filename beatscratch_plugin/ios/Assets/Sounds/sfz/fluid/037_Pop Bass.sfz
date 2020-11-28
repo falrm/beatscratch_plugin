@@ -1,0 +1,122 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+pitcheg_release=0.400073
+fileg_release=0.400073
+ampeg_hold=3.00008
+ampeg_sustain=0.001
+ampeg_release=0.200036
+loop_mode=loop_continuous
+effect1=2
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Pop E0.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+ampeg_hold=7.09023
+ampeg_decay=39.9927
+tune=-1
+offset=0
+end=123167
+loop_start=121776
+loop_end=122845
+
+<region>
+sample=samples\Pop E2.wav
+lokey=29 hikey=30
+pitch_keycenter=30
+ampeg_hold=4.99909
+ampeg_decay=38.0106
+tune=-3
+offset=0
+end=113087
+loop_start=112499
+loop_end=112974
+
+<region>
+sample=samples\Pop E4.wav
+lokey=31 hikey=32
+pitch_keycenter=32
+ampeg_decay=36.0018
+tune=-3
+offset=0
+end=128799
+loop_start=127357
+loop_end=128633
+
+<region>
+sample=samples\Pop A1.wav
+lokey=33 hikey=35
+pitch_keycenter=34
+ampeg_decay=34.0008
+tune=-3
+offset=0
+end=119351
+loop_start=118895
+loop_end=119273
+
+<region>
+sample=samples\Pop A3.wav
+lokey=36 hikey=37
+pitch_keycenter=36
+ampeg_decay=32
+tune=-5
+offset=0
+end=119343
+loop_start=118228
+loop_end=119238
+
+<region>
+sample=samples\Pop D1.wav
+lokey=38 hikey=39
+pitch_keycenter=39
+ampeg_decay=29.9953
+tune=4
+offset=0
+end=145023
+loop_start=143772
+loop_end=144909
+
+<region>
+sample=samples\Pop D3.wav
+lokey=40 hikey=42
+pitch_keycenter=41
+ampeg_decay=25.0053
+tune=3
+offset=0
+end=120863
+loop_start=120295
+loop_end=120800
+
+<region>
+sample=samples\Pop G0.wav
+lokey=43 hikey=45
+pitch_keycenter=43
+ampeg_decay=26.0071
+tune=-2
+offset=0
+end=136999
+loop_start=135795
+loop_end=136919
+
+<region>
+sample=samples\Pop G5.wav
+lokey=46 hikey=84
+pitch_keycenter=48
+ampeg_decay=19.0053
+tune=-2
+offset=0
+end=97167
+loop_start=96382
+loop_end=96887

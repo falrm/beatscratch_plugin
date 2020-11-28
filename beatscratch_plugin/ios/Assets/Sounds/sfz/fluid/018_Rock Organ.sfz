@@ -1,0 +1,1500 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+ampeg_release=0.360149
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Rock Organ G#3.wav
+lokey=0 hikey=44
+pitch_keycenter=44
+offset=0
+end=72027
+loop_start=23350
+loop_end=72006
+
+<region>
+sample=samples\Rock Organ B3.wav
+lokey=45 hikey=47
+pitch_keycenter=47
+offset=0
+end=104335
+loop_start=54861
+loop_end=104310
+
+<region>
+sample=samples\Rock Organ C#4.wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=94255
+loop_start=46655
+loop_end=94221
+
+<region>
+sample=samples\Rock Organ E4.wav
+lokey=50 hikey=52
+pitch_keycenter=52
+offset=0
+end=97287
+loop_start=47211
+loop_end=97268
+
+<region>
+sample=samples\Rock Organ F#4.wav
+lokey=53 hikey=55
+pitch_keycenter=54
+offset=0
+end=88915
+loop_start=39786
+loop_end=88901
+
+<region>
+sample=samples\Rock Organ A4.wav
+lokey=56 hikey=58
+pitch_keycenter=57
+offset=0
+end=83063
+loop_start=34474
+loop_end=83055
+
+<region>
+sample=samples\Rock Organ C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+offset=0
+end=119563
+loop_start=66612
+loop_end=119552
+
+<region>
+sample=samples\Rock Organ D#5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=91633
+loop_start=46595
+loop_end=91628
+
+<region>
+sample=samples\Rock Organ F5.wav
+lokey=64 hikey=66
+pitch_keycenter=65
+offset=0
+end=99871
+loop_start=50002
+loop_end=99844
+
+<region>
+sample=samples\Rock Organ A5.wav
+lokey=67 hikey=70
+pitch_keycenter=69
+offset=0
+end=66499
+loop_start=21767
+loop_end=66488
+
+<region>
+sample=samples\Rock Organ C#6.wav
+lokey=71 hikey=73
+pitch_keycenter=73
+offset=0
+end=94503
+loop_start=46895
+loop_end=94474
+
+<region>
+sample=samples\Rock Organ D#6.wav
+lokey=74 hikey=76
+pitch_keycenter=75
+offset=0
+end=97366
+loop_start=52735
+loop_end=97352
+
+<region>
+sample=samples\Rock Organ G6.wav
+lokey=77 hikey=79
+pitch_keycenter=79
+offset=0
+end=77099
+loop_start=6688
+loop_end=77080
+
+<region>
+sample=samples\Rock Organ A6.wav
+lokey=80 hikey=82
+pitch_keycenter=81
+offset=0
+end=172527
+loop_start=79907
+loop_end=172508
+
+<region>
+sample=samples\Rock Organ C7.wav
+lokey=83 hikey=86
+pitch_keycenter=83
+offset=0
+end=62979
+loop_start=15126
+loop_end=62972
+
+<region>
+sample=samples\Rock Organ F7.wav
+lokey=87 hikey=89
+pitch_keycenter=89
+offset=0
+end=61159
+loop_start=11787
+loop_end=61145
+
+<region>
+sample=samples\Rock Organ G7.wav
+lokey=90 hikey=108
+pitch_keycenter=91
+offset=0
+end=60931
+loop_start=12309
+loop_end=60921
+
+<group>
+lovel=113 hivel=120
+ampeg_release=0.330068
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Rock Organ G#3.wav
+lokey=0 hikey=44
+pitch_keycenter=44
+offset=0
+end=72027
+loop_start=23350
+loop_end=72006
+
+<region>
+sample=samples\Rock Organ B3.wav
+lokey=45 hikey=47
+pitch_keycenter=47
+offset=0
+end=104335
+loop_start=54861
+loop_end=104310
+
+<region>
+sample=samples\Rock Organ C#4.wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=94255
+loop_start=46655
+loop_end=94221
+
+<region>
+sample=samples\Rock Organ E4.wav
+lokey=50 hikey=52
+pitch_keycenter=52
+offset=0
+end=97287
+loop_start=47211
+loop_end=97268
+
+<region>
+sample=samples\Rock Organ F#4.wav
+lokey=53 hikey=55
+pitch_keycenter=54
+offset=0
+end=88915
+loop_start=39786
+loop_end=88901
+
+<region>
+sample=samples\Rock Organ A4.wav
+lokey=56 hikey=58
+pitch_keycenter=57
+offset=0
+end=83063
+loop_start=34474
+loop_end=83055
+
+<region>
+sample=samples\Rock Organ C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+offset=0
+end=119563
+loop_start=66612
+loop_end=119552
+
+<region>
+sample=samples\Rock Organ D#5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=91633
+loop_start=46595
+loop_end=91628
+
+<region>
+sample=samples\Rock Organ F5.wav
+lokey=64 hikey=66
+pitch_keycenter=65
+offset=0
+end=99871
+loop_start=50002
+loop_end=99844
+
+<region>
+sample=samples\Rock Organ A5.wav
+lokey=67 hikey=70
+pitch_keycenter=69
+offset=0
+end=66499
+loop_start=21767
+loop_end=66488
+
+<region>
+sample=samples\Rock Organ C#6.wav
+lokey=71 hikey=73
+pitch_keycenter=73
+offset=0
+end=94503
+loop_start=46895
+loop_end=94474
+
+<region>
+sample=samples\Rock Organ D#6.wav
+lokey=74 hikey=76
+pitch_keycenter=75
+offset=0
+end=97366
+loop_start=52735
+loop_end=97352
+
+<region>
+sample=samples\Rock Organ G6.wav
+lokey=77 hikey=79
+pitch_keycenter=79
+offset=0
+end=77099
+loop_start=6688
+loop_end=77080
+
+<region>
+sample=samples\Rock Organ A6.wav
+lokey=80 hikey=82
+pitch_keycenter=81
+offset=0
+end=172527
+loop_start=79907
+loop_end=172508
+
+<region>
+sample=samples\Rock Organ C7.wav
+lokey=83 hikey=86
+pitch_keycenter=83
+offset=0
+end=62979
+loop_start=15126
+loop_end=62972
+
+<region>
+sample=samples\Rock Organ F7.wav
+lokey=87 hikey=89
+pitch_keycenter=89
+offset=0
+end=61159
+loop_start=11787
+loop_end=61145
+
+<region>
+sample=samples\Rock Organ G7.wav
+lokey=90 hikey=108
+pitch_keycenter=91
+offset=0
+end=60931
+loop_start=12309
+loop_end=60921
+
+<group>
+lovel=105 hivel=112
+ampeg_release=0.300062
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Rock Organ G#3.wav
+lokey=0 hikey=44
+pitch_keycenter=44
+offset=0
+end=72027
+loop_start=23350
+loop_end=72006
+
+<region>
+sample=samples\Rock Organ B3.wav
+lokey=45 hikey=47
+pitch_keycenter=47
+offset=0
+end=104335
+loop_start=54861
+loop_end=104310
+
+<region>
+sample=samples\Rock Organ C#4.wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=94255
+loop_start=46655
+loop_end=94221
+
+<region>
+sample=samples\Rock Organ E4.wav
+lokey=50 hikey=52
+pitch_keycenter=52
+offset=0
+end=97287
+loop_start=47211
+loop_end=97268
+
+<region>
+sample=samples\Rock Organ F#4.wav
+lokey=53 hikey=55
+pitch_keycenter=54
+offset=0
+end=88915
+loop_start=39786
+loop_end=88901
+
+<region>
+sample=samples\Rock Organ A4.wav
+lokey=56 hikey=58
+pitch_keycenter=57
+offset=0
+end=83063
+loop_start=34474
+loop_end=83055
+
+<region>
+sample=samples\Rock Organ C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+offset=0
+end=119563
+loop_start=66612
+loop_end=119552
+
+<region>
+sample=samples\Rock Organ D#5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=91633
+loop_start=46595
+loop_end=91628
+
+<region>
+sample=samples\Rock Organ F5.wav
+lokey=64 hikey=66
+pitch_keycenter=65
+offset=0
+end=99871
+loop_start=50002
+loop_end=99844
+
+<region>
+sample=samples\Rock Organ A5.wav
+lokey=67 hikey=70
+pitch_keycenter=69
+offset=0
+end=66499
+loop_start=21767
+loop_end=66488
+
+<region>
+sample=samples\Rock Organ C#6.wav
+lokey=71 hikey=73
+pitch_keycenter=73
+offset=0
+end=94503
+loop_start=46895
+loop_end=94474
+
+<region>
+sample=samples\Rock Organ D#6.wav
+lokey=74 hikey=76
+pitch_keycenter=75
+offset=0
+end=97366
+loop_start=52735
+loop_end=97352
+
+<region>
+sample=samples\Rock Organ G6.wav
+lokey=77 hikey=79
+pitch_keycenter=79
+offset=0
+end=77099
+loop_start=6688
+loop_end=77080
+
+<region>
+sample=samples\Rock Organ A6.wav
+lokey=80 hikey=82
+pitch_keycenter=81
+offset=0
+end=172527
+loop_start=79907
+loop_end=172508
+
+<region>
+sample=samples\Rock Organ C7.wav
+lokey=83 hikey=86
+pitch_keycenter=83
+offset=0
+end=62979
+loop_start=15126
+loop_end=62972
+
+<region>
+sample=samples\Rock Organ F7.wav
+lokey=87 hikey=89
+pitch_keycenter=89
+offset=0
+end=61159
+loop_start=11787
+loop_end=61145
+
+<region>
+sample=samples\Rock Organ G7.wav
+lokey=90 hikey=108
+pitch_keycenter=91
+offset=0
+end=60931
+loop_start=12309
+loop_end=60921
+
+<group>
+lovel=97 hivel=104
+ampeg_release=0.270119
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Rock Organ G#3.wav
+lokey=0 hikey=44
+pitch_keycenter=44
+offset=0
+end=72027
+loop_start=23350
+loop_end=72006
+
+<region>
+sample=samples\Rock Organ B3.wav
+lokey=45 hikey=47
+pitch_keycenter=47
+offset=0
+end=104335
+loop_start=54861
+loop_end=104310
+
+<region>
+sample=samples\Rock Organ C#4.wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=94255
+loop_start=46655
+loop_end=94221
+
+<region>
+sample=samples\Rock Organ E4.wav
+lokey=50 hikey=52
+pitch_keycenter=52
+offset=0
+end=97287
+loop_start=47211
+loop_end=97268
+
+<region>
+sample=samples\Rock Organ F#4.wav
+lokey=53 hikey=55
+pitch_keycenter=54
+offset=0
+end=88915
+loop_start=39786
+loop_end=88901
+
+<region>
+sample=samples\Rock Organ A4.wav
+lokey=56 hikey=58
+pitch_keycenter=57
+offset=0
+end=83063
+loop_start=34474
+loop_end=83055
+
+<region>
+sample=samples\Rock Organ C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+offset=0
+end=119563
+loop_start=66612
+loop_end=119552
+
+<region>
+sample=samples\Rock Organ D#5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=91633
+loop_start=46595
+loop_end=91628
+
+<region>
+sample=samples\Rock Organ F5.wav
+lokey=64 hikey=66
+pitch_keycenter=65
+offset=0
+end=99871
+loop_start=50002
+loop_end=99844
+
+<region>
+sample=samples\Rock Organ A5.wav
+lokey=67 hikey=70
+pitch_keycenter=69
+offset=0
+end=66499
+loop_start=21767
+loop_end=66488
+
+<region>
+sample=samples\Rock Organ C#6.wav
+lokey=71 hikey=73
+pitch_keycenter=73
+offset=0
+end=94503
+loop_start=46895
+loop_end=94474
+
+<region>
+sample=samples\Rock Organ D#6.wav
+lokey=74 hikey=76
+pitch_keycenter=75
+offset=0
+end=97366
+loop_start=52735
+loop_end=97352
+
+<region>
+sample=samples\Rock Organ G6.wav
+lokey=77 hikey=79
+pitch_keycenter=79
+offset=0
+end=77099
+loop_start=6688
+loop_end=77080
+
+<region>
+sample=samples\Rock Organ A6.wav
+lokey=80 hikey=82
+pitch_keycenter=81
+offset=0
+end=172527
+loop_start=79907
+loop_end=172508
+
+<region>
+sample=samples\Rock Organ C7.wav
+lokey=83 hikey=86
+pitch_keycenter=83
+offset=0
+end=62979
+loop_start=15126
+loop_end=62972
+
+<region>
+sample=samples\Rock Organ F7.wav
+lokey=87 hikey=89
+pitch_keycenter=89
+offset=0
+end=61159
+loop_start=11787
+loop_end=61145
+
+<region>
+sample=samples\Rock Organ G7.wav
+lokey=90 hikey=108
+pitch_keycenter=91
+offset=0
+end=60931
+loop_start=12309
+loop_end=60921
+
+<group>
+lovel=89 hivel=96
+ampeg_release=0.240093
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Rock Organ G#3.wav
+lokey=0 hikey=44
+pitch_keycenter=44
+offset=0
+end=72027
+loop_start=23350
+loop_end=72006
+
+<region>
+sample=samples\Rock Organ B3.wav
+lokey=45 hikey=47
+pitch_keycenter=47
+offset=0
+end=104335
+loop_start=54861
+loop_end=104310
+
+<region>
+sample=samples\Rock Organ C#4.wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=94255
+loop_start=46655
+loop_end=94221
+
+<region>
+sample=samples\Rock Organ E4.wav
+lokey=50 hikey=52
+pitch_keycenter=52
+offset=0
+end=97287
+loop_start=47211
+loop_end=97268
+
+<region>
+sample=samples\Rock Organ F#4.wav
+lokey=53 hikey=55
+pitch_keycenter=54
+offset=0
+end=88915
+loop_start=39786
+loop_end=88901
+
+<region>
+sample=samples\Rock Organ A4.wav
+lokey=56 hikey=58
+pitch_keycenter=57
+offset=0
+end=83063
+loop_start=34474
+loop_end=83055
+
+<region>
+sample=samples\Rock Organ C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+offset=0
+end=119563
+loop_start=66612
+loop_end=119552
+
+<region>
+sample=samples\Rock Organ D#5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=91633
+loop_start=46595
+loop_end=91628
+
+<region>
+sample=samples\Rock Organ F5.wav
+lokey=64 hikey=66
+pitch_keycenter=65
+offset=0
+end=99871
+loop_start=50002
+loop_end=99844
+
+<region>
+sample=samples\Rock Organ A5.wav
+lokey=67 hikey=70
+pitch_keycenter=69
+offset=0
+end=66499
+loop_start=21767
+loop_end=66488
+
+<region>
+sample=samples\Rock Organ C#6.wav
+lokey=71 hikey=73
+pitch_keycenter=73
+offset=0
+end=94503
+loop_start=46895
+loop_end=94474
+
+<region>
+sample=samples\Rock Organ D#6.wav
+lokey=74 hikey=76
+pitch_keycenter=75
+offset=0
+end=97366
+loop_start=52735
+loop_end=97352
+
+<region>
+sample=samples\Rock Organ G6.wav
+lokey=77 hikey=79
+pitch_keycenter=79
+offset=0
+end=77099
+loop_start=6688
+loop_end=77080
+
+<region>
+sample=samples\Rock Organ A6.wav
+lokey=80 hikey=82
+pitch_keycenter=81
+offset=0
+end=172527
+loop_start=79907
+loop_end=172508
+
+<region>
+sample=samples\Rock Organ C7.wav
+lokey=83 hikey=86
+pitch_keycenter=83
+offset=0
+end=62979
+loop_start=15126
+loop_end=62972
+
+<region>
+sample=samples\Rock Organ F7.wav
+lokey=87 hikey=89
+pitch_keycenter=89
+offset=0
+end=61159
+loop_start=11787
+loop_end=61145
+
+<region>
+sample=samples\Rock Organ G7.wav
+lokey=90 hikey=108
+pitch_keycenter=91
+offset=0
+end=60931
+loop_start=12309
+loop_end=60921
+
+<group>
+lovel=81 hivel=88
+ampeg_release=0.210103
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Rock Organ G#3.wav
+lokey=0 hikey=44
+pitch_keycenter=44
+offset=0
+end=72027
+loop_start=23350
+loop_end=72006
+
+<region>
+sample=samples\Rock Organ B3.wav
+lokey=45 hikey=47
+pitch_keycenter=47
+offset=0
+end=104335
+loop_start=54861
+loop_end=104310
+
+<region>
+sample=samples\Rock Organ C#4.wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=94255
+loop_start=46655
+loop_end=94221
+
+<region>
+sample=samples\Rock Organ E4.wav
+lokey=50 hikey=52
+pitch_keycenter=52
+offset=0
+end=97287
+loop_start=47211
+loop_end=97268
+
+<region>
+sample=samples\Rock Organ F#4.wav
+lokey=53 hikey=55
+pitch_keycenter=54
+offset=0
+end=88915
+loop_start=39786
+loop_end=88901
+
+<region>
+sample=samples\Rock Organ A4.wav
+lokey=56 hikey=58
+pitch_keycenter=57
+offset=0
+end=83063
+loop_start=34474
+loop_end=83055
+
+<region>
+sample=samples\Rock Organ C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+offset=0
+end=119563
+loop_start=66612
+loop_end=119552
+
+<region>
+sample=samples\Rock Organ D#5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=91633
+loop_start=46595
+loop_end=91628
+
+<region>
+sample=samples\Rock Organ F5.wav
+lokey=64 hikey=66
+pitch_keycenter=65
+offset=0
+end=99871
+loop_start=50002
+loop_end=99844
+
+<region>
+sample=samples\Rock Organ A5.wav
+lokey=67 hikey=70
+pitch_keycenter=69
+offset=0
+end=66499
+loop_start=21767
+loop_end=66488
+
+<region>
+sample=samples\Rock Organ C#6.wav
+lokey=71 hikey=73
+pitch_keycenter=73
+offset=0
+end=94503
+loop_start=46895
+loop_end=94474
+
+<region>
+sample=samples\Rock Organ D#6.wav
+lokey=74 hikey=76
+pitch_keycenter=75
+offset=0
+end=97366
+loop_start=52735
+loop_end=97352
+
+<region>
+sample=samples\Rock Organ G6.wav
+lokey=77 hikey=79
+pitch_keycenter=79
+offset=0
+end=77099
+loop_start=6688
+loop_end=77080
+
+<region>
+sample=samples\Rock Organ A6.wav
+lokey=80 hikey=82
+pitch_keycenter=81
+offset=0
+end=172527
+loop_start=79907
+loop_end=172508
+
+<region>
+sample=samples\Rock Organ C7.wav
+lokey=83 hikey=86
+pitch_keycenter=83
+offset=0
+end=62979
+loop_start=15126
+loop_end=62972
+
+<region>
+sample=samples\Rock Organ F7.wav
+lokey=87 hikey=89
+pitch_keycenter=89
+offset=0
+end=61159
+loop_start=11787
+loop_end=61145
+
+<region>
+sample=samples\Rock Organ G7.wav
+lokey=90 hikey=108
+pitch_keycenter=91
+offset=0
+end=60931
+loop_start=12309
+loop_end=60921
+
+<group>
+lovel=73 hivel=80
+ampeg_release=0.180075
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Rock Organ G#3.wav
+lokey=0 hikey=44
+pitch_keycenter=44
+offset=0
+end=72027
+loop_start=23350
+loop_end=72006
+
+<region>
+sample=samples\Rock Organ B3.wav
+lokey=45 hikey=47
+pitch_keycenter=47
+offset=0
+end=104335
+loop_start=54861
+loop_end=104310
+
+<region>
+sample=samples\Rock Organ C#4.wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=94255
+loop_start=46655
+loop_end=94221
+
+<region>
+sample=samples\Rock Organ E4.wav
+lokey=50 hikey=52
+pitch_keycenter=52
+offset=0
+end=97287
+loop_start=47211
+loop_end=97268
+
+<region>
+sample=samples\Rock Organ F#4.wav
+lokey=53 hikey=55
+pitch_keycenter=54
+offset=0
+end=88915
+loop_start=39786
+loop_end=88901
+
+<region>
+sample=samples\Rock Organ A4.wav
+lokey=56 hikey=58
+pitch_keycenter=57
+offset=0
+end=83063
+loop_start=34474
+loop_end=83055
+
+<region>
+sample=samples\Rock Organ C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+offset=0
+end=119563
+loop_start=66612
+loop_end=119552
+
+<region>
+sample=samples\Rock Organ D#5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=91633
+loop_start=46595
+loop_end=91628
+
+<region>
+sample=samples\Rock Organ F5.wav
+lokey=64 hikey=66
+pitch_keycenter=65
+offset=0
+end=99871
+loop_start=50002
+loop_end=99844
+
+<region>
+sample=samples\Rock Organ A5.wav
+lokey=67 hikey=70
+pitch_keycenter=69
+offset=0
+end=66499
+loop_start=21767
+loop_end=66488
+
+<region>
+sample=samples\Rock Organ C#6.wav
+lokey=71 hikey=73
+pitch_keycenter=73
+offset=0
+end=94503
+loop_start=46895
+loop_end=94474
+
+<region>
+sample=samples\Rock Organ D#6.wav
+lokey=74 hikey=76
+pitch_keycenter=75
+offset=0
+end=97366
+loop_start=52735
+loop_end=97352
+
+<region>
+sample=samples\Rock Organ G6.wav
+lokey=77 hikey=79
+pitch_keycenter=79
+offset=0
+end=77099
+loop_start=6688
+loop_end=77080
+
+<region>
+sample=samples\Rock Organ A6.wav
+lokey=80 hikey=82
+pitch_keycenter=81
+offset=0
+end=172527
+loop_start=79907
+loop_end=172508
+
+<region>
+sample=samples\Rock Organ C7.wav
+lokey=83 hikey=86
+pitch_keycenter=83
+offset=0
+end=62979
+loop_start=15126
+loop_end=62972
+
+<region>
+sample=samples\Rock Organ F7.wav
+lokey=87 hikey=89
+pitch_keycenter=89
+offset=0
+end=61159
+loop_start=11787
+loop_end=61145
+
+<region>
+sample=samples\Rock Organ G7.wav
+lokey=90 hikey=108
+pitch_keycenter=91
+offset=0
+end=60931
+loop_start=12309
+loop_end=60921
+
+<group>
+lovel=65 hivel=72
+ampeg_release=0.150031
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Rock Organ G#3.wav
+lokey=0 hikey=44
+pitch_keycenter=44
+offset=0
+end=72027
+loop_start=23350
+loop_end=72006
+
+<region>
+sample=samples\Rock Organ B3.wav
+lokey=45 hikey=47
+pitch_keycenter=47
+offset=0
+end=104335
+loop_start=54861
+loop_end=104310
+
+<region>
+sample=samples\Rock Organ C#4.wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=94255
+loop_start=46655
+loop_end=94221
+
+<region>
+sample=samples\Rock Organ E4.wav
+lokey=50 hikey=52
+pitch_keycenter=52
+offset=0
+end=97287
+loop_start=47211
+loop_end=97268
+
+<region>
+sample=samples\Rock Organ F#4.wav
+lokey=53 hikey=55
+pitch_keycenter=54
+offset=0
+end=88915
+loop_start=39786
+loop_end=88901
+
+<region>
+sample=samples\Rock Organ A4.wav
+lokey=56 hikey=58
+pitch_keycenter=57
+offset=0
+end=83063
+loop_start=34474
+loop_end=83055
+
+<region>
+sample=samples\Rock Organ C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+offset=0
+end=119563
+loop_start=66612
+loop_end=119552
+
+<region>
+sample=samples\Rock Organ D#5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=91633
+loop_start=46595
+loop_end=91628
+
+<region>
+sample=samples\Rock Organ F5.wav
+lokey=64 hikey=66
+pitch_keycenter=65
+offset=0
+end=99871
+loop_start=50002
+loop_end=99844
+
+<region>
+sample=samples\Rock Organ A5.wav
+lokey=67 hikey=70
+pitch_keycenter=69
+offset=0
+end=66499
+loop_start=21767
+loop_end=66488
+
+<region>
+sample=samples\Rock Organ C#6.wav
+lokey=71 hikey=73
+pitch_keycenter=73
+offset=0
+end=94503
+loop_start=46895
+loop_end=94474
+
+<region>
+sample=samples\Rock Organ D#6.wav
+lokey=74 hikey=76
+pitch_keycenter=75
+offset=0
+end=97366
+loop_start=52735
+loop_end=97352
+
+<region>
+sample=samples\Rock Organ G6.wav
+lokey=77 hikey=79
+pitch_keycenter=79
+offset=0
+end=77099
+loop_start=6688
+loop_end=77080
+
+<region>
+sample=samples\Rock Organ A6.wav
+lokey=80 hikey=82
+pitch_keycenter=81
+offset=0
+end=172527
+loop_start=79907
+loop_end=172508
+
+<region>
+sample=samples\Rock Organ C7.wav
+lokey=83 hikey=86
+pitch_keycenter=83
+offset=0
+end=62979
+loop_start=15126
+loop_end=62972
+
+<region>
+sample=samples\Rock Organ F7.wav
+lokey=87 hikey=89
+pitch_keycenter=89
+offset=0
+end=61159
+loop_start=11787
+loop_end=61145
+
+<region>
+sample=samples\Rock Organ G7.wav
+lokey=90 hikey=108
+pitch_keycenter=91
+offset=0
+end=60931
+loop_start=12309
+loop_end=60921
+
+<group>
+lovel=0 hivel=64
+ampeg_release=0.120047
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Rock Organ G#3.wav
+lokey=0 hikey=44
+pitch_keycenter=44
+offset=0
+end=72027
+loop_start=23350
+loop_end=72006
+
+<region>
+sample=samples\Rock Organ B3.wav
+lokey=45 hikey=47
+pitch_keycenter=47
+offset=0
+end=104335
+loop_start=54861
+loop_end=104310
+
+<region>
+sample=samples\Rock Organ C#4.wav
+lokey=48 hikey=49
+pitch_keycenter=49
+offset=0
+end=94255
+loop_start=46655
+loop_end=94221
+
+<region>
+sample=samples\Rock Organ E4.wav
+lokey=50 hikey=52
+pitch_keycenter=52
+offset=0
+end=97287
+loop_start=47211
+loop_end=97268
+
+<region>
+sample=samples\Rock Organ F#4.wav
+lokey=53 hikey=55
+pitch_keycenter=54
+offset=0
+end=88915
+loop_start=39786
+loop_end=88901
+
+<region>
+sample=samples\Rock Organ A4.wav
+lokey=56 hikey=58
+pitch_keycenter=57
+offset=0
+end=83063
+loop_start=34474
+loop_end=83055
+
+<region>
+sample=samples\Rock Organ C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+offset=0
+end=119563
+loop_start=66612
+loop_end=119552
+
+<region>
+sample=samples\Rock Organ D#5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=91633
+loop_start=46595
+loop_end=91628
+
+<region>
+sample=samples\Rock Organ F5.wav
+lokey=64 hikey=66
+pitch_keycenter=65
+offset=0
+end=99871
+loop_start=50002
+loop_end=99844
+
+<region>
+sample=samples\Rock Organ A5.wav
+lokey=67 hikey=70
+pitch_keycenter=69
+offset=0
+end=66499
+loop_start=21767
+loop_end=66488
+
+<region>
+sample=samples\Rock Organ C#6.wav
+lokey=71 hikey=73
+pitch_keycenter=73
+offset=0
+end=94503
+loop_start=46895
+loop_end=94474
+
+<region>
+sample=samples\Rock Organ D#6.wav
+lokey=74 hikey=76
+pitch_keycenter=75
+offset=0
+end=97366
+loop_start=52735
+loop_end=97352
+
+<region>
+sample=samples\Rock Organ G6.wav
+lokey=77 hikey=79
+pitch_keycenter=79
+offset=0
+end=77099
+loop_start=6688
+loop_end=77080
+
+<region>
+sample=samples\Rock Organ A6.wav
+lokey=80 hikey=82
+pitch_keycenter=81
+offset=0
+end=172527
+loop_start=79907
+loop_end=172508
+
+<region>
+sample=samples\Rock Organ C7.wav
+lokey=83 hikey=86
+pitch_keycenter=83
+offset=0
+end=62979
+loop_start=15126
+loop_end=62972
+
+<region>
+sample=samples\Rock Organ F7.wav
+lokey=87 hikey=89
+pitch_keycenter=89
+offset=0
+end=61159
+loop_start=11787
+loop_end=61145
+
+<region>
+sample=samples\Rock Organ G7.wav
+lokey=90 hikey=108
+pitch_keycenter=91
+offset=0
+end=60931
+loop_start=12309
+loop_end=60921

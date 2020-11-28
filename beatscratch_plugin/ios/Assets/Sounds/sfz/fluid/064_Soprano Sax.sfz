@@ -1,0 +1,1419 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=10002
+fileg_depth=-2298
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=10
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Soprano A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+tune=3
+offset=0
+end=37506
+loop_start=30178
+loop_end=37466
+
+<region>
+sample=samples\Soprano A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=39578
+loop_start=32151
+loop_end=39551
+
+<region>
+sample=samples\Soprano C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-1
+offset=0
+end=38376
+loop_start=30781
+loop_end=38356
+
+<region>
+sample=samples\Soprano D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=63
+tune=-2
+offset=0
+end=33383
+loop_start=26189
+loop_end=33364
+
+<region>
+sample=samples\Soprano E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=-3
+offset=0
+end=28702
+loop_start=21503
+loop_end=28666
+
+<region>
+sample=samples\Soprano F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=3
+offset=0
+end=49642
+loop_start=42258
+loop_end=49631
+
+<region>
+sample=samples\Soprano A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=1
+offset=0
+end=40144
+loop_start=32862
+loop_end=40096
+
+<region>
+sample=samples\Soprano A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+offset=0
+end=40785
+loop_start=33438
+loop_end=40775
+
+<region>
+sample=samples\Soprano C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=43460
+loop_start=35942
+loop_end=43313
+
+<region>
+sample=samples\Soprano D#6(L).wav
+lokey=74 hikey=76
+pitch_keycenter=75
+tune=-3
+offset=0
+end=42424
+loop_start=35318
+loop_end=42355
+
+<region>
+sample=samples\Soprano F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=78
+offset=0
+end=46046
+loop_start=38821
+loop_end=45979
+
+<region>
+sample=samples\Soprano G6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=79
+offset=0
+end=35886
+loop_start=28690
+loop_end=35832
+
+<region>
+sample=samples\Soprano A#6(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=43541
+loop_start=36968
+loop_end=43437
+
+<region>
+sample=samples\Soprano C#7(L).wav
+lokey=84 hikey=96
+pitch_keycenter=85
+offset=0
+end=41430
+loop_start=34013
+loop_end=41402
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=9004
+fileg_depth=-2298
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00146489
+effect1=10
+volume=-0.794
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Soprano A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+tune=3
+offset=0
+end=37506
+loop_start=30178
+loop_end=37466
+
+<region>
+sample=samples\Soprano A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=39578
+loop_start=32151
+loop_end=39551
+
+<region>
+sample=samples\Soprano C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-1
+offset=0
+end=38376
+loop_start=30781
+loop_end=38356
+
+<region>
+sample=samples\Soprano D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=63
+tune=-2
+offset=0
+end=33383
+loop_start=26189
+loop_end=33364
+
+<region>
+sample=samples\Soprano E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=-3
+offset=0
+end=28702
+loop_start=21503
+loop_end=28666
+
+<region>
+sample=samples\Soprano F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=3
+offset=0
+end=49642
+loop_start=42258
+loop_end=49631
+
+<region>
+sample=samples\Soprano A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=1
+offset=0
+end=40144
+loop_start=32862
+loop_end=40096
+
+<region>
+sample=samples\Soprano A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+offset=0
+end=40785
+loop_start=33438
+loop_end=40775
+
+<region>
+sample=samples\Soprano C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=43460
+loop_start=35942
+loop_end=43313
+
+<region>
+sample=samples\Soprano D#6(L).wav
+lokey=74 hikey=76
+pitch_keycenter=75
+tune=-3
+offset=0
+end=42424
+loop_start=35318
+loop_end=42355
+
+<region>
+sample=samples\Soprano F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=78
+offset=0
+end=46046
+loop_start=38821
+loop_end=45979
+
+<region>
+sample=samples\Soprano G6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=79
+offset=0
+end=35886
+loop_start=28690
+loop_end=35832
+
+<region>
+sample=samples\Soprano A#6(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=43541
+loop_start=36968
+loop_end=43437
+
+<region>
+sample=samples\Soprano C#7(L).wav
+lokey=84 hikey=96
+pitch_keycenter=85
+offset=0
+end=41430
+loop_start=34013
+loop_end=41402
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=8003
+fileg_depth=-2298
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00195313
+effect1=10
+volume=-0.794
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Soprano A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+tune=3
+offset=0
+end=37506
+loop_start=30178
+loop_end=37466
+
+<region>
+sample=samples\Soprano A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=39578
+loop_start=32151
+loop_end=39551
+
+<region>
+sample=samples\Soprano C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-1
+offset=0
+end=38376
+loop_start=30781
+loop_end=38356
+
+<region>
+sample=samples\Soprano D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=63
+tune=-2
+offset=0
+end=33383
+loop_start=26189
+loop_end=33364
+
+<region>
+sample=samples\Soprano E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=-3
+offset=0
+end=28702
+loop_start=21503
+loop_end=28666
+
+<region>
+sample=samples\Soprano F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=3
+offset=0
+end=49642
+loop_start=42258
+loop_end=49631
+
+<region>
+sample=samples\Soprano A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=1
+offset=0
+end=40144
+loop_start=32862
+loop_end=40096
+
+<region>
+sample=samples\Soprano A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+offset=0
+end=40785
+loop_start=33438
+loop_end=40775
+
+<region>
+sample=samples\Soprano C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=43460
+loop_start=35942
+loop_end=43313
+
+<region>
+sample=samples\Soprano D#6(L).wav
+lokey=74 hikey=76
+pitch_keycenter=75
+tune=-3
+offset=0
+end=42424
+loop_start=35318
+loop_end=42355
+
+<region>
+sample=samples\Soprano F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=78
+offset=0
+end=46046
+loop_start=38821
+loop_end=45979
+
+<region>
+sample=samples\Soprano G6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=79
+offset=0
+end=35886
+loop_start=28690
+loop_end=35832
+
+<region>
+sample=samples\Soprano A#6(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=43541
+loop_start=36968
+loop_end=43437
+
+<region>
+sample=samples\Soprano C#7(L).wav
+lokey=84 hikey=96
+pitch_keycenter=85
+offset=0
+end=41430
+loop_start=34013
+loop_end=41402
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=7004
+fileg_depth=-2298
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00244097
+effect1=10
+volume=-0.794
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Soprano A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+tune=3
+offset=0
+end=37506
+loop_start=30178
+loop_end=37466
+
+<region>
+sample=samples\Soprano A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=39578
+loop_start=32151
+loop_end=39551
+
+<region>
+sample=samples\Soprano C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-1
+offset=0
+end=38376
+loop_start=30781
+loop_end=38356
+
+<region>
+sample=samples\Soprano D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=63
+tune=-2
+offset=0
+end=33383
+loop_start=26189
+loop_end=33364
+
+<region>
+sample=samples\Soprano E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=-3
+offset=0
+end=28702
+loop_start=21503
+loop_end=28666
+
+<region>
+sample=samples\Soprano F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=3
+offset=0
+end=49642
+loop_start=42258
+loop_end=49631
+
+<region>
+sample=samples\Soprano A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=1
+offset=0
+end=40144
+loop_start=32862
+loop_end=40096
+
+<region>
+sample=samples\Soprano A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+offset=0
+end=40785
+loop_start=33438
+loop_end=40775
+
+<region>
+sample=samples\Soprano C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=43460
+loop_start=35942
+loop_end=43313
+
+<region>
+sample=samples\Soprano D#6(L).wav
+lokey=74 hikey=76
+pitch_keycenter=75
+tune=-3
+offset=0
+end=42424
+loop_start=35318
+loop_end=42355
+
+<region>
+sample=samples\Soprano F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=78
+offset=0
+end=46046
+loop_start=38821
+loop_end=45979
+
+<region>
+sample=samples\Soprano G6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=79
+offset=0
+end=35886
+loop_start=28690
+loop_end=35832
+
+<region>
+sample=samples\Soprano A#6(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=43541
+loop_start=36968
+loop_end=43437
+
+<region>
+sample=samples\Soprano C#7(L).wav
+lokey=84 hikey=96
+pitch_keycenter=85
+offset=0
+end=41430
+loop_start=34013
+loop_end=41402
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=6003
+fileg_depth=-2298
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00292977
+effect1=10
+volume=-0.794
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Soprano A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+tune=3
+offset=0
+end=37506
+loop_start=30178
+loop_end=37466
+
+<region>
+sample=samples\Soprano A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=39578
+loop_start=32151
+loop_end=39551
+
+<region>
+sample=samples\Soprano C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-1
+offset=0
+end=38376
+loop_start=30781
+loop_end=38356
+
+<region>
+sample=samples\Soprano D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=63
+tune=-2
+offset=0
+end=33383
+loop_start=26189
+loop_end=33364
+
+<region>
+sample=samples\Soprano E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=-3
+offset=0
+end=28702
+loop_start=21503
+loop_end=28666
+
+<region>
+sample=samples\Soprano F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=3
+offset=0
+end=49642
+loop_start=42258
+loop_end=49631
+
+<region>
+sample=samples\Soprano A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=1
+offset=0
+end=40144
+loop_start=32862
+loop_end=40096
+
+<region>
+sample=samples\Soprano A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+offset=0
+end=40785
+loop_start=33438
+loop_end=40775
+
+<region>
+sample=samples\Soprano C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=43460
+loop_start=35942
+loop_end=43313
+
+<region>
+sample=samples\Soprano D#6(L).wav
+lokey=74 hikey=76
+pitch_keycenter=75
+tune=-3
+offset=0
+end=42424
+loop_start=35318
+loop_end=42355
+
+<region>
+sample=samples\Soprano F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=78
+offset=0
+end=46046
+loop_start=38821
+loop_end=45979
+
+<region>
+sample=samples\Soprano G6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=79
+offset=0
+end=35886
+loop_start=28690
+loop_end=35832
+
+<region>
+sample=samples\Soprano A#6(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=43541
+loop_start=36968
+loop_end=43437
+
+<region>
+sample=samples\Soprano C#7(L).wav
+lokey=84 hikey=96
+pitch_keycenter=85
+offset=0
+end=41430
+loop_start=34013
+loop_end=41402
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=5001
+fileg_depth=-2298
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00341832
+effect1=10
+volume=-0.794
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Soprano A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+tune=3
+offset=0
+end=37506
+loop_start=30178
+loop_end=37466
+
+<region>
+sample=samples\Soprano A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=39578
+loop_start=32151
+loop_end=39551
+
+<region>
+sample=samples\Soprano C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-1
+offset=0
+end=38376
+loop_start=30781
+loop_end=38356
+
+<region>
+sample=samples\Soprano D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=63
+tune=-2
+offset=0
+end=33383
+loop_start=26189
+loop_end=33364
+
+<region>
+sample=samples\Soprano E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=-3
+offset=0
+end=28702
+loop_start=21503
+loop_end=28666
+
+<region>
+sample=samples\Soprano F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=3
+offset=0
+end=49642
+loop_start=42258
+loop_end=49631
+
+<region>
+sample=samples\Soprano A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=1
+offset=0
+end=40144
+loop_start=32862
+loop_end=40096
+
+<region>
+sample=samples\Soprano A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+offset=0
+end=40785
+loop_start=33438
+loop_end=40775
+
+<region>
+sample=samples\Soprano C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=43460
+loop_start=35942
+loop_end=43313
+
+<region>
+sample=samples\Soprano D#6(L).wav
+lokey=74 hikey=76
+pitch_keycenter=75
+tune=-3
+offset=0
+end=42424
+loop_start=35318
+loop_end=42355
+
+<region>
+sample=samples\Soprano F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=78
+offset=0
+end=46046
+loop_start=38821
+loop_end=45979
+
+<region>
+sample=samples\Soprano G6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=79
+offset=0
+end=35886
+loop_start=28690
+loop_end=35832
+
+<region>
+sample=samples\Soprano A#6(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=43541
+loop_start=36968
+loop_end=43437
+
+<region>
+sample=samples\Soprano C#7(L).wav
+lokey=84 hikey=96
+pitch_keycenter=85
+offset=0
+end=41430
+loop_start=34013
+loop_end=41402
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=4002
+fileg_depth=-2298
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00390626
+effect1=10
+volume=-0.794
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Soprano A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+tune=3
+offset=0
+end=37506
+loop_start=30178
+loop_end=37466
+
+<region>
+sample=samples\Soprano A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=39578
+loop_start=32151
+loop_end=39551
+
+<region>
+sample=samples\Soprano C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-1
+offset=0
+end=38376
+loop_start=30781
+loop_end=38356
+
+<region>
+sample=samples\Soprano D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=63
+tune=-2
+offset=0
+end=33383
+loop_start=26189
+loop_end=33364
+
+<region>
+sample=samples\Soprano E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=-3
+offset=0
+end=28702
+loop_start=21503
+loop_end=28666
+
+<region>
+sample=samples\Soprano F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=3
+offset=0
+end=49642
+loop_start=42258
+loop_end=49631
+
+<region>
+sample=samples\Soprano A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=1
+offset=0
+end=40144
+loop_start=32862
+loop_end=40096
+
+<region>
+sample=samples\Soprano A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+offset=0
+end=40785
+loop_start=33438
+loop_end=40775
+
+<region>
+sample=samples\Soprano C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=43460
+loop_start=35942
+loop_end=43313
+
+<region>
+sample=samples\Soprano D#6(L).wav
+lokey=74 hikey=76
+pitch_keycenter=75
+tune=-3
+offset=0
+end=42424
+loop_start=35318
+loop_end=42355
+
+<region>
+sample=samples\Soprano F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=78
+offset=0
+end=46046
+loop_start=38821
+loop_end=45979
+
+<region>
+sample=samples\Soprano G6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=79
+offset=0
+end=35886
+loop_start=28690
+loop_end=35832
+
+<region>
+sample=samples\Soprano A#6(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=43541
+loop_start=36968
+loop_end=43437
+
+<region>
+sample=samples\Soprano C#7(L).wav
+lokey=84 hikey=96
+pitch_keycenter=85
+offset=0
+end=41430
+loop_start=34013
+loop_end=41402
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=3001
+fileg_depth=-2298
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00439477
+effect1=10
+volume=-0.794
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Soprano A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+tune=3
+offset=0
+end=37506
+loop_start=30178
+loop_end=37466
+
+<region>
+sample=samples\Soprano A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=39578
+loop_start=32151
+loop_end=39551
+
+<region>
+sample=samples\Soprano C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-1
+offset=0
+end=38376
+loop_start=30781
+loop_end=38356
+
+<region>
+sample=samples\Soprano D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=63
+tune=-2
+offset=0
+end=33383
+loop_start=26189
+loop_end=33364
+
+<region>
+sample=samples\Soprano E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=-3
+offset=0
+end=28702
+loop_start=21503
+loop_end=28666
+
+<region>
+sample=samples\Soprano F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=3
+offset=0
+end=49642
+loop_start=42258
+loop_end=49631
+
+<region>
+sample=samples\Soprano A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=1
+offset=0
+end=40144
+loop_start=32862
+loop_end=40096
+
+<region>
+sample=samples\Soprano A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+offset=0
+end=40785
+loop_start=33438
+loop_end=40775
+
+<region>
+sample=samples\Soprano C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=43460
+loop_start=35942
+loop_end=43313
+
+<region>
+sample=samples\Soprano D#6(L).wav
+lokey=74 hikey=76
+pitch_keycenter=75
+tune=-3
+offset=0
+end=42424
+loop_start=35318
+loop_end=42355
+
+<region>
+sample=samples\Soprano F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=78
+offset=0
+end=46046
+loop_start=38821
+loop_end=45979
+
+<region>
+sample=samples\Soprano G6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=79
+offset=0
+end=35886
+loop_start=28690
+loop_end=35832
+
+<region>
+sample=samples\Soprano A#6(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=43541
+loop_start=36968
+loop_end=43437
+
+<region>
+sample=samples\Soprano C#7(L).wav
+lokey=84 hikey=96
+pitch_keycenter=85
+offset=0
+end=41430
+loop_start=34013
+loop_end=41402
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=2001
+fileg_depth=-2298
+pitcheg_delay=4.82044
+fileg_delay=4.82044
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00488194
+effect1=10
+volume=-0.794
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Soprano A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+tune=3
+offset=0
+end=37506
+loop_start=30178
+loop_end=37466
+
+<region>
+sample=samples\Soprano A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=-2
+offset=0
+end=39578
+loop_start=32151
+loop_end=39551
+
+<region>
+sample=samples\Soprano C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=-1
+offset=0
+end=38376
+loop_start=30781
+loop_end=38356
+
+<region>
+sample=samples\Soprano D#5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=63
+tune=-2
+offset=0
+end=33383
+loop_start=26189
+loop_end=33364
+
+<region>
+sample=samples\Soprano E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=-3
+offset=0
+end=28702
+loop_start=21503
+loop_end=28666
+
+<region>
+sample=samples\Soprano F#5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=66
+tune=3
+offset=0
+end=49642
+loop_start=42258
+loop_end=49631
+
+<region>
+sample=samples\Soprano A5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=69
+tune=1
+offset=0
+end=40144
+loop_start=32862
+loop_end=40096
+
+<region>
+sample=samples\Soprano A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+offset=0
+end=40785
+loop_start=33438
+loop_end=40775
+
+<region>
+sample=samples\Soprano C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=43460
+loop_start=35942
+loop_end=43313
+
+<region>
+sample=samples\Soprano D#6(L).wav
+lokey=74 hikey=76
+pitch_keycenter=75
+tune=-3
+offset=0
+end=42424
+loop_start=35318
+loop_end=42355
+
+<region>
+sample=samples\Soprano F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=78
+offset=0
+end=46046
+loop_start=38821
+loop_end=45979
+
+<region>
+sample=samples\Soprano G6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=79
+offset=0
+end=35886
+loop_start=28690
+loop_end=35832
+
+<region>
+sample=samples\Soprano A#6(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=43541
+loop_start=36968
+loop_end=43437
+
+<region>
+sample=samples\Soprano C#7(L).wav
+lokey=84 hikey=96
+pitch_keycenter=85
+offset=0
+end=41430
+loop_start=34013
+loop_end=41402

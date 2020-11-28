@@ -1,0 +1,142 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+pitcheg_depth=-5
+fil_type=lpf_2p
+cutoff=7999
+resonance=10
+fileg_depth=-766
+amplfo_depth=0.5
+effect2=10
+amplfo_delay=0.356013
+fillfo_delay=0.356013
+amplfo_freq=0.199999
+fillfo_freq=0.199999
+pitchlfo_freq=4.24931
+pitcheg_attack=3.54921
+fileg_attack=3.54921
+pitcheg_hold=0.356013
+fileg_hold=0.356013
+pitcheg_decay=3.00008
+fileg_decay=3.00008
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=2.83989
+fileg_release=2.83989
+ampeg_hold=0.5
+ampeg_decay=0.001
+ampeg_sustain=0.001
+ampeg_release=3.54921
+loop_mode=loop_continuous
+effect1=13
+volume=-0.9131
+ampeg_attack=0.001
+
+<region>
+sample=samples\sitar_e2(L).wav
+lokey=0 hikey=54
+pitch_keycenter=52
+ampeg_decay=12.0003
+ampeg_release=6.50177
+tune=1
+offset=0
+end=31705
+loop_start=28998
+loop_end=31673
+volume=-0.5
+
+<region>
+sample=samples\sitar_g2(L).wav
+lokey=55 hikey=59
+pitch_keycenter=55
+ampeg_decay=11.3006
+ampeg_release=6.10151
+tune=1
+offset=0
+end=31274
+loop_start=24270
+loop_end=31245
+volume=-0.5
+
+<region>
+sample=samples\sitar_c3(L).wav
+lokey=60 hikey=63
+pitch_keycenter=60
+ampeg_decay=10.1027
+ampeg_release=5.69949
+tune=1
+offset=0
+end=29599
+loop_start=23314
+loop_end=29550
+volume=-0.5
+
+<region>
+sample=samples\sitar_e3(L).wav
+lokey=64 hikey=67
+pitch_keycenter=64
+ampeg_decay=9.70234
+ampeg_release=4.99909
+tune=1
+offset=0
+end=24456
+loop_start=20642
+loop_end=24386
+volume=-0.5
+
+<region>
+sample=samples\sitar_c4(L).wav
+lokey=68 hikey=72
+pitch_keycenter=72
+ampeg_decay=9.09978
+ampeg_release=4.50023
+tune=1
+offset=0
+end=16759
+loop_start=13386
+loop_end=16672
+volume=-0.5
+
+<region>
+sample=samples\sitar_e4(L).wav
+lokey=73 hikey=80
+pitch_keycenter=76
+ampeg_decay=8.63881
+ampeg_release=3.89062
+tune=1
+offset=0
+end=13210
+loop_start=10603
+loop_end=13144
+volume=-0.5
+
+<region>
+sample=samples\sitar_c5(L).wav
+lokey=81 hikey=88
+pitch_keycenter=84
+ampeg_decay=7.99999
+ampeg_release=3.23964
+tune=1
+offset=0
+end=8329
+loop_start=6714
+loop_end=8314
+volume=-0.5
+
+<region>
+sample=samples\sitar_g5(L).wav
+lokey=89 hikey=108
+pitch_keycenter=91
+ampeg_decay=7.34027
+ampeg_release=2.80079
+tune=1
+offset=0
+end=7119
+loop_start=5945
+loop_end=7069
+volume=-0.5

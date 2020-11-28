@@ -1,0 +1,324 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=15997
+amplfo_freq=0.001
+fillfo_freq=0.001
+pitchlfo_freq=0.001
+ampeg_sustain=0.001
+ampeg_release=0.200036
+loop_mode=loop_continuous
+pan=-50
+tune=-4
+effect2=17
+effect1=10
+volume=-4.2876
+ampeg_attack=0.001
+
+<region>
+sample=samples\Rhodes C2(L).wav
+lokey=0 hikey=27
+pitch_keycenter=24
+ampeg_hold=4.99909
+ampeg_decay=25.0053
+offset=0
+end=144639
+loop_start=143150
+loop_end=144502
+
+<region>
+sample=samples\Rhodes G2(L).wav
+lokey=28 hikey=33
+pitch_keycenter=31
+ampeg_hold=4.80099
+ampeg_decay=21.9959
+offset=0
+end=123967
+loop_start=122968
+loop_end=123866
+
+<region>
+sample=samples\Rhodes C3(L).wav
+lokey=34 hikey=39
+pitch_keycenter=36
+ampeg_hold=4.75133
+ampeg_decay=21.506
+offset=0
+end=102895
+loop_start=102184
+loop_end=102856
+
+<region>
+sample=samples\Rhodes E3(L).wav
+lokey=40 hikey=45
+pitch_keycenter=40
+ampeg_hold=4.69947
+ampeg_decay=21.0026
+offset=0
+end=82839
+loop_start=82256
+loop_end=82790
+
+<region>
+sample=samples\Rhodes C4(L).wav
+lokey=46 hikey=51
+pitch_keycenter=48
+ampeg_hold=4.65087
+ampeg_decay=19.4945
+offset=0
+end=72039
+loop_start=71845
+loop_end=72013
+
+<region>
+sample=samples\Rhodes G4(L).wav
+lokey=52 hikey=57
+pitch_keycenter=55
+ampeg_hold=2
+ampeg_decay=14.9977
+offset=0
+end=45023
+loop_start=44674
+loop_end=44898
+
+<region>
+sample=samples\Rhodes C5(L).wav
+lokey=58 hikey=63
+pitch_keycenter=60
+ampeg_hold=1.50004
+ampeg_decay=14.0014
+offset=0
+end=32063
+loop_start=31525
+loop_end=32029
+
+<region>
+sample=samples\Rhodes G5(L).wav
+lokey=64 hikey=69
+pitch_keycenter=67
+ampeg_hold=0.5
+ampeg_decay=13.2003
+offset=0
+end=39679
+loop_start=39435
+loop_end=39659
+
+<region>
+sample=samples\Rhodes C6(L).wav
+lokey=70 hikey=75
+pitch_keycenter=72
+ampeg_hold=0.5
+ampeg_decay=12.0003
+offset=0
+end=38919
+loop_start=38598
+loop_end=38892
+
+<region>
+sample=samples\Rhodes G6(L).wav
+lokey=76 hikey=81
+pitch_keycenter=79
+ampeg_hold=0.299024
+ampeg_decay=10.6972
+offset=0
+end=30323
+loop_start=29894
+loop_end=30315
+
+<region>
+sample=samples\Rhodes C7(L).wav
+lokey=82 hikey=87
+pitch_keycenter=84
+ampeg_hold=0.147029
+ampeg_decay=10.2024
+offset=0
+end=46679
+loop_start=45976
+loop_end=46648
+
+<region>
+sample=samples\Rhodes G7(L).wav
+lokey=88 hikey=93
+pitch_keycenter=91
+ampeg_hold=0.119011
+ampeg_decay=9.99818
+offset=0
+end=19577
+loop_start=19402
+loop_end=19570
+
+<region>
+sample=samples\Rhodes C8(L).wav
+lokey=94 hikey=108
+pitch_keycenter=96
+ampeg_hold=0.0799829
+ampeg_decay=9.50266
+offset=0
+end=19791
+loop_start=19534
+loop_end=19775
+
+<group>
+fil_type=lpf_2p
+cutoff=15997
+amplfo_freq=0.001
+fillfo_freq=0.001
+pitchlfo_freq=0.001
+ampeg_sustain=0.001
+ampeg_release=0.200036
+loop_mode=loop_continuous
+pan=50
+tune=4
+effect2=17
+effect1=10
+volume=-4.2876
+ampeg_attack=0.001
+
+<region>
+sample=samples\Rhodes C2(L).wav
+lokey=0 hikey=27
+pitch_keycenter=24
+ampeg_hold=4.99909
+ampeg_decay=25.0053
+offset=0
+end=144639
+loop_start=143150
+loop_end=144502
+
+<region>
+sample=samples\Rhodes G2(L).wav
+lokey=28 hikey=33
+pitch_keycenter=31
+ampeg_hold=4.80099
+ampeg_decay=21.9959
+offset=0
+end=123967
+loop_start=122968
+loop_end=123866
+
+<region>
+sample=samples\Rhodes C3(L).wav
+lokey=34 hikey=39
+pitch_keycenter=36
+ampeg_hold=4.75133
+ampeg_decay=21.506
+offset=0
+end=102895
+loop_start=102184
+loop_end=102856
+
+<region>
+sample=samples\Rhodes E3(L).wav
+lokey=40 hikey=45
+pitch_keycenter=40
+ampeg_hold=4.69947
+ampeg_decay=21.0026
+offset=0
+end=82839
+loop_start=82256
+loop_end=82790
+
+<region>
+sample=samples\Rhodes C4(L).wav
+lokey=46 hikey=51
+pitch_keycenter=48
+ampeg_hold=4.65087
+ampeg_decay=19.4945
+offset=0
+end=72039
+loop_start=71845
+loop_end=72013
+
+<region>
+sample=samples\Rhodes G4(L).wav
+lokey=52 hikey=57
+pitch_keycenter=55
+ampeg_hold=2
+ampeg_decay=14.9977
+offset=0
+end=45023
+loop_start=44674
+loop_end=44898
+
+<region>
+sample=samples\Rhodes C5(L).wav
+lokey=58 hikey=63
+pitch_keycenter=60
+ampeg_hold=1.50004
+ampeg_decay=14.0014
+offset=0
+end=32063
+loop_start=31525
+loop_end=32029
+
+<region>
+sample=samples\Rhodes G5(L).wav
+lokey=64 hikey=69
+pitch_keycenter=67
+ampeg_hold=0.5
+ampeg_decay=13.2003
+offset=0
+end=39679
+loop_start=39435
+loop_end=39659
+
+<region>
+sample=samples\Rhodes C6(L).wav
+lokey=70 hikey=75
+pitch_keycenter=72
+ampeg_hold=0.5
+ampeg_decay=12.0003
+offset=0
+end=38919
+loop_start=38598
+loop_end=38892
+
+<region>
+sample=samples\Rhodes G6(L).wav
+lokey=76 hikey=81
+pitch_keycenter=79
+ampeg_hold=0.299024
+ampeg_decay=10.6972
+offset=0
+end=30323
+loop_start=29894
+loop_end=30315
+
+<region>
+sample=samples\Rhodes C7(L).wav
+lokey=82 hikey=87
+pitch_keycenter=84
+ampeg_hold=0.147029
+ampeg_decay=10.2024
+offset=0
+end=46679
+loop_start=45976
+loop_end=46648
+
+<region>
+sample=samples\Rhodes G7(L).wav
+lokey=88 hikey=93
+pitch_keycenter=91
+ampeg_hold=0.119011
+ampeg_decay=9.99818
+offset=0
+end=19577
+loop_start=19402
+loop_end=19570
+
+<region>
+sample=samples\Rhodes C8(L).wav
+lokey=94 hikey=108
+pitch_keycenter=96
+ampeg_hold=0.0799829
+ampeg_decay=9.50266
+offset=0
+end=19791
+loop_start=19534
+loop_end=19775

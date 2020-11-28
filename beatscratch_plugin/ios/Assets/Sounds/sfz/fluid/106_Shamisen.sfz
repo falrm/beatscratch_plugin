@@ -1,0 +1,140 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+effect2=10
+amplfo_freq=5.37859
+fillfo_freq=5.37859
+pitchlfo_freq=5.37859
+pitcheg_attack=0.00599996
+fileg_attack=0.00599996
+pitcheg_release=1.1
+fileg_release=1.1
+ampeg_hold=0.150031
+ampeg_sustain=0.001
+ampeg_release=1.24977
+loop_mode=loop_continuous
+effect1=10
+volume=-2.0644
+ampeg_attack=0.001
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Shamisen C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+pitcheg_decay=5.49899
+fileg_decay=5.49899
+fileg_sustain=10
+pitcheg_sustain=10
+ampeg_decay=7.99999
+tune=-1
+offset=0
+end=6530
+loop_start=5962
+loop_end=6450
+
+<region>
+sample=samples\Shamisen F# 4(L).wav
+lokey=54 hikey=59
+pitch_keycenter=54
+pitcheg_decay=5.19935
+fileg_decay=5.19935
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_decay=7.39986
+tune=1
+offset=0
+end=11757
+loop_start=10795
+loop_end=11595
+
+<region>
+sample=samples\Shamisen C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+pitcheg_decay=4.75133
+fileg_decay=4.75133
+fileg_sustain=30
+pitcheg_sustain=30
+ampeg_decay=6.8014
+offset=0
+end=6466
+loop_start=5931
+loop_end=6343
+
+<region>
+sample=samples\Shamisen F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+pitcheg_decay=4.10059
+fileg_decay=4.10059
+fileg_sustain=40
+pitcheg_sustain=40
+ampeg_decay=6.10151
+offset=0
+end=7379
+loop_start=6784
+loop_end=7324
+
+<region>
+sample=samples\Shamisen C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+pitcheg_decay=3.50035
+fileg_decay=3.50035
+fileg_sustain=50
+pitcheg_sustain=50
+ampeg_decay=5.4014
+offset=0
+end=5388
+loop_start=5041
+loop_end=5346
+
+<region>
+sample=samples\Shamisen F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+pitcheg_decay=2.80079
+fileg_decay=2.80079
+fileg_sustain=60
+pitcheg_sustain=60
+ampeg_decay=4.69947
+tune=1
+offset=0
+end=5564
+loop_start=5367
+loop_end=5545
+
+<region>
+sample=samples\Shamisen C 7(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+pitcheg_decay=2.09943
+fileg_decay=2.09943
+fileg_sustain=70
+pitcheg_sustain=70
+ampeg_decay=4
+offset=0
+end=3818
+loop_start=3509
+loop_end=3803
+
+<region>
+sample=samples\Shamisen F# 7(L).wav
+lokey=90 hikey=127
+pitch_keycenter=90
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+fileg_sustain=80
+pitcheg_sustain=80
+ampeg_decay=3.4007
+offset=0
+end=2828
+loop_start=2638
+loop_end=2816

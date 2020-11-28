@@ -1,0 +1,66 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+effect1=5.5
+fileg_sustain=0
+pitcheg_sustain=0
+ampeg_release=4.99909
+volume=-0.397
+pitch_keytrack=50
+loop_mode=loop_continuous
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Sea Shore.wav
+pitch_keycenter=60
+pan=-100
+ampeg_attack=0.299024
+ampeg_decay=7.34875
+volume=-2.382
+transpose=-13
+pitch_keytrack=20
+offset=0
+end=71285
+loop_start=65
+loop_end=71223
+
+<region>
+sample=samples\Sea Shore.wav
+pitch_keycenter=60
+pan=100
+ampeg_attack=0.299024
+ampeg_decay=7.34875
+volume=-2.382
+transpose=-13
+pitch_keytrack=50
+offset=0
+end=71285
+loop_start=65
+loop_end=71223
+
+<region>
+sample=samples\Sea Shore.wav
+pitch_keycenter=68
+pitcheg_attack=0.0062008
+fileg_attack=0.0062008
+ampeg_delay=1.95997
+ampeg_attack=2.66968
+ampeg_hold=1.79005
+ampeg_decay=4.14106
+transpose=-12
+pitch_keytrack=20
+offset=0
+end=71285
+loop_start=65
+loop_end=71223
+volume=-0.397

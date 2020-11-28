@@ -1,0 +1,118 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=19914
+pitcheg_release=0.400073
+fileg_release=0.400073
+ampeg_hold=3.00008
+ampeg_sustain=0.001
+ampeg_release=0.200036
+loop_mode=loop_continuous
+effect1=2
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Slap Bass E0.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+ampeg_decay=39.9927
+tune=2
+offset=0
+end=113040
+loop_start=111363
+loop_end=112972
+
+<region>
+sample=samples\Slap Bass E2.wav
+lokey=29 hikey=30
+pitch_keycenter=30
+ampeg_decay=38.0106
+tune=-4
+offset=0
+end=101877
+loop_start=100452
+loop_end=101877
+
+<region>
+sample=samples\Slap Bass E4.wav
+lokey=31 hikey=32
+pitch_keycenter=32
+ampeg_decay=36.0018
+tune=-4
+offset=0
+end=131055
+loop_start=129113
+loop_end=130811
+
+<region>
+sample=samples\Slap Bass A1.wav
+lokey=33 hikey=35
+pitch_keycenter=35
+ampeg_decay=34.0008
+offset=0
+end=119504
+loop_start=117978
+loop_end=119049
+
+<region>
+sample=samples\Slap Bass A3.wav
+lokey=36 hikey=37
+pitch_keycenter=36
+ampeg_decay=32
+offset=0
+end=131018
+loop_start=129650
+loop_end=130998
+
+<region>
+sample=samples\Slap Bass D1.wav
+lokey=38 hikey=39
+pitch_keycenter=39
+ampeg_decay=29.9953
+tune=2
+offset=0
+end=116134
+loop_start=115216
+loop_end=116068
+
+<region>
+sample=samples\Slap Bass D3.wav
+lokey=40 hikey=42
+pitch_keycenter=41
+ampeg_decay=28.0028
+tune=4
+offset=0
+end=123639
+loop_start=123053
+loop_end=123559
+
+<region>
+sample=samples\Slap Bass G0.wav
+lokey=43 hikey=45
+pitch_keycenter=43
+ampeg_decay=26.0071
+tune=1
+offset=0
+end=111999
+loop_start=111174
+loop_end=111849
+
+<region>
+sample=samples\Slap Bass G5.wav
+lokey=46 hikey=84
+pitch_keycenter=48
+ampeg_decay=24.0006
+tune=-2
+offset=0
+end=107249
+loop_start=106070
+loop_end=106912

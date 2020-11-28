@@ -1,0 +1,381 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+effect2=10
+transpose=-24
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=7511
+pan=25
+volume=-0.9528
+tune=3
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=2941
+resonance=1
+effect1=2
+ampeg_delay=0.00900018
+ampeg_attack=0.0190047
+ampeg_sustain=63.0957
+ampeg_release=0.179971
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=2981
+resonance=0.9
+effect1=3
+ampeg_delay=0.00799974
+ampeg_attack=0.0169999
+ampeg_sustain=66.8344
+ampeg_release=0.190013
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=3017
+resonance=0.8
+effect1=4
+ampeg_delay=0.00700048
+ampeg_attack=0.0149972
+ampeg_sustain=70.7946
+ampeg_release=0.200036
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=3056
+resonance=0.7
+effect1=5
+ampeg_delay=0.00599996
+ampeg_attack=0.0130031
+ampeg_sustain=74.9894
+ampeg_release=0.209982
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=3093
+resonance=0.6
+effect1=6
+ampeg_delay=0.00499893
+ampeg_attack=0.0109976
+ampeg_sustain=79.4328
+ampeg_release=0.220039
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=3131
+resonance=0.5
+effect1=7
+ampeg_delay=0.00399987
+ampeg_attack=0.00900018
+ampeg_sustain=84.1395
+ampeg_release=0.220039
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=3169
+resonance=0.4
+effect1=8
+ampeg_delay=0.00299998
+ampeg_attack=0.00700048
+ampeg_sustain=89.1251
+ampeg_release=0.230047
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=3206
+resonance=0.3
+effect1=9
+ampeg_delay=0.00199994
+ampeg_attack=0.00499893
+ampeg_sustain=94.4061
+ampeg_release=0.239955
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=3243
+resonance=0.2
+effect1=10
+ampeg_release=0.25
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<group>
+ampeg_release=0.300062
+loop_mode=no_loop
+pan=-18.8
+volume=-1.588
+tune=-3
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\B3 D#3.wav
+lokey=0 hikey=39
+pitch_keycenter=39
+offset=0
+end=100927
+loop_start=31226
+loop_end=100901
+
+<region>
+sample=samples\B3 G3.wav
+lokey=40 hikey=43
+pitch_keycenter=43
+offset=0
+end=91831
+loop_start=25250
+loop_end=91805
+
+<region>
+sample=samples\B3 A3.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+loop_mode=loop_continuous
+offset=0
+end=81299
+loop_start=23602
+loop_end=81284
+
+<region>
+sample=samples\B3 C4.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+loop_mode=loop_continuous
+offset=0
+end=76487
+loop_start=12457
+loop_end=76457
+
+<region>
+sample=samples\B3 C#4.wav
+lokey=49 hikey=49
+pitch_keycenter=49
+loop_mode=loop_continuous
+offset=0
+end=83975
+loop_start=19729
+loop_end=83950
+
+<region>
+sample=samples\B3 D4.wav
+lokey=50 hikey=50
+pitch_keycenter=50
+loop_mode=loop_continuous
+offset=0
+end=139595
+loop_start=71168
+loop_end=139587
+
+<region>
+sample=samples\B3 E4.wav
+lokey=51 hikey=52
+pitch_keycenter=52
+loop_mode=loop_continuous
+offset=0
+end=91463
+loop_start=24602
+loop_end=91435
+
+<region>
+sample=samples\B3 F#4.wav
+lokey=53 hikey=54
+pitch_keycenter=53
+loop_mode=loop_continuous
+offset=0
+end=90255
+loop_start=24107
+loop_end=90218
+
+<region>
+sample=samples\B3 G#4.wav
+lokey=55 hikey=56
+pitch_keycenter=56
+loop_mode=loop_continuous
+offset=0
+end=114671
+loop_start=46308
+loop_end=114632
+
+<region>
+sample=samples\B3 B4.wav
+lokey=57 hikey=59
+pitch_keycenter=59
+loop_mode=loop_continuous
+offset=0
+end=83687
+loop_start=20489
+loop_end=83653
+
+<region>
+sample=samples\B3 D5.wav
+lokey=60 hikey=62
+pitch_keycenter=62
+loop_mode=loop_continuous
+offset=0
+end=98771
+loop_start=33025
+loop_end=98758
+
+<region>
+sample=samples\B3 F5.wav
+lokey=63 hikey=65
+pitch_keycenter=63
+loop_mode=loop_continuous
+offset=0
+end=78239
+loop_start=16220
+loop_end=78231
+
+<region>
+sample=samples\B3 G#5.wav
+lokey=66 hikey=69
+pitch_keycenter=68
+loop_mode=loop_continuous
+offset=0
+end=82663
+loop_start=20025
+loop_end=82644
+
+<region>
+sample=samples\B3 C6.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+loop_mode=loop_continuous
+offset=0
+end=128815
+loop_start=62080
+loop_end=128768
+
+<region>
+sample=samples\B3 D#6.wav
+lokey=73 hikey=76
+pitch_keycenter=75
+loop_mode=loop_continuous
+offset=0
+end=134159
+loop_start=13461
+loop_end=134123
+
+<region>
+sample=samples\B3 G#6.wav
+lokey=77 hikey=80
+pitch_keycenter=80
+loop_mode=loop_continuous
+offset=0
+end=99339
+loop_start=37396
+loop_end=99326
+
+<region>
+sample=samples\B3 C7.wav
+lokey=81 hikey=84
+pitch_keycenter=84
+loop_mode=loop_continuous
+offset=0
+end=95783
+loop_start=19477
+loop_end=95769
+
+<region>
+sample=samples\B3 D#7.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+loop_mode=loop_continuous
+offset=0
+end=103405
+loop_start=21062
+loop_end=103396
+
+<region>
+sample=samples\B3 F7.wav
+lokey=88 hikey=89
+pitch_keycenter=89
+loop_mode=loop_continuous
+offset=0
+end=158735
+loop_start=57843
+loop_end=158669
+
+<region>
+sample=samples\B3 G7.wav
+lokey=90 hikey=108
+pitch_keycenter=91
+loop_mode=loop_continuous
+offset=0
+end=93215
+loop_start=33792
+loop_end=93184

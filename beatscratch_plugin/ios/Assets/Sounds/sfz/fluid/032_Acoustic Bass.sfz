@@ -1,0 +1,129 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=10002
+ampeg_hold=1.50004
+ampeg_sustain=0.001
+ampeg_release=0.400073
+loop_mode=loop_continuous
+effect1=4
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Acoustic Bass E2.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+ampeg_hold=1.50004
+ampeg_decay=29.007
+offset=0
+end=79359
+loop_start=76560
+loop_end=78700
+
+<region>
+sample=samples\Acoustic Bass F2.wav
+lokey=29 hikey=29
+pitch_keycenter=29
+ampeg_hold=1.29984
+ampeg_decay=25.0053
+offset=0
+end=91295
+loop_start=90123
+loop_end=91132
+
+<region>
+sample=samples\Acoustic Bass C3.wav
+lokey=30 hikey=36
+pitch_keycenter=36
+ampeg_hold=1.20025
+ampeg_decay=21.9959
+offset=0
+end=52439
+loop_start=51742
+loop_end=52416
+
+<region>
+sample=samples\Acoustic Bass F3.wav
+lokey=37 hikey=41
+pitch_keycenter=41
+ampeg_hold=1.1
+ampeg_decay=17.0004
+offset=0
+end=53471
+loop_start=52903
+loop_end=53408
+
+<region>
+sample=samples\Acoustic Bass A#3.wav
+lokey=42 hikey=46
+pitch_keycenter=46
+ampeg_hold=1
+ampeg_decay=13.501
+offset=0
+end=44767
+loop_start=43947
+loop_end=44704
+
+<region>
+sample=samples\Acoustic Bass F#4.wav
+lokey=47 hikey=50
+pitch_keycenter=54
+ampeg_hold=0.90021
+ampeg_decay=9.79808
+offset=0
+end=36727
+loop_start=36227
+loop_end=36703
+
+<region>
+sample=samples\Acoustic Bass F#4.wav
+lokey=51 hikey=54
+pitch_keycenter=54
+ampeg_hold=0.800145
+ampeg_decay=8.30127
+offset=0
+end=36727
+loop_start=36227
+loop_end=36703
+
+<region>
+sample=samples\Acoustic Bass C5.wav
+lokey=55 hikey=60
+pitch_keycenter=60
+ampeg_hold=0.64992
+ampeg_decay=8.20118
+offset=0
+end=42687
+loop_start=42151
+loop_end=42656
+
+<region>
+sample=samples\Acoustic Bass F#5.wav
+lokey=61 hikey=66
+pitch_keycenter=66
+ampeg_hold=0.549999
+ampeg_decay=8.1023
+offset=0
+end=37703
+loop_start=37190
+loop_end=37666
+
+<region>
+sample=samples\Acoustic Bass C6.wav
+lokey=67 hikey=127
+pitch_keycenter=72
+ampeg_hold=0.450105
+ampeg_decay=7.0007
+offset=0
+end=24711
+loop_start=24106
+loop_end=24695

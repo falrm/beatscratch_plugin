@@ -1,0 +1,1428 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=5999
+amplfo_depth=2
+amplfo_freq=4.2005
+fillfo_freq=4.2005
+ampeg_sustain=0.001
+ampeg_release=1
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Vibraphone A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+ampeg_decay=7.59912
+offset=0
+end=17727
+loop_start=14677
+loop_end=17683
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#5(L).wav
+lokey=58 hikey=63
+pitch_keycenter=63
+ampeg_decay=7.0007
+offset=0
+end=9429
+loop_start=8998
+loop_end=9422
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#5(L).wav
+lokey=64 hikey=66
+pitch_keycenter=66
+ampeg_decay=6.29846
+offset=0
+end=9607
+loop_start=9361
+loop_end=9599
+volume=-2
+
+<region>
+sample=samples\Vibraphone B5(L).wav
+lokey=67 hikey=71
+pitch_keycenter=71
+ampeg_decay=5.90048
+offset=0
+end=7035
+loop_start=6939
+loop_end=7027
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#6(L).wav
+lokey=72 hikey=78
+pitch_keycenter=78
+ampeg_decay=5.49899
+offset=0
+end=6129
+loop_start=6006
+loop_end=6124
+volume=-2
+
+<region>
+sample=samples\Vibraphone A6(L).wav
+lokey=79 hikey=81
+pitch_keycenter=81
+ampeg_decay=4.50023
+offset=0
+end=4632
+loop_start=4376
+loop_end=4626
+volume=-2
+
+<region>
+sample=samples\Vibraphone C#7(L).wav
+lokey=82 hikey=85
+pitch_keycenter=85
+ampeg_decay=4
+offset=0
+end=5316
+loop_start=5155
+loop_end=5313
+volume=-2
+
+<region>
+sample=samples\Vibraphone E7(L).wav
+lokey=86 hikey=88
+pitch_keycenter=88
+ampeg_decay=3.60084
+offset=0
+end=4722
+loop_start=4649
+loop_end=4715
+volume=-2
+
+<region>
+sample=samples\Vibraphone A#7(L).wav
+lokey=89 hikey=94
+pitch_keycenter=94
+ampeg_decay=3.00008
+offset=0
+end=5243
+loop_start=5096
+loop_end=5237
+volume=-2
+
+<region>
+sample=samples\Vibraphone C8(L).wav
+lokey=95 hikey=96
+pitch_keycenter=96
+ampeg_decay=2.7007
+offset=0
+end=5084
+loop_start=4658
+loop_end=5078
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#8(L).wav
+lokey=97 hikey=99
+pitch_keycenter=99
+ampeg_decay=2.09943
+offset=0
+end=5349
+loop_start=5202
+loop_end=5342
+volume=-2
+
+<region>
+sample=samples\Vibraphone G8(L).wav
+lokey=100 hikey=103
+pitch_keycenter=103
+ampeg_decay=1.80042
+offset=0
+end=4970
+loop_start=4954
+loop_end=4967
+volume=-2
+
+<region>
+sample=samples\Vibraphone B8(L).wav
+lokey=104 hikey=108
+pitch_keycenter=107
+ampeg_decay=1.50004
+offset=0
+end=6007
+loop_start=5894
+loop_end=6004
+volume=-2
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=4800
+amplfo_depth=2
+amplfo_freq=4.2005
+fillfo_freq=4.2005
+ampeg_sustain=0.001
+ampeg_release=1
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Vibraphone A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+ampeg_decay=7.59912
+offset=0
+end=17727
+loop_start=14677
+loop_end=17683
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#5(L).wav
+lokey=58 hikey=63
+pitch_keycenter=63
+ampeg_decay=7.0007
+offset=0
+end=9429
+loop_start=8998
+loop_end=9422
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#5(L).wav
+lokey=64 hikey=66
+pitch_keycenter=66
+ampeg_decay=6.29846
+offset=0
+end=9607
+loop_start=9361
+loop_end=9599
+volume=-2
+
+<region>
+sample=samples\Vibraphone B5(L).wav
+lokey=67 hikey=71
+pitch_keycenter=71
+ampeg_decay=5.90048
+offset=0
+end=7035
+loop_start=6939
+loop_end=7027
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#6(L).wav
+lokey=72 hikey=78
+pitch_keycenter=78
+ampeg_decay=5.49899
+offset=0
+end=6129
+loop_start=6006
+loop_end=6124
+volume=-2
+
+<region>
+sample=samples\Vibraphone A6(L).wav
+lokey=79 hikey=81
+pitch_keycenter=81
+ampeg_decay=4.50023
+offset=0
+end=4632
+loop_start=4376
+loop_end=4626
+volume=-2
+
+<region>
+sample=samples\Vibraphone C#7(L).wav
+lokey=82 hikey=85
+pitch_keycenter=85
+ampeg_decay=4
+offset=0
+end=5316
+loop_start=5155
+loop_end=5313
+volume=-2
+
+<region>
+sample=samples\Vibraphone E7(L).wav
+lokey=86 hikey=88
+pitch_keycenter=88
+ampeg_decay=3.60084
+offset=0
+end=4722
+loop_start=4649
+loop_end=4715
+volume=-2
+
+<region>
+sample=samples\Vibraphone A#7(L).wav
+lokey=89 hikey=94
+pitch_keycenter=94
+ampeg_decay=3.00008
+offset=0
+end=5243
+loop_start=5096
+loop_end=5237
+volume=-2
+
+<region>
+sample=samples\Vibraphone C8(L).wav
+lokey=95 hikey=96
+pitch_keycenter=96
+ampeg_decay=2.7007
+offset=0
+end=5084
+loop_start=4658
+loop_end=5078
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#8(L).wav
+lokey=97 hikey=99
+pitch_keycenter=99
+ampeg_decay=2.09943
+offset=0
+end=5349
+loop_start=5202
+loop_end=5342
+volume=-2
+
+<region>
+sample=samples\Vibraphone G8(L).wav
+lokey=100 hikey=103
+pitch_keycenter=103
+ampeg_decay=1.80042
+offset=0
+end=4970
+loop_start=4954
+loop_end=4967
+volume=-2
+
+<region>
+sample=samples\Vibraphone B8(L).wav
+lokey=104 hikey=108
+pitch_keycenter=107
+ampeg_decay=1.50004
+offset=0
+end=6007
+loop_start=5894
+loop_end=6004
+volume=-2
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=4201
+amplfo_depth=2
+amplfo_freq=4.2005
+fillfo_freq=4.2005
+ampeg_sustain=0.001
+ampeg_release=1
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Vibraphone A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+ampeg_decay=7.59912
+offset=0
+end=17727
+loop_start=14677
+loop_end=17683
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#5(L).wav
+lokey=58 hikey=63
+pitch_keycenter=63
+ampeg_decay=7.0007
+offset=0
+end=9429
+loop_start=8998
+loop_end=9422
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#5(L).wav
+lokey=64 hikey=66
+pitch_keycenter=66
+ampeg_decay=6.29846
+offset=0
+end=9607
+loop_start=9361
+loop_end=9599
+volume=-2
+
+<region>
+sample=samples\Vibraphone B5(L).wav
+lokey=67 hikey=71
+pitch_keycenter=71
+ampeg_decay=5.90048
+offset=0
+end=7035
+loop_start=6939
+loop_end=7027
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#6(L).wav
+lokey=72 hikey=78
+pitch_keycenter=78
+ampeg_decay=5.49899
+offset=0
+end=6129
+loop_start=6006
+loop_end=6124
+volume=-2
+
+<region>
+sample=samples\Vibraphone A6(L).wav
+lokey=79 hikey=81
+pitch_keycenter=81
+ampeg_decay=4.50023
+offset=0
+end=4632
+loop_start=4376
+loop_end=4626
+volume=-2
+
+<region>
+sample=samples\Vibraphone C#7(L).wav
+lokey=82 hikey=85
+pitch_keycenter=85
+ampeg_decay=4
+offset=0
+end=5316
+loop_start=5155
+loop_end=5313
+volume=-2
+
+<region>
+sample=samples\Vibraphone E7(L).wav
+lokey=86 hikey=88
+pitch_keycenter=88
+ampeg_decay=3.60084
+offset=0
+end=4722
+loop_start=4649
+loop_end=4715
+volume=-2
+
+<region>
+sample=samples\Vibraphone A#7(L).wav
+lokey=89 hikey=94
+pitch_keycenter=94
+ampeg_decay=3.00008
+offset=0
+end=5243
+loop_start=5096
+loop_end=5237
+volume=-2
+
+<region>
+sample=samples\Vibraphone C8(L).wav
+lokey=95 hikey=96
+pitch_keycenter=96
+ampeg_decay=2.7007
+offset=0
+end=5084
+loop_start=4658
+loop_end=5078
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#8(L).wav
+lokey=97 hikey=99
+pitch_keycenter=99
+ampeg_decay=2.09943
+offset=0
+end=5349
+loop_start=5202
+loop_end=5342
+volume=-2
+
+<region>
+sample=samples\Vibraphone G8(L).wav
+lokey=100 hikey=103
+pitch_keycenter=103
+ampeg_decay=1.80042
+offset=0
+end=4970
+loop_start=4954
+loop_end=4967
+volume=-2
+
+<region>
+sample=samples\Vibraphone B8(L).wav
+lokey=104 hikey=108
+pitch_keycenter=107
+ampeg_decay=1.50004
+offset=0
+end=6007
+loop_start=5894
+loop_end=6004
+volume=-2
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=3600
+amplfo_depth=2
+amplfo_freq=4.2005
+fillfo_freq=4.2005
+ampeg_sustain=0.001
+ampeg_release=1
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Vibraphone A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+ampeg_decay=7.59912
+offset=0
+end=17727
+loop_start=14677
+loop_end=17683
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#5(L).wav
+lokey=58 hikey=63
+pitch_keycenter=63
+ampeg_decay=7.0007
+offset=0
+end=9429
+loop_start=8998
+loop_end=9422
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#5(L).wav
+lokey=64 hikey=66
+pitch_keycenter=66
+ampeg_decay=6.29846
+offset=0
+end=9607
+loop_start=9361
+loop_end=9599
+volume=-2
+
+<region>
+sample=samples\Vibraphone B5(L).wav
+lokey=67 hikey=71
+pitch_keycenter=71
+ampeg_decay=5.90048
+offset=0
+end=7035
+loop_start=6939
+loop_end=7027
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#6(L).wav
+lokey=72 hikey=78
+pitch_keycenter=78
+ampeg_decay=5.49899
+offset=0
+end=6129
+loop_start=6006
+loop_end=6124
+volume=-2
+
+<region>
+sample=samples\Vibraphone A6(L).wav
+lokey=79 hikey=81
+pitch_keycenter=81
+ampeg_decay=4.50023
+offset=0
+end=4632
+loop_start=4376
+loop_end=4626
+volume=-2
+
+<region>
+sample=samples\Vibraphone C#7(L).wav
+lokey=82 hikey=85
+pitch_keycenter=85
+ampeg_decay=4
+offset=0
+end=5316
+loop_start=5155
+loop_end=5313
+volume=-2
+
+<region>
+sample=samples\Vibraphone E7(L).wav
+lokey=86 hikey=88
+pitch_keycenter=88
+ampeg_decay=3.60084
+offset=0
+end=4722
+loop_start=4649
+loop_end=4715
+volume=-2
+
+<region>
+sample=samples\Vibraphone A#7(L).wav
+lokey=89 hikey=94
+pitch_keycenter=94
+ampeg_decay=3.00008
+offset=0
+end=5243
+loop_start=5096
+loop_end=5237
+volume=-2
+
+<region>
+sample=samples\Vibraphone C8(L).wav
+lokey=95 hikey=96
+pitch_keycenter=96
+ampeg_decay=2.7007
+offset=0
+end=5084
+loop_start=4658
+loop_end=5078
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#8(L).wav
+lokey=97 hikey=99
+pitch_keycenter=99
+ampeg_decay=2.09943
+offset=0
+end=5349
+loop_start=5202
+loop_end=5342
+volume=-2
+
+<region>
+sample=samples\Vibraphone G8(L).wav
+lokey=100 hikey=103
+pitch_keycenter=103
+ampeg_decay=1.80042
+offset=0
+end=4970
+loop_start=4954
+loop_end=4967
+volume=-2
+
+<region>
+sample=samples\Vibraphone B8(L).wav
+lokey=104 hikey=108
+pitch_keycenter=107
+ampeg_decay=1.50004
+offset=0
+end=6007
+loop_start=5894
+loop_end=6004
+volume=-2
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=3000
+amplfo_depth=2
+amplfo_freq=4.2005
+fillfo_freq=4.2005
+ampeg_sustain=0.001
+ampeg_release=1
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Vibraphone A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+ampeg_decay=7.59912
+offset=0
+end=17727
+loop_start=14677
+loop_end=17683
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#5(L).wav
+lokey=58 hikey=63
+pitch_keycenter=63
+ampeg_decay=7.0007
+offset=0
+end=9429
+loop_start=8998
+loop_end=9422
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#5(L).wav
+lokey=64 hikey=66
+pitch_keycenter=66
+ampeg_decay=6.29846
+offset=0
+end=9607
+loop_start=9361
+loop_end=9599
+volume=-2
+
+<region>
+sample=samples\Vibraphone B5(L).wav
+lokey=67 hikey=71
+pitch_keycenter=71
+ampeg_decay=5.90048
+offset=0
+end=7035
+loop_start=6939
+loop_end=7027
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#6(L).wav
+lokey=72 hikey=78
+pitch_keycenter=78
+ampeg_decay=5.49899
+offset=0
+end=6129
+loop_start=6006
+loop_end=6124
+volume=-2
+
+<region>
+sample=samples\Vibraphone A6(L).wav
+lokey=79 hikey=81
+pitch_keycenter=81
+ampeg_decay=4.50023
+offset=0
+end=4632
+loop_start=4376
+loop_end=4626
+volume=-2
+
+<region>
+sample=samples\Vibraphone C#7(L).wav
+lokey=82 hikey=85
+pitch_keycenter=85
+ampeg_decay=4
+offset=0
+end=5316
+loop_start=5155
+loop_end=5313
+volume=-2
+
+<region>
+sample=samples\Vibraphone E7(L).wav
+lokey=86 hikey=88
+pitch_keycenter=88
+ampeg_decay=3.60084
+offset=0
+end=4722
+loop_start=4649
+loop_end=4715
+volume=-2
+
+<region>
+sample=samples\Vibraphone A#7(L).wav
+lokey=89 hikey=94
+pitch_keycenter=94
+ampeg_decay=3.00008
+offset=0
+end=5243
+loop_start=5096
+loop_end=5237
+volume=-2
+
+<region>
+sample=samples\Vibraphone C8(L).wav
+lokey=95 hikey=96
+pitch_keycenter=96
+ampeg_decay=2.7007
+offset=0
+end=5084
+loop_start=4658
+loop_end=5078
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#8(L).wav
+lokey=97 hikey=99
+pitch_keycenter=99
+ampeg_decay=2.09943
+offset=0
+end=5349
+loop_start=5202
+loop_end=5342
+volume=-2
+
+<region>
+sample=samples\Vibraphone G8(L).wav
+lokey=100 hikey=103
+pitch_keycenter=103
+ampeg_decay=1.80042
+offset=0
+end=4970
+loop_start=4954
+loop_end=4967
+volume=-2
+
+<region>
+sample=samples\Vibraphone B8(L).wav
+lokey=104 hikey=108
+pitch_keycenter=107
+ampeg_decay=1.50004
+offset=0
+end=6007
+loop_start=5894
+loop_end=6004
+volume=-2
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=2400
+amplfo_depth=2
+amplfo_freq=4.2005
+fillfo_freq=4.2005
+ampeg_sustain=0.001
+ampeg_release=1
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Vibraphone A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+ampeg_decay=7.59912
+offset=0
+end=17727
+loop_start=14677
+loop_end=17683
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#5(L).wav
+lokey=58 hikey=63
+pitch_keycenter=63
+ampeg_decay=7.0007
+offset=0
+end=9429
+loop_start=8998
+loop_end=9422
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#5(L).wav
+lokey=64 hikey=66
+pitch_keycenter=66
+ampeg_decay=6.29846
+offset=0
+end=9607
+loop_start=9361
+loop_end=9599
+volume=-2
+
+<region>
+sample=samples\Vibraphone B5(L).wav
+lokey=67 hikey=71
+pitch_keycenter=71
+ampeg_decay=5.90048
+offset=0
+end=7035
+loop_start=6939
+loop_end=7027
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#6(L).wav
+lokey=72 hikey=78
+pitch_keycenter=78
+ampeg_decay=5.49899
+offset=0
+end=6129
+loop_start=6006
+loop_end=6124
+volume=-2
+
+<region>
+sample=samples\Vibraphone A6(L).wav
+lokey=79 hikey=81
+pitch_keycenter=81
+ampeg_decay=4.50023
+offset=0
+end=4632
+loop_start=4376
+loop_end=4626
+volume=-2
+
+<region>
+sample=samples\Vibraphone C#7(L).wav
+lokey=82 hikey=85
+pitch_keycenter=85
+ampeg_decay=4
+offset=0
+end=5316
+loop_start=5155
+loop_end=5313
+volume=-2
+
+<region>
+sample=samples\Vibraphone E7(L).wav
+lokey=86 hikey=88
+pitch_keycenter=88
+ampeg_decay=3.60084
+offset=0
+end=4722
+loop_start=4649
+loop_end=4715
+volume=-2
+
+<region>
+sample=samples\Vibraphone A#7(L).wav
+lokey=89 hikey=94
+pitch_keycenter=94
+ampeg_decay=3.00008
+offset=0
+end=5243
+loop_start=5096
+loop_end=5237
+volume=-2
+
+<region>
+sample=samples\Vibraphone C8(L).wav
+lokey=95 hikey=96
+pitch_keycenter=96
+ampeg_decay=2.7007
+offset=0
+end=5084
+loop_start=4658
+loop_end=5078
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#8(L).wav
+lokey=97 hikey=99
+pitch_keycenter=99
+ampeg_decay=2.09943
+offset=0
+end=5349
+loop_start=5202
+loop_end=5342
+volume=-2
+
+<region>
+sample=samples\Vibraphone G8(L).wav
+lokey=100 hikey=103
+pitch_keycenter=103
+ampeg_decay=1.80042
+offset=0
+end=4970
+loop_start=4954
+loop_end=4967
+volume=-2
+
+<region>
+sample=samples\Vibraphone B8(L).wav
+lokey=104 hikey=108
+pitch_keycenter=107
+ampeg_decay=1.50004
+offset=0
+end=6007
+loop_start=5894
+loop_end=6004
+volume=-2
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=1800
+amplfo_depth=2
+amplfo_freq=4.2005
+fillfo_freq=4.2005
+ampeg_sustain=0.001
+ampeg_release=1
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Vibraphone A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+ampeg_decay=7.59912
+offset=0
+end=17727
+loop_start=14677
+loop_end=17683
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#5(L).wav
+lokey=58 hikey=63
+pitch_keycenter=63
+ampeg_decay=7.0007
+offset=0
+end=9429
+loop_start=8998
+loop_end=9422
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#5(L).wav
+lokey=64 hikey=66
+pitch_keycenter=66
+ampeg_decay=6.29846
+offset=0
+end=9607
+loop_start=9361
+loop_end=9599
+volume=-2
+
+<region>
+sample=samples\Vibraphone B5(L).wav
+lokey=67 hikey=71
+pitch_keycenter=71
+ampeg_decay=5.90048
+offset=0
+end=7035
+loop_start=6939
+loop_end=7027
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#6(L).wav
+lokey=72 hikey=78
+pitch_keycenter=78
+ampeg_decay=5.49899
+offset=0
+end=6129
+loop_start=6006
+loop_end=6124
+volume=-2
+
+<region>
+sample=samples\Vibraphone A6(L).wav
+lokey=79 hikey=81
+pitch_keycenter=81
+ampeg_decay=4.50023
+offset=0
+end=4632
+loop_start=4376
+loop_end=4626
+volume=-2
+
+<region>
+sample=samples\Vibraphone C#7(L).wav
+lokey=82 hikey=85
+pitch_keycenter=85
+ampeg_decay=4
+offset=0
+end=5316
+loop_start=5155
+loop_end=5313
+volume=-2
+
+<region>
+sample=samples\Vibraphone E7(L).wav
+lokey=86 hikey=88
+pitch_keycenter=88
+ampeg_decay=3.60084
+offset=0
+end=4722
+loop_start=4649
+loop_end=4715
+volume=-2
+
+<region>
+sample=samples\Vibraphone A#7(L).wav
+lokey=89 hikey=94
+pitch_keycenter=94
+ampeg_decay=3.00008
+offset=0
+end=5243
+loop_start=5096
+loop_end=5237
+volume=-2
+
+<region>
+sample=samples\Vibraphone C8(L).wav
+lokey=95 hikey=96
+pitch_keycenter=96
+ampeg_decay=2.7007
+offset=0
+end=5084
+loop_start=4658
+loop_end=5078
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#8(L).wav
+lokey=97 hikey=99
+pitch_keycenter=99
+ampeg_decay=2.09943
+offset=0
+end=5349
+loop_start=5202
+loop_end=5342
+volume=-2
+
+<region>
+sample=samples\Vibraphone G8(L).wav
+lokey=100 hikey=103
+pitch_keycenter=103
+ampeg_decay=1.80042
+offset=0
+end=4970
+loop_start=4954
+loop_end=4967
+volume=-2
+
+<region>
+sample=samples\Vibraphone B8(L).wav
+lokey=104 hikey=108
+pitch_keycenter=107
+ampeg_decay=1.50004
+offset=0
+end=6007
+loop_start=5894
+loop_end=6004
+volume=-2
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=1200
+amplfo_depth=2
+amplfo_freq=4.2005
+fillfo_freq=4.2005
+ampeg_sustain=0.001
+ampeg_release=1
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Vibraphone A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+ampeg_decay=7.59912
+offset=0
+end=17727
+loop_start=14677
+loop_end=17683
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#5(L).wav
+lokey=58 hikey=63
+pitch_keycenter=63
+ampeg_decay=7.0007
+offset=0
+end=9429
+loop_start=8998
+loop_end=9422
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#5(L).wav
+lokey=64 hikey=66
+pitch_keycenter=66
+ampeg_decay=6.29846
+offset=0
+end=9607
+loop_start=9361
+loop_end=9599
+volume=-2
+
+<region>
+sample=samples\Vibraphone B5(L).wav
+lokey=67 hikey=71
+pitch_keycenter=71
+ampeg_decay=5.90048
+offset=0
+end=7035
+loop_start=6939
+loop_end=7027
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#6(L).wav
+lokey=72 hikey=78
+pitch_keycenter=78
+ampeg_decay=5.49899
+offset=0
+end=6129
+loop_start=6006
+loop_end=6124
+volume=-2
+
+<region>
+sample=samples\Vibraphone A6(L).wav
+lokey=79 hikey=81
+pitch_keycenter=81
+ampeg_decay=4.50023
+offset=0
+end=4632
+loop_start=4376
+loop_end=4626
+volume=-2
+
+<region>
+sample=samples\Vibraphone C#7(L).wav
+lokey=82 hikey=85
+pitch_keycenter=85
+ampeg_decay=4
+offset=0
+end=5316
+loop_start=5155
+loop_end=5313
+volume=-2
+
+<region>
+sample=samples\Vibraphone E7(L).wav
+lokey=86 hikey=88
+pitch_keycenter=88
+ampeg_decay=3.60084
+offset=0
+end=4722
+loop_start=4649
+loop_end=4715
+volume=-2
+
+<region>
+sample=samples\Vibraphone A#7(L).wav
+lokey=89 hikey=94
+pitch_keycenter=94
+ampeg_decay=3.00008
+offset=0
+end=5243
+loop_start=5096
+loop_end=5237
+volume=-2
+
+<region>
+sample=samples\Vibraphone C8(L).wav
+lokey=95 hikey=96
+pitch_keycenter=96
+ampeg_decay=2.7007
+offset=0
+end=5084
+loop_start=4658
+loop_end=5078
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#8(L).wav
+lokey=97 hikey=99
+pitch_keycenter=99
+ampeg_decay=2.09943
+offset=0
+end=5349
+loop_start=5202
+loop_end=5342
+volume=-2
+
+<region>
+sample=samples\Vibraphone G8(L).wav
+lokey=100 hikey=103
+pitch_keycenter=103
+ampeg_decay=1.80042
+offset=0
+end=4970
+loop_start=4954
+loop_end=4967
+volume=-2
+
+<region>
+sample=samples\Vibraphone B8(L).wav
+lokey=104 hikey=108
+pitch_keycenter=107
+ampeg_decay=1.50004
+offset=0
+end=6007
+loop_start=5894
+loop_end=6004
+volume=-2
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=600
+amplfo_depth=2
+amplfo_freq=4.2005
+fillfo_freq=4.2005
+ampeg_sustain=0.001
+ampeg_release=1
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Vibraphone A4(L).wav
+lokey=0 hikey=57
+pitch_keycenter=57
+ampeg_decay=7.59912
+offset=0
+end=17727
+loop_start=14677
+loop_end=17683
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#5(L).wav
+lokey=58 hikey=63
+pitch_keycenter=63
+ampeg_decay=7.0007
+offset=0
+end=9429
+loop_start=8998
+loop_end=9422
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#5(L).wav
+lokey=64 hikey=66
+pitch_keycenter=66
+ampeg_decay=6.29846
+offset=0
+end=9607
+loop_start=9361
+loop_end=9599
+volume=-2
+
+<region>
+sample=samples\Vibraphone B5(L).wav
+lokey=67 hikey=71
+pitch_keycenter=71
+ampeg_decay=5.90048
+offset=0
+end=7035
+loop_start=6939
+loop_end=7027
+volume=-2
+
+<region>
+sample=samples\Vibraphone F#6(L).wav
+lokey=72 hikey=78
+pitch_keycenter=78
+ampeg_decay=5.49899
+offset=0
+end=6129
+loop_start=6006
+loop_end=6124
+volume=-2
+
+<region>
+sample=samples\Vibraphone A6(L).wav
+lokey=79 hikey=81
+pitch_keycenter=81
+ampeg_decay=4.50023
+offset=0
+end=4632
+loop_start=4376
+loop_end=4626
+volume=-2
+
+<region>
+sample=samples\Vibraphone C#7(L).wav
+lokey=82 hikey=85
+pitch_keycenter=85
+ampeg_decay=4
+offset=0
+end=5316
+loop_start=5155
+loop_end=5313
+volume=-2
+
+<region>
+sample=samples\Vibraphone E7(L).wav
+lokey=86 hikey=88
+pitch_keycenter=88
+ampeg_decay=3.60084
+offset=0
+end=4722
+loop_start=4649
+loop_end=4715
+volume=-2
+
+<region>
+sample=samples\Vibraphone A#7(L).wav
+lokey=89 hikey=94
+pitch_keycenter=94
+ampeg_decay=3.00008
+offset=0
+end=5243
+loop_start=5096
+loop_end=5237
+volume=-2
+
+<region>
+sample=samples\Vibraphone C8(L).wav
+lokey=95 hikey=96
+pitch_keycenter=96
+ampeg_decay=2.7007
+offset=0
+end=5084
+loop_start=4658
+loop_end=5078
+volume=-2
+
+<region>
+sample=samples\Vibraphone D#8(L).wav
+lokey=97 hikey=99
+pitch_keycenter=99
+ampeg_decay=2.09943
+offset=0
+end=5349
+loop_start=5202
+loop_end=5342
+volume=-2
+
+<region>
+sample=samples\Vibraphone G8(L).wav
+lokey=100 hikey=103
+pitch_keycenter=103
+ampeg_decay=1.80042
+offset=0
+end=4970
+loop_start=4954
+loop_end=4967
+volume=-2
+
+<region>
+sample=samples\Vibraphone B8(L).wav
+lokey=104 hikey=108
+pitch_keycenter=107
+ampeg_decay=1.50004
+offset=0
+end=6007
+loop_start=5894
+loop_end=6004
+volume=-2

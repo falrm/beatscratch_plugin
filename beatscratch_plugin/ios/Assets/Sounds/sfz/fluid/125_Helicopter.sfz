@@ -1,0 +1,52 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+loop_mode=loop_continuous
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Heli.wav
+pitch_keycenter=60
+pan=-100
+pitcheg_release=39.6935
+fileg_release=39.6935
+ampeg_attack=2
+ampeg_hold=2.4005
+ampeg_decay=35.6089
+ampeg_sustain=0.00226464
+ampeg_release=3.00008
+tune=30
+pitch_keytrack=5
+offset=0
+end=21269
+loop_start=6693
+loop_end=21234
+
+<region>
+sample=samples\Heli.wav
+pitch_keycenter=60
+pan=100
+pitcheg_release=39.6935
+fileg_release=39.6935
+ampeg_attack=2
+ampeg_hold=2.4005
+ampeg_decay=35.6089
+ampeg_sustain=0.00226464
+ampeg_release=3.00008
+tune=39
+pitch_keytrack=5
+offset=0
+end=21269
+loop_start=6693
+loop_end=21234

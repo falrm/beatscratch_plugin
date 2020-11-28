@@ -1,0 +1,289 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+ampeg_sustain=0.001
+ampeg_release=0.600124
+loop_mode=loop_continuous
+pan=-14
+effect1=10
+volume=-2.6996
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Steel Gtr E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+offset=2205
+loop_start=220522
+loop_end=222680
+ampeg_hold=1
+ampeg_decay=44.9941
+tune=5
+end=222812
+
+<region>
+sample=samples\Steel Gtr A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+offset=2205
+loop_start=133538
+loop_end=134338
+ampeg_hold=1
+ampeg_decay=42.0053
+tune=-2
+end=134380
+
+<region>
+sample=samples\Steel Gtr D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+offset=2205
+loop_start=188372
+loop_end=189573
+ampeg_hold=1
+ampeg_decay=38.9891
+tune=1
+end=189612
+
+<region>
+sample=samples\Steel Gtr G4.wav
+lokey=54 hikey=56
+pitch_keycenter=55
+offset=2205
+loop_start=114883
+loop_end=115555
+ampeg_hold=1
+ampeg_decay=36.9926
+tune=-6
+end=115644
+
+<region>
+sample=samples\Steel Gtr B4.wav
+lokey=57 hikey=60
+pitch_keycenter=59
+offset=2205
+loop_start=120008
+loop_end=120722
+ampeg_hold=1
+ampeg_decay=34.9971
+end=120812
+
+<region>
+sample=samples\Steel Gtr E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+offset=2205
+loop_start=66740
+loop_end=67808
+ampeg_hold=1
+ampeg_decay=32
+tune=-3
+end=67844
+
+<region>
+sample=samples\Steel Gtr A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+offset=2205
+loop_start=70459
+loop_end=70859
+ampeg_decay=22.9963
+tune=-1
+end=70876
+
+<region>
+sample=samples\Steel Gtr B6.wav
+lokey=70 hikey=73
+pitch_keycenter=71
+offset=2205
+loop_start=73015
+loop_end=73995
+ampeg_decay=18.0009
+tune=-4
+end=74028
+
+<region>
+sample=samples\Steel Gtr E6.wav
+lokey=74 hikey=83
+pitch_keycenter=76
+offset=2205
+loop_start=55935
+loop_end=57000
+ampeg_decay=7.99999
+tune=-6
+end=57036
+
+<region>
+sample=samples\Steel Gtr Ext.wav
+lokey=84 hikey=127
+pitch_keycenter=84
+offset=2205
+loop_start=21729
+loop_end=22021
+ampeg_hold=0.200036
+ampeg_decay=6.00015
+tune=-13
+end=22030
+
+<group>
+ampeg_sustain=0.001
+ampeg_release=0.600124
+loop_mode=loop_continuous
+pan=14
+volume=-3.6524
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Steel Gtr D4.wav
+lokey=0 hikey=41
+pitch_keycenter=38
+offset=700
+loop_start=188372
+loop_end=189573
+ampeg_hold=1
+ampeg_decay=38.9891
+tune=1
+end=189612
+
+<region>
+sample=samples\Steel Gtr G4.wav
+lokey=42 hikey=46
+pitch_keycenter=43
+offset=700
+loop_start=114883
+loop_end=115555
+ampeg_hold=1
+ampeg_decay=36.9926
+tune=-6
+end=115644
+
+<region>
+sample=samples\Steel Gtr B4.wav
+lokey=47 hikey=50
+pitch_keycenter=47
+offset=700
+loop_start=120008
+loop_end=120722
+ampeg_hold=1
+ampeg_decay=34.9971
+end=120812
+
+<region>
+sample=samples\Steel Gtr E5.wav
+lokey=51 hikey=53
+pitch_keycenter=52
+offset=700
+loop_start=66740
+loop_end=67808
+ampeg_hold=1
+ampeg_decay=32
+tune=-3
+end=67844
+
+<region>
+sample=samples\Steel Gtr D4.wav
+lokey=54 hikey=56
+pitch_keycenter=50
+offset=700
+loop_start=188372
+loop_end=189573
+ampeg_hold=1
+ampeg_decay=38.9891
+tune=1
+end=189612
+
+<region>
+sample=samples\Steel Gtr G4.wav
+lokey=57 hikey=60
+pitch_keycenter=55
+offset=700
+loop_start=114883
+loop_end=115555
+ampeg_hold=1
+ampeg_decay=36.9926
+tune=-6
+end=115644
+
+<region>
+sample=samples\Steel Gtr B4.wav
+lokey=61 hikey=65
+pitch_keycenter=59
+offset=700
+loop_start=120008
+loop_end=120722
+ampeg_hold=1
+ampeg_decay=34.9971
+end=120812
+
+<region>
+sample=samples\Steel Gtr E5.wav
+lokey=66 hikey=69
+pitch_keycenter=64
+offset=700
+loop_start=66740
+loop_end=67808
+ampeg_hold=1
+ampeg_decay=32
+tune=-3
+end=67844
+
+<region>
+sample=samples\Steel Gtr A5.wav
+lokey=70 hikey=73
+pitch_keycenter=69
+offset=700
+loop_start=70459
+loop_end=70859
+ampeg_decay=22.9963
+tune=-1
+end=70876
+
+<region>
+sample=samples\Steel Gtr B6.wav
+lokey=74 hikey=83
+pitch_keycenter=71
+offset=700
+loop_start=73015
+loop_end=73995
+ampeg_decay=18.0009
+tune=-4
+end=74028
+
+<region>
+sample=samples\Steel Gtr E6.wav
+lokey=84 hikey=96
+pitch_keycenter=76
+offset=700
+loop_start=55935
+loop_end=57000
+ampeg_decay=7.99999
+tune=-6
+end=57036
+
+<region>
+sample=samples\Steel Gtr Ext.wav
+lokey=97 hikey=127
+pitch_keycenter=84
+offset=700
+loop_start=21729
+loop_end=22021
+ampeg_hold=0.200036
+ampeg_decay=6.00015
+tune=-13
+end=22030

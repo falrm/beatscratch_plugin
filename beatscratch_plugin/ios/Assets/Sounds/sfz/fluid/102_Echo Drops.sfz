@@ -1,0 +1,237 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=5001
+resonance=0.7
+fileg_depth=-3000
+pitcheg_attack=0.159966
+fileg_attack=0.159966
+pitcheg_decay=2.87953
+fileg_decay=2.87953
+fileg_sustain=0
+pitcheg_sustain=0
+ampeg_hold=0.230047
+ampeg_decay=19.6983
+ampeg_sustain=67.6083
+ampeg_release=4.99909
+loop_mode=loop_continuous
+effect2=24.8
+effect1=15
+volume=-2.6996
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\SynthVz C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+offset=0
+end=28639
+loop_start=5433
+loop_end=28606
+
+<region>
+sample=samples\Ahh Choir D#3(L).wav
+lokey=0 hikey=39
+pitch_keycenter=39
+offset=0
+end=65961
+loop_start=38712
+loop_end=65957
+
+<region>
+sample=samples\Ahh Choir F#3(L).wav
+lokey=40 hikey=42
+pitch_keycenter=42
+offset=0
+end=73071
+loop_start=21521
+loop_end=73052
+
+<region>
+sample=samples\Ahh Choir G#3(L).wav
+lokey=43 hikey=45
+pitch_keycenter=45
+offset=0
+end=89063
+loop_start=28992
+loop_end=89050
+
+<region>
+sample=samples\Ahh Choir C4(L).wav
+lokey=46 hikey=48
+pitch_keycenter=48
+offset=0
+end=96487
+loop_start=45568
+loop_end=96480
+
+<region>
+sample=samples\Ahh Choir D#4(L).wav
+lokey=49 hikey=51
+pitch_keycenter=51
+offset=0
+end=100683
+loop_start=44077
+loop_end=100672
+
+<region>
+sample=samples\Ahh Choir F#4(L).wav
+lokey=52 hikey=54
+pitch_keycenter=54
+offset=0
+end=97115
+loop_start=34198
+loop_end=97100
+
+<region>
+sample=samples\SynthVz F# 4(L).wav
+lokey=54 hikey=59
+pitch_keycenter=54
+offset=0
+end=37119
+loop_start=20571
+loop_end=36958
+
+<region>
+sample=samples\Ahh Choir A4(L).wav
+lokey=55 hikey=57
+pitch_keycenter=57
+offset=0
+end=83489
+loop_start=29258
+loop_end=83484
+
+<region>
+sample=samples\Ahh Choir C5(L).wav
+lokey=58 hikey=60
+pitch_keycenter=60
+offset=0
+end=81859
+loop_start=41654
+loop_end=81847
+
+<region>
+sample=samples\SynthVz C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+offset=0
+end=48751
+loop_start=4793
+loop_end=48720
+
+<region>
+sample=samples\Ahh Choir D#5(L).wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=78739
+loop_start=33664
+loop_end=78735
+
+<region>
+sample=samples\Ahh Choir F#5(L).wav
+lokey=64 hikey=66
+pitch_keycenter=66
+offset=0
+end=88033
+loop_start=17951
+loop_end=88028
+
+<region>
+sample=samples\SynthVz F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+offset=0
+end=73151
+loop_start=38357
+loop_end=72977
+
+<region>
+sample=samples\Ahh Choir A5(L).wav
+lokey=67 hikey=69
+pitch_keycenter=69
+offset=0
+end=77591
+loop_start=21023
+loop_end=77587
+
+<region>
+sample=samples\Ahh Choir C6(L).wav
+lokey=70 hikey=72
+pitch_keycenter=72
+offset=0
+end=53143
+loop_start=17992
+loop_end=53126
+
+<region>
+sample=samples\SynthVz C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+offset=0
+end=57855
+loop_start=19338
+loop_end=57713
+
+<region>
+sample=samples\Ahh Choir D#6(L).wav
+lokey=73 hikey=75
+pitch_keycenter=75
+offset=0
+end=73405
+loop_start=23488
+loop_end=73395
+
+<region>
+sample=samples\Ahh Choir F#6(L).wav
+lokey=76 hikey=78
+pitch_keycenter=78
+offset=0
+end=55215
+loop_start=15002
+loop_end=55209
+
+<region>
+sample=samples\SynthVz F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+offset=0
+end=57623
+loop_start=28911
+loop_end=57575
+
+<region>
+sample=samples\Ahh Choir A6(L).wav
+lokey=79 hikey=96
+pitch_keycenter=81
+offset=0
+end=74275
+loop_start=26607
+loop_end=74265
+
+<region>
+sample=samples\SynthVz C 7(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+offset=0
+end=42943
+loop_start=21530
+loop_end=42810
+
+<region>
+sample=samples\SynthVz F# 7(L).wav
+lokey=90 hikey=96
+pitch_keycenter=90
+offset=0
+end=29791
+loop_start=15695
+loop_end=29671

@@ -1,0 +1,254 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=7.99999
+fileg_decay=7.99999
+pitcheg_release=7.99999
+fileg_release=7.99999
+ampeg_delay=0.001
+ampeg_attack=0.00799974
+ampeg_hold=0.001
+ampeg_decay=14.9977
+ampeg_release=4
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=996
+fileg_depth=4000
+effect2=30
+effect1=14
+pan=-40
+amplfo_freq=4.90662
+fillfo_freq=4.90662
+pitchlfo_delay=0.001
+pitchlfo_freq=5.72481
+fileg_sustain=0
+pitcheg_sustain=0
+ampeg_sustain=0.00158489
+volume=-2.0644
+
+<region>
+sample=samples\SynthVz C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+offset=5383
+loop_start=5433
+loop_end=28606
+end=28639
+
+<region>
+sample=samples\SynthVz F# 4(L).wav
+lokey=54 hikey=59
+pitch_keycenter=54
+offset=5400
+loop_start=20571
+loop_end=36958
+end=37119
+
+<region>
+sample=samples\SynthVz C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+offset=4700
+loop_start=4793
+loop_end=48720
+end=48751
+
+<region>
+sample=samples\SynthVz F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+offset=5400
+loop_start=38357
+loop_end=72977
+end=73151
+
+<region>
+sample=samples\SynthVz C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+offset=5400
+loop_start=19338
+loop_end=57713
+end=57855
+
+<region>
+sample=samples\SynthVz F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+offset=5400
+loop_start=28911
+loop_end=57575
+end=57623
+
+<region>
+sample=samples\SynthVz C 7(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+offset=5400
+loop_start=21530
+loop_end=42810
+end=42943
+
+<region>
+sample=samples\SynthVz F# 7(L).wav
+lokey=90 hikey=127
+pitch_keycenter=90
+offset=5400
+loop_start=15695
+loop_end=29671
+end=29791
+
+<group>
+lokey=0 hikey=113
+fil_type=lpf_2p
+cutoff=7151
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.100018
+pitchlfo_freq=3.00125
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=0.0299944
+fileg_decay=0.0299944
+pitcheg_release=0.0299944
+fileg_release=0.0299944
+ampeg_delay=0.001
+ampeg_attack=0.00799974
+ampeg_hold=0.001
+ampeg_decay=9.99818
+ampeg_release=4
+loop_mode=loop_continuous
+fileg_depth=2400
+effect2=21
+effect1=14
+pan=40
+fileg_sustain=0
+pitcheg_sustain=0
+ampeg_sustain=0.00158489
+volume=-1.588
+tune=5
+
+<region>
+sample=samples\sawstack2.wav
+lokey=0 hikey=43
+pitch_keycenter=42
+offset=0
+end=208207
+loop_start=68429
+loop_end=208169
+
+<region>
+sample=samples\sawstack3.wav
+lokey=44 hikey=55
+pitch_keycenter=54
+offset=0
+end=172795
+loop_start=33973
+loop_end=172755
+
+<region>
+sample=samples\sawstack4.wav
+lokey=56 hikey=67
+pitch_keycenter=66
+offset=0
+end=154134
+loop_start=50364
+loop_end=154092
+
+<region>
+sample=samples\sawstack5.wav
+lokey=68 hikey=79
+pitch_keycenter=78
+offset=0
+end=164545
+loop_start=44440
+loop_end=164503
+
+<region>
+sample=samples\sawstack6.wav
+lokey=80 hikey=91
+pitch_keycenter=90
+offset=0
+end=189223
+loop_start=30358
+loop_end=189174
+
+<region>
+sample=samples\sawstack7.wav
+lokey=92 hikey=103
+pitch_keycenter=102
+offset=0
+end=140590
+loop_start=26549
+loop_end=140551
+
+<region>
+sample=samples\sawstack8.wav
+lokey=104 hikey=113
+pitch_keycenter=102
+offset=0
+end=70295
+loop_start=13277
+loop_end=70270
+
+<group>
+pitcheg_depth=-200
+resonance=25
+pitcheg_decay=0.0299944
+fileg_decay=0.0299944
+fileg_sustain=0
+pitcheg_sustain=0
+ampeg_decay=16
+ampeg_sustain=0.001
+ampeg_release=2.4005
+loop_mode=loop_continuous
+volume=-2.382
+effect2=14
+effect1=14
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Bottle Chiff-hpf C7.wav
+lokey=0 hikey=84
+pitch_keycenter=72
+offset=3000
+loop_start=8008
+loop_end=26233
+amplfo_depth=1
+ampeg_attack=0.00299998
+end=26247
+volume=-1
+
+<region>
+sample=samples\Bottle Chiff-hpf C7-1.wav
+lokey=85 hikey=96
+pitch_keycenter=72
+offset=1500
+loop_start=4004
+loop_end=13116
+amplfo_depth=1
+ampeg_attack=0.00299998
+end=13123
+volume=-1

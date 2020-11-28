@@ -1,0 +1,1635 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=10002
+fileg_depth=-1957
+pitcheg_delay=3.26029
+fileg_delay=3.26029
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=10
+volume=-0.6352
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Alto D4(L).wav
+lokey=0 hikey=51
+pitch_keycenter=50
+tune=25
+offset=0
+end=22611
+loop_start=14844
+loop_end=22588
+
+<region>
+sample=samples\Alto E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=30
+offset=0
+end=23679
+loop_start=16555
+loop_end=23468
+
+<region>
+sample=samples\Alto F#4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=54
+tune=27
+offset=0
+end=34943
+loop_start=27265
+loop_end=34828
+
+<region>
+sample=samples\Alto G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=27
+offset=0
+end=28223
+loop_start=20916
+loop_end=28114
+
+<region>
+sample=samples\Alto A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=15
+offset=0
+end=34533
+loop_start=27323
+loop_end=34388
+
+<region>
+sample=samples\Alto C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=17
+offset=0
+end=36415
+loop_start=28901
+loop_end=36196
+
+<region>
+sample=samples\Alto D5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=32
+offset=0
+end=27647
+loop_start=20411
+loop_end=27513
+
+<region>
+sample=samples\Alto E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=25
+offset=0
+end=32639
+loop_start=26043
+loop_end=32548
+
+<region>
+sample=samples\Alto G5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=-8
+offset=0
+end=21183
+loop_start=14118
+loop_end=21024
+
+<region>
+sample=samples\Alto G#5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=68
+tune=4
+offset=0
+end=19455
+loop_start=12035
+loop_end=19309
+
+<region>
+sample=samples\Alto A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+tune=14
+offset=0
+end=17375
+loop_start=10310
+loop_end=17298
+
+<region>
+sample=samples\Alto C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=19775
+loop_start=13185
+loop_end=19690
+
+<region>
+sample=samples\Alto D6(L).wav
+lokey=74 hikey=75
+pitch_keycenter=74
+tune=8
+offset=0
+end=22335
+loop_start=15408
+loop_end=22253
+
+<region>
+sample=samples\Alto E6(L).wav
+lokey=76 hikey=77
+pitch_keycenter=76
+offset=0
+end=17343
+loop_start=11266
+loop_end=17288
+
+<region>
+sample=samples\Alto F#6(L).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+tune=5
+offset=0
+end=27263
+loop_start=20531
+loop_end=27150
+
+<region>
+sample=samples\Alto G#6(L).wav
+lokey=80 hikey=87
+pitch_keycenter=80
+tune=23
+offset=0
+end=23743
+loop_start=17038
+loop_end=23649
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=9004
+fileg_depth=-1957
+pitcheg_delay=3.26029
+fileg_delay=3.26029
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00146489
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Alto D4(L).wav
+lokey=0 hikey=51
+pitch_keycenter=50
+tune=25
+offset=0
+end=22611
+loop_start=14844
+loop_end=22588
+
+<region>
+sample=samples\Alto E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=30
+offset=0
+end=23679
+loop_start=16555
+loop_end=23468
+
+<region>
+sample=samples\Alto F#4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=54
+tune=27
+offset=0
+end=34943
+loop_start=27265
+loop_end=34828
+
+<region>
+sample=samples\Alto G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=27
+offset=0
+end=28223
+loop_start=20916
+loop_end=28114
+
+<region>
+sample=samples\Alto A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=15
+offset=0
+end=34533
+loop_start=27323
+loop_end=34388
+
+<region>
+sample=samples\Alto C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=17
+offset=0
+end=36415
+loop_start=28901
+loop_end=36196
+
+<region>
+sample=samples\Alto D5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=32
+offset=0
+end=27647
+loop_start=20411
+loop_end=27513
+
+<region>
+sample=samples\Alto E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=25
+offset=0
+end=32639
+loop_start=26043
+loop_end=32548
+
+<region>
+sample=samples\Alto G5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=-8
+offset=0
+end=21183
+loop_start=14118
+loop_end=21024
+
+<region>
+sample=samples\Alto G#5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=68
+tune=4
+offset=0
+end=19455
+loop_start=12035
+loop_end=19309
+
+<region>
+sample=samples\Alto A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+tune=14
+offset=0
+end=17375
+loop_start=10310
+loop_end=17298
+
+<region>
+sample=samples\Alto C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=19775
+loop_start=13185
+loop_end=19690
+
+<region>
+sample=samples\Alto D6(L).wav
+lokey=74 hikey=75
+pitch_keycenter=74
+tune=8
+offset=0
+end=22335
+loop_start=15408
+loop_end=22253
+
+<region>
+sample=samples\Alto E6(L).wav
+lokey=76 hikey=77
+pitch_keycenter=76
+offset=0
+end=17343
+loop_start=11266
+loop_end=17288
+
+<region>
+sample=samples\Alto F#6(L).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+tune=5
+offset=0
+end=27263
+loop_start=20531
+loop_end=27150
+
+<region>
+sample=samples\Alto G#6(L).wav
+lokey=80 hikey=87
+pitch_keycenter=80
+tune=23
+offset=0
+end=23743
+loop_start=17038
+loop_end=23649
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=8003
+fileg_depth=-1957
+pitcheg_delay=3.26029
+fileg_delay=3.26029
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00195313
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Alto D4(L).wav
+lokey=0 hikey=51
+pitch_keycenter=50
+tune=25
+offset=0
+end=22611
+loop_start=14844
+loop_end=22588
+
+<region>
+sample=samples\Alto E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=30
+offset=0
+end=23679
+loop_start=16555
+loop_end=23468
+
+<region>
+sample=samples\Alto F#4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=54
+tune=27
+offset=0
+end=34943
+loop_start=27265
+loop_end=34828
+
+<region>
+sample=samples\Alto G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=27
+offset=0
+end=28223
+loop_start=20916
+loop_end=28114
+
+<region>
+sample=samples\Alto A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=15
+offset=0
+end=34533
+loop_start=27323
+loop_end=34388
+
+<region>
+sample=samples\Alto C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=17
+offset=0
+end=36415
+loop_start=28901
+loop_end=36196
+
+<region>
+sample=samples\Alto D5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=32
+offset=0
+end=27647
+loop_start=20411
+loop_end=27513
+
+<region>
+sample=samples\Alto E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=25
+offset=0
+end=32639
+loop_start=26043
+loop_end=32548
+
+<region>
+sample=samples\Alto G5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=-8
+offset=0
+end=21183
+loop_start=14118
+loop_end=21024
+
+<region>
+sample=samples\Alto G#5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=68
+tune=4
+offset=0
+end=19455
+loop_start=12035
+loop_end=19309
+
+<region>
+sample=samples\Alto A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+tune=14
+offset=0
+end=17375
+loop_start=10310
+loop_end=17298
+
+<region>
+sample=samples\Alto C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=19775
+loop_start=13185
+loop_end=19690
+
+<region>
+sample=samples\Alto D6(L).wav
+lokey=74 hikey=75
+pitch_keycenter=74
+tune=8
+offset=0
+end=22335
+loop_start=15408
+loop_end=22253
+
+<region>
+sample=samples\Alto E6(L).wav
+lokey=76 hikey=77
+pitch_keycenter=76
+offset=0
+end=17343
+loop_start=11266
+loop_end=17288
+
+<region>
+sample=samples\Alto F#6(L).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+tune=5
+offset=0
+end=27263
+loop_start=20531
+loop_end=27150
+
+<region>
+sample=samples\Alto G#6(L).wav
+lokey=80 hikey=87
+pitch_keycenter=80
+tune=23
+offset=0
+end=23743
+loop_start=17038
+loop_end=23649
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=7004
+fileg_depth=-1957
+pitcheg_delay=3.26029
+fileg_delay=3.26029
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00244097
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Alto D4(L).wav
+lokey=0 hikey=51
+pitch_keycenter=50
+tune=25
+offset=0
+end=22611
+loop_start=14844
+loop_end=22588
+
+<region>
+sample=samples\Alto E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=30
+offset=0
+end=23679
+loop_start=16555
+loop_end=23468
+
+<region>
+sample=samples\Alto F#4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=54
+tune=27
+offset=0
+end=34943
+loop_start=27265
+loop_end=34828
+
+<region>
+sample=samples\Alto G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=27
+offset=0
+end=28223
+loop_start=20916
+loop_end=28114
+
+<region>
+sample=samples\Alto A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=15
+offset=0
+end=34533
+loop_start=27323
+loop_end=34388
+
+<region>
+sample=samples\Alto C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=17
+offset=0
+end=36415
+loop_start=28901
+loop_end=36196
+
+<region>
+sample=samples\Alto D5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=32
+offset=0
+end=27647
+loop_start=20411
+loop_end=27513
+
+<region>
+sample=samples\Alto E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=25
+offset=0
+end=32639
+loop_start=26043
+loop_end=32548
+
+<region>
+sample=samples\Alto G5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=-8
+offset=0
+end=21183
+loop_start=14118
+loop_end=21024
+
+<region>
+sample=samples\Alto G#5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=68
+tune=4
+offset=0
+end=19455
+loop_start=12035
+loop_end=19309
+
+<region>
+sample=samples\Alto A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+tune=14
+offset=0
+end=17375
+loop_start=10310
+loop_end=17298
+
+<region>
+sample=samples\Alto C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=19775
+loop_start=13185
+loop_end=19690
+
+<region>
+sample=samples\Alto D6(L).wav
+lokey=74 hikey=75
+pitch_keycenter=74
+tune=8
+offset=0
+end=22335
+loop_start=15408
+loop_end=22253
+
+<region>
+sample=samples\Alto E6(L).wav
+lokey=76 hikey=77
+pitch_keycenter=76
+offset=0
+end=17343
+loop_start=11266
+loop_end=17288
+
+<region>
+sample=samples\Alto F#6(L).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+tune=5
+offset=0
+end=27263
+loop_start=20531
+loop_end=27150
+
+<region>
+sample=samples\Alto G#6(L).wav
+lokey=80 hikey=87
+pitch_keycenter=80
+tune=23
+offset=0
+end=23743
+loop_start=17038
+loop_end=23649
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=6003
+fileg_depth=-1957
+pitcheg_delay=3.26029
+fileg_delay=3.26029
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00292977
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Alto D4(L).wav
+lokey=0 hikey=51
+pitch_keycenter=50
+tune=25
+offset=0
+end=22611
+loop_start=14844
+loop_end=22588
+
+<region>
+sample=samples\Alto E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=30
+offset=0
+end=23679
+loop_start=16555
+loop_end=23468
+
+<region>
+sample=samples\Alto F#4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=54
+tune=27
+offset=0
+end=34943
+loop_start=27265
+loop_end=34828
+
+<region>
+sample=samples\Alto G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=27
+offset=0
+end=28223
+loop_start=20916
+loop_end=28114
+
+<region>
+sample=samples\Alto A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=15
+offset=0
+end=34533
+loop_start=27323
+loop_end=34388
+
+<region>
+sample=samples\Alto C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=17
+offset=0
+end=36415
+loop_start=28901
+loop_end=36196
+
+<region>
+sample=samples\Alto D5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=32
+offset=0
+end=27647
+loop_start=20411
+loop_end=27513
+
+<region>
+sample=samples\Alto E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=25
+offset=0
+end=32639
+loop_start=26043
+loop_end=32548
+
+<region>
+sample=samples\Alto G5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=-8
+offset=0
+end=21183
+loop_start=14118
+loop_end=21024
+
+<region>
+sample=samples\Alto G#5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=68
+tune=4
+offset=0
+end=19455
+loop_start=12035
+loop_end=19309
+
+<region>
+sample=samples\Alto A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+tune=14
+offset=0
+end=17375
+loop_start=10310
+loop_end=17298
+
+<region>
+sample=samples\Alto C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=19775
+loop_start=13185
+loop_end=19690
+
+<region>
+sample=samples\Alto D6(L).wav
+lokey=74 hikey=75
+pitch_keycenter=74
+tune=8
+offset=0
+end=22335
+loop_start=15408
+loop_end=22253
+
+<region>
+sample=samples\Alto E6(L).wav
+lokey=76 hikey=77
+pitch_keycenter=76
+offset=0
+end=17343
+loop_start=11266
+loop_end=17288
+
+<region>
+sample=samples\Alto F#6(L).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+tune=5
+offset=0
+end=27263
+loop_start=20531
+loop_end=27150
+
+<region>
+sample=samples\Alto G#6(L).wav
+lokey=80 hikey=87
+pitch_keycenter=80
+tune=23
+offset=0
+end=23743
+loop_start=17038
+loop_end=23649
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=5001
+fileg_depth=-1957
+pitcheg_delay=3.26029
+fileg_delay=3.26029
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00341832
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Alto D4(L).wav
+lokey=0 hikey=51
+pitch_keycenter=50
+tune=25
+offset=0
+end=22611
+loop_start=14844
+loop_end=22588
+
+<region>
+sample=samples\Alto E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=30
+offset=0
+end=23679
+loop_start=16555
+loop_end=23468
+
+<region>
+sample=samples\Alto F#4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=54
+tune=27
+offset=0
+end=34943
+loop_start=27265
+loop_end=34828
+
+<region>
+sample=samples\Alto G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=27
+offset=0
+end=28223
+loop_start=20916
+loop_end=28114
+
+<region>
+sample=samples\Alto A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=15
+offset=0
+end=34533
+loop_start=27323
+loop_end=34388
+
+<region>
+sample=samples\Alto C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=17
+offset=0
+end=36415
+loop_start=28901
+loop_end=36196
+
+<region>
+sample=samples\Alto D5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=32
+offset=0
+end=27647
+loop_start=20411
+loop_end=27513
+
+<region>
+sample=samples\Alto E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=25
+offset=0
+end=32639
+loop_start=26043
+loop_end=32548
+
+<region>
+sample=samples\Alto G5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=-8
+offset=0
+end=21183
+loop_start=14118
+loop_end=21024
+
+<region>
+sample=samples\Alto G#5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=68
+tune=4
+offset=0
+end=19455
+loop_start=12035
+loop_end=19309
+
+<region>
+sample=samples\Alto A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+tune=14
+offset=0
+end=17375
+loop_start=10310
+loop_end=17298
+
+<region>
+sample=samples\Alto C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=19775
+loop_start=13185
+loop_end=19690
+
+<region>
+sample=samples\Alto D6(L).wav
+lokey=74 hikey=75
+pitch_keycenter=74
+tune=8
+offset=0
+end=22335
+loop_start=15408
+loop_end=22253
+
+<region>
+sample=samples\Alto E6(L).wav
+lokey=76 hikey=77
+pitch_keycenter=76
+offset=0
+end=17343
+loop_start=11266
+loop_end=17288
+
+<region>
+sample=samples\Alto F#6(L).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+tune=5
+offset=0
+end=27263
+loop_start=20531
+loop_end=27150
+
+<region>
+sample=samples\Alto G#6(L).wav
+lokey=80 hikey=87
+pitch_keycenter=80
+tune=23
+offset=0
+end=23743
+loop_start=17038
+loop_end=23649
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=4002
+fileg_depth=-1957
+pitcheg_delay=3.26029
+fileg_delay=3.26029
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00390626
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Alto D4(L).wav
+lokey=0 hikey=51
+pitch_keycenter=50
+tune=25
+offset=0
+end=22611
+loop_start=14844
+loop_end=22588
+
+<region>
+sample=samples\Alto E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=30
+offset=0
+end=23679
+loop_start=16555
+loop_end=23468
+
+<region>
+sample=samples\Alto F#4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=54
+tune=27
+offset=0
+end=34943
+loop_start=27265
+loop_end=34828
+
+<region>
+sample=samples\Alto G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=27
+offset=0
+end=28223
+loop_start=20916
+loop_end=28114
+
+<region>
+sample=samples\Alto A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=15
+offset=0
+end=34533
+loop_start=27323
+loop_end=34388
+
+<region>
+sample=samples\Alto C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=17
+offset=0
+end=36415
+loop_start=28901
+loop_end=36196
+
+<region>
+sample=samples\Alto D5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=32
+offset=0
+end=27647
+loop_start=20411
+loop_end=27513
+
+<region>
+sample=samples\Alto E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=25
+offset=0
+end=32639
+loop_start=26043
+loop_end=32548
+
+<region>
+sample=samples\Alto G5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=-8
+offset=0
+end=21183
+loop_start=14118
+loop_end=21024
+
+<region>
+sample=samples\Alto G#5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=68
+tune=4
+offset=0
+end=19455
+loop_start=12035
+loop_end=19309
+
+<region>
+sample=samples\Alto A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+tune=14
+offset=0
+end=17375
+loop_start=10310
+loop_end=17298
+
+<region>
+sample=samples\Alto C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=19775
+loop_start=13185
+loop_end=19690
+
+<region>
+sample=samples\Alto D6(L).wav
+lokey=74 hikey=75
+pitch_keycenter=74
+tune=8
+offset=0
+end=22335
+loop_start=15408
+loop_end=22253
+
+<region>
+sample=samples\Alto E6(L).wav
+lokey=76 hikey=77
+pitch_keycenter=76
+offset=0
+end=17343
+loop_start=11266
+loop_end=17288
+
+<region>
+sample=samples\Alto F#6(L).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+tune=5
+offset=0
+end=27263
+loop_start=20531
+loop_end=27150
+
+<region>
+sample=samples\Alto G#6(L).wav
+lokey=80 hikey=87
+pitch_keycenter=80
+tune=23
+offset=0
+end=23743
+loop_start=17038
+loop_end=23649
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=3001
+fileg_depth=-1957
+pitcheg_delay=3.26029
+fileg_delay=3.26029
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00439477
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Alto D4(L).wav
+lokey=0 hikey=51
+pitch_keycenter=50
+tune=25
+offset=0
+end=22611
+loop_start=14844
+loop_end=22588
+
+<region>
+sample=samples\Alto E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=30
+offset=0
+end=23679
+loop_start=16555
+loop_end=23468
+
+<region>
+sample=samples\Alto F#4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=54
+tune=27
+offset=0
+end=34943
+loop_start=27265
+loop_end=34828
+
+<region>
+sample=samples\Alto G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=27
+offset=0
+end=28223
+loop_start=20916
+loop_end=28114
+
+<region>
+sample=samples\Alto A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=15
+offset=0
+end=34533
+loop_start=27323
+loop_end=34388
+
+<region>
+sample=samples\Alto C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=17
+offset=0
+end=36415
+loop_start=28901
+loop_end=36196
+
+<region>
+sample=samples\Alto D5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=32
+offset=0
+end=27647
+loop_start=20411
+loop_end=27513
+
+<region>
+sample=samples\Alto E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=25
+offset=0
+end=32639
+loop_start=26043
+loop_end=32548
+
+<region>
+sample=samples\Alto G5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=-8
+offset=0
+end=21183
+loop_start=14118
+loop_end=21024
+
+<region>
+sample=samples\Alto G#5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=68
+tune=4
+offset=0
+end=19455
+loop_start=12035
+loop_end=19309
+
+<region>
+sample=samples\Alto A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+tune=14
+offset=0
+end=17375
+loop_start=10310
+loop_end=17298
+
+<region>
+sample=samples\Alto C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=19775
+loop_start=13185
+loop_end=19690
+
+<region>
+sample=samples\Alto D6(L).wav
+lokey=74 hikey=75
+pitch_keycenter=74
+tune=8
+offset=0
+end=22335
+loop_start=15408
+loop_end=22253
+
+<region>
+sample=samples\Alto E6(L).wav
+lokey=76 hikey=77
+pitch_keycenter=76
+offset=0
+end=17343
+loop_start=11266
+loop_end=17288
+
+<region>
+sample=samples\Alto F#6(L).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+tune=5
+offset=0
+end=27263
+loop_start=20531
+loop_end=27150
+
+<region>
+sample=samples\Alto G#6(L).wav
+lokey=80 hikey=87
+pitch_keycenter=80
+tune=23
+offset=0
+end=23743
+loop_start=17038
+loop_end=23649
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=2001
+fileg_depth=-1957
+pitcheg_delay=3.26029
+fileg_delay=3.26029
+pitcheg_attack=6.37901
+fileg_attack=6.37901
+ampeg_decay=4
+ampeg_sustain=79.4328
+ampeg_release=0.300062
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+ampeg_attack=0.00488194
+effect1=10
+volume=-0.6352
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Alto D4(L).wav
+lokey=0 hikey=51
+pitch_keycenter=50
+tune=25
+offset=0
+end=22611
+loop_start=14844
+loop_end=22588
+
+<region>
+sample=samples\Alto E4(L).wav
+lokey=52 hikey=53
+pitch_keycenter=52
+tune=30
+offset=0
+end=23679
+loop_start=16555
+loop_end=23468
+
+<region>
+sample=samples\Alto F#4(L).wav
+lokey=54 hikey=55
+pitch_keycenter=54
+tune=27
+offset=0
+end=34943
+loop_start=27265
+loop_end=34828
+
+<region>
+sample=samples\Alto G#4(L).wav
+lokey=56 hikey=57
+pitch_keycenter=56
+tune=27
+offset=0
+end=28223
+loop_start=20916
+loop_end=28114
+
+<region>
+sample=samples\Alto A#4(L).wav
+lokey=58 hikey=59
+pitch_keycenter=58
+tune=15
+offset=0
+end=34533
+loop_start=27323
+loop_end=34388
+
+<region>
+sample=samples\Alto C5(L).wav
+lokey=60 hikey=61
+pitch_keycenter=60
+tune=17
+offset=0
+end=36415
+loop_start=28901
+loop_end=36196
+
+<region>
+sample=samples\Alto D5(L).wav
+lokey=62 hikey=63
+pitch_keycenter=62
+tune=32
+offset=0
+end=27647
+loop_start=20411
+loop_end=27513
+
+<region>
+sample=samples\Alto E5(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+tune=25
+offset=0
+end=32639
+loop_start=26043
+loop_end=32548
+
+<region>
+sample=samples\Alto G5(L).wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=-8
+offset=0
+end=21183
+loop_start=14118
+loop_end=21024
+
+<region>
+sample=samples\Alto G#5(L).wav
+lokey=68 hikey=69
+pitch_keycenter=68
+tune=4
+offset=0
+end=19455
+loop_start=12035
+loop_end=19309
+
+<region>
+sample=samples\Alto A#5(L).wav
+lokey=70 hikey=71
+pitch_keycenter=70
+tune=14
+offset=0
+end=17375
+loop_start=10310
+loop_end=17298
+
+<region>
+sample=samples\Alto C6(L).wav
+lokey=72 hikey=73
+pitch_keycenter=72
+tune=2
+offset=0
+end=19775
+loop_start=13185
+loop_end=19690
+
+<region>
+sample=samples\Alto D6(L).wav
+lokey=74 hikey=75
+pitch_keycenter=74
+tune=8
+offset=0
+end=22335
+loop_start=15408
+loop_end=22253
+
+<region>
+sample=samples\Alto E6(L).wav
+lokey=76 hikey=77
+pitch_keycenter=76
+offset=0
+end=17343
+loop_start=11266
+loop_end=17288
+
+<region>
+sample=samples\Alto F#6(L).wav
+lokey=78 hikey=79
+pitch_keycenter=78
+tune=5
+offset=0
+end=27263
+loop_start=20531
+loop_end=27150
+
+<region>
+sample=samples\Alto G#6(L).wav
+lokey=80 hikey=87
+pitch_keycenter=80
+tune=23
+offset=0
+end=23743
+loop_start=17038
+loop_end=23649

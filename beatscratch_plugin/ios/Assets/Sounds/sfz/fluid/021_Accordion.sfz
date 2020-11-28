@@ -1,0 +1,72 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+ampeg_release=0.400073
+loop_mode=loop_continuous
+effect1=10
+volume=-1.4292
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Accordion C5(L).wav
+lokey=0 hikey=60
+pitch_keycenter=60
+offset=0
+end=182308
+loop_start=36629
+loop_end=182236
+
+<region>
+sample=samples\Accordion F#5(L).wav
+lokey=61 hikey=66
+pitch_keycenter=66
+offset=0
+end=141153
+loop_start=43688
+loop_end=141063
+
+<region>
+sample=samples\Accordion C6(L).wav
+lokey=67 hikey=72
+pitch_keycenter=72
+offset=0
+end=99671
+loop_start=35370
+loop_end=99591
+
+<region>
+sample=samples\Accordion F#6(L).wav
+lokey=73 hikey=78
+pitch_keycenter=78
+offset=0
+end=71987
+loop_start=23733
+loop_end=71963
+
+<region>
+sample=samples\Accordion C7(L).wav
+lokey=79 hikey=84
+pitch_keycenter=84
+offset=0
+end=59487
+loop_start=7893
+loop_end=59439
+
+<region>
+sample=samples\Accordian F#7(L).wav
+lokey=85 hikey=108
+pitch_keycenter=90
+offset=0
+end=24828
+loop_start=3415
+loop_end=24792

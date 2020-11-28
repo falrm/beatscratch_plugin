@@ -1,0 +1,292 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lochan=10 hichan=10
+pitch_keycenter=60
+pitch_keytrack=0
+loop_mode=no_loop
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\58_72_FULLCRASH2.wav
+lokey=70 hikey=70
+ampeg_decay=18.1052
+ampeg_sustain=98.8553
+ampeg_release=18.1052
+offset=0
+end=219247
+loop_start=8
+loop_end=219239
+
+<region>
+sample=samples\58_72_FULLCRASH1.wav
+lokey=72 hikey=72
+ampeg_decay=18.1052
+ampeg_sustain=98.8553
+ampeg_release=18.1052
+offset=0
+end=220499
+loop_start=8
+loop_end=220491
+
+<region>
+sample=samples\58_74_HALFCRASH2.wav
+lokey=73 hikey=73
+ampeg_decay=18.1052
+ampeg_sustain=98.8553
+ampeg_release=18.1052
+offset=0
+end=219247
+loop_start=8
+loop_end=219239
+
+<region>
+sample=samples\58_74_HALFCRASH1.wav
+lokey=74 hikey=74
+ampeg_decay=18.1052
+ampeg_sustain=98.8553
+ampeg_release=18.1052
+offset=0
+end=220499
+loop_start=8
+loop_end=220491
+
+<region>
+sample=samples\58_76_HIHAT2.wav
+lokey=75 hikey=75
+offset=0
+end=43231
+loop_start=8
+loop_end=43223
+
+<region>
+sample=samples\58_76_HIHAT1.wav
+lokey=76 hikey=76
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\58_77_SIZZLE1.wav
+lokey=77 hikey=77
+ampeg_decay=18.1052
+ampeg_sustain=98.8553
+ampeg_release=18.1052
+offset=0
+end=88199
+loop_start=8
+loop_end=88191
+
+<region>
+sample=samples\58_77_SIZZLE2.wav
+lokey=78 hikey=78
+ampeg_decay=18.1052
+ampeg_sustain=98.8553
+ampeg_release=18.1052
+offset=0
+end=89551
+loop_start=8
+loop_end=89543
+
+<region>
+sample=samples\58_79_CRASHCHOKE1.wav
+lokey=79 hikey=79
+ampeg_decay=3.01049
+ampeg_sustain=98.8553
+ampeg_release=3.01049
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\58_79_CRASHCHOKE2.wav
+lokey=80 hikey=80
+ampeg_decay=3.01049
+ampeg_sustain=98.8553
+ampeg_release=3.01049
+offset=0
+end=43231
+loop_start=8
+loop_end=43223
+
+<region>
+sample=samples\58_81_TAP1.wav
+lokey=81 hikey=81
+ampeg_decay=18.1052
+ampeg_sustain=98.8553
+ampeg_release=18.1052
+offset=0
+end=88199
+loop_start=8
+loop_end=88191
+
+<region>
+sample=samples\58_81_TAP2.wav
+lokey=82 hikey=82
+ampeg_decay=18.1052
+ampeg_sustain=98.8553
+ampeg_release=18.1052
+offset=0
+end=89551
+loop_start=8
+loop_end=89543
+
+<region>
+sample=samples\58_83_TAPCHOKE1.wav
+lokey=83 hikey=83
+ampeg_decay=3.01049
+ampeg_sustain=98.8553
+ampeg_release=3.01049
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\58_84_BELLTAP1.wav
+lokey=84 hikey=84
+ampeg_decay=18.1052
+ampeg_sustain=98.8553
+ampeg_release=18.1052
+offset=0
+end=132299
+loop_start=8
+loop_end=132291
+
+<region>
+sample=samples\58_83_TAPCHOKE2.wav
+lokey=85 hikey=85
+ampeg_decay=3.01049
+ampeg_sustain=98.8553
+ampeg_release=3.01049
+offset=0
+end=43231
+loop_start=8
+loop_end=43223
+
+<region>
+sample=samples\58_86_BELLCHOKE1.wav
+lokey=86 hikey=86
+ampeg_decay=3.01049
+ampeg_sustain=98.8553
+ampeg_release=3.01049
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\58_84_BELLTAP2.wav
+lokey=87 hikey=87
+ampeg_decay=18.1052
+ampeg_sustain=98.8553
+ampeg_release=18.1052
+offset=0
+end=132783
+loop_start=8
+loop_end=132775
+
+<region>
+sample=samples\58_88_MUTEDTAP1.wav
+lokey=88 hikey=88
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\58_89_SMASH1.wav
+lokey=89 hikey=89
+ampeg_decay=3.01049
+ampeg_sustain=98.8553
+ampeg_release=3.01049
+offset=0
+end=44099
+loop_start=8
+loop_end=44091
+
+<region>
+sample=samples\58_86_BELLCHOKE2.wav
+lokey=90 hikey=90
+ampeg_decay=3.01049
+ampeg_sustain=98.8553
+ampeg_release=3.01049
+offset=0
+end=43231
+loop_start=8
+loop_end=43223
+
+<region>
+sample=samples\58_91_ZING1.wav
+lokey=91 hikey=91
+ampeg_decay=18.1052
+ampeg_sustain=98.8553
+ampeg_release=18.1052
+offset=0
+end=132299
+loop_start=8
+loop_end=132291
+
+<region>
+sample=samples\58_88_MUTEDTAP2.wav
+lokey=92 hikey=92
+offset=0
+end=43231
+loop_start=8
+loop_end=43223
+
+<region>
+sample=samples\58_93_ROLL1.wav
+lokey=93 hikey=93
+ampeg_decay=3.01049
+ampeg_sustain=98.8553
+ampeg_release=3.01049
+offset=0
+end=308699
+loop_start=8
+loop_end=308691
+
+<region>
+sample=samples\58_89_SMASH2.wav
+lokey=94 hikey=94
+ampeg_decay=3.01049
+ampeg_sustain=98.8553
+ampeg_release=3.01049
+offset=0
+end=43231
+loop_start=8
+loop_end=43223
+
+<region>
+sample=samples\58_91_ZING2.wav
+lokey=97 hikey=97
+ampeg_decay=18.1052
+ampeg_sustain=98.8553
+ampeg_release=18.1052
+offset=0
+end=132783
+loop_start=8
+loop_end=132775
+
+<region>
+sample=samples\58_93_ROLL2.wav
+lokey=99 hikey=99
+ampeg_decay=3.01049
+ampeg_sustain=98.8553
+ampeg_release=3.01049
+offset=0
+end=308799
+loop_start=8
+loop_end=308791

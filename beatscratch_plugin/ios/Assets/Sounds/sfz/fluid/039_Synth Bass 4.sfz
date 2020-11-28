@@ -1,0 +1,269 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lokey=0 hikey=74
+amplfo_freq=5.39103
+fillfo_freq=5.39103
+pitchlfo_freq=5.39103
+pitcheg_decay=3.00008
+fileg_decay=3.00008
+fileg_sustain=0
+pitcheg_sustain=0
+pitcheg_release=0.300062
+fileg_release=0.300062
+ampeg_hold=0.220039
+ampeg_decay=3.00008
+ampeg_sustain=0.001
+ampeg_release=0.200036
+tune=21
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=1195
+volume=-2.5408
+effect2=3.5
+ampeg_attack=0.001
+
+<region>
+sample=samples\Synth Bass 2-F1.wav
+lokey=0 hikey=31
+pitch_keycenter=39
+ampeg_decaycc133=-175.696 // sfz v2
+ampeg_decay=55.1389
+ampeg_holdcc133=-12.8864 // sfz v2
+ampeg_hold=4.04414
+offset=0
+end=22703
+loop_start=20380
+loop_end=22671
+
+<region>
+sample=samples\Synth Bass 2-B1.wav
+lokey=32 hikey=37
+pitch_keycenter=45
+loop_start=22500
+loop_end=24119
+ampeg_decaycc133=-63.865 // sfz v2
+ampeg_decay=27.7641
+ampeg_holdcc133=-4.68415 // sfz v2
+ampeg_hold=2.03635
+offset=0
+end=24151
+
+<region>
+sample=samples\Synth Bass 2-F2.wav
+lokey=38 hikey=74
+pitch_keycenter=51
+loop_start=12466
+loop_end=13322
+ampeg_decaycc133=-25.4109 // sfz v2
+ampeg_decay=16.3273
+ampeg_holdcc133=-1.86375 // sfz v2
+ampeg_hold=1.19752
+offset=0
+end=13354
+
+<group>
+lokey=75 hikey=127
+fil_type=lpf_2p
+cutoff=350
+amplfo_delay=0.100018
+fillfo_delay=0.100018
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.100018
+pitchlfo_freq=5.00104
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=0.150031
+fileg_decay=0.150031
+pitcheg_release=0.200036
+fileg_release=0.200036
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_hold=0.001
+ampeg_decay=1.42982
+ampeg_release=0.5
+loop_mode=loop_continuous
+resonance=4.8
+fileg_depth=2000
+pan=30
+fileg_sustain=17
+pitcheg_sustain=17
+ampeg_sustain=0.001
+volume=-3.97
+tune=3
+effect2=3.5
+
+<region>
+sample=samples\saw-5.wav
+lokey=75 hikey=79
+pitch_keycenter=78
+offset=0
+end=1127
+loop_start=88
+loop_end=1060
+
+<region>
+sample=samples\saw-6.wav
+lokey=80 hikey=91
+pitch_keycenter=90
+offset=0
+end=1289
+loop_start=43
+loop_end=1242
+
+<region>
+sample=samples\saw-7.wav
+lokey=92 hikey=103
+pitch_keycenter=102
+offset=0
+end=1293
+loop_start=35
+loop_end=1234
+
+<region>
+sample=samples\saw-8.wav
+lokey=104 hikey=115
+pitch_keycenter=114
+tune=-20
+offset=0
+end=63
+loop_start=12
+loop_end=51
+
+<region>
+sample=samples\saw-9.wav
+lokey=116 hikey=127
+pitch_keycenter=126
+tune=-20
+offset=0
+end=47
+loop_start=6
+loop_end=41
+
+<group>
+fil_type=lpf_2p
+cutoff=300
+pitcheg_release=0.400073
+fileg_release=0.400073
+ampeg_hold=3.00008
+ampeg_sustain=0.001
+ampeg_release=0.0600234
+loop_mode=loop_continuous
+fileg_depth=1000
+pitchlfo_freq=4.90662
+pitcheg_decay=0.001
+fileg_decay=0.001
+ampeg_decay=0.001
+volume=-1.1116
+tune=-3
+effect2=3.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+
+<region>
+sample=samples\Slap Bass E0.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+ampeg_decay=19.9964
+tune=-1
+offset=0
+end=113040
+loop_start=111363
+loop_end=112972
+
+<region>
+sample=samples\Slap Bass E2.wav
+lokey=29 hikey=30
+pitch_keycenter=30
+ampeg_decay=19.0053
+tune=-7
+offset=0
+end=101877
+loop_start=100452
+loop_end=101877
+
+<region>
+sample=samples\Slap Bass E4.wav
+lokey=31 hikey=32
+pitch_keycenter=32
+ampeg_decay=18.0009
+tune=-7
+offset=0
+end=131055
+loop_start=129113
+loop_end=130811
+
+<region>
+sample=samples\Slap Bass A1.wav
+lokey=33 hikey=35
+pitch_keycenter=35
+ampeg_decay=17.0004
+offset=0
+end=119504
+loop_start=117978
+loop_end=119049
+
+<region>
+sample=samples\Slap Bass A3.wav
+lokey=36 hikey=37
+pitch_keycenter=36
+ampeg_decay=16
+offset=0
+end=131018
+loop_start=129650
+loop_end=130998
+
+<region>
+sample=samples\Slap Bass D1.wav
+lokey=38 hikey=39
+pitch_keycenter=39
+ampeg_decay=14.9977
+tune=-1
+offset=0
+end=116134
+loop_start=115216
+loop_end=116068
+
+<region>
+sample=samples\Slap Bass D3.wav
+lokey=40 hikey=42
+pitch_keycenter=41
+ampeg_decay=14.0014
+tune=1
+offset=0
+end=123639
+loop_start=123053
+loop_end=123559
+
+<region>
+sample=samples\Slap Bass G0.wav
+lokey=43 hikey=45
+pitch_keycenter=43
+ampeg_decay=13.0035
+tune=-2
+offset=0
+end=111999
+loop_start=111174
+loop_end=111849
+
+<region>
+sample=samples\Slap Bass G5.wav
+lokey=46 hikey=84
+pitch_keycenter=48
+ampeg_decay=12.0003
+tune=-5
+offset=0
+end=107249
+loop_start=106070
+loop_end=106912

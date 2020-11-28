@@ -1,0 +1,879 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+ampeg_hold=0.100018
+ampeg_decay=2
+ampeg_sustain=0.001
+ampeg_release=4.20129
+loop_mode=loop_continuous
+effect1=10
+volume=-2.2232
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Celesta F# 3(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_hold=0.100018
+ampeg_decay=6.00015
+offset=0
+end=26431
+loop_start=25359
+loop_end=26311
+
+<region>
+sample=samples\Celesta C 4(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.49899
+offset=0
+end=19579
+loop_start=19225
+loop_end=19561
+
+<region>
+sample=samples\Celesta F# 4(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=4.99909
+offset=0
+end=25023
+loop_start=24481
+loop_end=24957
+
+<region>
+sample=samples\Celesta C 5(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.6001
+offset=0
+end=23375
+loop_start=22571
+loop_end=23244
+
+<region>
+sample=samples\Celesta F# 5(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4
+offset=0
+end=21923
+loop_start=21396
+loop_end=21872
+
+<region>
+sample=samples\Celesta C 6(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=20159
+loop_start=19665
+loop_end=20125
+
+<region>
+sample=samples\Celesta F# 6(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=3.00008
+offset=0
+end=9919
+loop_start=9497
+loop_end=9883
+
+<region>
+sample=samples\Celesta C 7(L).wav
+lokey=96 hikey=108
+pitch_keycenter=96
+ampeg_decay=2.49955
+offset=0
+end=11717
+loop_start=11684
+loop_end=11704
+
+<group>
+lovel=113 hivel=120
+ampeg_hold=0.100018
+ampeg_decay=2
+ampeg_sustain=0.001
+ampeg_release=3.85038
+loop_mode=loop_continuous
+effect1=10
+volume=-2.2232
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Celesta F# 3(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_hold=0.100018
+ampeg_decay=6.00015
+offset=0
+end=26431
+loop_start=25359
+loop_end=26311
+
+<region>
+sample=samples\Celesta C 4(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.49899
+offset=0
+end=19579
+loop_start=19225
+loop_end=19561
+
+<region>
+sample=samples\Celesta F# 4(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=4.99909
+offset=0
+end=25023
+loop_start=24481
+loop_end=24957
+
+<region>
+sample=samples\Celesta C 5(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.6001
+offset=0
+end=23375
+loop_start=22571
+loop_end=23244
+
+<region>
+sample=samples\Celesta F# 5(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4
+offset=0
+end=21923
+loop_start=21396
+loop_end=21872
+
+<region>
+sample=samples\Celesta C 6(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=20159
+loop_start=19665
+loop_end=20125
+
+<region>
+sample=samples\Celesta F# 6(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=3.00008
+offset=0
+end=9919
+loop_start=9497
+loop_end=9883
+
+<region>
+sample=samples\Celesta C 7(L).wav
+lokey=96 hikey=108
+pitch_keycenter=96
+ampeg_decay=2.49955
+offset=0
+end=11717
+loop_start=11684
+loop_end=11704
+
+<group>
+lovel=105 hivel=112
+ampeg_hold=0.100018
+ampeg_decay=2
+ampeg_sustain=0.001
+ampeg_release=3.50035
+loop_mode=loop_continuous
+effect1=10
+volume=-2.2232
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Celesta F# 3(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_hold=0.100018
+ampeg_decay=6.00015
+offset=0
+end=26431
+loop_start=25359
+loop_end=26311
+
+<region>
+sample=samples\Celesta C 4(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.49899
+offset=0
+end=19579
+loop_start=19225
+loop_end=19561
+
+<region>
+sample=samples\Celesta F# 4(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=4.99909
+offset=0
+end=25023
+loop_start=24481
+loop_end=24957
+
+<region>
+sample=samples\Celesta C 5(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.6001
+offset=0
+end=23375
+loop_start=22571
+loop_end=23244
+
+<region>
+sample=samples\Celesta F# 5(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4
+offset=0
+end=21923
+loop_start=21396
+loop_end=21872
+
+<region>
+sample=samples\Celesta C 6(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=20159
+loop_start=19665
+loop_end=20125
+
+<region>
+sample=samples\Celesta F# 6(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=3.00008
+offset=0
+end=9919
+loop_start=9497
+loop_end=9883
+
+<region>
+sample=samples\Celesta C 7(L).wav
+lokey=96 hikey=108
+pitch_keycenter=96
+ampeg_decay=2.49955
+offset=0
+end=11717
+loop_start=11684
+loop_end=11704
+
+<group>
+lovel=97 hivel=104
+ampeg_hold=0.100018
+ampeg_decay=2
+ampeg_sustain=0.001
+ampeg_release=3.15105
+loop_mode=loop_continuous
+effect1=10
+volume=-2.2232
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Celesta F# 3(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_hold=0.100018
+ampeg_decay=6.00015
+offset=0
+end=26431
+loop_start=25359
+loop_end=26311
+
+<region>
+sample=samples\Celesta C 4(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.49899
+offset=0
+end=19579
+loop_start=19225
+loop_end=19561
+
+<region>
+sample=samples\Celesta F# 4(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=4.99909
+offset=0
+end=25023
+loop_start=24481
+loop_end=24957
+
+<region>
+sample=samples\Celesta C 5(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.6001
+offset=0
+end=23375
+loop_start=22571
+loop_end=23244
+
+<region>
+sample=samples\Celesta F# 5(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4
+offset=0
+end=21923
+loop_start=21396
+loop_end=21872
+
+<region>
+sample=samples\Celesta C 6(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=20159
+loop_start=19665
+loop_end=20125
+
+<region>
+sample=samples\Celesta F# 6(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=3.00008
+offset=0
+end=9919
+loop_start=9497
+loop_end=9883
+
+<region>
+sample=samples\Celesta C 7(L).wav
+lokey=96 hikey=108
+pitch_keycenter=96
+ampeg_decay=2.49955
+offset=0
+end=11717
+loop_start=11684
+loop_end=11704
+
+<group>
+lovel=89 hivel=96
+ampeg_hold=0.100018
+ampeg_decay=2
+ampeg_sustain=0.001
+ampeg_release=2.80079
+loop_mode=loop_continuous
+effect1=10
+volume=-2.2232
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Celesta F# 3(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_hold=0.100018
+ampeg_decay=6.00015
+offset=0
+end=26431
+loop_start=25359
+loop_end=26311
+
+<region>
+sample=samples\Celesta C 4(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.49899
+offset=0
+end=19579
+loop_start=19225
+loop_end=19561
+
+<region>
+sample=samples\Celesta F# 4(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=4.99909
+offset=0
+end=25023
+loop_start=24481
+loop_end=24957
+
+<region>
+sample=samples\Celesta C 5(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.6001
+offset=0
+end=23375
+loop_start=22571
+loop_end=23244
+
+<region>
+sample=samples\Celesta F# 5(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4
+offset=0
+end=21923
+loop_start=21396
+loop_end=21872
+
+<region>
+sample=samples\Celesta C 6(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=20159
+loop_start=19665
+loop_end=20125
+
+<region>
+sample=samples\Celesta F# 6(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=3.00008
+offset=0
+end=9919
+loop_start=9497
+loop_end=9883
+
+<region>
+sample=samples\Celesta C 7(L).wav
+lokey=96 hikey=108
+pitch_keycenter=96
+ampeg_decay=2.49955
+offset=0
+end=11717
+loop_start=11684
+loop_end=11704
+
+<group>
+lovel=81 hivel=88
+ampeg_hold=0.100018
+ampeg_decay=2
+ampeg_sustain=0.001
+ampeg_release=2.45094
+loop_mode=loop_continuous
+effect1=10
+volume=-2.2232
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Celesta F# 3(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_hold=0.100018
+ampeg_decay=6.00015
+offset=0
+end=26431
+loop_start=25359
+loop_end=26311
+
+<region>
+sample=samples\Celesta C 4(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.49899
+offset=0
+end=19579
+loop_start=19225
+loop_end=19561
+
+<region>
+sample=samples\Celesta F# 4(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=4.99909
+offset=0
+end=25023
+loop_start=24481
+loop_end=24957
+
+<region>
+sample=samples\Celesta C 5(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.6001
+offset=0
+end=23375
+loop_start=22571
+loop_end=23244
+
+<region>
+sample=samples\Celesta F# 5(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4
+offset=0
+end=21923
+loop_start=21396
+loop_end=21872
+
+<region>
+sample=samples\Celesta C 6(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=20159
+loop_start=19665
+loop_end=20125
+
+<region>
+sample=samples\Celesta F# 6(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=3.00008
+offset=0
+end=9919
+loop_start=9497
+loop_end=9883
+
+<region>
+sample=samples\Celesta C 7(L).wav
+lokey=96 hikey=108
+pitch_keycenter=96
+ampeg_decay=2.49955
+offset=0
+end=11717
+loop_start=11684
+loop_end=11704
+
+<group>
+lovel=73 hivel=80
+ampeg_hold=0.100018
+ampeg_decay=2
+ampeg_sustain=0.001
+ampeg_release=2.10065
+loop_mode=loop_continuous
+effect1=10
+volume=-2.2232
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Celesta F# 3(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_hold=0.100018
+ampeg_decay=6.00015
+offset=0
+end=26431
+loop_start=25359
+loop_end=26311
+
+<region>
+sample=samples\Celesta C 4(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.49899
+offset=0
+end=19579
+loop_start=19225
+loop_end=19561
+
+<region>
+sample=samples\Celesta F# 4(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=4.99909
+offset=0
+end=25023
+loop_start=24481
+loop_end=24957
+
+<region>
+sample=samples\Celesta C 5(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.6001
+offset=0
+end=23375
+loop_start=22571
+loop_end=23244
+
+<region>
+sample=samples\Celesta F# 5(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4
+offset=0
+end=21923
+loop_start=21396
+loop_end=21872
+
+<region>
+sample=samples\Celesta C 6(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=20159
+loop_start=19665
+loop_end=20125
+
+<region>
+sample=samples\Celesta F# 6(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=3.00008
+offset=0
+end=9919
+loop_start=9497
+loop_end=9883
+
+<region>
+sample=samples\Celesta C 7(L).wav
+lokey=96 hikey=108
+pitch_keycenter=96
+ampeg_decay=2.49955
+offset=0
+end=11717
+loop_start=11684
+loop_end=11704
+
+<group>
+lovel=65 hivel=72
+ampeg_hold=0.100018
+ampeg_decay=2
+ampeg_sustain=0.001
+ampeg_release=1.75018
+loop_mode=loop_continuous
+effect1=10
+volume=-2.2232
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Celesta F# 3(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_hold=0.100018
+ampeg_decay=6.00015
+offset=0
+end=26431
+loop_start=25359
+loop_end=26311
+
+<region>
+sample=samples\Celesta C 4(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.49899
+offset=0
+end=19579
+loop_start=19225
+loop_end=19561
+
+<region>
+sample=samples\Celesta F# 4(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=4.99909
+offset=0
+end=25023
+loop_start=24481
+loop_end=24957
+
+<region>
+sample=samples\Celesta C 5(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.6001
+offset=0
+end=23375
+loop_start=22571
+loop_end=23244
+
+<region>
+sample=samples\Celesta F# 5(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4
+offset=0
+end=21923
+loop_start=21396
+loop_end=21872
+
+<region>
+sample=samples\Celesta C 6(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=20159
+loop_start=19665
+loop_end=20125
+
+<region>
+sample=samples\Celesta F# 6(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=3.00008
+offset=0
+end=9919
+loop_start=9497
+loop_end=9883
+
+<region>
+sample=samples\Celesta C 7(L).wav
+lokey=96 hikey=108
+pitch_keycenter=96
+ampeg_decay=2.49955
+offset=0
+end=11717
+loop_start=11684
+loop_end=11704
+
+<group>
+lovel=0 hivel=64
+ampeg_hold=0.100018
+ampeg_decay=2
+ampeg_sustain=0.001
+ampeg_release=1.40039
+loop_mode=loop_continuous
+effect1=10
+volume=-2.2232
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Celesta F# 3(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_hold=0.100018
+ampeg_decay=6.00015
+offset=0
+end=26431
+loop_start=25359
+loop_end=26311
+
+<region>
+sample=samples\Celesta C 4(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.49899
+offset=0
+end=19579
+loop_start=19225
+loop_end=19561
+
+<region>
+sample=samples\Celesta F# 4(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=4.99909
+offset=0
+end=25023
+loop_start=24481
+loop_end=24957
+
+<region>
+sample=samples\Celesta C 5(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.6001
+offset=0
+end=23375
+loop_start=22571
+loop_end=23244
+
+<region>
+sample=samples\Celesta F# 5(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4
+offset=0
+end=21923
+loop_start=21396
+loop_end=21872
+
+<region>
+sample=samples\Celesta C 6(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=20159
+loop_start=19665
+loop_end=20125
+
+<region>
+sample=samples\Celesta F# 6(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=3.00008
+offset=0
+end=9919
+loop_start=9497
+loop_end=9883
+
+<region>
+sample=samples\Celesta C 7(L).wav
+lokey=96 hikey=108
+pitch_keycenter=96
+ampeg_decay=2.49955
+offset=0
+end=11717
+loop_start=11684
+loop_end=11704

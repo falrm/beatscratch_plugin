@@ -1,0 +1,99 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+ampeg_decay=1.29984
+ampeg_release=0.400073
+volume=-2.8584
+loop_mode=loop_continuous
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\reed organ f#4(L).wav
+lokey=0 hikey=54
+pitch_keycenter=54
+offset=0
+end=3423
+loop_start=3092
+loop_end=3372
+volume=-2.8584
+
+<region>
+sample=samples\reed organ c5(L).wav
+lokey=55 hikey=60
+pitch_keycenter=60
+offset=0
+end=2111
+loop_start=1970
+loop_end=2061
+volume=-2.8584
+
+<region>
+sample=samples\reed organ f#5(L).wav
+lokey=61 hikey=66
+pitch_keycenter=66
+offset=0
+end=3263
+loop_start=3011
+loop_end=3215
+volume=-2.8584
+
+<region>
+sample=samples\reed organ c6(L).wav
+lokey=67 hikey=72
+pitch_keycenter=72
+offset=0
+end=3167
+loop_start=2831
+loop_end=3136
+volume=-2.8584
+
+<region>
+sample=samples\reed organ f#6(L).wav
+lokey=73 hikey=78
+pitch_keycenter=78
+offset=0
+end=3327
+loop_start=3103
+loop_end=3281
+volume=-2.8584
+
+<region>
+sample=samples\reed organ c7(L).wav
+lokey=79 hikey=84
+pitch_keycenter=84
+offset=0
+end=1132
+loop_start=971
+loop_end=1123
+volume=-2.8584
+
+<region>
+sample=samples\reed organ f#7(L).wav
+lokey=85 hikey=90
+pitch_keycenter=90
+offset=0
+end=1583
+loop_start=1457
+loop_end=1575
+volume=-2.8584
+
+<region>
+sample=samples\reed organ c8(L).wav
+lokey=91 hikey=108
+pitch_keycenter=96
+offset=0
+end=2307
+loop_start=2080
+loop_end=2297
+volume=-2.8584

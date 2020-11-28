@@ -1,0 +1,176 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+amplfo_depth=0.1
+amplfo_delay=2
+fillfo_delay=2
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+ampeg_release=0.300062
+volume=-2.1041
+loop_mode=loop_continuous
+pitchlfo_depth=3
+effect1=15
+pitchlfo_freq=4.90945
+ampeg_attack=0.001
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Clarinet E4.wav
+lokey=0 hikey=53
+pitch_keycenter=52
+tune=-4
+offset=0
+end=27263
+loop_start=26055
+loop_end=27122
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet G#4.wav
+lokey=54 hikey=56
+pitch_keycenter=56
+tune=-13
+offset=0
+end=32599
+loop_start=30862
+loop_end=32548
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet B4.wav
+lokey=57 hikey=59
+pitch_keycenter=59
+tune=-9
+offset=0
+end=17599
+loop_start=15327
+loop_end=17459
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet C#5.wav
+lokey=60 hikey=62
+pitch_keycenter=61
+tune=-13
+offset=0
+end=14435
+loop_start=14070
+loop_end=14385
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet F5.wav
+lokey=63 hikey=65
+pitch_keycenter=65
+tune=-18
+offset=0
+end=7299
+loop_start=6475
+loop_end=7224
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet G#5.wav
+lokey=66 hikey=68
+pitch_keycenter=68
+tune=-1
+offset=0
+end=10129
+loop_start=9362
+loop_end=10104
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet A#5.wav
+lokey=69 hikey=70
+pitch_keycenter=70
+tune=-12
+offset=0
+end=4121
+loop_start=4010
+loop_end=4103
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet C6.wav
+lokey=71 hikey=72
+pitch_keycenter=72
+tune=-22
+offset=0
+end=9087
+loop_start=8814
+loop_end=9063
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet D6.wav
+lokey=73 hikey=74
+pitch_keycenter=74
+tune=-16
+offset=0
+end=6271
+loop_start=5866
+loop_end=6237
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet E6.wav
+lokey=75 hikey=76
+pitch_keycenter=76
+tune=-17
+offset=0
+end=5535
+loop_start=5193
+loop_end=5457
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet F#6.wav
+lokey=77 hikey=78
+pitch_keycenter=78
+tune=11
+offset=0
+end=2018
+loop_start=1943
+loop_end=2002
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet G#6.wav
+lokey=79 hikey=80
+pitch_keycenter=80
+tune=-4
+offset=0
+end=4159
+loop_start=4078
+loop_end=4130
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet A#6.wav
+lokey=81 hikey=82
+pitch_keycenter=82
+tune=-12
+offset=0
+end=3759
+loop_start=3530
+loop_end=3670
+volume=-2.1041
+
+<region>
+sample=samples\Clarinet C7.wav
+lokey=83 hikey=127
+pitch_keycenter=84
+tune=4
+offset=0
+end=3839
+loop_start=3629
+loop_end=3797
+volume=-2.1041

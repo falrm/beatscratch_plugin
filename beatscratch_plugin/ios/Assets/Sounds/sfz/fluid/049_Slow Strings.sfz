@@ -1,0 +1,243 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+amplfo_freq=11.201
+fillfo_freq=11.201
+ampeg_attack=0.510211
+ampeg_decay=1
+ampeg_release=1.40039
+volume=-0.4764
+loop_mode=loop_continuous
+effect1=10
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Strings G2L.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+offset=0
+end=109260
+loop_start=41234
+loop_end=109222
+volume=-0.4764
+
+<region>
+sample=samples\Strings A#2L.wav
+lokey=32 hikey=34
+pitch_keycenter=34
+amplfo_freq=13.0011
+fillfo_freq=13.0011
+offset=0
+end=76721
+loop_start=11873
+loop_end=76640
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+volume=-0.4764
+
+<region>
+sample=samples\Strings C#3L.wav
+lokey=35 hikey=37
+pitch_keycenter=37
+amplfo_freq=13.9988
+fillfo_freq=13.9988
+offset=0
+end=101818
+loop_start=28385
+loop_end=101791
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+volume=-0.4764
+
+<region>
+sample=samples\Strings E3L.wav
+lokey=38 hikey=40
+pitch_keycenter=40
+amplfo_freq=11.9981
+fillfo_freq=11.9981
+offset=0
+end=102067
+loop_start=39284
+loop_end=102004
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+volume=-0.4764
+
+<region>
+sample=samples\Strings G3L.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+amplfo_freq=13.0011
+fillfo_freq=13.0011
+offset=0
+end=97667
+loop_start=46601
+loop_end=97556
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+volume=-0.4764
+
+<region>
+sample=samples\Strings B3L.wav
+lokey=44 hikey=47
+pitch_keycenter=47
+amplfo_freq=11.5027
+fillfo_freq=11.5027
+offset=0
+end=75711
+loop_start=22677
+loop_end=75670
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+volume=-0.4764
+
+<region>
+sample=samples\Strings C#4L.wav
+lokey=48 hikey=51
+pitch_keycenter=49
+offset=0
+end=101271
+loop_start=54610
+loop_end=101240
+volume=-0.4764
+
+<region>
+sample=samples\Strings E4L.wav
+lokey=52 hikey=54
+pitch_keycenter=52
+amplfo_freq=13.9988
+fillfo_freq=13.9988
+offset=0
+end=124619
+loop_start=33204
+loop_end=124596
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+volume=-0.4764
+
+<region>
+sample=samples\Strings A#4L.wav
+lokey=55 hikey=59
+pitch_keycenter=58
+amplfo_freq=12.5003
+fillfo_freq=12.5003
+offset=0
+end=148873
+loop_start=54814
+loop_end=148734
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+volume=-0.4764
+
+<region>
+sample=samples\Strings C#5L.wav
+lokey=60 hikey=62
+pitch_keycenter=61
+amplfo_freq=13.9988
+fillfo_freq=13.9988
+offset=0
+end=69011
+loop_start=38140
+loop_end=68983
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+volume=-0.4764
+
+<region>
+sample=samples\Strings E5L.wav
+lokey=63 hikey=65
+pitch_keycenter=64
+amplfo_freq=11.9981
+fillfo_freq=11.9981
+offset=0
+end=115594
+loop_start=44337
+loop_end=115561
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+volume=-0.4764
+
+<region>
+sample=samples\Strings G5L.wav
+lokey=66 hikey=68
+pitch_keycenter=67
+offset=0
+end=73176
+loop_start=36459
+loop_end=73132
+volume=-0.4764
+
+<region>
+sample=samples\Strings A#5L.wav
+lokey=69 hikey=71
+pitch_keycenter=70
+amplfo_freq=13.9988
+fillfo_freq=13.9988
+offset=0
+end=60258
+loop_start=29011
+loop_end=60238
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+volume=-0.4764
+
+<region>
+sample=samples\Strings C#6L.wav
+lokey=72 hikey=74
+pitch_keycenter=73
+amplfo_freq=11.9981
+fillfo_freq=11.9981
+offset=0
+end=41658
+loop_start=10595
+loop_end=41647
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+volume=-0.4764
+
+<region>
+sample=samples\Strings E6L.wav
+lokey=75 hikey=77
+pitch_keycenter=76
+amplfo_freq=13.9988
+fillfo_freq=13.9988
+offset=0
+end=48413
+loop_start=20892
+loop_end=48405
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+volume=-0.4764
+
+<region>
+sample=samples\Strings G6 L.wav
+lokey=78 hikey=81
+pitch_keycenter=79
+amplfo_freq=13.0011
+fillfo_freq=13.0011
+volume=-0.9528
+offset=0
+end=24777
+loop_start=6483
+loop_end=24773
+amplfo_delay=0.300062
+fillfo_delay=0.300062
+
+<region>
+sample=samples\Strings B6L.wav
+lokey=82 hikey=127
+pitch_keycenter=83
+volume=0
+offset=0
+end=43540
+loop_start=20239
+loop_end=43522

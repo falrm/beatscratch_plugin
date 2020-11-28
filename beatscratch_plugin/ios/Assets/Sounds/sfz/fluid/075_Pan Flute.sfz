@@ -1,0 +1,906 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=800
+fileg_depth=4000
+amplfo_depth=0.4
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+pitcheg_decay=0.700197
+fileg_decay=0.700197
+pitcheg_release=1.40039
+fileg_release=1.40039
+ampeg_sustain=79.4328
+ampeg_release=0.220039
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\pan flute f#4(L).wav
+lokey=0 hikey=55
+pitch_keycenter=54
+offset=0
+end=21375
+loop_start=14173
+loop_end=21277
+volume=-0.4
+
+<region>
+sample=samples\pan flute c5(L).wav
+lokey=56 hikey=61
+pitch_keycenter=60
+offset=0
+end=21557
+loop_start=11619
+loop_end=21345
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#5(L).wav
+lokey=62 hikey=67
+pitch_keycenter=66
+offset=0
+end=13650
+loop_start=7833
+loop_end=13510
+volume=-0.4
+
+<region>
+sample=samples\pan flute c6(L).wav
+lokey=68 hikey=73
+pitch_keycenter=72
+offset=0
+end=23498
+loop_start=11255
+loop_end=23467
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#6(L).wav
+lokey=74 hikey=79
+pitch_keycenter=78
+offset=0
+end=25928
+loop_start=16460
+loop_end=25881
+volume=-0.4
+
+<region>
+sample=samples\pan flute c7(L).wav
+lokey=80 hikey=85
+pitch_keycenter=84
+offset=0
+end=23165
+loop_start=14246
+loop_end=23067
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#7(L).wav
+lokey=86 hikey=91
+pitch_keycenter=90
+offset=0
+end=17955
+loop_start=8929
+loop_end=17933
+volume=-0.4
+
+<region>
+sample=samples\pan flute c8(L).wav
+lokey=92 hikey=127
+pitch_keycenter=96
+offset=0
+end=16565
+loop_start=7717
+loop_end=16551
+volume=-0.4
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=720
+fileg_depth=4000
+amplfo_depth=0.4
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+pitcheg_decay=0.700197
+fileg_decay=0.700197
+pitcheg_release=1.40039
+fileg_release=1.40039
+ampeg_sustain=79.4328
+ampeg_release=0.209982
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\pan flute f#4(L).wav
+lokey=0 hikey=55
+pitch_keycenter=54
+offset=0
+end=21375
+loop_start=14173
+loop_end=21277
+volume=-0.4
+
+<region>
+sample=samples\pan flute c5(L).wav
+lokey=56 hikey=61
+pitch_keycenter=60
+offset=0
+end=21557
+loop_start=11619
+loop_end=21345
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#5(L).wav
+lokey=62 hikey=67
+pitch_keycenter=66
+offset=0
+end=13650
+loop_start=7833
+loop_end=13510
+volume=-0.4
+
+<region>
+sample=samples\pan flute c6(L).wav
+lokey=68 hikey=73
+pitch_keycenter=72
+offset=0
+end=23498
+loop_start=11255
+loop_end=23467
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#6(L).wav
+lokey=74 hikey=79
+pitch_keycenter=78
+offset=0
+end=25928
+loop_start=16460
+loop_end=25881
+volume=-0.4
+
+<region>
+sample=samples\pan flute c7(L).wav
+lokey=80 hikey=85
+pitch_keycenter=84
+offset=0
+end=23165
+loop_start=14246
+loop_end=23067
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#7(L).wav
+lokey=86 hikey=91
+pitch_keycenter=90
+offset=0
+end=17955
+loop_start=8929
+loop_end=17933
+volume=-0.4
+
+<region>
+sample=samples\pan flute c8(L).wav
+lokey=92 hikey=127
+pitch_keycenter=96
+offset=0
+end=16565
+loop_start=7717
+loop_end=16551
+volume=-0.4
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=640
+fileg_depth=4000
+amplfo_depth=0.4
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+pitcheg_decay=0.700197
+fileg_decay=0.700197
+pitcheg_release=1.40039
+fileg_release=1.40039
+ampeg_sustain=79.4328
+ampeg_release=0.200036
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\pan flute f#4(L).wav
+lokey=0 hikey=55
+pitch_keycenter=54
+offset=0
+end=21375
+loop_start=14173
+loop_end=21277
+volume=-0.4
+
+<region>
+sample=samples\pan flute c5(L).wav
+lokey=56 hikey=61
+pitch_keycenter=60
+offset=0
+end=21557
+loop_start=11619
+loop_end=21345
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#5(L).wav
+lokey=62 hikey=67
+pitch_keycenter=66
+offset=0
+end=13650
+loop_start=7833
+loop_end=13510
+volume=-0.4
+
+<region>
+sample=samples\pan flute c6(L).wav
+lokey=68 hikey=73
+pitch_keycenter=72
+offset=0
+end=23498
+loop_start=11255
+loop_end=23467
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#6(L).wav
+lokey=74 hikey=79
+pitch_keycenter=78
+offset=0
+end=25928
+loop_start=16460
+loop_end=25881
+volume=-0.4
+
+<region>
+sample=samples\pan flute c7(L).wav
+lokey=80 hikey=85
+pitch_keycenter=84
+offset=0
+end=23165
+loop_start=14246
+loop_end=23067
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#7(L).wav
+lokey=86 hikey=91
+pitch_keycenter=90
+offset=0
+end=17955
+loop_start=8929
+loop_end=17933
+volume=-0.4
+
+<region>
+sample=samples\pan flute c8(L).wav
+lokey=92 hikey=127
+pitch_keycenter=96
+offset=0
+end=16565
+loop_start=7717
+loop_end=16551
+volume=-0.4
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=560
+fileg_depth=4000
+amplfo_depth=0.4
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+pitcheg_decay=0.700197
+fileg_decay=0.700197
+pitcheg_release=1.40039
+fileg_release=1.40039
+ampeg_sustain=79.4328
+ampeg_release=0.190013
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\pan flute f#4(L).wav
+lokey=0 hikey=55
+pitch_keycenter=54
+offset=0
+end=21375
+loop_start=14173
+loop_end=21277
+volume=-0.4
+
+<region>
+sample=samples\pan flute c5(L).wav
+lokey=56 hikey=61
+pitch_keycenter=60
+offset=0
+end=21557
+loop_start=11619
+loop_end=21345
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#5(L).wav
+lokey=62 hikey=67
+pitch_keycenter=66
+offset=0
+end=13650
+loop_start=7833
+loop_end=13510
+volume=-0.4
+
+<region>
+sample=samples\pan flute c6(L).wav
+lokey=68 hikey=73
+pitch_keycenter=72
+offset=0
+end=23498
+loop_start=11255
+loop_end=23467
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#6(L).wav
+lokey=74 hikey=79
+pitch_keycenter=78
+offset=0
+end=25928
+loop_start=16460
+loop_end=25881
+volume=-0.4
+
+<region>
+sample=samples\pan flute c7(L).wav
+lokey=80 hikey=85
+pitch_keycenter=84
+offset=0
+end=23165
+loop_start=14246
+loop_end=23067
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#7(L).wav
+lokey=86 hikey=91
+pitch_keycenter=90
+offset=0
+end=17955
+loop_start=8929
+loop_end=17933
+volume=-0.4
+
+<region>
+sample=samples\pan flute c8(L).wav
+lokey=92 hikey=127
+pitch_keycenter=96
+offset=0
+end=16565
+loop_start=7717
+loop_end=16551
+volume=-0.4
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=480
+fileg_depth=4000
+amplfo_depth=0.4
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+pitcheg_decay=0.700197
+fileg_decay=0.700197
+pitcheg_release=1.40039
+fileg_release=1.40039
+ampeg_sustain=79.4328
+ampeg_release=0.180075
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\pan flute f#4(L).wav
+lokey=0 hikey=55
+pitch_keycenter=54
+offset=0
+end=21375
+loop_start=14173
+loop_end=21277
+volume=-0.4
+
+<region>
+sample=samples\pan flute c5(L).wav
+lokey=56 hikey=61
+pitch_keycenter=60
+offset=0
+end=21557
+loop_start=11619
+loop_end=21345
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#5(L).wav
+lokey=62 hikey=67
+pitch_keycenter=66
+offset=0
+end=13650
+loop_start=7833
+loop_end=13510
+volume=-0.4
+
+<region>
+sample=samples\pan flute c6(L).wav
+lokey=68 hikey=73
+pitch_keycenter=72
+offset=0
+end=23498
+loop_start=11255
+loop_end=23467
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#6(L).wav
+lokey=74 hikey=79
+pitch_keycenter=78
+offset=0
+end=25928
+loop_start=16460
+loop_end=25881
+volume=-0.4
+
+<region>
+sample=samples\pan flute c7(L).wav
+lokey=80 hikey=85
+pitch_keycenter=84
+offset=0
+end=23165
+loop_start=14246
+loop_end=23067
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#7(L).wav
+lokey=86 hikey=91
+pitch_keycenter=90
+offset=0
+end=17955
+loop_start=8929
+loop_end=17933
+volume=-0.4
+
+<region>
+sample=samples\pan flute c8(L).wav
+lokey=92 hikey=127
+pitch_keycenter=96
+offset=0
+end=16565
+loop_start=7717
+loop_end=16551
+volume=-0.4
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=400
+fileg_depth=4000
+amplfo_depth=0.4
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+pitcheg_decay=0.700197
+fileg_decay=0.700197
+pitcheg_release=1.40039
+fileg_release=1.40039
+ampeg_sustain=79.4328
+ampeg_release=0.170066
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\pan flute f#4(L).wav
+lokey=0 hikey=55
+pitch_keycenter=54
+offset=0
+end=21375
+loop_start=14173
+loop_end=21277
+volume=-0.4
+
+<region>
+sample=samples\pan flute c5(L).wav
+lokey=56 hikey=61
+pitch_keycenter=60
+offset=0
+end=21557
+loop_start=11619
+loop_end=21345
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#5(L).wav
+lokey=62 hikey=67
+pitch_keycenter=66
+offset=0
+end=13650
+loop_start=7833
+loop_end=13510
+volume=-0.4
+
+<region>
+sample=samples\pan flute c6(L).wav
+lokey=68 hikey=73
+pitch_keycenter=72
+offset=0
+end=23498
+loop_start=11255
+loop_end=23467
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#6(L).wav
+lokey=74 hikey=79
+pitch_keycenter=78
+offset=0
+end=25928
+loop_start=16460
+loop_end=25881
+volume=-0.4
+
+<region>
+sample=samples\pan flute c7(L).wav
+lokey=80 hikey=85
+pitch_keycenter=84
+offset=0
+end=23165
+loop_start=14246
+loop_end=23067
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#7(L).wav
+lokey=86 hikey=91
+pitch_keycenter=90
+offset=0
+end=17955
+loop_start=8929
+loop_end=17933
+volume=-0.4
+
+<region>
+sample=samples\pan flute c8(L).wav
+lokey=92 hikey=127
+pitch_keycenter=96
+offset=0
+end=16565
+loop_start=7717
+loop_end=16551
+volume=-0.4
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=320
+fileg_depth=4000
+amplfo_depth=0.4
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+pitcheg_decay=0.700197
+fileg_decay=0.700197
+pitcheg_release=1.40039
+fileg_release=1.40039
+ampeg_sustain=79.4328
+ampeg_release=0.160058
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\pan flute f#4(L).wav
+lokey=0 hikey=55
+pitch_keycenter=54
+offset=0
+end=21375
+loop_start=14173
+loop_end=21277
+volume=-0.4
+
+<region>
+sample=samples\pan flute c5(L).wav
+lokey=56 hikey=61
+pitch_keycenter=60
+offset=0
+end=21557
+loop_start=11619
+loop_end=21345
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#5(L).wav
+lokey=62 hikey=67
+pitch_keycenter=66
+offset=0
+end=13650
+loop_start=7833
+loop_end=13510
+volume=-0.4
+
+<region>
+sample=samples\pan flute c6(L).wav
+lokey=68 hikey=73
+pitch_keycenter=72
+offset=0
+end=23498
+loop_start=11255
+loop_end=23467
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#6(L).wav
+lokey=74 hikey=79
+pitch_keycenter=78
+offset=0
+end=25928
+loop_start=16460
+loop_end=25881
+volume=-0.4
+
+<region>
+sample=samples\pan flute c7(L).wav
+lokey=80 hikey=85
+pitch_keycenter=84
+offset=0
+end=23165
+loop_start=14246
+loop_end=23067
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#7(L).wav
+lokey=86 hikey=91
+pitch_keycenter=90
+offset=0
+end=17955
+loop_start=8929
+loop_end=17933
+volume=-0.4
+
+<region>
+sample=samples\pan flute c8(L).wav
+lokey=92 hikey=127
+pitch_keycenter=96
+offset=0
+end=16565
+loop_start=7717
+loop_end=16551
+volume=-0.4
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=240
+fileg_depth=4000
+amplfo_depth=0.4
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+pitcheg_decay=0.700197
+fileg_decay=0.700197
+pitcheg_release=1.40039
+fileg_release=1.40039
+ampeg_sustain=79.4328
+ampeg_release=0.150031
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\pan flute f#4(L).wav
+lokey=0 hikey=55
+pitch_keycenter=54
+offset=0
+end=21375
+loop_start=14173
+loop_end=21277
+volume=-0.4
+
+<region>
+sample=samples\pan flute c5(L).wav
+lokey=56 hikey=61
+pitch_keycenter=60
+offset=0
+end=21557
+loop_start=11619
+loop_end=21345
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#5(L).wav
+lokey=62 hikey=67
+pitch_keycenter=66
+offset=0
+end=13650
+loop_start=7833
+loop_end=13510
+volume=-0.4
+
+<region>
+sample=samples\pan flute c6(L).wav
+lokey=68 hikey=73
+pitch_keycenter=72
+offset=0
+end=23498
+loop_start=11255
+loop_end=23467
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#6(L).wav
+lokey=74 hikey=79
+pitch_keycenter=78
+offset=0
+end=25928
+loop_start=16460
+loop_end=25881
+volume=-0.4
+
+<region>
+sample=samples\pan flute c7(L).wav
+lokey=80 hikey=85
+pitch_keycenter=84
+offset=0
+end=23165
+loop_start=14246
+loop_end=23067
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#7(L).wav
+lokey=86 hikey=91
+pitch_keycenter=90
+offset=0
+end=17955
+loop_start=8929
+loop_end=17933
+volume=-0.4
+
+<region>
+sample=samples\pan flute c8(L).wav
+lokey=92 hikey=127
+pitch_keycenter=96
+offset=0
+end=16565
+loop_start=7717
+loop_end=16551
+volume=-0.4
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=160
+fileg_depth=4000
+amplfo_depth=0.4
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+pitcheg_decay=0.700197
+fileg_decay=0.700197
+pitcheg_release=1.40039
+fileg_release=1.40039
+ampeg_sustain=79.4328
+ampeg_release=0.140065
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\pan flute f#4(L).wav
+lokey=0 hikey=55
+pitch_keycenter=54
+offset=0
+end=21375
+loop_start=14173
+loop_end=21277
+volume=-0.4
+
+<region>
+sample=samples\pan flute c5(L).wav
+lokey=56 hikey=61
+pitch_keycenter=60
+offset=0
+end=21557
+loop_start=11619
+loop_end=21345
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#5(L).wav
+lokey=62 hikey=67
+pitch_keycenter=66
+offset=0
+end=13650
+loop_start=7833
+loop_end=13510
+volume=-0.4
+
+<region>
+sample=samples\pan flute c6(L).wav
+lokey=68 hikey=73
+pitch_keycenter=72
+offset=0
+end=23498
+loop_start=11255
+loop_end=23467
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#6(L).wav
+lokey=74 hikey=79
+pitch_keycenter=78
+offset=0
+end=25928
+loop_start=16460
+loop_end=25881
+volume=-0.4
+
+<region>
+sample=samples\pan flute c7(L).wav
+lokey=80 hikey=85
+pitch_keycenter=84
+offset=0
+end=23165
+loop_start=14246
+loop_end=23067
+volume=-0.4
+
+<region>
+sample=samples\pan flute f#7(L).wav
+lokey=86 hikey=91
+pitch_keycenter=90
+offset=0
+end=17955
+loop_start=8929
+loop_end=17933
+volume=-0.4
+
+<region>
+sample=samples\pan flute c8(L).wav
+lokey=92 hikey=127
+pitch_keycenter=96
+offset=0
+end=16565
+loop_start=7717
+loop_end=16551
+volume=-0.4

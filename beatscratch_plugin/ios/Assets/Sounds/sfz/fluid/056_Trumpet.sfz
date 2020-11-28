@@ -1,0 +1,699 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=10002
+fillfo_depth=-200
+amplfo_delay=20
+fillfo_delay=20
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+ampeg_release=0.300062
+loop_mode=loop_continuous
+effect1=15
+pitchlfo_depth=10
+pitchlfo_delay=20
+pitchlfo_freq=3.5506
+ampeg_attack=0.001
+
+<region>
+sample=samples\tp_e3.wav
+lokey=0 hikey=66
+pitch_keycenter=60
+transpose=-4
+offset=0
+end=18353
+loop_start=7185
+loop_end=18295
+
+<region>
+sample=samples\tp_g3.wav
+lokey=67 hikey=71
+pitch_keycenter=60
+transpose=-7
+offset=0
+end=16821
+loop_start=8026
+loop_end=16793
+
+<region>
+sample=samples\tp_c4.wav
+lokey=72 hikey=75
+pitch_keycenter=60
+transpose=-12
+offset=0
+end=23223
+loop_start=14270
+loop_end=23201
+
+<region>
+sample=samples\tp_g4.wav
+lokey=76 hikey=83
+pitch_keycenter=60
+transpose=-19
+offset=0
+end=19887
+loop_start=10629
+loop_end=19859
+
+<region>
+sample=samples\tp_e5.wav
+lokey=84 hikey=90
+pitch_keycenter=60
+transpose=-28
+offset=0
+end=18582
+loop_start=11853
+loop_end=18554
+
+<region>
+sample=samples\tp_c6.wav
+lokey=91 hikey=108
+pitch_keycenter=60
+transpose=-36
+offset=0
+end=18937
+loop_start=9248
+loop_end=18909
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=9004
+fillfo_depth=-200
+amplfo_delay=20
+fillfo_delay=20
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00126938
+effect1=15
+pitchlfo_depth=10
+pitchlfo_delay=20
+pitchlfo_freq=3.5506
+
+<region>
+sample=samples\tp_e3.wav
+lokey=0 hikey=66
+pitch_keycenter=60
+transpose=-4
+offset=0
+end=18353
+loop_start=7185
+loop_end=18295
+
+<region>
+sample=samples\tp_g3.wav
+lokey=67 hikey=71
+pitch_keycenter=60
+transpose=-7
+offset=0
+end=16821
+loop_start=8026
+loop_end=16793
+
+<region>
+sample=samples\tp_c4.wav
+lokey=72 hikey=75
+pitch_keycenter=60
+transpose=-12
+offset=0
+end=23223
+loop_start=14270
+loop_end=23201
+
+<region>
+sample=samples\tp_g4.wav
+lokey=76 hikey=83
+pitch_keycenter=60
+transpose=-19
+offset=0
+end=19887
+loop_start=10629
+loop_end=19859
+
+<region>
+sample=samples\tp_e5.wav
+lokey=84 hikey=90
+pitch_keycenter=60
+transpose=-28
+offset=0
+end=18582
+loop_start=11853
+loop_end=18554
+
+<region>
+sample=samples\tp_c6.wav
+lokey=91 hikey=108
+pitch_keycenter=60
+transpose=-36
+offset=0
+end=18937
+loop_start=9248
+loop_end=18909
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=8003
+fillfo_depth=-200
+amplfo_delay=20
+fillfo_delay=20
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00156279
+effect1=15
+pitchlfo_depth=10
+pitchlfo_delay=20
+pitchlfo_freq=3.5506
+
+<region>
+sample=samples\tp_e3.wav
+lokey=0 hikey=66
+pitch_keycenter=60
+transpose=-4
+offset=0
+end=18353
+loop_start=7185
+loop_end=18295
+
+<region>
+sample=samples\tp_g3.wav
+lokey=67 hikey=71
+pitch_keycenter=60
+transpose=-7
+offset=0
+end=16821
+loop_start=8026
+loop_end=16793
+
+<region>
+sample=samples\tp_c4.wav
+lokey=72 hikey=75
+pitch_keycenter=60
+transpose=-12
+offset=0
+end=23223
+loop_start=14270
+loop_end=23201
+
+<region>
+sample=samples\tp_g4.wav
+lokey=76 hikey=83
+pitch_keycenter=60
+transpose=-19
+offset=0
+end=19887
+loop_start=10629
+loop_end=19859
+
+<region>
+sample=samples\tp_e5.wav
+lokey=84 hikey=90
+pitch_keycenter=60
+transpose=-28
+offset=0
+end=18582
+loop_start=11853
+loop_end=18554
+
+<region>
+sample=samples\tp_c6.wav
+lokey=91 hikey=108
+pitch_keycenter=60
+transpose=-36
+offset=0
+end=18937
+loop_start=9248
+loop_end=18909
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=7004
+fillfo_depth=-200
+amplfo_delay=20
+fillfo_delay=20
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00184564
+effect1=15
+pitchlfo_depth=10
+pitchlfo_delay=20
+pitchlfo_freq=3.5506
+
+<region>
+sample=samples\tp_e3.wav
+lokey=0 hikey=66
+pitch_keycenter=60
+transpose=-4
+offset=0
+end=18353
+loop_start=7185
+loop_end=18295
+
+<region>
+sample=samples\tp_g3.wav
+lokey=67 hikey=71
+pitch_keycenter=60
+transpose=-7
+offset=0
+end=16821
+loop_start=8026
+loop_end=16793
+
+<region>
+sample=samples\tp_c4.wav
+lokey=72 hikey=75
+pitch_keycenter=60
+transpose=-12
+offset=0
+end=23223
+loop_start=14270
+loop_end=23201
+
+<region>
+sample=samples\tp_g4.wav
+lokey=76 hikey=83
+pitch_keycenter=60
+transpose=-19
+offset=0
+end=19887
+loop_start=10629
+loop_end=19859
+
+<region>
+sample=samples\tp_e5.wav
+lokey=84 hikey=90
+pitch_keycenter=60
+transpose=-28
+offset=0
+end=18582
+loop_start=11853
+loop_end=18554
+
+<region>
+sample=samples\tp_c6.wav
+lokey=91 hikey=108
+pitch_keycenter=60
+transpose=-36
+offset=0
+end=18937
+loop_start=9248
+loop_end=18909
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=6003
+fillfo_depth=-200
+amplfo_delay=20
+fillfo_delay=20
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00214844
+effect1=15
+pitchlfo_depth=10
+pitchlfo_delay=20
+pitchlfo_freq=3.5506
+
+<region>
+sample=samples\tp_e3.wav
+lokey=0 hikey=66
+pitch_keycenter=60
+transpose=-4
+offset=0
+end=18353
+loop_start=7185
+loop_end=18295
+
+<region>
+sample=samples\tp_g3.wav
+lokey=67 hikey=71
+pitch_keycenter=60
+transpose=-7
+offset=0
+end=16821
+loop_start=8026
+loop_end=16793
+
+<region>
+sample=samples\tp_c4.wav
+lokey=72 hikey=75
+pitch_keycenter=60
+transpose=-12
+offset=0
+end=23223
+loop_start=14270
+loop_end=23201
+
+<region>
+sample=samples\tp_g4.wav
+lokey=76 hikey=83
+pitch_keycenter=60
+transpose=-19
+offset=0
+end=19887
+loop_start=10629
+loop_end=19859
+
+<region>
+sample=samples\tp_e5.wav
+lokey=84 hikey=90
+pitch_keycenter=60
+transpose=-28
+offset=0
+end=18582
+loop_start=11853
+loop_end=18554
+
+<region>
+sample=samples\tp_c6.wav
+lokey=91 hikey=108
+pitch_keycenter=60
+transpose=-36
+offset=0
+end=18937
+loop_start=9248
+loop_end=18909
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=5001
+fillfo_depth=-200
+amplfo_delay=20
+fillfo_delay=20
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00244097
+effect1=15
+pitchlfo_depth=10
+pitchlfo_delay=20
+pitchlfo_freq=3.5506
+
+<region>
+sample=samples\tp_e3.wav
+lokey=0 hikey=66
+pitch_keycenter=60
+transpose=-4
+offset=0
+end=18353
+loop_start=7185
+loop_end=18295
+
+<region>
+sample=samples\tp_g3.wav
+lokey=67 hikey=71
+pitch_keycenter=60
+transpose=-7
+offset=0
+end=16821
+loop_start=8026
+loop_end=16793
+
+<region>
+sample=samples\tp_c4.wav
+lokey=72 hikey=75
+pitch_keycenter=60
+transpose=-12
+offset=0
+end=23223
+loop_start=14270
+loop_end=23201
+
+<region>
+sample=samples\tp_g4.wav
+lokey=76 hikey=83
+pitch_keycenter=60
+transpose=-19
+offset=0
+end=19887
+loop_start=10629
+loop_end=19859
+
+<region>
+sample=samples\tp_e5.wav
+lokey=84 hikey=90
+pitch_keycenter=60
+transpose=-28
+offset=0
+end=18582
+loop_start=11853
+loop_end=18554
+
+<region>
+sample=samples\tp_c6.wav
+lokey=91 hikey=108
+pitch_keycenter=60
+transpose=-36
+offset=0
+end=18937
+loop_start=9248
+loop_end=18909
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=4002
+fillfo_depth=-200
+amplfo_delay=20
+fillfo_delay=20
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00272412
+effect1=15
+pitchlfo_depth=10
+pitchlfo_delay=20
+pitchlfo_freq=3.5506
+
+<region>
+sample=samples\tp_e3.wav
+lokey=0 hikey=66
+pitch_keycenter=60
+transpose=-4
+offset=0
+end=18353
+loop_start=7185
+loop_end=18295
+
+<region>
+sample=samples\tp_g3.wav
+lokey=67 hikey=71
+pitch_keycenter=60
+transpose=-7
+offset=0
+end=16821
+loop_start=8026
+loop_end=16793
+
+<region>
+sample=samples\tp_c4.wav
+lokey=72 hikey=75
+pitch_keycenter=60
+transpose=-12
+offset=0
+end=23223
+loop_start=14270
+loop_end=23201
+
+<region>
+sample=samples\tp_g4.wav
+lokey=76 hikey=83
+pitch_keycenter=60
+transpose=-19
+offset=0
+end=19887
+loop_start=10629
+loop_end=19859
+
+<region>
+sample=samples\tp_e5.wav
+lokey=84 hikey=90
+pitch_keycenter=60
+transpose=-28
+offset=0
+end=18582
+loop_start=11853
+loop_end=18554
+
+<region>
+sample=samples\tp_c6.wav
+lokey=91 hikey=108
+pitch_keycenter=60
+transpose=-36
+offset=0
+end=18937
+loop_start=9248
+loop_end=18909
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=3001
+fillfo_depth=-200
+amplfo_delay=20
+fillfo_delay=20
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00302784
+effect1=15
+pitchlfo_depth=10
+pitchlfo_delay=20
+pitchlfo_freq=3.5506
+
+<region>
+sample=samples\tp_e3.wav
+lokey=0 hikey=66
+pitch_keycenter=60
+transpose=-4
+offset=0
+end=18353
+loop_start=7185
+loop_end=18295
+
+<region>
+sample=samples\tp_g3.wav
+lokey=67 hikey=71
+pitch_keycenter=60
+transpose=-7
+offset=0
+end=16821
+loop_start=8026
+loop_end=16793
+
+<region>
+sample=samples\tp_c4.wav
+lokey=72 hikey=75
+pitch_keycenter=60
+transpose=-12
+offset=0
+end=23223
+loop_start=14270
+loop_end=23201
+
+<region>
+sample=samples\tp_g4.wav
+lokey=76 hikey=83
+pitch_keycenter=60
+transpose=-19
+offset=0
+end=19887
+loop_start=10629
+loop_end=19859
+
+<region>
+sample=samples\tp_e5.wav
+lokey=84 hikey=90
+pitch_keycenter=60
+transpose=-28
+offset=0
+end=18582
+loop_start=11853
+loop_end=18554
+
+<region>
+sample=samples\tp_c6.wav
+lokey=91 hikey=108
+pitch_keycenter=60
+transpose=-36
+offset=0
+end=18937
+loop_start=9248
+loop_end=18909
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=2001
+fillfo_depth=-200
+amplfo_delay=20
+fillfo_delay=20
+amplfo_freq=3.5506
+fillfo_freq=3.5506
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00331143
+effect1=15
+pitchlfo_depth=10
+pitchlfo_delay=20
+pitchlfo_freq=3.5506
+
+<region>
+sample=samples\tp_e3.wav
+lokey=0 hikey=66
+pitch_keycenter=60
+transpose=-4
+offset=0
+end=18353
+loop_start=7185
+loop_end=18295
+
+<region>
+sample=samples\tp_g3.wav
+lokey=67 hikey=71
+pitch_keycenter=60
+transpose=-7
+offset=0
+end=16821
+loop_start=8026
+loop_end=16793
+
+<region>
+sample=samples\tp_c4.wav
+lokey=72 hikey=75
+pitch_keycenter=60
+transpose=-12
+offset=0
+end=23223
+loop_start=14270
+loop_end=23201
+
+<region>
+sample=samples\tp_g4.wav
+lokey=76 hikey=83
+pitch_keycenter=60
+transpose=-19
+offset=0
+end=19887
+loop_start=10629
+loop_end=19859
+
+<region>
+sample=samples\tp_e5.wav
+lokey=84 hikey=90
+pitch_keycenter=60
+transpose=-28
+offset=0
+end=18582
+loop_start=11853
+loop_end=18554
+
+<region>
+sample=samples\tp_c6.wav
+lokey=91 hikey=108
+pitch_keycenter=60
+transpose=-36
+offset=0
+end=18937
+loop_start=9248
+loop_end=18909

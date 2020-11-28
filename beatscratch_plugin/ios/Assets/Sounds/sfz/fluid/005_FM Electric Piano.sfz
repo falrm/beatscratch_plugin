@@ -1,0 +1,2716 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=7999
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1
+fileg_decay=1
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.300062
+ampeg_decay=3.00008
+ampeg_sustain=6.30957e-06
+ampeg_release=0.5
+volume=-4.4464
+loop_mode=loop_continuous
+effect2=22
+pan=24
+effect1=7
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+tune=7
+
+<region>
+sample=samples\DX7 Strike 1.wav
+lokey=0 hikey=43
+pitch_keycenter=38
+fil_type=lpf_2p
+cutoff=11998
+pan=-6
+volume=-2.6996
+offset=0
+end=28674
+loop_start=27860
+loop_end=28609
+
+<region>
+sample=samples\DX7 Strike 2.wav
+lokey=44 hikey=55
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=19914
+pan=6
+offset=0
+end=27919
+loop_start=26327
+loop_end=27828
+volume=-4.4464
+
+<region>
+sample=samples\DX7 Strike 3.wav
+lokey=56 hikey=67
+pitch_keycenter=62
+fil_type=lpf_2p
+cutoff=19914
+pan=18
+offset=0
+end=32339
+loop_start=32085
+loop_end=32272
+volume=-4.4464
+
+<region>
+sample=samples\DX7 Strike 4.wav
+lokey=68 hikey=79
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=19914
+pan=30
+ampeg_hold=0.001
+offset=0
+end=31311
+loop_start=30540
+loop_end=31177
+volume=-4.4464
+
+<region>
+sample=samples\DX7 Strike 5.wav
+lokey=80 hikey=91
+pitch_keycenter=86
+fil_type=lpf_2p
+cutoff=19914
+pan=42
+ampeg_hold=0.001
+ampeg_decay=2
+volume=-3.6524
+offset=0
+end=33052
+loop_start=30333
+loop_end=32923
+
+<region>
+sample=samples\DX7 Strike 6.wav
+lokey=92 hikey=127
+pitch_keycenter=98
+fil_type=lpf_2p
+cutoff=19914
+pan=54
+ampeg_hold=0.001
+ampeg_decay=1
+volume=-3.0172
+offset=0
+end=22037
+loop_start=20615
+loop_end=21947
+
+<group>
+lovel=114 hivel=120
+fil_type=lpf_2p
+cutoff=7999
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1
+fileg_decay=1
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.300062
+ampeg_decay=3.00008
+ampeg_sustain=6.30957e-06
+ampeg_release=0.5
+volume=-5.2404
+loop_mode=loop_continuous
+effect2=22
+pan=24
+effect1=7
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+tune=7
+
+<region>
+sample=samples\DX7 Strike 1.wav
+lokey=0 hikey=43
+pitch_keycenter=38
+fil_type=lpf_2p
+cutoff=11998
+pan=-6
+volume=-3.4936
+offset=0
+end=28674
+loop_start=27860
+loop_end=28609
+
+<region>
+sample=samples\DX7 Strike 2.wav
+lokey=44 hikey=55
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=19914
+pan=6
+offset=0
+end=27919
+loop_start=26327
+loop_end=27828
+volume=-5.2404
+
+<region>
+sample=samples\DX7 Strike 3.wav
+lokey=56 hikey=67
+pitch_keycenter=62
+fil_type=lpf_2p
+cutoff=19914
+pan=18
+offset=0
+end=32339
+loop_start=32085
+loop_end=32272
+volume=-5.2404
+
+<region>
+sample=samples\DX7 Strike 4.wav
+lokey=68 hikey=79
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=19914
+pan=30
+ampeg_hold=0.001
+offset=0
+end=31311
+loop_start=30540
+loop_end=31177
+volume=-5.2404
+
+<region>
+sample=samples\DX7 Strike 5.wav
+lokey=80 hikey=91
+pitch_keycenter=86
+fil_type=lpf_2p
+cutoff=19914
+pan=42
+ampeg_hold=0.001
+ampeg_decay=2
+volume=-4.4464
+offset=0
+end=33052
+loop_start=30333
+loop_end=32923
+
+<region>
+sample=samples\DX7 Strike 6.wav
+lokey=92 hikey=127
+pitch_keycenter=98
+fil_type=lpf_2p
+cutoff=19914
+pan=54
+ampeg_hold=0.001
+ampeg_decay=1
+volume=-3.8112
+offset=0
+end=22037
+loop_start=20615
+loop_end=21947
+
+<group>
+lovel=107 hivel=113
+fil_type=lpf_2p
+cutoff=7999
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1
+fileg_decay=1
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.300062
+ampeg_decay=3.00008
+ampeg_sustain=6.30957e-06
+ampeg_release=0.5
+volume=-5.8756
+loop_mode=loop_continuous
+effect2=22
+pan=24
+effect1=7
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+tune=7
+
+<region>
+sample=samples\DX7 Strike 1.wav
+lokey=0 hikey=43
+pitch_keycenter=38
+fil_type=lpf_2p
+cutoff=11998
+pan=-6
+volume=-4.1288
+offset=0
+end=28674
+loop_start=27860
+loop_end=28609
+
+<region>
+sample=samples\DX7 Strike 2.wav
+lokey=44 hikey=55
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=19914
+pan=6
+offset=0
+end=27919
+loop_start=26327
+loop_end=27828
+volume=-5.8756
+
+<region>
+sample=samples\DX7 Strike 3.wav
+lokey=56 hikey=67
+pitch_keycenter=62
+fil_type=lpf_2p
+cutoff=19914
+pan=18
+offset=0
+end=32339
+loop_start=32085
+loop_end=32272
+volume=-5.8756
+
+<region>
+sample=samples\DX7 Strike 4.wav
+lokey=68 hikey=79
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=19914
+pan=30
+ampeg_hold=0.001
+offset=0
+end=31311
+loop_start=30540
+loop_end=31177
+volume=-5.8756
+
+<region>
+sample=samples\DX7 Strike 5.wav
+lokey=80 hikey=91
+pitch_keycenter=86
+fil_type=lpf_2p
+cutoff=19914
+pan=42
+ampeg_hold=0.001
+ampeg_decay=2
+volume=-5.0816
+offset=0
+end=33052
+loop_start=30333
+loop_end=32923
+
+<region>
+sample=samples\DX7 Strike 6.wav
+lokey=92 hikey=127
+pitch_keycenter=98
+fil_type=lpf_2p
+cutoff=19914
+pan=54
+ampeg_hold=0.001
+ampeg_decay=1
+volume=-4.4464
+offset=0
+end=22037
+loop_start=20615
+loop_end=21947
+
+<group>
+lovel=99 hivel=106
+fil_type=lpf_2p
+cutoff=7999
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1
+fileg_decay=1
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.300062
+ampeg_decay=3.00008
+ampeg_sustain=6.30957e-06
+ampeg_release=0.5
+volume=-6.6696
+loop_mode=loop_continuous
+effect2=22
+pan=24
+effect1=7
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+tune=7
+
+<region>
+sample=samples\DX7 Strike 1.wav
+lokey=0 hikey=43
+pitch_keycenter=38
+fil_type=lpf_2p
+cutoff=11998
+pan=-6
+volume=-4.9228
+offset=0
+end=28674
+loop_start=27860
+loop_end=28609
+
+<region>
+sample=samples\DX7 Strike 2.wav
+lokey=44 hikey=55
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=19914
+pan=6
+offset=0
+end=27919
+loop_start=26327
+loop_end=27828
+volume=-6.6696
+
+<region>
+sample=samples\DX7 Strike 3.wav
+lokey=56 hikey=67
+pitch_keycenter=62
+fil_type=lpf_2p
+cutoff=19914
+pan=18
+offset=0
+end=32339
+loop_start=32085
+loop_end=32272
+volume=-6.6696
+
+<region>
+sample=samples\DX7 Strike 4.wav
+lokey=68 hikey=79
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=19914
+pan=30
+ampeg_hold=0.001
+offset=0
+end=31311
+loop_start=30540
+loop_end=31177
+volume=-6.6696
+
+<region>
+sample=samples\DX7 Strike 5.wav
+lokey=80 hikey=91
+pitch_keycenter=86
+fil_type=lpf_2p
+cutoff=19914
+pan=42
+ampeg_hold=0.001
+ampeg_decay=2
+volume=-5.8756
+offset=0
+end=33052
+loop_start=30333
+loop_end=32923
+
+<region>
+sample=samples\DX7 Strike 6.wav
+lokey=92 hikey=127
+pitch_keycenter=98
+fil_type=lpf_2p
+cutoff=19914
+pan=54
+ampeg_hold=0.001
+ampeg_decay=1
+volume=-5.2404
+offset=0
+end=22037
+loop_start=20615
+loop_end=21947
+
+<group>
+lovel=92 hivel=98
+fil_type=lpf_2p
+cutoff=7999
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1
+fileg_decay=1
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.300062
+ampeg_decay=3.00008
+ampeg_sustain=6.30957e-06
+ampeg_release=0.5
+volume=-7.3048
+loop_mode=loop_continuous
+effect2=22
+pan=24
+effect1=7
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+tune=7
+
+<region>
+sample=samples\DX7 Strike 1.wav
+lokey=0 hikey=43
+pitch_keycenter=38
+fil_type=lpf_2p
+cutoff=11998
+pan=-6
+volume=-5.558
+offset=0
+end=28674
+loop_start=27860
+loop_end=28609
+
+<region>
+sample=samples\DX7 Strike 2.wav
+lokey=44 hikey=55
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=19914
+pan=6
+offset=0
+end=27919
+loop_start=26327
+loop_end=27828
+volume=-7.3048
+
+<region>
+sample=samples\DX7 Strike 3.wav
+lokey=56 hikey=67
+pitch_keycenter=62
+fil_type=lpf_2p
+cutoff=19914
+pan=18
+offset=0
+end=32339
+loop_start=32085
+loop_end=32272
+volume=-7.3048
+
+<region>
+sample=samples\DX7 Strike 4.wav
+lokey=68 hikey=79
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=19914
+pan=30
+ampeg_hold=0.001
+offset=0
+end=31311
+loop_start=30540
+loop_end=31177
+volume=-7.3048
+
+<region>
+sample=samples\DX7 Strike 5.wav
+lokey=80 hikey=91
+pitch_keycenter=86
+fil_type=lpf_2p
+cutoff=19914
+pan=42
+ampeg_hold=0.001
+ampeg_decay=2
+volume=-6.5108
+offset=0
+end=33052
+loop_start=30333
+loop_end=32923
+
+<region>
+sample=samples\DX7 Strike 6.wav
+lokey=92 hikey=127
+pitch_keycenter=98
+fil_type=lpf_2p
+cutoff=19914
+pan=54
+ampeg_hold=0.001
+ampeg_decay=1
+volume=-5.8756
+offset=0
+end=22037
+loop_start=20615
+loop_end=21947
+
+<group>
+lovel=83 hivel=91
+fil_type=lpf_2p
+cutoff=7999
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1
+fileg_decay=1
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.300062
+ampeg_decay=3.00008
+ampeg_sustain=6.30957e-06
+ampeg_release=0.5
+volume=-8.0988
+loop_mode=loop_continuous
+effect2=22
+pan=24
+effect1=7
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+tune=7
+
+<region>
+sample=samples\DX7 Strike 1.wav
+lokey=0 hikey=43
+pitch_keycenter=38
+fil_type=lpf_2p
+cutoff=11998
+pan=-6
+volume=-6.352
+offset=0
+end=28674
+loop_start=27860
+loop_end=28609
+
+<region>
+sample=samples\DX7 Strike 2.wav
+lokey=44 hikey=55
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=19914
+pan=6
+offset=0
+end=27919
+loop_start=26327
+loop_end=27828
+volume=-8.0988
+
+<region>
+sample=samples\DX7 Strike 3.wav
+lokey=56 hikey=67
+pitch_keycenter=62
+fil_type=lpf_2p
+cutoff=19914
+pan=18
+offset=0
+end=32339
+loop_start=32085
+loop_end=32272
+volume=-8.0988
+
+<region>
+sample=samples\DX7 Strike 4.wav
+lokey=68 hikey=79
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=19914
+pan=30
+ampeg_hold=0.001
+offset=0
+end=31311
+loop_start=30540
+loop_end=31177
+volume=-8.0988
+
+<region>
+sample=samples\DX7 Strike 5.wav
+lokey=80 hikey=91
+pitch_keycenter=86
+fil_type=lpf_2p
+cutoff=19914
+pan=42
+ampeg_hold=0.001
+ampeg_decay=2
+volume=-7.3048
+offset=0
+end=33052
+loop_start=30333
+loop_end=32923
+
+<region>
+sample=samples\DX7 Strike 6.wav
+lokey=92 hikey=127
+pitch_keycenter=98
+fil_type=lpf_2p
+cutoff=19914
+pan=54
+ampeg_hold=0.001
+ampeg_decay=1
+volume=-6.6696
+offset=0
+end=22037
+loop_start=20615
+loop_end=21947
+
+<group>
+lovel=71 hivel=82
+fil_type=lpf_2p
+cutoff=7999
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1
+fileg_decay=1
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.300062
+ampeg_decay=3.00008
+ampeg_sustain=6.30957e-06
+ampeg_release=0.5
+volume=-8.734
+loop_mode=loop_continuous
+effect2=22
+pan=24
+effect1=7
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+tune=7
+
+<region>
+sample=samples\DX7 Strike 1.wav
+lokey=0 hikey=43
+pitch_keycenter=38
+fil_type=lpf_2p
+cutoff=11998
+pan=-6
+volume=-6.9872
+offset=0
+end=28674
+loop_start=27860
+loop_end=28609
+
+<region>
+sample=samples\DX7 Strike 2.wav
+lokey=44 hikey=55
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=19914
+pan=6
+offset=0
+end=27919
+loop_start=26327
+loop_end=27828
+volume=-8.734
+
+<region>
+sample=samples\DX7 Strike 3.wav
+lokey=56 hikey=67
+pitch_keycenter=62
+fil_type=lpf_2p
+cutoff=19914
+pan=18
+offset=0
+end=32339
+loop_start=32085
+loop_end=32272
+volume=-8.734
+
+<region>
+sample=samples\DX7 Strike 4.wav
+lokey=68 hikey=79
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=19914
+pan=30
+ampeg_hold=0.001
+offset=0
+end=31311
+loop_start=30540
+loop_end=31177
+volume=-8.734
+
+<region>
+sample=samples\DX7 Strike 5.wav
+lokey=80 hikey=91
+pitch_keycenter=86
+fil_type=lpf_2p
+cutoff=19914
+pan=42
+ampeg_hold=0.001
+ampeg_decay=2
+volume=-7.94
+offset=0
+end=33052
+loop_start=30333
+loop_end=32923
+
+<region>
+sample=samples\DX7 Strike 6.wav
+lokey=92 hikey=127
+pitch_keycenter=98
+fil_type=lpf_2p
+cutoff=19914
+pan=54
+ampeg_hold=0.001
+ampeg_decay=1
+volume=-7.3048
+offset=0
+end=22037
+loop_start=20615
+loop_end=21947
+
+<group>
+lovel=59 hivel=70
+fil_type=lpf_2p
+cutoff=7999
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1
+fileg_decay=1
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.300062
+ampeg_decay=3.00008
+ampeg_sustain=6.30957e-06
+ampeg_release=0.5
+volume=-9.528
+loop_mode=loop_continuous
+effect2=22
+pan=24
+effect1=7
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+tune=7
+
+<region>
+sample=samples\DX7 Strike 1.wav
+lokey=0 hikey=43
+pitch_keycenter=38
+fil_type=lpf_2p
+cutoff=11998
+pan=-6
+volume=-7.7812
+offset=0
+end=28674
+loop_start=27860
+loop_end=28609
+
+<region>
+sample=samples\DX7 Strike 2.wav
+lokey=44 hikey=55
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=19914
+pan=6
+offset=0
+end=27919
+loop_start=26327
+loop_end=27828
+volume=-9.528
+
+<region>
+sample=samples\DX7 Strike 3.wav
+lokey=56 hikey=67
+pitch_keycenter=62
+fil_type=lpf_2p
+cutoff=19914
+pan=18
+offset=0
+end=32339
+loop_start=32085
+loop_end=32272
+volume=-9.528
+
+<region>
+sample=samples\DX7 Strike 4.wav
+lokey=68 hikey=79
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=19914
+pan=30
+ampeg_hold=0.001
+offset=0
+end=31311
+loop_start=30540
+loop_end=31177
+volume=-9.528
+
+<region>
+sample=samples\DX7 Strike 5.wav
+lokey=80 hikey=91
+pitch_keycenter=86
+fil_type=lpf_2p
+cutoff=19914
+pan=42
+ampeg_hold=0.001
+ampeg_decay=2
+volume=-8.734
+offset=0
+end=33052
+loop_start=30333
+loop_end=32923
+
+<region>
+sample=samples\DX7 Strike 6.wav
+lokey=92 hikey=127
+pitch_keycenter=98
+fil_type=lpf_2p
+cutoff=19914
+pan=54
+ampeg_hold=0.001
+ampeg_decay=1
+volume=-8.0988
+offset=0
+end=22037
+loop_start=20615
+loop_end=21947
+
+<group>
+lovel=46 hivel=58
+fil_type=lpf_2p
+cutoff=7999
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1
+fileg_decay=1
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.300062
+ampeg_decay=3.00008
+ampeg_sustain=6.30957e-06
+ampeg_release=0.5
+volume=-10.1632
+loop_mode=loop_continuous
+effect2=22
+pan=24
+effect1=7
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+tune=7
+
+<region>
+sample=samples\DX7 Strike 1.wav
+lokey=0 hikey=43
+pitch_keycenter=38
+fil_type=lpf_2p
+cutoff=11998
+pan=-6
+volume=-8.4164
+offset=0
+end=28674
+loop_start=27860
+loop_end=28609
+
+<region>
+sample=samples\DX7 Strike 2.wav
+lokey=44 hikey=55
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=19914
+pan=6
+offset=0
+end=27919
+loop_start=26327
+loop_end=27828
+volume=-10.1632
+
+<region>
+sample=samples\DX7 Strike 3.wav
+lokey=56 hikey=67
+pitch_keycenter=62
+fil_type=lpf_2p
+cutoff=19914
+pan=18
+offset=0
+end=32339
+loop_start=32085
+loop_end=32272
+volume=-10.1632
+
+<region>
+sample=samples\DX7 Strike 4.wav
+lokey=68 hikey=79
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=19914
+pan=30
+ampeg_hold=0.001
+offset=0
+end=31311
+loop_start=30540
+loop_end=31177
+volume=-10.1632
+
+<region>
+sample=samples\DX7 Strike 5.wav
+lokey=80 hikey=91
+pitch_keycenter=86
+fil_type=lpf_2p
+cutoff=19914
+pan=42
+ampeg_hold=0.001
+ampeg_decay=2
+volume=-9.3692
+offset=0
+end=33052
+loop_start=30333
+loop_end=32923
+
+<region>
+sample=samples\DX7 Strike 6.wav
+lokey=92 hikey=127
+pitch_keycenter=98
+fil_type=lpf_2p
+cutoff=19914
+pan=54
+ampeg_hold=0.001
+ampeg_decay=1
+volume=-8.734
+offset=0
+end=22037
+loop_start=20615
+loop_end=21947
+
+<group>
+lovel=0 hivel=45
+fil_type=lpf_2p
+cutoff=7999
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1
+fileg_decay=1
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.300062
+ampeg_decay=3.00008
+ampeg_sustain=6.30957e-06
+ampeg_release=0.5
+volume=-10.9572
+loop_mode=loop_continuous
+effect2=22
+pan=24
+effect1=7
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+tune=7
+
+<region>
+sample=samples\DX7 Strike 1.wav
+lokey=0 hikey=43
+pitch_keycenter=38
+fil_type=lpf_2p
+cutoff=11998
+pan=-6
+volume=-9.2104
+offset=0
+end=28674
+loop_start=27860
+loop_end=28609
+
+<region>
+sample=samples\DX7 Strike 2.wav
+lokey=44 hikey=55
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=19914
+pan=6
+offset=0
+end=27919
+loop_start=26327
+loop_end=27828
+volume=-10.9572
+
+<region>
+sample=samples\DX7 Strike 3.wav
+lokey=56 hikey=67
+pitch_keycenter=62
+fil_type=lpf_2p
+cutoff=19914
+pan=18
+offset=0
+end=32339
+loop_start=32085
+loop_end=32272
+volume=-10.9572
+
+<region>
+sample=samples\DX7 Strike 4.wav
+lokey=68 hikey=79
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=19914
+pan=30
+ampeg_hold=0.001
+offset=0
+end=31311
+loop_start=30540
+loop_end=31177
+volume=-10.9572
+
+<region>
+sample=samples\DX7 Strike 5.wav
+lokey=80 hikey=91
+pitch_keycenter=86
+fil_type=lpf_2p
+cutoff=19914
+pan=42
+ampeg_hold=0.001
+ampeg_decay=2
+volume=-10.1632
+offset=0
+end=33052
+loop_start=30333
+loop_end=32923
+
+<region>
+sample=samples\DX7 Strike 6.wav
+lokey=92 hikey=127
+pitch_keycenter=98
+fil_type=lpf_2p
+cutoff=19914
+pan=54
+ampeg_hold=0.001
+ampeg_decay=1
+volume=-9.528
+offset=0
+end=22037
+loop_start=20615
+loop_end=21947
+
+<group>
+lokey=54 hikey=74
+lovel=117 hivel=127
+fil_type=lpf_2p
+cutoff=260
+resonance=6
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-2.2232
+loop_mode=loop_continuous
+fileg_depth=3400
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=54 hikey=56
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=260
+pan=-24
+offset=0
+end=9352
+volume=-2.2232
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=57 hikey=68
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=325
+offset=0
+end=9352
+volume=-2.2232
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=69 hikey=74
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=487
+resonance=5
+pan=-4
+volume=-2.6996
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<group>
+lokey=54 hikey=74
+lovel=106 hivel=116
+fil_type=lpf_2p
+cutoff=240
+resonance=6
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-1.9056
+loop_mode=loop_continuous
+fileg_depth=3100
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=54 hikey=56
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=240
+pan=-24
+offset=0
+end=9352
+volume=-1.9056
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=57 hikey=68
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=300
+offset=0
+end=9352
+volume=-1.9056
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=69 hikey=74
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=450
+resonance=5
+pan=-4
+volume=-2.382
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<group>
+lokey=54 hikey=74
+lovel=93 hivel=105
+fil_type=lpf_2p
+cutoff=220
+resonance=6
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-1.588
+loop_mode=loop_continuous
+fileg_depth=2800
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=54 hikey=56
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=220
+pan=-24
+offset=0
+end=9352
+volume=-1.588
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=57 hikey=68
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=275
+offset=0
+end=9352
+volume=-1.588
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=69 hikey=74
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=412
+resonance=5
+pan=-4
+volume=-2.0644
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<group>
+lokey=54 hikey=74
+lovel=79 hivel=92
+fil_type=lpf_2p
+cutoff=200
+resonance=6
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-1.2704
+loop_mode=loop_continuous
+fileg_depth=2500
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=54 hikey=56
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=200
+pan=-24
+offset=0
+end=9352
+volume=-1.2704
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=57 hikey=68
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=250
+offset=0
+end=9352
+volume=-1.2704
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=69 hikey=74
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=375
+resonance=5
+pan=-4
+volume=-1.7468
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<group>
+lokey=54 hikey=74
+lovel=67 hivel=78
+fil_type=lpf_2p
+cutoff=180
+resonance=6
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-0.9528
+loop_mode=loop_continuous
+fileg_depth=2200
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=54 hikey=56
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=180
+pan=-24
+offset=0
+end=9352
+volume=-0.9528
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=57 hikey=68
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=225
+offset=0
+end=9352
+volume=-0.9528
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=69 hikey=74
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=338
+resonance=5
+pan=-4
+volume=-1.4292
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<group>
+lokey=54 hikey=74
+lovel=38 hivel=66
+fil_type=lpf_2p
+cutoff=160
+resonance=6
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-0.6352
+loop_mode=loop_continuous
+fileg_depth=1900
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=54 hikey=56
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=160
+pan=-24
+offset=0
+end=9352
+volume=-0.6352
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=57 hikey=68
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=200
+offset=0
+end=9352
+volume=-0.6352
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=69 hikey=74
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=300
+resonance=5
+pan=-4
+volume=-1.1116
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<group>
+lokey=54 hikey=74
+lovel=0 hivel=37
+fil_type=lpf_2p
+cutoff=140
+resonance=6
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-0.3176
+loop_mode=loop_continuous
+fileg_depth=1600
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=54 hikey=56
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=140
+pan=-24
+offset=0
+end=9352
+volume=-0.3176
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=57 hikey=68
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=175
+offset=0
+end=9352
+volume=-0.3176
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=69 hikey=74
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=263
+resonance=5
+pan=-4
+volume=-0.794
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<group>
+lokey=75 hikey=127
+lovel=106 hivel=127
+fil_type=lpf_2p
+cutoff=220
+resonance=8
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-1.588
+loop_mode=loop_continuous
+fileg_depth=2800
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=75 hikey=80
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=412
+resonance=7
+pan=-4
+volume=-2.0644
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=81 hikey=92
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=605
+pan=6
+volume=-2.2232
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=93 hikey=108
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=798
+resonance=9
+pan=16
+volume=-2.5408
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<group>
+lokey=75 hikey=127
+lovel=85 hivel=105
+fil_type=lpf_2p
+cutoff=200
+resonance=8
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-1.2704
+loop_mode=loop_continuous
+fileg_depth=2500
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=75 hikey=80
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=375
+resonance=7
+pan=-4
+volume=-1.7468
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=81 hikey=92
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=550
+pan=6
+volume=-1.9056
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=93 hikey=108
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=725
+resonance=9
+pan=16
+volume=-2.2232
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<group>
+lokey=75 hikey=127
+lovel=61 hivel=84
+fil_type=lpf_2p
+cutoff=180
+resonance=8
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-0.9528
+loop_mode=loop_continuous
+fileg_depth=2200
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=75 hikey=80
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=338
+resonance=7
+pan=-4
+volume=-1.4292
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=81 hikey=92
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=495
+pan=6
+volume=-1.588
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=93 hikey=108
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=653
+resonance=9
+pan=16
+volume=-1.9056
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<group>
+lokey=75 hikey=127
+lovel=34 hivel=60
+fil_type=lpf_2p
+cutoff=160
+resonance=8
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-0.6352
+loop_mode=loop_continuous
+fileg_depth=1900
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=75 hikey=80
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=300
+resonance=7
+pan=-4
+volume=-1.1116
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=81 hikey=92
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=440
+pan=6
+volume=-1.2704
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=93 hikey=108
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=580
+resonance=9
+pan=16
+volume=-1.588
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<group>
+lokey=75 hikey=127
+lovel=0 hivel=33
+fil_type=lpf_2p
+cutoff=140
+resonance=8
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-0.3176
+loop_mode=loop_continuous
+fileg_depth=1600
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=75 hikey=80
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=263
+resonance=7
+pan=-4
+volume=-0.794
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=81 hikey=92
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=385
+pan=6
+volume=-0.9528
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=93 hikey=108
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=508
+resonance=9
+pan=16
+volume=-1.2704
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+
+<group>
+lokey=0 hikey=53
+lovel=117 hivel=127
+fil_type=lpf_2p
+cutoff=260
+resonance=4
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-2.2232
+loop_mode=loop_continuous
+fileg_depth=3400
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=0 hikey=32
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=97
+pan=-44
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-2.2232
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=33 hikey=44
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=162
+pan=-34
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-2.2232
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=45 hikey=53
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=260
+pan=-24
+offset=0
+end=9352
+volume=-2.2232
+
+<group>
+lokey=0 hikey=53
+lovel=106 hivel=116
+fil_type=lpf_2p
+cutoff=240
+resonance=4
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-1.9056
+loop_mode=loop_continuous
+fileg_depth=3100
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=0 hikey=32
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=90
+pan=-44
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-1.9056
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=33 hikey=44
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=150
+pan=-34
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-1.9056
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=45 hikey=53
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=240
+pan=-24
+offset=0
+end=9352
+volume=-1.9056
+
+<group>
+lokey=0 hikey=53
+lovel=93 hivel=105
+fil_type=lpf_2p
+cutoff=220
+resonance=4
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-1.588
+loop_mode=loop_continuous
+fileg_depth=2800
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=0 hikey=32
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=83
+pan=-44
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-1.588
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=33 hikey=44
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=137
+pan=-34
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-1.588
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=45 hikey=53
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=220
+pan=-24
+offset=0
+end=9352
+volume=-1.588
+
+<group>
+lokey=0 hikey=53
+lovel=79 hivel=92
+fil_type=lpf_2p
+cutoff=200
+resonance=4
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-1.2704
+loop_mode=loop_continuous
+fileg_depth=2500
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=0 hikey=32
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=75
+pan=-44
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-1.2704
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=33 hikey=44
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=125
+pan=-34
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-1.2704
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=45 hikey=53
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=200
+pan=-24
+offset=0
+end=9352
+volume=-1.2704
+
+<group>
+lokey=0 hikey=53
+lovel=67 hivel=78
+fil_type=lpf_2p
+cutoff=180
+resonance=4
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-0.9528
+loop_mode=loop_continuous
+fileg_depth=2200
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=0 hikey=32
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=68
+pan=-44
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-0.9528
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=33 hikey=44
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=113
+pan=-34
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-0.9528
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=45 hikey=53
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=180
+pan=-24
+offset=0
+end=9352
+volume=-0.9528
+
+<group>
+lokey=0 hikey=53
+lovel=38 hivel=66
+fil_type=lpf_2p
+cutoff=160
+resonance=4
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-0.6352
+loop_mode=loop_continuous
+fileg_depth=1900
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=0 hikey=32
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=60
+pan=-44
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-0.6352
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=33 hikey=44
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=100
+pan=-34
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-0.6352
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=45 hikey=53
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=160
+pan=-24
+offset=0
+end=9352
+volume=-0.6352
+
+<group>
+lokey=0 hikey=53
+lovel=0 hivel=37
+fil_type=lpf_2p
+cutoff=140
+resonance=4
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=1.50004
+fileg_decay=1.50004
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_hold=0.001
+ampeg_decay=19.9964
+ampeg_release=0.5
+volume=-0.3176
+loop_mode=loop_continuous
+fileg_depth=1600
+ampeg_holdcc133=0 // sfz v2
+ampeg_decaycc133=0 // sfz v2
+transpose=0
+tune=0
+effect2=15
+effect1=7
+pan=-14
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+fileg_sustain=20
+pitcheg_sustain=20
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_sustain=0.00158489
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=0 hikey=32
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=53
+pan=-44
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-0.3176
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=33 hikey=44
+pitch_keycenter=60
+fil_type=lpf_2p
+cutoff=88
+pan=-34
+offset=0
+end=9352
+loop_start=2246
+loop_end=9321
+volume=-0.3176
+
+<region>
+sample=samples\DX7 Wave.wav
+lokey=45 hikey=53
+pitch_keycenter=60
+loop_start=2246
+loop_end=9321
+fil_type=lpf_2p
+cutoff=140
+pan=-24
+offset=0
+end=9352
+volume=-0.3176

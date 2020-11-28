@@ -1,0 +1,70 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+pitcheg_attack=0.300062
+fileg_attack=0.300062
+pitcheg_decay=1
+fileg_decay=1
+fileg_sustain=40
+pitcheg_sustain=40
+pitcheg_release=0.100018
+fileg_release=0.100018
+ampeg_decay=1
+ampeg_release=0.5
+loop_mode=no_loop
+effect2=50
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Sbrass C5(L).wav
+pitch_keycenter=72
+fil_type=lpf_2p
+cutoff=1580
+offset=0
+end=73311
+loop_start=31035
+loop_end=73196
+
+<region>
+sample=samples\Chiff C7.wav
+pitch_keycenter=84
+fil_type=lpf_2p
+cutoff=11603
+fileg_depth=1000
+ampeg_decay=1
+ampeg_sustain=15.8489
+ampeg_release=0.456125
+loop_mode=loop_continuous
+offset=0
+end=2827
+loop_start=2492
+loop_end=2824
+
+<region>
+sample=samples\Chiffer Drone.wav
+pitch_keycenter=93
+amplfo_depth=-2
+amplfo_freq=0.999813
+fillfo_freq=0.999813
+ampeg_hold=0.00799974
+ampeg_sustain=31.6228
+ampeg_release=0.5
+loop_mode=loop_continuous
+offset=0
+end=9908
+loop_start=9830
+loop_end=9904
+pitchlfo_depth=2
+pitchlfo_freq=0.999813
+volume=-2

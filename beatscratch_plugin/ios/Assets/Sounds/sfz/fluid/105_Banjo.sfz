@@ -1,0 +1,90 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+ampeg_hold=0.00599996
+ampeg_sustain=0.001
+ampeg_release=9.99818
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Banjo 1.wav
+lokey=0 hikey=52
+pitch_keycenter=50
+ampeg_decay=19.9964
+tune=-13
+loop_mode=loop_continuous
+offset=0
+end=74046
+loop_start=71942
+loop_end=74024
+
+<region>
+sample=samples\Banjo 2.wav
+lokey=53 hikey=58
+pitch_keycenter=55
+ampeg_decay=17.0004
+tune=-13
+loop_mode=loop_continuous
+offset=0
+end=88902
+loop_start=88184
+loop_end=88853
+
+<region>
+sample=samples\Banjo 3.wav
+lokey=59 hikey=62
+pitch_keycenter=59
+ampeg_decay=14.0014
+tune=-8
+loop_mode=loop_continuous
+offset=0
+end=80391
+loop_start=78873
+loop_end=80296
+
+<region>
+sample=samples\Banjo 4.wav
+lokey=63 hikey=69
+pitch_keycenter=66
+ampeg_decay=10.998
+tune=-32
+loop_mode=loop_continuous
+offset=0
+end=56923
+loop_start=56507
+loop_end=56857
+
+<region>
+sample=samples\Banjo 5.wav
+lokey=70 hikey=73
+pitch_keycenter=62
+ampeg_decay=7.99999
+tune=-21
+loop_mode=loop_continuous
+offset=0
+end=73151
+loop_start=71867
+loop_end=73054
+
+<region>
+sample=samples\Banjo 6.wav
+lokey=74 hikey=127
+pitch_keycenter=74
+ampeg_decay=6.00015
+tune=-21
+offset=0
+end=36574
+loop_start=35932
+loop_end=36526

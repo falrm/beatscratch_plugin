@@ -1,0 +1,143 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+ampeg_sustain=0.001
+volume=-1.1116
+pitch_keytrack=20
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Orch Bass Drum(L).wav
+pitch_keycenter=36
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=7999
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=14.9977
+ampeg_release=14.9977
+offset=0
+end=97791
+loop_start=8
+loop_end=97791
+volume=-1.1116
+
+<region>
+sample=samples\Orch Bass Drum(L).wav
+pitch_keycenter=36
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=7502
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00199994
+ampeg_decay=13.0035
+ampeg_release=13.0035
+tune=-1
+offset=0
+end=97791
+loop_start=8
+loop_end=97791
+volume=-1.1116
+
+<region>
+sample=samples\Orch Bass Drum(L).wav
+pitch_keycenter=36
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=7000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00299998
+ampeg_decay=10.998
+ampeg_release=10.998
+tune=-2
+offset=0
+end=97791
+loop_start=8
+loop_end=97791
+volume=-1.1116
+
+<region>
+sample=samples\Orch Bass Drum(L).wav
+pitch_keycenter=36
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=6501
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00399987
+ampeg_decay=9.00046
+ampeg_release=9.00046
+tune=-3
+offset=0
+end=97791
+loop_start=8
+loop_end=97791
+volume=-1.1116
+
+<region>
+sample=samples\Orch Bass Drum(L).wav
+pitch_keycenter=36
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=5999
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00499893
+ampeg_decay=7.0007
+ampeg_release=7.0007
+tune=-4
+offset=0
+end=97791
+loop_start=8
+loop_end=97791
+volume=-1.1116
+
+<region>
+sample=samples\Orch Bass Drum(L).wav
+pitch_keycenter=36
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=5501
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00599996
+ampeg_decay=4.99909
+ampeg_release=4.99909
+tune=-5
+offset=0
+end=97791
+loop_start=8
+loop_end=97791
+volume=-1.1116
+
+<region>
+sample=samples\Orch Bass Drum(L).wav
+pitch_keycenter=36
+lovel=0 hivel=80
+fil_type=lpf_2p
+cutoff=5001
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00700048
+ampeg_decay=3.00008
+ampeg_release=3.00008
+tune=-6
+offset=0
+end=97791
+loop_start=8
+loop_end=97791
+volume=-1.1116

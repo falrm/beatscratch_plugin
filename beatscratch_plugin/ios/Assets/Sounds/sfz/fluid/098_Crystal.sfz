@@ -1,0 +1,89 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=0.001
+fileg_decay=0.001
+pitcheg_release=0.001
+fileg_release=0.001
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_hold=0.001
+ampeg_decay=7.50316
+ampeg_release=3.00008
+loop_mode=loop_continuous
+resonance=18
+fileg_depth=7200
+effect1=50
+ampeg_sustain=0.00158489
+volume=-1.588
+transpose=-7
+tune=-15
+effect2=24
+pitchlfo_freq=4.90662
+amplfo_freq=8.176
+fillfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Synth Bell-1.wav
+lokey=0 hikey=69
+pitch_keycenter=76
+loop_start=131
+loop_end=24859
+transpose=5
+offset=0
+end=24965
+
+<region>
+sample=samples\Synth Bell-2.wav
+lokey=70 hikey=84
+pitch_keycenter=76
+loop_start=65
+loop_end=24788
+offset=0
+end=24870
+
+<region>
+sample=samples\Synth Bell-3.wav
+lokey=85 hikey=111
+pitch_keycenter=76
+offset=0
+end=12435
+loop_start=165
+loop_end=12363
+
+<group>
+ampeg_decay=12.0003
+ampeg_sustain=0.00158489
+ampeg_release=4.99909
+loop_mode=loop_continuous
+effect2=50
+volume=-3.176
+effect1=25
+pitchlfo_freq=4.90662
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Crystal-C5.wav
+pitch_keycenter=91
+loop_start=4273
+loop_end=4439
+tune=-14
+offset=0
+end=4508

@@ -1,0 +1,241 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=2400
+amplfo_delay=0.001
+fillfo_delay=0.001
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_delay=0.001
+pitchlfo_freq=5.00104
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=0.5
+fileg_decay=0.5
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_delay=0.001
+ampeg_attack=0.00799974
+ampeg_hold=0.001
+ampeg_decay=0.5
+ampeg_release=0.200036
+loop_mode=loop_continuous
+pan=-9.8
+tune=-6
+resonance=6.1
+effect2=14
+fileg_sustain=49.6
+pitcheg_sustain=49.6
+volume=-2.8584
+
+<region>
+sample=samples\sawb-1.wav
+lokey=0 hikey=31
+pitch_keycenter=30
+offset=0
+end=9333
+loop_start=1553
+loop_end=8817
+
+<region>
+sample=samples\sawb-2.wav
+lokey=32 hikey=43
+pitch_keycenter=42
+offset=0
+end=7848
+loop_start=770
+loop_end=7515
+
+<region>
+sample=samples\sawb-3.wav
+lokey=44 hikey=55
+pitch_keycenter=54
+offset=0
+end=4424
+loop_start=381
+loop_end=4272
+
+<region>
+sample=samples\sawb-4.wav
+lokey=56 hikey=67
+pitch_keycenter=66
+offset=0
+end=2238
+loop_start=182
+loop_end=2127
+
+<region>
+sample=samples\sawb-5.wav
+lokey=68 hikey=79
+pitch_keycenter=78
+offset=0
+end=1127
+loop_start=88
+loop_end=1060
+
+<region>
+sample=samples\sawb-6.wav
+lokey=80 hikey=91
+pitch_keycenter=90
+offset=0
+end=1289
+loop_start=43
+loop_end=1242
+
+<region>
+sample=samples\sawb-7.wav
+lokey=92 hikey=103
+pitch_keycenter=102
+offset=0
+end=1293
+loop_start=35
+loop_end=1234
+
+<region>
+sample=samples\sawb-8.wav
+lokey=104 hikey=115
+pitch_keycenter=114
+loop_start=12
+loop_end=51
+volume=-3.6524
+tune=-29
+offset=0
+end=63
+
+<region>
+sample=samples\sawb-9.wav
+lokey=116 hikey=127
+pitch_keycenter=126
+loop_start=6
+loop_end=41
+volume=-3.97
+tune=-29
+offset=0
+end=47
+
+<group>
+fil_type=lpf_2p
+cutoff=2400
+pitchlfo_delay=0.001
+pitchlfo_freq=0.500195
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=0.001
+fileg_attack=0.001
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=0.5
+fileg_decay=0.5
+pitcheg_release=0.5
+fileg_release=0.5
+ampeg_delay=0.001
+ampeg_attack=0.001
+ampeg_hold=0.001
+ampeg_decay=0.5
+ampeg_release=0.200036
+loop_mode=loop_continuous
+pan=10
+tune=6
+resonance=6.1
+effect2=14
+fileg_sustain=49.6
+pitcheg_sustain=49.6
+volume=-2.8584
+pitchlfo_depth=3
+amplfo_freq=8.176
+fillfo_freq=8.176
+
+<region>
+sample=samples\sawb-1.wav
+lokey=0 hikey=31
+pitch_keycenter=30
+offset=512
+loop_start=1553
+loop_end=8817
+end=9333
+
+<region>
+sample=samples\sawb-2.wav
+lokey=32 hikey=43
+pitch_keycenter=42
+offset=256
+loop_start=770
+loop_end=7515
+end=7848
+
+<region>
+sample=samples\sawb-3.wav
+lokey=44 hikey=55
+pitch_keycenter=54
+offset=128
+loop_start=381
+loop_end=4272
+end=4424
+
+<region>
+sample=samples\sawb-4.wav
+lokey=56 hikey=67
+pitch_keycenter=66
+offset=64
+loop_start=182
+loop_end=2127
+end=2238
+
+<region>
+sample=samples\sawb-5.wav
+lokey=68 hikey=79
+pitch_keycenter=78
+offset=32
+loop_start=88
+loop_end=1060
+end=1127
+
+<region>
+sample=samples\sawb-6.wav
+lokey=80 hikey=91
+pitch_keycenter=90
+offset=16
+loop_start=43
+loop_end=1242
+end=1289
+
+<region>
+sample=samples\sawb-7.wav
+lokey=92 hikey=103
+pitch_keycenter=102
+offset=8
+loop_start=35
+loop_end=1234
+end=1293
+
+<region>
+sample=samples\sawb-8.wav
+lokey=104 hikey=115
+pitch_keycenter=114
+offset=3
+loop_start=12
+loop_end=51
+volume=-3.6524
+tune=-17
+end=63
+
+<region>
+sample=samples\sawb-9.wav
+lokey=116 hikey=127
+pitch_keycenter=126
+offset=0
+loop_start=6
+loop_end=41
+volume=-3.97
+tune=-17
+end=47

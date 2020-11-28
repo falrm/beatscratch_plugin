@@ -1,0 +1,445 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=8911
+ampeg_release=1.94306
+volume=-2.36612
+loop_mode=loop_continuous
+pitcheg_decay=0.001
+fileg_decay=0.001
+fileg_sustain=100
+pitcheg_sustain=100
+transpose=12
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Brass Section F3.wav
+lokey=0 hikey=41
+pitch_keycenter=41
+pan=-100
+offset=0
+end=168837
+loop_start=113015
+loop_end=168708
+volume=-2.36612
+
+<region>
+sample=samples\Brass Section C4.wav
+lokey=42 hikey=48
+pitch_keycenter=48
+pan=-100
+offset=0
+end=157617
+loop_start=68786
+loop_end=157554
+volume=-2.36612
+
+<region>
+sample=samples\Brass Section F#4.wav
+lokey=49 hikey=54
+pitch_keycenter=54
+pan=-100
+offset=0
+end=160960
+loop_start=62794
+loop_end=160887
+volume=-2.36612
+
+<region>
+sample=samples\Brass Section A#4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+pan=-100
+offset=0
+end=141177
+loop_start=52012
+loop_end=141167
+volume=-2.36612
+
+<region>
+sample=samples\Brass Section C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+pan=-100
+offset=0
+end=118529
+loop_start=42371
+loop_end=118514
+volume=-2.36612
+
+<region>
+sample=samples\Brass Section F5.wav
+lokey=61 hikey=65
+pitch_keycenter=65
+pan=-100
+offset=0
+end=130757
+loop_start=47243
+loop_end=130749
+volume=-2.36612
+
+<region>
+sample=samples\Brass Section A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+pan=-100
+volume=-2.68372
+offset=0
+end=109220
+loop_start=35349
+loop_end=109203
+
+<region>
+sample=samples\Brass Section C6.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+pan=-100
+volume=-2.68372
+offset=0
+end=72436
+loop_start=14864
+loop_end=72434
+
+<region>
+sample=samples\Brass Section F6.wav
+lokey=73 hikey=77
+pitch_keycenter=77
+pan=-100
+volume=-2.68372
+offset=0
+end=114044
+loop_start=46840
+loop_end=114032
+
+<region>
+sample=samples\Brass Section C7.wav
+lokey=78 hikey=96
+pitch_keycenter=84
+pan=-100
+volume=-2.68372
+offset=0
+end=117765
+loop_start=38643
+loop_end=117758
+
+<group>
+fil_type=lpf_2p
+cutoff=10002
+fileg_depth=200
+amplfo_freq=100
+fillfo_freq=100
+pitcheg_release=9.99818
+fileg_release=9.99818
+ampeg_hold=0.100018
+ampeg_decay=3.00008
+ampeg_sustain=70.7946
+ampeg_release=2.12137
+volume=-1.71504
+loop_mode=loop_continuous
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Strings G2L.wav
+lokey=0 hikey=31
+pitch_keycenter=31
+offset=0
+end=109260
+loop_start=41234
+loop_end=109222
+volume=-1.71504
+
+<region>
+sample=samples\Strings A#2L.wav
+lokey=32 hikey=34
+pitch_keycenter=34
+offset=0
+end=76721
+loop_start=11873
+loop_end=76640
+volume=-1.71504
+
+<region>
+sample=samples\Strings C#3L.wav
+lokey=35 hikey=37
+pitch_keycenter=37
+offset=0
+end=101818
+loop_start=28385
+loop_end=101791
+volume=-1.71504
+
+<region>
+sample=samples\Strings E3L.wav
+lokey=38 hikey=40
+pitch_keycenter=40
+offset=0
+end=102067
+loop_start=39284
+loop_end=102004
+volume=-1.71504
+
+<region>
+sample=samples\Strings G3L.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+offset=0
+end=97667
+loop_start=46601
+loop_end=97556
+volume=-1.71504
+
+<region>
+sample=samples\Strings B3L.wav
+lokey=44 hikey=47
+pitch_keycenter=47
+offset=0
+end=75711
+loop_start=22677
+loop_end=75670
+volume=-1.71504
+
+<region>
+sample=samples\Strings C#4L.wav
+lokey=48 hikey=51
+pitch_keycenter=49
+offset=0
+end=101271
+loop_start=54610
+loop_end=101240
+volume=-1.71504
+
+<region>
+sample=samples\Strings E4L.wav
+lokey=52 hikey=54
+pitch_keycenter=52
+offset=0
+end=124619
+loop_start=33204
+loop_end=124596
+volume=-1.71504
+
+<region>
+sample=samples\Strings A#4L.wav
+lokey=55 hikey=59
+pitch_keycenter=58
+offset=0
+end=148873
+loop_start=54814
+loop_end=148734
+volume=-1.71504
+
+<region>
+sample=samples\Strings C#5L.wav
+lokey=60 hikey=62
+pitch_keycenter=61
+offset=0
+end=69011
+loop_start=38140
+loop_end=68983
+volume=-1.71504
+
+<region>
+sample=samples\Strings E5L.wav
+lokey=63 hikey=65
+pitch_keycenter=64
+offset=0
+end=115594
+loop_start=44337
+loop_end=115561
+volume=-1.71504
+
+<region>
+sample=samples\Strings G5L.wav
+lokey=66 hikey=68
+pitch_keycenter=67
+offset=0
+end=73176
+loop_start=36459
+loop_end=73132
+volume=-1.71504
+
+<region>
+sample=samples\Strings A#5L.wav
+lokey=69 hikey=71
+pitch_keycenter=70
+offset=0
+end=60258
+loop_start=29011
+loop_end=60238
+volume=-1.71504
+
+<region>
+sample=samples\Strings C#6L.wav
+lokey=72 hikey=74
+pitch_keycenter=73
+offset=0
+end=41658
+loop_start=10595
+loop_end=41647
+volume=-1.71504
+
+<region>
+sample=samples\Strings E6L.wav
+lokey=75 hikey=77
+pitch_keycenter=76
+offset=0
+end=48413
+loop_start=20892
+loop_end=48405
+volume=-1.71504
+
+<region>
+sample=samples\Strings G6 L.wav
+lokey=78 hikey=81
+pitch_keycenter=79
+offset=0
+end=24777
+loop_start=6483
+loop_end=24773
+volume=-1.71504
+
+<region>
+sample=samples\Strings B6L.wav
+lokey=82 hikey=96
+pitch_keycenter=83
+offset=0
+end=43540
+loop_start=20239
+loop_end=43522
+volume=-1.71504
+
+<group>
+fil_type=lpf_2p
+cutoff=6236
+ampeg_release=1.94306
+volume=-2.36612
+loop_mode=loop_continuous
+pitcheg_decay=0.001
+fileg_decay=0.001
+fileg_sustain=100
+pitcheg_sustain=100
+transpose=12
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Brass Section F3.wav
+lokey=0 hikey=41
+pitch_keycenter=41
+pan=100
+offset=0
+end=168837
+loop_start=113015
+loop_end=168708
+volume=-2.36612
+
+<region>
+sample=samples\Brass Section C4.wav
+lokey=42 hikey=48
+pitch_keycenter=48
+pan=100
+offset=0
+end=157617
+loop_start=68786
+loop_end=157554
+volume=-2.36612
+
+<region>
+sample=samples\Brass Section F#4.wav
+lokey=49 hikey=54
+pitch_keycenter=54
+pan=100
+offset=0
+end=160960
+loop_start=62794
+loop_end=160887
+volume=-2.36612
+
+<region>
+sample=samples\Brass Section A#4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+pan=100
+offset=0
+end=141177
+loop_start=52012
+loop_end=141167
+volume=-2.36612
+
+<region>
+sample=samples\Brass Section C5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+pan=100
+offset=0
+end=118529
+loop_start=42371
+loop_end=118514
+volume=-2.36612
+
+<region>
+sample=samples\Brass Section F5.wav
+lokey=61 hikey=65
+pitch_keycenter=65
+pan=100
+offset=0
+end=130757
+loop_start=47243
+loop_end=130749
+volume=-2.36612
+
+<region>
+sample=samples\Brass Section A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+pan=100
+volume=-2.68372
+offset=0
+end=109220
+loop_start=35349
+loop_end=109203
+
+<region>
+sample=samples\Brass Section C6.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+pan=100
+volume=-2.68372
+offset=0
+end=72436
+loop_start=14864
+loop_end=72434
+
+<region>
+sample=samples\Brass Section F6.wav
+lokey=73 hikey=77
+pitch_keycenter=77
+pan=100
+volume=-2.68372
+offset=0
+end=114044
+loop_start=46840
+loop_end=114032
+
+<region>
+sample=samples\Brass Section C7.wav
+lokey=78 hikey=96
+pitch_keycenter=84
+pan=100
+volume=-2.68372
+offset=0
+end=117765
+loop_start=38643
+loop_end=117758

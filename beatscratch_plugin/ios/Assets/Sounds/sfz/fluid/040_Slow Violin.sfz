@@ -1,0 +1,155 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+ampeg_attack=0.428045
+ampeg_release=0.400073
+loop_mode=loop_continuous
+fillfo_depth=55
+effect1=10
+amplfo_freq=7.71712
+fillfo_freq=7.71712
+volume=-1.4292
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Violin G#4(L).wav
+lokey=0 hikey=58
+pitch_keycenter=56
+tune=15
+offset=0
+end=64139
+loop_start=55974
+loop_end=64116
+
+<region>
+sample=samples\Violin B4(L).wav
+lokey=59 hikey=61
+pitch_keycenter=59
+tune=12
+offset=0
+end=43343
+loop_start=35549
+loop_end=43311
+
+<region>
+sample=samples\Violin D5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=62
+tune=-5
+offset=0
+end=41139
+loop_start=32545
+loop_end=41094
+
+<region>
+sample=samples\Violin F5(L).wav
+lokey=65 hikey=67
+pitch_keycenter=65
+offset=0
+end=59151
+loop_start=50770
+loop_end=59098
+
+<region>
+sample=samples\Violin G#5(L).wav
+lokey=68 hikey=71
+pitch_keycenter=68
+tune=-5
+offset=0
+end=56743
+loop_start=48995
+loop_end=56728
+
+<region>
+sample=samples\Violin D6(L).wav
+lokey=72 hikey=74
+pitch_keycenter=74
+tune=-2
+offset=0
+end=75325
+loop_start=67663
+loop_end=75311
+
+<region>
+sample=samples\Violin F6(L).wav
+lokey=75 hikey=77
+pitch_keycenter=77
+tune=-5
+offset=0
+end=52287
+loop_start=43991
+loop_end=52238
+
+<region>
+sample=samples\Violin G#6(L).wav
+lokey=78 hikey=80
+pitch_keycenter=80
+offset=0
+end=51059
+loop_start=43346
+loop_end=51046
+
+<region>
+sample=samples\Violin B6(L).wav
+lokey=81 hikey=83
+pitch_keycenter=83
+offset=0
+end=66687
+loop_start=58675
+loop_end=66558
+
+<region>
+sample=samples\Violin D7(L).wav
+lokey=84 hikey=86
+pitch_keycenter=86
+tune=-20
+offset=0
+end=65311
+loop_start=57501
+loop_end=65271
+
+<region>
+sample=samples\Violin F7(L).wav
+lokey=87 hikey=89
+pitch_keycenter=89
+tune=-13
+offset=0
+end=58187
+loop_start=50513
+loop_end=58173
+
+<region>
+sample=samples\Violin G#7(L).wav
+lokey=90 hikey=93
+pitch_keycenter=92
+offset=0
+end=50267
+loop_start=42433
+loop_end=50230
+
+<region>
+sample=samples\Violin B7(L).wav
+lokey=95 hikey=96
+pitch_keycenter=95
+tune=21
+offset=0
+end=44415
+loop_start=36489
+loop_end=44267
+
+<region>
+sample=samples\Violin D8(L).wav
+lokey=97 hikey=101
+pitch_keycenter=98
+tune=20
+offset=0
+end=33547
+loop_start=25376
+loop_end=33536

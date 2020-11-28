@@ -1,0 +1,1824 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+ampeg_release=2.90459
+loop_mode=loop_continuous
+effect1=20
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Church Organ C1.wav
+lokey=0 hikey=36
+pitch_keycenter=36
+offset=0
+end=61255
+loop_start=24522
+loop_end=61247
+
+<region>
+sample=samples\Church Organ D1.wav
+lokey=37 hikey=39
+pitch_keycenter=39
+offset=0
+end=83311
+loop_start=43654
+loop_end=83214
+
+<region>
+sample=samples\Church Organ F1.wav
+lokey=40 hikey=42
+pitch_keycenter=42
+offset=0
+end=91751
+loop_start=46262
+loop_end=91740
+
+<region>
+sample=samples\Church Organ A1.wav
+lokey=43 hikey=45
+pitch_keycenter=45
+offset=0
+end=92231
+loop_start=31693
+loop_end=92223
+
+<region>
+sample=samples\Church Organ C2.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+offset=0
+end=110031
+loop_start=57336
+loop_end=109968
+
+<region>
+sample=samples\Church Organ D2.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+offset=0
+end=97903
+loop_start=47046
+loop_end=97885
+
+<region>
+sample=samples\Church Organ F2.wav
+lokey=52 hikey=54
+pitch_keycenter=54
+offset=0
+end=93575
+loop_start=30714
+loop_end=93568
+
+<region>
+sample=samples\Church Organ A2.wav
+lokey=55 hikey=57
+pitch_keycenter=57
+offset=0
+end=91879
+loop_start=48853
+loop_end=91799
+
+<region>
+sample=samples\Church Organ C3.wav
+lokey=58 hikey=60
+pitch_keycenter=60
+offset=0
+end=90391
+loop_start=45472
+loop_end=90379
+
+<region>
+sample=samples\Church Organ D3.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=69151
+loop_start=22722
+loop_end=69119
+
+<region>
+sample=samples\Church Organ F3.wav
+lokey=64 hikey=66
+pitch_keycenter=66
+offset=0
+end=55358
+loop_start=21118
+loop_end=55304
+
+<region>
+sample=samples\Church Organ A3.wav
+lokey=67 hikey=69
+pitch_keycenter=69
+offset=0
+end=78815
+loop_start=47913
+loop_end=78778
+
+<region>
+sample=samples\Church Organ C4.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+offset=0
+end=57990
+loop_start=13747
+loop_end=57983
+
+<region>
+sample=samples\Church Organ D4.wav
+lokey=73 hikey=75
+pitch_keycenter=75
+offset=0
+end=62431
+loop_start=34925
+loop_end=62418
+
+<region>
+sample=samples\Church Organ F4.wav
+lokey=76 hikey=78
+pitch_keycenter=78
+offset=0
+end=61647
+loop_start=27869
+loop_end=61622
+
+<region>
+sample=samples\Church Organ A4.wav
+lokey=79 hikey=81
+pitch_keycenter=81
+offset=0
+end=63167
+loop_start=26065
+loop_end=63167
+
+<region>
+sample=samples\Church Organ C5.wav
+lokey=82 hikey=84
+pitch_keycenter=84
+offset=0
+end=54975
+loop_start=13633
+loop_end=54975
+
+<region>
+sample=samples\Church Organ D5.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=71015
+loop_start=31911
+loop_end=71006
+
+<region>
+sample=samples\Church Organ F5.wav
+lokey=88 hikey=90
+pitch_keycenter=90
+offset=0
+end=42919
+loop_start=15110
+loop_end=42910
+
+<region>
+sample=samples\Church Organ A5.wav
+lokey=91 hikey=93
+pitch_keycenter=93
+offset=0
+end=70031
+loop_start=14156
+loop_end=70006
+
+<region>
+sample=samples\Church Organ C6.wav
+lokey=94 hikey=96
+pitch_keycenter=96
+offset=0
+end=51303
+loop_start=17894
+loop_end=51288
+
+<group>
+lovel=113 hivel=120
+ampeg_release=2.66198
+loop_mode=loop_continuous
+effect1=20
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Church Organ C1.wav
+lokey=0 hikey=36
+pitch_keycenter=36
+offset=0
+end=61255
+loop_start=24522
+loop_end=61247
+
+<region>
+sample=samples\Church Organ D1.wav
+lokey=37 hikey=39
+pitch_keycenter=39
+offset=0
+end=83311
+loop_start=43654
+loop_end=83214
+
+<region>
+sample=samples\Church Organ F1.wav
+lokey=40 hikey=42
+pitch_keycenter=42
+offset=0
+end=91751
+loop_start=46262
+loop_end=91740
+
+<region>
+sample=samples\Church Organ A1.wav
+lokey=43 hikey=45
+pitch_keycenter=45
+offset=0
+end=92231
+loop_start=31693
+loop_end=92223
+
+<region>
+sample=samples\Church Organ C2.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+offset=0
+end=110031
+loop_start=57336
+loop_end=109968
+
+<region>
+sample=samples\Church Organ D2.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+offset=0
+end=97903
+loop_start=47046
+loop_end=97885
+
+<region>
+sample=samples\Church Organ F2.wav
+lokey=52 hikey=54
+pitch_keycenter=54
+offset=0
+end=93575
+loop_start=30714
+loop_end=93568
+
+<region>
+sample=samples\Church Organ A2.wav
+lokey=55 hikey=57
+pitch_keycenter=57
+offset=0
+end=91879
+loop_start=48853
+loop_end=91799
+
+<region>
+sample=samples\Church Organ C3.wav
+lokey=58 hikey=60
+pitch_keycenter=60
+offset=0
+end=90391
+loop_start=45472
+loop_end=90379
+
+<region>
+sample=samples\Church Organ D3.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=69151
+loop_start=22722
+loop_end=69119
+
+<region>
+sample=samples\Church Organ F3.wav
+lokey=64 hikey=66
+pitch_keycenter=66
+offset=0
+end=55358
+loop_start=21118
+loop_end=55304
+
+<region>
+sample=samples\Church Organ A3.wav
+lokey=67 hikey=69
+pitch_keycenter=69
+offset=0
+end=78815
+loop_start=47913
+loop_end=78778
+
+<region>
+sample=samples\Church Organ C4.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+offset=0
+end=57990
+loop_start=13747
+loop_end=57983
+
+<region>
+sample=samples\Church Organ D4.wav
+lokey=73 hikey=75
+pitch_keycenter=75
+offset=0
+end=62431
+loop_start=34925
+loop_end=62418
+
+<region>
+sample=samples\Church Organ F4.wav
+lokey=76 hikey=78
+pitch_keycenter=78
+offset=0
+end=61647
+loop_start=27869
+loop_end=61622
+
+<region>
+sample=samples\Church Organ A4.wav
+lokey=79 hikey=81
+pitch_keycenter=81
+offset=0
+end=63167
+loop_start=26065
+loop_end=63167
+
+<region>
+sample=samples\Church Organ C5.wav
+lokey=82 hikey=84
+pitch_keycenter=84
+offset=0
+end=54975
+loop_start=13633
+loop_end=54975
+
+<region>
+sample=samples\Church Organ D5.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=71015
+loop_start=31911
+loop_end=71006
+
+<region>
+sample=samples\Church Organ F5.wav
+lokey=88 hikey=90
+pitch_keycenter=90
+offset=0
+end=42919
+loop_start=15110
+loop_end=42910
+
+<region>
+sample=samples\Church Organ A5.wav
+lokey=91 hikey=93
+pitch_keycenter=93
+offset=0
+end=70031
+loop_start=14156
+loop_end=70006
+
+<region>
+sample=samples\Church Organ C6.wav
+lokey=94 hikey=96
+pitch_keycenter=96
+offset=0
+end=51303
+loop_start=17894
+loop_end=51288
+
+<group>
+lovel=105 hivel=112
+ampeg_release=2.41999
+loop_mode=loop_continuous
+effect1=20
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Church Organ C1.wav
+lokey=0 hikey=36
+pitch_keycenter=36
+offset=0
+end=61255
+loop_start=24522
+loop_end=61247
+
+<region>
+sample=samples\Church Organ D1.wav
+lokey=37 hikey=39
+pitch_keycenter=39
+offset=0
+end=83311
+loop_start=43654
+loop_end=83214
+
+<region>
+sample=samples\Church Organ F1.wav
+lokey=40 hikey=42
+pitch_keycenter=42
+offset=0
+end=91751
+loop_start=46262
+loop_end=91740
+
+<region>
+sample=samples\Church Organ A1.wav
+lokey=43 hikey=45
+pitch_keycenter=45
+offset=0
+end=92231
+loop_start=31693
+loop_end=92223
+
+<region>
+sample=samples\Church Organ C2.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+offset=0
+end=110031
+loop_start=57336
+loop_end=109968
+
+<region>
+sample=samples\Church Organ D2.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+offset=0
+end=97903
+loop_start=47046
+loop_end=97885
+
+<region>
+sample=samples\Church Organ F2.wav
+lokey=52 hikey=54
+pitch_keycenter=54
+offset=0
+end=93575
+loop_start=30714
+loop_end=93568
+
+<region>
+sample=samples\Church Organ A2.wav
+lokey=55 hikey=57
+pitch_keycenter=57
+offset=0
+end=91879
+loop_start=48853
+loop_end=91799
+
+<region>
+sample=samples\Church Organ C3.wav
+lokey=58 hikey=60
+pitch_keycenter=60
+offset=0
+end=90391
+loop_start=45472
+loop_end=90379
+
+<region>
+sample=samples\Church Organ D3.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=69151
+loop_start=22722
+loop_end=69119
+
+<region>
+sample=samples\Church Organ F3.wav
+lokey=64 hikey=66
+pitch_keycenter=66
+offset=0
+end=55358
+loop_start=21118
+loop_end=55304
+
+<region>
+sample=samples\Church Organ A3.wav
+lokey=67 hikey=69
+pitch_keycenter=69
+offset=0
+end=78815
+loop_start=47913
+loop_end=78778
+
+<region>
+sample=samples\Church Organ C4.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+offset=0
+end=57990
+loop_start=13747
+loop_end=57983
+
+<region>
+sample=samples\Church Organ D4.wav
+lokey=73 hikey=75
+pitch_keycenter=75
+offset=0
+end=62431
+loop_start=34925
+loop_end=62418
+
+<region>
+sample=samples\Church Organ F4.wav
+lokey=76 hikey=78
+pitch_keycenter=78
+offset=0
+end=61647
+loop_start=27869
+loop_end=61622
+
+<region>
+sample=samples\Church Organ A4.wav
+lokey=79 hikey=81
+pitch_keycenter=81
+offset=0
+end=63167
+loop_start=26065
+loop_end=63167
+
+<region>
+sample=samples\Church Organ C5.wav
+lokey=82 hikey=84
+pitch_keycenter=84
+offset=0
+end=54975
+loop_start=13633
+loop_end=54975
+
+<region>
+sample=samples\Church Organ D5.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=71015
+loop_start=31911
+loop_end=71006
+
+<region>
+sample=samples\Church Organ F5.wav
+lokey=88 hikey=90
+pitch_keycenter=90
+offset=0
+end=42919
+loop_start=15110
+loop_end=42910
+
+<region>
+sample=samples\Church Organ A5.wav
+lokey=91 hikey=93
+pitch_keycenter=93
+offset=0
+end=70031
+loop_start=14156
+loop_end=70006
+
+<region>
+sample=samples\Church Organ C6.wav
+lokey=94 hikey=96
+pitch_keycenter=96
+offset=0
+end=51303
+loop_start=17894
+loop_end=51288
+
+<group>
+lovel=97 hivel=104
+ampeg_release=2.1785
+loop_mode=loop_continuous
+effect1=20
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Church Organ C1.wav
+lokey=0 hikey=36
+pitch_keycenter=36
+offset=0
+end=61255
+loop_start=24522
+loop_end=61247
+
+<region>
+sample=samples\Church Organ D1.wav
+lokey=37 hikey=39
+pitch_keycenter=39
+offset=0
+end=83311
+loop_start=43654
+loop_end=83214
+
+<region>
+sample=samples\Church Organ F1.wav
+lokey=40 hikey=42
+pitch_keycenter=42
+offset=0
+end=91751
+loop_start=46262
+loop_end=91740
+
+<region>
+sample=samples\Church Organ A1.wav
+lokey=43 hikey=45
+pitch_keycenter=45
+offset=0
+end=92231
+loop_start=31693
+loop_end=92223
+
+<region>
+sample=samples\Church Organ C2.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+offset=0
+end=110031
+loop_start=57336
+loop_end=109968
+
+<region>
+sample=samples\Church Organ D2.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+offset=0
+end=97903
+loop_start=47046
+loop_end=97885
+
+<region>
+sample=samples\Church Organ F2.wav
+lokey=52 hikey=54
+pitch_keycenter=54
+offset=0
+end=93575
+loop_start=30714
+loop_end=93568
+
+<region>
+sample=samples\Church Organ A2.wav
+lokey=55 hikey=57
+pitch_keycenter=57
+offset=0
+end=91879
+loop_start=48853
+loop_end=91799
+
+<region>
+sample=samples\Church Organ C3.wav
+lokey=58 hikey=60
+pitch_keycenter=60
+offset=0
+end=90391
+loop_start=45472
+loop_end=90379
+
+<region>
+sample=samples\Church Organ D3.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=69151
+loop_start=22722
+loop_end=69119
+
+<region>
+sample=samples\Church Organ F3.wav
+lokey=64 hikey=66
+pitch_keycenter=66
+offset=0
+end=55358
+loop_start=21118
+loop_end=55304
+
+<region>
+sample=samples\Church Organ A3.wav
+lokey=67 hikey=69
+pitch_keycenter=69
+offset=0
+end=78815
+loop_start=47913
+loop_end=78778
+
+<region>
+sample=samples\Church Organ C4.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+offset=0
+end=57990
+loop_start=13747
+loop_end=57983
+
+<region>
+sample=samples\Church Organ D4.wav
+lokey=73 hikey=75
+pitch_keycenter=75
+offset=0
+end=62431
+loop_start=34925
+loop_end=62418
+
+<region>
+sample=samples\Church Organ F4.wav
+lokey=76 hikey=78
+pitch_keycenter=78
+offset=0
+end=61647
+loop_start=27869
+loop_end=61622
+
+<region>
+sample=samples\Church Organ A4.wav
+lokey=79 hikey=81
+pitch_keycenter=81
+offset=0
+end=63167
+loop_start=26065
+loop_end=63167
+
+<region>
+sample=samples\Church Organ C5.wav
+lokey=82 hikey=84
+pitch_keycenter=84
+offset=0
+end=54975
+loop_start=13633
+loop_end=54975
+
+<region>
+sample=samples\Church Organ D5.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=71015
+loop_start=31911
+loop_end=71006
+
+<region>
+sample=samples\Church Organ F5.wav
+lokey=88 hikey=90
+pitch_keycenter=90
+offset=0
+end=42919
+loop_start=15110
+loop_end=42910
+
+<region>
+sample=samples\Church Organ A5.wav
+lokey=91 hikey=93
+pitch_keycenter=93
+offset=0
+end=70031
+loop_start=14156
+loop_end=70006
+
+<region>
+sample=samples\Church Organ C6.wav
+lokey=94 hikey=96
+pitch_keycenter=96
+offset=0
+end=51303
+loop_start=17894
+loop_end=51288
+
+<group>
+lovel=89 hivel=96
+ampeg_release=1.93634
+loop_mode=loop_continuous
+effect1=20
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Church Organ C1.wav
+lokey=0 hikey=36
+pitch_keycenter=36
+offset=0
+end=61255
+loop_start=24522
+loop_end=61247
+
+<region>
+sample=samples\Church Organ D1.wav
+lokey=37 hikey=39
+pitch_keycenter=39
+offset=0
+end=83311
+loop_start=43654
+loop_end=83214
+
+<region>
+sample=samples\Church Organ F1.wav
+lokey=40 hikey=42
+pitch_keycenter=42
+offset=0
+end=91751
+loop_start=46262
+loop_end=91740
+
+<region>
+sample=samples\Church Organ A1.wav
+lokey=43 hikey=45
+pitch_keycenter=45
+offset=0
+end=92231
+loop_start=31693
+loop_end=92223
+
+<region>
+sample=samples\Church Organ C2.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+offset=0
+end=110031
+loop_start=57336
+loop_end=109968
+
+<region>
+sample=samples\Church Organ D2.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+offset=0
+end=97903
+loop_start=47046
+loop_end=97885
+
+<region>
+sample=samples\Church Organ F2.wav
+lokey=52 hikey=54
+pitch_keycenter=54
+offset=0
+end=93575
+loop_start=30714
+loop_end=93568
+
+<region>
+sample=samples\Church Organ A2.wav
+lokey=55 hikey=57
+pitch_keycenter=57
+offset=0
+end=91879
+loop_start=48853
+loop_end=91799
+
+<region>
+sample=samples\Church Organ C3.wav
+lokey=58 hikey=60
+pitch_keycenter=60
+offset=0
+end=90391
+loop_start=45472
+loop_end=90379
+
+<region>
+sample=samples\Church Organ D3.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=69151
+loop_start=22722
+loop_end=69119
+
+<region>
+sample=samples\Church Organ F3.wav
+lokey=64 hikey=66
+pitch_keycenter=66
+offset=0
+end=55358
+loop_start=21118
+loop_end=55304
+
+<region>
+sample=samples\Church Organ A3.wav
+lokey=67 hikey=69
+pitch_keycenter=69
+offset=0
+end=78815
+loop_start=47913
+loop_end=78778
+
+<region>
+sample=samples\Church Organ C4.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+offset=0
+end=57990
+loop_start=13747
+loop_end=57983
+
+<region>
+sample=samples\Church Organ D4.wav
+lokey=73 hikey=75
+pitch_keycenter=75
+offset=0
+end=62431
+loop_start=34925
+loop_end=62418
+
+<region>
+sample=samples\Church Organ F4.wav
+lokey=76 hikey=78
+pitch_keycenter=78
+offset=0
+end=61647
+loop_start=27869
+loop_end=61622
+
+<region>
+sample=samples\Church Organ A4.wav
+lokey=79 hikey=81
+pitch_keycenter=81
+offset=0
+end=63167
+loop_start=26065
+loop_end=63167
+
+<region>
+sample=samples\Church Organ C5.wav
+lokey=82 hikey=84
+pitch_keycenter=84
+offset=0
+end=54975
+loop_start=13633
+loop_end=54975
+
+<region>
+sample=samples\Church Organ D5.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=71015
+loop_start=31911
+loop_end=71006
+
+<region>
+sample=samples\Church Organ F5.wav
+lokey=88 hikey=90
+pitch_keycenter=90
+offset=0
+end=42919
+loop_start=15110
+loop_end=42910
+
+<region>
+sample=samples\Church Organ A5.wav
+lokey=91 hikey=93
+pitch_keycenter=93
+offset=0
+end=70031
+loop_start=14156
+loop_end=70006
+
+<region>
+sample=samples\Church Organ C6.wav
+lokey=94 hikey=96
+pitch_keycenter=96
+offset=0
+end=51303
+loop_start=17894
+loop_end=51288
+
+<group>
+lovel=81 hivel=88
+ampeg_release=1.69447
+loop_mode=loop_continuous
+effect1=20
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Church Organ C1.wav
+lokey=0 hikey=36
+pitch_keycenter=36
+offset=0
+end=61255
+loop_start=24522
+loop_end=61247
+
+<region>
+sample=samples\Church Organ D1.wav
+lokey=37 hikey=39
+pitch_keycenter=39
+offset=0
+end=83311
+loop_start=43654
+loop_end=83214
+
+<region>
+sample=samples\Church Organ F1.wav
+lokey=40 hikey=42
+pitch_keycenter=42
+offset=0
+end=91751
+loop_start=46262
+loop_end=91740
+
+<region>
+sample=samples\Church Organ A1.wav
+lokey=43 hikey=45
+pitch_keycenter=45
+offset=0
+end=92231
+loop_start=31693
+loop_end=92223
+
+<region>
+sample=samples\Church Organ C2.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+offset=0
+end=110031
+loop_start=57336
+loop_end=109968
+
+<region>
+sample=samples\Church Organ D2.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+offset=0
+end=97903
+loop_start=47046
+loop_end=97885
+
+<region>
+sample=samples\Church Organ F2.wav
+lokey=52 hikey=54
+pitch_keycenter=54
+offset=0
+end=93575
+loop_start=30714
+loop_end=93568
+
+<region>
+sample=samples\Church Organ A2.wav
+lokey=55 hikey=57
+pitch_keycenter=57
+offset=0
+end=91879
+loop_start=48853
+loop_end=91799
+
+<region>
+sample=samples\Church Organ C3.wav
+lokey=58 hikey=60
+pitch_keycenter=60
+offset=0
+end=90391
+loop_start=45472
+loop_end=90379
+
+<region>
+sample=samples\Church Organ D3.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=69151
+loop_start=22722
+loop_end=69119
+
+<region>
+sample=samples\Church Organ F3.wav
+lokey=64 hikey=66
+pitch_keycenter=66
+offset=0
+end=55358
+loop_start=21118
+loop_end=55304
+
+<region>
+sample=samples\Church Organ A3.wav
+lokey=67 hikey=69
+pitch_keycenter=69
+offset=0
+end=78815
+loop_start=47913
+loop_end=78778
+
+<region>
+sample=samples\Church Organ C4.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+offset=0
+end=57990
+loop_start=13747
+loop_end=57983
+
+<region>
+sample=samples\Church Organ D4.wav
+lokey=73 hikey=75
+pitch_keycenter=75
+offset=0
+end=62431
+loop_start=34925
+loop_end=62418
+
+<region>
+sample=samples\Church Organ F4.wav
+lokey=76 hikey=78
+pitch_keycenter=78
+offset=0
+end=61647
+loop_start=27869
+loop_end=61622
+
+<region>
+sample=samples\Church Organ A4.wav
+lokey=79 hikey=81
+pitch_keycenter=81
+offset=0
+end=63167
+loop_start=26065
+loop_end=63167
+
+<region>
+sample=samples\Church Organ C5.wav
+lokey=82 hikey=84
+pitch_keycenter=84
+offset=0
+end=54975
+loop_start=13633
+loop_end=54975
+
+<region>
+sample=samples\Church Organ D5.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=71015
+loop_start=31911
+loop_end=71006
+
+<region>
+sample=samples\Church Organ F5.wav
+lokey=88 hikey=90
+pitch_keycenter=90
+offset=0
+end=42919
+loop_start=15110
+loop_end=42910
+
+<region>
+sample=samples\Church Organ A5.wav
+lokey=91 hikey=93
+pitch_keycenter=93
+offset=0
+end=70031
+loop_start=14156
+loop_end=70006
+
+<region>
+sample=samples\Church Organ C6.wav
+lokey=94 hikey=96
+pitch_keycenter=96
+offset=0
+end=51303
+loop_start=17894
+loop_end=51288
+
+<group>
+lovel=73 hivel=80
+ampeg_release=1.45229
+loop_mode=loop_continuous
+effect1=20
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Church Organ C1.wav
+lokey=0 hikey=36
+pitch_keycenter=36
+offset=0
+end=61255
+loop_start=24522
+loop_end=61247
+
+<region>
+sample=samples\Church Organ D1.wav
+lokey=37 hikey=39
+pitch_keycenter=39
+offset=0
+end=83311
+loop_start=43654
+loop_end=83214
+
+<region>
+sample=samples\Church Organ F1.wav
+lokey=40 hikey=42
+pitch_keycenter=42
+offset=0
+end=91751
+loop_start=46262
+loop_end=91740
+
+<region>
+sample=samples\Church Organ A1.wav
+lokey=43 hikey=45
+pitch_keycenter=45
+offset=0
+end=92231
+loop_start=31693
+loop_end=92223
+
+<region>
+sample=samples\Church Organ C2.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+offset=0
+end=110031
+loop_start=57336
+loop_end=109968
+
+<region>
+sample=samples\Church Organ D2.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+offset=0
+end=97903
+loop_start=47046
+loop_end=97885
+
+<region>
+sample=samples\Church Organ F2.wav
+lokey=52 hikey=54
+pitch_keycenter=54
+offset=0
+end=93575
+loop_start=30714
+loop_end=93568
+
+<region>
+sample=samples\Church Organ A2.wav
+lokey=55 hikey=57
+pitch_keycenter=57
+offset=0
+end=91879
+loop_start=48853
+loop_end=91799
+
+<region>
+sample=samples\Church Organ C3.wav
+lokey=58 hikey=60
+pitch_keycenter=60
+offset=0
+end=90391
+loop_start=45472
+loop_end=90379
+
+<region>
+sample=samples\Church Organ D3.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=69151
+loop_start=22722
+loop_end=69119
+
+<region>
+sample=samples\Church Organ F3.wav
+lokey=64 hikey=66
+pitch_keycenter=66
+offset=0
+end=55358
+loop_start=21118
+loop_end=55304
+
+<region>
+sample=samples\Church Organ A3.wav
+lokey=67 hikey=69
+pitch_keycenter=69
+offset=0
+end=78815
+loop_start=47913
+loop_end=78778
+
+<region>
+sample=samples\Church Organ C4.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+offset=0
+end=57990
+loop_start=13747
+loop_end=57983
+
+<region>
+sample=samples\Church Organ D4.wav
+lokey=73 hikey=75
+pitch_keycenter=75
+offset=0
+end=62431
+loop_start=34925
+loop_end=62418
+
+<region>
+sample=samples\Church Organ F4.wav
+lokey=76 hikey=78
+pitch_keycenter=78
+offset=0
+end=61647
+loop_start=27869
+loop_end=61622
+
+<region>
+sample=samples\Church Organ A4.wav
+lokey=79 hikey=81
+pitch_keycenter=81
+offset=0
+end=63167
+loop_start=26065
+loop_end=63167
+
+<region>
+sample=samples\Church Organ C5.wav
+lokey=82 hikey=84
+pitch_keycenter=84
+offset=0
+end=54975
+loop_start=13633
+loop_end=54975
+
+<region>
+sample=samples\Church Organ D5.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=71015
+loop_start=31911
+loop_end=71006
+
+<region>
+sample=samples\Church Organ F5.wav
+lokey=88 hikey=90
+pitch_keycenter=90
+offset=0
+end=42919
+loop_start=15110
+loop_end=42910
+
+<region>
+sample=samples\Church Organ A5.wav
+lokey=91 hikey=93
+pitch_keycenter=93
+offset=0
+end=70031
+loop_start=14156
+loop_end=70006
+
+<region>
+sample=samples\Church Organ C6.wav
+lokey=94 hikey=96
+pitch_keycenter=96
+offset=0
+end=51303
+loop_start=17894
+loop_end=51288
+
+<group>
+lovel=65 hivel=72
+ampeg_release=1.20999
+loop_mode=loop_continuous
+effect1=20
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Church Organ C1.wav
+lokey=0 hikey=36
+pitch_keycenter=36
+offset=0
+end=61255
+loop_start=24522
+loop_end=61247
+
+<region>
+sample=samples\Church Organ D1.wav
+lokey=37 hikey=39
+pitch_keycenter=39
+offset=0
+end=83311
+loop_start=43654
+loop_end=83214
+
+<region>
+sample=samples\Church Organ F1.wav
+lokey=40 hikey=42
+pitch_keycenter=42
+offset=0
+end=91751
+loop_start=46262
+loop_end=91740
+
+<region>
+sample=samples\Church Organ A1.wav
+lokey=43 hikey=45
+pitch_keycenter=45
+offset=0
+end=92231
+loop_start=31693
+loop_end=92223
+
+<region>
+sample=samples\Church Organ C2.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+offset=0
+end=110031
+loop_start=57336
+loop_end=109968
+
+<region>
+sample=samples\Church Organ D2.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+offset=0
+end=97903
+loop_start=47046
+loop_end=97885
+
+<region>
+sample=samples\Church Organ F2.wav
+lokey=52 hikey=54
+pitch_keycenter=54
+offset=0
+end=93575
+loop_start=30714
+loop_end=93568
+
+<region>
+sample=samples\Church Organ A2.wav
+lokey=55 hikey=57
+pitch_keycenter=57
+offset=0
+end=91879
+loop_start=48853
+loop_end=91799
+
+<region>
+sample=samples\Church Organ C3.wav
+lokey=58 hikey=60
+pitch_keycenter=60
+offset=0
+end=90391
+loop_start=45472
+loop_end=90379
+
+<region>
+sample=samples\Church Organ D3.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=69151
+loop_start=22722
+loop_end=69119
+
+<region>
+sample=samples\Church Organ F3.wav
+lokey=64 hikey=66
+pitch_keycenter=66
+offset=0
+end=55358
+loop_start=21118
+loop_end=55304
+
+<region>
+sample=samples\Church Organ A3.wav
+lokey=67 hikey=69
+pitch_keycenter=69
+offset=0
+end=78815
+loop_start=47913
+loop_end=78778
+
+<region>
+sample=samples\Church Organ C4.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+offset=0
+end=57990
+loop_start=13747
+loop_end=57983
+
+<region>
+sample=samples\Church Organ D4.wav
+lokey=73 hikey=75
+pitch_keycenter=75
+offset=0
+end=62431
+loop_start=34925
+loop_end=62418
+
+<region>
+sample=samples\Church Organ F4.wav
+lokey=76 hikey=78
+pitch_keycenter=78
+offset=0
+end=61647
+loop_start=27869
+loop_end=61622
+
+<region>
+sample=samples\Church Organ A4.wav
+lokey=79 hikey=81
+pitch_keycenter=81
+offset=0
+end=63167
+loop_start=26065
+loop_end=63167
+
+<region>
+sample=samples\Church Organ C5.wav
+lokey=82 hikey=84
+pitch_keycenter=84
+offset=0
+end=54975
+loop_start=13633
+loop_end=54975
+
+<region>
+sample=samples\Church Organ D5.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=71015
+loop_start=31911
+loop_end=71006
+
+<region>
+sample=samples\Church Organ F5.wav
+lokey=88 hikey=90
+pitch_keycenter=90
+offset=0
+end=42919
+loop_start=15110
+loop_end=42910
+
+<region>
+sample=samples\Church Organ A5.wav
+lokey=91 hikey=93
+pitch_keycenter=93
+offset=0
+end=70031
+loop_start=14156
+loop_end=70006
+
+<region>
+sample=samples\Church Organ C6.wav
+lokey=94 hikey=96
+pitch_keycenter=96
+offset=0
+end=51303
+loop_start=17894
+loop_end=51288
+
+<group>
+lovel=0 hivel=64
+ampeg_release=0.968171
+loop_mode=loop_continuous
+effect1=20
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Church Organ C1.wav
+lokey=0 hikey=36
+pitch_keycenter=36
+offset=0
+end=61255
+loop_start=24522
+loop_end=61247
+
+<region>
+sample=samples\Church Organ D1.wav
+lokey=37 hikey=39
+pitch_keycenter=39
+offset=0
+end=83311
+loop_start=43654
+loop_end=83214
+
+<region>
+sample=samples\Church Organ F1.wav
+lokey=40 hikey=42
+pitch_keycenter=42
+offset=0
+end=91751
+loop_start=46262
+loop_end=91740
+
+<region>
+sample=samples\Church Organ A1.wav
+lokey=43 hikey=45
+pitch_keycenter=45
+offset=0
+end=92231
+loop_start=31693
+loop_end=92223
+
+<region>
+sample=samples\Church Organ C2.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+offset=0
+end=110031
+loop_start=57336
+loop_end=109968
+
+<region>
+sample=samples\Church Organ D2.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+offset=0
+end=97903
+loop_start=47046
+loop_end=97885
+
+<region>
+sample=samples\Church Organ F2.wav
+lokey=52 hikey=54
+pitch_keycenter=54
+offset=0
+end=93575
+loop_start=30714
+loop_end=93568
+
+<region>
+sample=samples\Church Organ A2.wav
+lokey=55 hikey=57
+pitch_keycenter=57
+offset=0
+end=91879
+loop_start=48853
+loop_end=91799
+
+<region>
+sample=samples\Church Organ C3.wav
+lokey=58 hikey=60
+pitch_keycenter=60
+offset=0
+end=90391
+loop_start=45472
+loop_end=90379
+
+<region>
+sample=samples\Church Organ D3.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+offset=0
+end=69151
+loop_start=22722
+loop_end=69119
+
+<region>
+sample=samples\Church Organ F3.wav
+lokey=64 hikey=66
+pitch_keycenter=66
+offset=0
+end=55358
+loop_start=21118
+loop_end=55304
+
+<region>
+sample=samples\Church Organ A3.wav
+lokey=67 hikey=69
+pitch_keycenter=69
+offset=0
+end=78815
+loop_start=47913
+loop_end=78778
+
+<region>
+sample=samples\Church Organ C4.wav
+lokey=70 hikey=72
+pitch_keycenter=72
+offset=0
+end=57990
+loop_start=13747
+loop_end=57983
+
+<region>
+sample=samples\Church Organ D4.wav
+lokey=73 hikey=75
+pitch_keycenter=75
+offset=0
+end=62431
+loop_start=34925
+loop_end=62418
+
+<region>
+sample=samples\Church Organ F4.wav
+lokey=76 hikey=78
+pitch_keycenter=78
+offset=0
+end=61647
+loop_start=27869
+loop_end=61622
+
+<region>
+sample=samples\Church Organ A4.wav
+lokey=79 hikey=81
+pitch_keycenter=81
+offset=0
+end=63167
+loop_start=26065
+loop_end=63167
+
+<region>
+sample=samples\Church Organ C5.wav
+lokey=82 hikey=84
+pitch_keycenter=84
+offset=0
+end=54975
+loop_start=13633
+loop_end=54975
+
+<region>
+sample=samples\Church Organ D5.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=71015
+loop_start=31911
+loop_end=71006
+
+<region>
+sample=samples\Church Organ F5.wav
+lokey=88 hikey=90
+pitch_keycenter=90
+offset=0
+end=42919
+loop_start=15110
+loop_end=42910
+
+<region>
+sample=samples\Church Organ A5.wav
+lokey=91 hikey=93
+pitch_keycenter=93
+offset=0
+end=70031
+loop_start=14156
+loop_end=70006
+
+<region>
+sample=samples\Church Organ C6.wav
+lokey=94 hikey=96
+pitch_keycenter=96
+offset=0
+end=51303
+loop_start=17894
+loop_end=51288

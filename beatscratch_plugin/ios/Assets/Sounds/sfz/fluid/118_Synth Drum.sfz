@@ -1,0 +1,91 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=7999
+fileg_depth=2000
+pitcheg_release=1
+fileg_release=1
+ampeg_attack=0.00799974
+ampeg_release=0.5
+pitch_keytrack=50
+loop_mode=no_loop
+effect2=10
+effect1=10
+volume=-0.794
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Sine Wave A1.wav
+lokey=0 hikey=64
+pitch_keycenter=41
+pitcheg_depth=1200
+pitcheg_decay=0.300062
+fileg_decay=0.300062
+fileg_sustain=0
+pitcheg_sustain=0
+ampeg_attack=0.001
+ampeg_hold=0.25
+ampeg_decay=0.600124
+ampeg_sustain=0.001
+transpose=-5
+loop_mode=loop_continuous
+offset=0
+end=601
+loop_start=98
+loop_end=499
+
+<region>
+sample=samples\Electronic Tom(R).wav
+pitch_keycenter=41
+offset=0
+end=24393
+loop_start=8
+loop_end=24385
+
+<region>
+sample=samples\Sine Wave A2.wav
+lokey=65 hikey=88
+pitch_keycenter=65
+pitcheg_depth=1200
+pitcheg_decay=0.300062
+fileg_decay=0.300062
+fileg_sustain=0
+pitcheg_sustain=0
+ampeg_attack=0.001
+ampeg_hold=0.25
+ampeg_decay=0.600124
+ampeg_sustain=0.001
+transpose=-5
+loop_mode=loop_continuous
+offset=0
+end=301
+loop_start=52
+loop_end=251
+
+<region>
+sample=samples\Sine Wave A3.wav
+lokey=89 hikey=127
+pitch_keycenter=89
+pitcheg_depth=1200
+pitcheg_decay=0.300062
+fileg_decay=0.300062
+fileg_sustain=0
+pitcheg_sustain=0
+ampeg_attack=0.001
+ampeg_hold=0.25
+ampeg_decay=0.600124
+ampeg_sustain=0.001
+transpose=-5
+loop_mode=loop_continuous
+offset=0
+end=150
+loop_start=25
+loop_end=124

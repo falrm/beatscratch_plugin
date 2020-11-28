@@ -1,0 +1,627 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=10002
+ampeg_release=0.300062
+loop_mode=loop_continuous
+effect1=15
+volume=-1.2704
+pitchlfo_depth=10
+pitchlfo_delay=7.09842
+pitchlfo_freq=5.67871
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+
+<region>
+sample=samples\Muted F# 4.wav
+lokey=0 hikey=59
+pitch_keycenter=54
+offset=0
+end=29791
+loop_start=27924
+loop_end=29593
+
+<region>
+sample=samples\Muted C 5.wav
+lokey=60 hikey=65
+pitch_keycenter=60
+offset=0
+end=17171
+loop_start=15449
+loop_end=17134
+
+<region>
+sample=samples\Muted F# 5.wav
+lokey=66 hikey=70
+pitch_keycenter=66
+offset=0
+end=20951
+loop_start=19658
+loop_end=20849
+
+<region>
+sample=samples\Muted C 6.wav
+lokey=71 hikey=74
+pitch_keycenter=72
+offset=0
+end=9585
+loop_start=8917
+loop_end=9528
+
+<region>
+sample=samples\Muted F# 6.wav
+lokey=75 hikey=78
+pitch_keycenter=78
+offset=0
+end=7581
+loop_start=6908
+loop_end=7563
+
+<region>
+sample=samples\Muted C 7.wav
+lokey=79 hikey=96
+pitch_keycenter=84
+offset=0
+end=17775
+loop_start=11883
+loop_end=17738
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=9004
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00107422
+effect1=15
+volume=-1.2704
+pitchlfo_depth=10
+pitchlfo_delay=7.09842
+pitchlfo_freq=5.67871
+amplfo_freq=8.176
+fillfo_freq=8.176
+
+<region>
+sample=samples\Muted F# 4.wav
+lokey=0 hikey=59
+pitch_keycenter=54
+offset=0
+end=29791
+loop_start=27924
+loop_end=29593
+
+<region>
+sample=samples\Muted C 5.wav
+lokey=60 hikey=65
+pitch_keycenter=60
+offset=0
+end=17171
+loop_start=15449
+loop_end=17134
+
+<region>
+sample=samples\Muted F# 5.wav
+lokey=66 hikey=70
+pitch_keycenter=66
+offset=0
+end=20951
+loop_start=19658
+loop_end=20849
+
+<region>
+sample=samples\Muted C 6.wav
+lokey=71 hikey=74
+pitch_keycenter=72
+offset=0
+end=9585
+loop_start=8917
+loop_end=9528
+
+<region>
+sample=samples\Muted F# 6.wav
+lokey=75 hikey=78
+pitch_keycenter=78
+offset=0
+end=7581
+loop_start=6908
+loop_end=7563
+
+<region>
+sample=samples\Muted C 7.wav
+lokey=79 hikey=96
+pitch_keycenter=84
+offset=0
+end=17775
+loop_start=11883
+loop_end=17738
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=8003
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00116201
+effect1=15
+volume=-1.2704
+pitchlfo_depth=10
+pitchlfo_delay=7.09842
+pitchlfo_freq=5.67871
+amplfo_freq=8.176
+fillfo_freq=8.176
+
+<region>
+sample=samples\Muted F# 4.wav
+lokey=0 hikey=59
+pitch_keycenter=54
+offset=0
+end=29791
+loop_start=27924
+loop_end=29593
+
+<region>
+sample=samples\Muted C 5.wav
+lokey=60 hikey=65
+pitch_keycenter=60
+offset=0
+end=17171
+loop_start=15449
+loop_end=17134
+
+<region>
+sample=samples\Muted F# 5.wav
+lokey=66 hikey=70
+pitch_keycenter=66
+offset=0
+end=20951
+loop_start=19658
+loop_end=20849
+
+<region>
+sample=samples\Muted C 6.wav
+lokey=71 hikey=74
+pitch_keycenter=72
+offset=0
+end=9585
+loop_start=8917
+loop_end=9528
+
+<region>
+sample=samples\Muted F# 6.wav
+lokey=75 hikey=78
+pitch_keycenter=78
+offset=0
+end=7581
+loop_start=6908
+loop_end=7563
+
+<region>
+sample=samples\Muted C 7.wav
+lokey=79 hikey=96
+pitch_keycenter=84
+offset=0
+end=17775
+loop_start=11883
+loop_end=17738
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=7004
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00126938
+effect1=15
+volume=-1.2704
+pitchlfo_depth=10
+pitchlfo_delay=7.09842
+pitchlfo_freq=5.67871
+amplfo_freq=8.176
+fillfo_freq=8.176
+
+<region>
+sample=samples\Muted F# 4.wav
+lokey=0 hikey=59
+pitch_keycenter=54
+offset=0
+end=29791
+loop_start=27924
+loop_end=29593
+
+<region>
+sample=samples\Muted C 5.wav
+lokey=60 hikey=65
+pitch_keycenter=60
+offset=0
+end=17171
+loop_start=15449
+loop_end=17134
+
+<region>
+sample=samples\Muted F# 5.wav
+lokey=66 hikey=70
+pitch_keycenter=66
+offset=0
+end=20951
+loop_start=19658
+loop_end=20849
+
+<region>
+sample=samples\Muted C 6.wav
+lokey=71 hikey=74
+pitch_keycenter=72
+offset=0
+end=9585
+loop_start=8917
+loop_end=9528
+
+<region>
+sample=samples\Muted F# 6.wav
+lokey=75 hikey=78
+pitch_keycenter=78
+offset=0
+end=7581
+loop_start=6908
+loop_end=7563
+
+<region>
+sample=samples\Muted C 7.wav
+lokey=79 hikey=96
+pitch_keycenter=84
+offset=0
+end=17775
+loop_start=11883
+loop_end=17738
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=6003
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00135735
+effect1=15
+volume=-1.2704
+pitchlfo_depth=10
+pitchlfo_delay=7.09842
+pitchlfo_freq=5.67871
+amplfo_freq=8.176
+fillfo_freq=8.176
+
+<region>
+sample=samples\Muted F# 4.wav
+lokey=0 hikey=59
+pitch_keycenter=54
+offset=0
+end=29791
+loop_start=27924
+loop_end=29593
+
+<region>
+sample=samples\Muted C 5.wav
+lokey=60 hikey=65
+pitch_keycenter=60
+offset=0
+end=17171
+loop_start=15449
+loop_end=17134
+
+<region>
+sample=samples\Muted F# 5.wav
+lokey=66 hikey=70
+pitch_keycenter=66
+offset=0
+end=20951
+loop_start=19658
+loop_end=20849
+
+<region>
+sample=samples\Muted C 6.wav
+lokey=71 hikey=74
+pitch_keycenter=72
+offset=0
+end=9585
+loop_start=8917
+loop_end=9528
+
+<region>
+sample=samples\Muted F# 6.wav
+lokey=75 hikey=78
+pitch_keycenter=78
+offset=0
+end=7581
+loop_start=6908
+loop_end=7563
+
+<region>
+sample=samples\Muted C 7.wav
+lokey=79 hikey=96
+pitch_keycenter=84
+offset=0
+end=17775
+loop_start=11883
+loop_end=17738
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=5001
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00146489
+effect1=15
+volume=-1.2704
+pitchlfo_depth=10
+pitchlfo_delay=7.09842
+pitchlfo_freq=5.67871
+amplfo_freq=8.176
+fillfo_freq=8.176
+
+<region>
+sample=samples\Muted F# 4.wav
+lokey=0 hikey=59
+pitch_keycenter=54
+offset=0
+end=29791
+loop_start=27924
+loop_end=29593
+
+<region>
+sample=samples\Muted C 5.wav
+lokey=60 hikey=65
+pitch_keycenter=60
+offset=0
+end=17171
+loop_start=15449
+loop_end=17134
+
+<region>
+sample=samples\Muted F# 5.wav
+lokey=66 hikey=70
+pitch_keycenter=66
+offset=0
+end=20951
+loop_start=19658
+loop_end=20849
+
+<region>
+sample=samples\Muted C 6.wav
+lokey=71 hikey=74
+pitch_keycenter=72
+offset=0
+end=9585
+loop_start=8917
+loop_end=9528
+
+<region>
+sample=samples\Muted F# 6.wav
+lokey=75 hikey=78
+pitch_keycenter=78
+offset=0
+end=7581
+loop_start=6908
+loop_end=7563
+
+<region>
+sample=samples\Muted C 7.wav
+lokey=79 hikey=96
+pitch_keycenter=84
+offset=0
+end=17775
+loop_start=11883
+loop_end=17738
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=4002
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00156279
+effect1=15
+volume=-1.2704
+pitchlfo_depth=10
+pitchlfo_delay=7.09842
+pitchlfo_freq=5.67871
+amplfo_freq=8.176
+fillfo_freq=8.176
+
+<region>
+sample=samples\Muted F# 4.wav
+lokey=0 hikey=59
+pitch_keycenter=54
+offset=0
+end=29791
+loop_start=27924
+loop_end=29593
+
+<region>
+sample=samples\Muted C 5.wav
+lokey=60 hikey=65
+pitch_keycenter=60
+offset=0
+end=17171
+loop_start=15449
+loop_end=17134
+
+<region>
+sample=samples\Muted F# 5.wav
+lokey=66 hikey=70
+pitch_keycenter=66
+offset=0
+end=20951
+loop_start=19658
+loop_end=20849
+
+<region>
+sample=samples\Muted C 6.wav
+lokey=71 hikey=74
+pitch_keycenter=72
+offset=0
+end=9585
+loop_start=8917
+loop_end=9528
+
+<region>
+sample=samples\Muted F# 6.wav
+lokey=75 hikey=78
+pitch_keycenter=78
+offset=0
+end=7581
+loop_start=6908
+loop_end=7563
+
+<region>
+sample=samples\Muted C 7.wav
+lokey=79 hikey=96
+pitch_keycenter=84
+offset=0
+end=17775
+loop_start=11883
+loop_end=17738
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=3001
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00164999
+effect1=15
+volume=-1.2704
+pitchlfo_depth=10
+pitchlfo_delay=7.09842
+pitchlfo_freq=5.67871
+amplfo_freq=8.176
+fillfo_freq=8.176
+
+<region>
+sample=samples\Muted F# 4.wav
+lokey=0 hikey=59
+pitch_keycenter=54
+offset=0
+end=29791
+loop_start=27924
+loop_end=29593
+
+<region>
+sample=samples\Muted C 5.wav
+lokey=60 hikey=65
+pitch_keycenter=60
+offset=0
+end=17171
+loop_start=15449
+loop_end=17134
+
+<region>
+sample=samples\Muted F# 5.wav
+lokey=66 hikey=70
+pitch_keycenter=66
+offset=0
+end=20951
+loop_start=19658
+loop_end=20849
+
+<region>
+sample=samples\Muted C 6.wav
+lokey=71 hikey=74
+pitch_keycenter=72
+offset=0
+end=9585
+loop_start=8917
+loop_end=9528
+
+<region>
+sample=samples\Muted F# 6.wav
+lokey=75 hikey=78
+pitch_keycenter=78
+offset=0
+end=7581
+loop_start=6908
+loop_end=7563
+
+<region>
+sample=samples\Muted C 7.wav
+lokey=79 hikey=96
+pitch_keycenter=84
+offset=0
+end=17775
+loop_start=11883
+loop_end=17738
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=2001
+ampeg_release=0.300062
+loop_mode=loop_continuous
+ampeg_attack=0.00175823
+effect1=15
+volume=-1.2704
+pitchlfo_depth=10
+pitchlfo_delay=7.09842
+pitchlfo_freq=5.67871
+amplfo_freq=8.176
+fillfo_freq=8.176
+
+<region>
+sample=samples\Muted F# 4.wav
+lokey=0 hikey=59
+pitch_keycenter=54
+offset=0
+end=29791
+loop_start=27924
+loop_end=29593
+
+<region>
+sample=samples\Muted C 5.wav
+lokey=60 hikey=65
+pitch_keycenter=60
+offset=0
+end=17171
+loop_start=15449
+loop_end=17134
+
+<region>
+sample=samples\Muted F# 5.wav
+lokey=66 hikey=70
+pitch_keycenter=66
+offset=0
+end=20951
+loop_start=19658
+loop_end=20849
+
+<region>
+sample=samples\Muted C 6.wav
+lokey=71 hikey=74
+pitch_keycenter=72
+offset=0
+end=9585
+loop_start=8917
+loop_end=9528
+
+<region>
+sample=samples\Muted F# 6.wav
+lokey=75 hikey=78
+pitch_keycenter=78
+offset=0
+end=7581
+loop_start=6908
+loop_end=7563
+
+<region>
+sample=samples\Muted C 7.wav
+lokey=79 hikey=96
+pitch_keycenter=84
+offset=0
+end=17775
+loop_start=11883
+loop_end=17738

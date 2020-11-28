@@ -1,0 +1,834 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=7999
+ampeg_release=0.600124
+transpose=-12
+loop_mode=loop_continuous
+effect1=15
+volume=-2.1438
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piccolo E6(L).wav
+lokey=0 hikey=76
+pitch_keycenter=64
+offset=0
+end=33295
+loop_start=22894
+loop_end=33280
+
+<region>
+sample=samples\Piccolo F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=66
+offset=0
+end=35599
+loop_start=24651
+loop_end=35583
+
+<region>
+sample=samples\Piccolo G#6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=68
+tune=5
+offset=0
+end=43311
+loop_start=31586
+loop_end=43225
+
+<region>
+sample=samples\Piccolo A#6(L).wav
+lokey=81 hikey=82
+pitch_keycenter=70
+tune=5
+offset=0
+end=33543
+loop_start=22530
+loop_end=33535
+
+<region>
+sample=samples\Piccolo C7(L).wav
+lokey=83 hikey=84
+pitch_keycenter=72
+tune=-32
+offset=0
+end=35359
+loop_start=24235
+loop_end=35327
+
+<region>
+sample=samples\Piccolo E7(L).wav
+lokey=85 hikey=88
+pitch_keycenter=76
+tune=-41
+offset=0
+end=33287
+loop_start=22591
+loop_end=33279
+
+<region>
+sample=samples\Piccolo G#7(L).wav
+lokey=89 hikey=92
+pitch_keycenter=80
+tune=-21
+offset=0
+end=39967
+loop_start=29297
+loop_end=39936
+
+<region>
+sample=samples\Piccolo C8(L).wav
+lokey=93 hikey=120
+pitch_keycenter=84
+tune=-20
+offset=0
+end=39183
+loop_start=28519
+loop_end=39167
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=7999
+ampeg_release=0.549999
+transpose=-12
+loop_mode=loop_continuous
+effect1=15
+volume=-2.1438
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piccolo E6(L).wav
+lokey=0 hikey=76
+pitch_keycenter=64
+offset=0
+end=33295
+loop_start=22894
+loop_end=33280
+
+<region>
+sample=samples\Piccolo F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=66
+offset=0
+end=35599
+loop_start=24651
+loop_end=35583
+
+<region>
+sample=samples\Piccolo G#6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=68
+tune=5
+offset=0
+end=43311
+loop_start=31586
+loop_end=43225
+
+<region>
+sample=samples\Piccolo A#6(L).wav
+lokey=81 hikey=82
+pitch_keycenter=70
+tune=5
+offset=0
+end=33543
+loop_start=22530
+loop_end=33535
+
+<region>
+sample=samples\Piccolo C7(L).wav
+lokey=83 hikey=84
+pitch_keycenter=72
+tune=-32
+offset=0
+end=35359
+loop_start=24235
+loop_end=35327
+
+<region>
+sample=samples\Piccolo E7(L).wav
+lokey=85 hikey=88
+pitch_keycenter=76
+tune=-41
+offset=0
+end=33287
+loop_start=22591
+loop_end=33279
+
+<region>
+sample=samples\Piccolo G#7(L).wav
+lokey=89 hikey=92
+pitch_keycenter=80
+tune=-21
+offset=0
+end=39967
+loop_start=29297
+loop_end=39936
+
+<region>
+sample=samples\Piccolo C8(L).wav
+lokey=93 hikey=120
+pitch_keycenter=84
+tune=-20
+offset=0
+end=39183
+loop_start=28519
+loop_end=39167
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=7999
+ampeg_release=0.5
+transpose=-12
+loop_mode=loop_continuous
+effect1=15
+volume=-2.1438
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piccolo E6(L).wav
+lokey=0 hikey=76
+pitch_keycenter=64
+offset=0
+end=33295
+loop_start=22894
+loop_end=33280
+
+<region>
+sample=samples\Piccolo F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=66
+offset=0
+end=35599
+loop_start=24651
+loop_end=35583
+
+<region>
+sample=samples\Piccolo G#6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=68
+tune=5
+offset=0
+end=43311
+loop_start=31586
+loop_end=43225
+
+<region>
+sample=samples\Piccolo A#6(L).wav
+lokey=81 hikey=82
+pitch_keycenter=70
+tune=5
+offset=0
+end=33543
+loop_start=22530
+loop_end=33535
+
+<region>
+sample=samples\Piccolo C7(L).wav
+lokey=83 hikey=84
+pitch_keycenter=72
+tune=-32
+offset=0
+end=35359
+loop_start=24235
+loop_end=35327
+
+<region>
+sample=samples\Piccolo E7(L).wav
+lokey=85 hikey=88
+pitch_keycenter=76
+tune=-41
+offset=0
+end=33287
+loop_start=22591
+loop_end=33279
+
+<region>
+sample=samples\Piccolo G#7(L).wav
+lokey=89 hikey=92
+pitch_keycenter=80
+tune=-21
+offset=0
+end=39967
+loop_start=29297
+loop_end=39936
+
+<region>
+sample=samples\Piccolo C8(L).wav
+lokey=93 hikey=120
+pitch_keycenter=84
+tune=-20
+offset=0
+end=39183
+loop_start=28519
+loop_end=39167
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=7999
+ampeg_release=0.450105
+transpose=-12
+loop_mode=loop_continuous
+effect1=15
+volume=-2.1438
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piccolo E6(L).wav
+lokey=0 hikey=76
+pitch_keycenter=64
+offset=0
+end=33295
+loop_start=22894
+loop_end=33280
+
+<region>
+sample=samples\Piccolo F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=66
+offset=0
+end=35599
+loop_start=24651
+loop_end=35583
+
+<region>
+sample=samples\Piccolo G#6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=68
+tune=5
+offset=0
+end=43311
+loop_start=31586
+loop_end=43225
+
+<region>
+sample=samples\Piccolo A#6(L).wav
+lokey=81 hikey=82
+pitch_keycenter=70
+tune=5
+offset=0
+end=33543
+loop_start=22530
+loop_end=33535
+
+<region>
+sample=samples\Piccolo C7(L).wav
+lokey=83 hikey=84
+pitch_keycenter=72
+tune=-32
+offset=0
+end=35359
+loop_start=24235
+loop_end=35327
+
+<region>
+sample=samples\Piccolo E7(L).wav
+lokey=85 hikey=88
+pitch_keycenter=76
+tune=-41
+offset=0
+end=33287
+loop_start=22591
+loop_end=33279
+
+<region>
+sample=samples\Piccolo G#7(L).wav
+lokey=89 hikey=92
+pitch_keycenter=80
+tune=-21
+offset=0
+end=39967
+loop_start=29297
+loop_end=39936
+
+<region>
+sample=samples\Piccolo C8(L).wav
+lokey=93 hikey=120
+pitch_keycenter=84
+tune=-20
+offset=0
+end=39183
+loop_start=28519
+loop_end=39167
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=7999
+ampeg_release=0.400073
+transpose=-12
+loop_mode=loop_continuous
+effect1=15
+volume=-2.1438
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piccolo E6(L).wav
+lokey=0 hikey=76
+pitch_keycenter=64
+offset=0
+end=33295
+loop_start=22894
+loop_end=33280
+
+<region>
+sample=samples\Piccolo F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=66
+offset=0
+end=35599
+loop_start=24651
+loop_end=35583
+
+<region>
+sample=samples\Piccolo G#6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=68
+tune=5
+offset=0
+end=43311
+loop_start=31586
+loop_end=43225
+
+<region>
+sample=samples\Piccolo A#6(L).wav
+lokey=81 hikey=82
+pitch_keycenter=70
+tune=5
+offset=0
+end=33543
+loop_start=22530
+loop_end=33535
+
+<region>
+sample=samples\Piccolo C7(L).wav
+lokey=83 hikey=84
+pitch_keycenter=72
+tune=-32
+offset=0
+end=35359
+loop_start=24235
+loop_end=35327
+
+<region>
+sample=samples\Piccolo E7(L).wav
+lokey=85 hikey=88
+pitch_keycenter=76
+tune=-41
+offset=0
+end=33287
+loop_start=22591
+loop_end=33279
+
+<region>
+sample=samples\Piccolo G#7(L).wav
+lokey=89 hikey=92
+pitch_keycenter=80
+tune=-21
+offset=0
+end=39967
+loop_start=29297
+loop_end=39936
+
+<region>
+sample=samples\Piccolo C8(L).wav
+lokey=93 hikey=120
+pitch_keycenter=84
+tune=-20
+offset=0
+end=39183
+loop_start=28519
+loop_end=39167
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=7999
+ampeg_release=0.350099
+transpose=-12
+loop_mode=loop_continuous
+effect1=15
+volume=-2.1438
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piccolo E6(L).wav
+lokey=0 hikey=76
+pitch_keycenter=64
+offset=0
+end=33295
+loop_start=22894
+loop_end=33280
+
+<region>
+sample=samples\Piccolo F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=66
+offset=0
+end=35599
+loop_start=24651
+loop_end=35583
+
+<region>
+sample=samples\Piccolo G#6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=68
+tune=5
+offset=0
+end=43311
+loop_start=31586
+loop_end=43225
+
+<region>
+sample=samples\Piccolo A#6(L).wav
+lokey=81 hikey=82
+pitch_keycenter=70
+tune=5
+offset=0
+end=33543
+loop_start=22530
+loop_end=33535
+
+<region>
+sample=samples\Piccolo C7(L).wav
+lokey=83 hikey=84
+pitch_keycenter=72
+tune=-32
+offset=0
+end=35359
+loop_start=24235
+loop_end=35327
+
+<region>
+sample=samples\Piccolo E7(L).wav
+lokey=85 hikey=88
+pitch_keycenter=76
+tune=-41
+offset=0
+end=33287
+loop_start=22591
+loop_end=33279
+
+<region>
+sample=samples\Piccolo G#7(L).wav
+lokey=89 hikey=92
+pitch_keycenter=80
+tune=-21
+offset=0
+end=39967
+loop_start=29297
+loop_end=39936
+
+<region>
+sample=samples\Piccolo C8(L).wav
+lokey=93 hikey=120
+pitch_keycenter=84
+tune=-20
+offset=0
+end=39183
+loop_start=28519
+loop_end=39167
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=7999
+ampeg_release=0.300062
+transpose=-12
+loop_mode=loop_continuous
+effect1=15
+volume=-2.1438
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piccolo E6(L).wav
+lokey=0 hikey=76
+pitch_keycenter=64
+offset=0
+end=33295
+loop_start=22894
+loop_end=33280
+
+<region>
+sample=samples\Piccolo F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=66
+offset=0
+end=35599
+loop_start=24651
+loop_end=35583
+
+<region>
+sample=samples\Piccolo G#6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=68
+tune=5
+offset=0
+end=43311
+loop_start=31586
+loop_end=43225
+
+<region>
+sample=samples\Piccolo A#6(L).wav
+lokey=81 hikey=82
+pitch_keycenter=70
+tune=5
+offset=0
+end=33543
+loop_start=22530
+loop_end=33535
+
+<region>
+sample=samples\Piccolo C7(L).wav
+lokey=83 hikey=84
+pitch_keycenter=72
+tune=-32
+offset=0
+end=35359
+loop_start=24235
+loop_end=35327
+
+<region>
+sample=samples\Piccolo E7(L).wav
+lokey=85 hikey=88
+pitch_keycenter=76
+tune=-41
+offset=0
+end=33287
+loop_start=22591
+loop_end=33279
+
+<region>
+sample=samples\Piccolo G#7(L).wav
+lokey=89 hikey=92
+pitch_keycenter=80
+tune=-21
+offset=0
+end=39967
+loop_start=29297
+loop_end=39936
+
+<region>
+sample=samples\Piccolo C8(L).wav
+lokey=93 hikey=120
+pitch_keycenter=84
+tune=-20
+offset=0
+end=39183
+loop_start=28519
+loop_end=39167
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=7999
+ampeg_release=0.25
+transpose=-12
+loop_mode=loop_continuous
+effect1=15
+volume=-2.1438
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piccolo E6(L).wav
+lokey=0 hikey=76
+pitch_keycenter=64
+offset=0
+end=33295
+loop_start=22894
+loop_end=33280
+
+<region>
+sample=samples\Piccolo F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=66
+offset=0
+end=35599
+loop_start=24651
+loop_end=35583
+
+<region>
+sample=samples\Piccolo G#6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=68
+tune=5
+offset=0
+end=43311
+loop_start=31586
+loop_end=43225
+
+<region>
+sample=samples\Piccolo A#6(L).wav
+lokey=81 hikey=82
+pitch_keycenter=70
+tune=5
+offset=0
+end=33543
+loop_start=22530
+loop_end=33535
+
+<region>
+sample=samples\Piccolo C7(L).wav
+lokey=83 hikey=84
+pitch_keycenter=72
+tune=-32
+offset=0
+end=35359
+loop_start=24235
+loop_end=35327
+
+<region>
+sample=samples\Piccolo E7(L).wav
+lokey=85 hikey=88
+pitch_keycenter=76
+tune=-41
+offset=0
+end=33287
+loop_start=22591
+loop_end=33279
+
+<region>
+sample=samples\Piccolo G#7(L).wav
+lokey=89 hikey=92
+pitch_keycenter=80
+tune=-21
+offset=0
+end=39967
+loop_start=29297
+loop_end=39936
+
+<region>
+sample=samples\Piccolo C8(L).wav
+lokey=93 hikey=120
+pitch_keycenter=84
+tune=-20
+offset=0
+end=39183
+loop_start=28519
+loop_end=39167
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=7999
+ampeg_release=0.200036
+transpose=-12
+loop_mode=loop_continuous
+effect1=15
+volume=-2.1438
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Piccolo E6(L).wav
+lokey=0 hikey=76
+pitch_keycenter=64
+offset=0
+end=33295
+loop_start=22894
+loop_end=33280
+
+<region>
+sample=samples\Piccolo F#6(L).wav
+lokey=77 hikey=78
+pitch_keycenter=66
+offset=0
+end=35599
+loop_start=24651
+loop_end=35583
+
+<region>
+sample=samples\Piccolo G#6(L).wav
+lokey=79 hikey=80
+pitch_keycenter=68
+tune=5
+offset=0
+end=43311
+loop_start=31586
+loop_end=43225
+
+<region>
+sample=samples\Piccolo A#6(L).wav
+lokey=81 hikey=82
+pitch_keycenter=70
+tune=5
+offset=0
+end=33543
+loop_start=22530
+loop_end=33535
+
+<region>
+sample=samples\Piccolo C7(L).wav
+lokey=83 hikey=84
+pitch_keycenter=72
+tune=-32
+offset=0
+end=35359
+loop_start=24235
+loop_end=35327
+
+<region>
+sample=samples\Piccolo E7(L).wav
+lokey=85 hikey=88
+pitch_keycenter=76
+tune=-41
+offset=0
+end=33287
+loop_start=22591
+loop_end=33279
+
+<region>
+sample=samples\Piccolo G#7(L).wav
+lokey=89 hikey=92
+pitch_keycenter=80
+tune=-21
+offset=0
+end=39967
+loop_start=29297
+loop_end=39936
+
+<region>
+sample=samples\Piccolo C8(L).wav
+lokey=93 hikey=120
+pitch_keycenter=84
+tune=-20
+offset=0
+end=39183
+loop_start=28519
+loop_end=39167

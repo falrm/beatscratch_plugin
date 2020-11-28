@@ -1,0 +1,33 @@
+PODS:
+  - AudioKit/Core (4.11.1)
+  - beatscratch_plugin (0.0.1):
+    - AudioKit/Core (~> 4.11.1)
+    - Flutter
+    - SwiftProtobuf (~> 1.13.0)
+  - Flutter (1.0.0)
+  - SwiftProtobuf (1.13.0)
+
+DEPENDENCIES:
+  - beatscratch_plugin (from `.symlinks/plugins/beatscratch_plugin/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - AudioKit
+    - SwiftProtobuf
+
+EXTERNAL SOURCES:
+  beatscratch_plugin:
+    :path: ".symlinks/plugins/beatscratch_plugin/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  AudioKit: 059a783edd8340ca0130a66d1ad126aa5bb8ad92
+  beatscratch_plugin: 97e535edb22f26d4087e114d48db1a05ec1f8b3f
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  SwiftProtobuf: fd4693388a96c8c2df35d3b063272b0e7c499d00
+
+PODFILE CHECKSUM: e5aac657a42bbddb21534afea3eedc0e3d4a518f
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,1041 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=7000
+fileg_depth=500
+ampeg_hold=0.100018
+ampeg_sustain=0.001
+ampeg_release=12.0003
+loop_mode=no_loop
+effect1=10
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Xylophone F# 4(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_decay=6.00015
+offset=0
+end=64168
+loop_start=8
+loop_end=64160
+
+<region>
+sample=samples\Xylophone C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.69949
+offset=0
+end=71039
+loop_start=8
+loop_end=71031
+
+<region>
+sample=samples\Xylophone F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=5.29941
+offset=0
+end=53887
+loop_start=8
+loop_end=53879
+
+<region>
+sample=samples\Xylophone C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.80099
+offset=0
+end=56638
+loop_start=8
+loop_end=56630
+
+<region>
+sample=samples\Xylophone F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4.19886
+offset=0
+end=46591
+loop_start=8
+loop_end=46583
+
+<region>
+sample=samples\Xylophone C 7(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=43959
+loop_start=8
+loop_end=43951
+
+<region>
+sample=samples\Xylophone F# 7(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=2.7007
+offset=0
+end=33535
+loop_start=8
+loop_end=33527
+
+<region>
+sample=samples\Xylophone C 8(L).wav
+lokey=96 hikey=101
+pitch_keycenter=96
+ampeg_decay=1.80042
+offset=0
+end=29167
+loop_start=8
+loop_end=29159
+
+<region>
+sample=samples\Xylophone F# 8(L).wav
+lokey=102 hikey=107
+pitch_keycenter=102
+ampeg_decay=0.800145
+offset=0
+end=24063
+loop_start=8
+loop_end=24055
+
+<region>
+sample=samples\Xylophone C 9(L).wav
+lokey=108 hikey=127
+pitch_keycenter=108
+offset=0
+end=23039
+loop_start=8
+loop_end=23031
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=6301
+fileg_depth=500
+ampeg_hold=0.100018
+ampeg_sustain=0.001
+ampeg_release=10.998
+loop_mode=no_loop
+effect1=10
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Xylophone F# 4(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_decay=6.00015
+offset=0
+end=64168
+loop_start=8
+loop_end=64160
+
+<region>
+sample=samples\Xylophone C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.69949
+offset=0
+end=71039
+loop_start=8
+loop_end=71031
+
+<region>
+sample=samples\Xylophone F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=5.29941
+offset=0
+end=53887
+loop_start=8
+loop_end=53879
+
+<region>
+sample=samples\Xylophone C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.80099
+offset=0
+end=56638
+loop_start=8
+loop_end=56630
+
+<region>
+sample=samples\Xylophone F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4.19886
+offset=0
+end=46591
+loop_start=8
+loop_end=46583
+
+<region>
+sample=samples\Xylophone C 7(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=43959
+loop_start=8
+loop_end=43951
+
+<region>
+sample=samples\Xylophone F# 7(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=2.7007
+offset=0
+end=33535
+loop_start=8
+loop_end=33527
+
+<region>
+sample=samples\Xylophone C 8(L).wav
+lokey=96 hikey=101
+pitch_keycenter=96
+ampeg_decay=1.80042
+offset=0
+end=29167
+loop_start=8
+loop_end=29159
+
+<region>
+sample=samples\Xylophone F# 8(L).wav
+lokey=102 hikey=107
+pitch_keycenter=102
+ampeg_decay=0.800145
+offset=0
+end=24063
+loop_start=8
+loop_end=24055
+
+<region>
+sample=samples\Xylophone C 9(L).wav
+lokey=108 hikey=127
+pitch_keycenter=108
+offset=0
+end=23039
+loop_start=8
+loop_end=23031
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=5601
+fileg_depth=500
+ampeg_hold=0.100018
+ampeg_sustain=0.001
+ampeg_release=9.99818
+loop_mode=no_loop
+effect1=24
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Xylophone F# 4(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_decay=6.00015
+offset=0
+end=64168
+loop_start=8
+loop_end=64160
+
+<region>
+sample=samples\Xylophone C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.69949
+offset=0
+end=71039
+loop_start=8
+loop_end=71031
+
+<region>
+sample=samples\Xylophone F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=5.29941
+offset=0
+end=53887
+loop_start=8
+loop_end=53879
+
+<region>
+sample=samples\Xylophone C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.80099
+offset=0
+end=56638
+loop_start=8
+loop_end=56630
+
+<region>
+sample=samples\Xylophone F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4.19886
+offset=0
+end=46591
+loop_start=8
+loop_end=46583
+
+<region>
+sample=samples\Xylophone C 7(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=43959
+loop_start=8
+loop_end=43951
+
+<region>
+sample=samples\Xylophone F# 7(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=2.7007
+offset=0
+end=33535
+loop_start=8
+loop_end=33527
+
+<region>
+sample=samples\Xylophone C 8(L).wav
+lokey=96 hikey=101
+pitch_keycenter=96
+ampeg_decay=1.80042
+offset=0
+end=29167
+loop_start=8
+loop_end=29159
+
+<region>
+sample=samples\Xylophone F# 8(L).wav
+lokey=102 hikey=107
+pitch_keycenter=102
+ampeg_decay=0.800145
+offset=0
+end=24063
+loop_start=8
+loop_end=24055
+
+<region>
+sample=samples\Xylophone C 9(L).wav
+lokey=108 hikey=127
+pitch_keycenter=108
+offset=0
+end=23039
+loop_start=8
+loop_end=23031
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=4901
+fileg_depth=500
+ampeg_hold=0.100018
+ampeg_sustain=0.001
+ampeg_release=9.00046
+loop_mode=no_loop
+effect1=10
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Xylophone F# 4(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_decay=6.00015
+offset=0
+end=64168
+loop_start=8
+loop_end=64160
+
+<region>
+sample=samples\Xylophone C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.69949
+offset=0
+end=71039
+loop_start=8
+loop_end=71031
+
+<region>
+sample=samples\Xylophone F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=5.29941
+offset=0
+end=53887
+loop_start=8
+loop_end=53879
+
+<region>
+sample=samples\Xylophone C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.80099
+offset=0
+end=56638
+loop_start=8
+loop_end=56630
+
+<region>
+sample=samples\Xylophone F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4.19886
+offset=0
+end=46591
+loop_start=8
+loop_end=46583
+
+<region>
+sample=samples\Xylophone C 7(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=43959
+loop_start=8
+loop_end=43951
+
+<region>
+sample=samples\Xylophone F# 7(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=2.7007
+offset=0
+end=33535
+loop_start=8
+loop_end=33527
+
+<region>
+sample=samples\Xylophone C 8(L).wav
+lokey=96 hikey=101
+pitch_keycenter=96
+ampeg_decay=1.80042
+offset=0
+end=29167
+loop_start=8
+loop_end=29159
+
+<region>
+sample=samples\Xylophone F# 8(L).wav
+lokey=102 hikey=107
+pitch_keycenter=102
+ampeg_decay=0.800145
+offset=0
+end=24063
+loop_start=8
+loop_end=24055
+
+<region>
+sample=samples\Xylophone C 9(L).wav
+lokey=108 hikey=127
+pitch_keycenter=108
+offset=0
+end=23039
+loop_start=8
+loop_end=23031
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=4201
+fileg_depth=500
+ampeg_hold=0.100018
+ampeg_sustain=0.001
+ampeg_release=7.99999
+loop_mode=no_loop
+effect1=10
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Xylophone F# 4(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_decay=6.00015
+offset=0
+end=64168
+loop_start=8
+loop_end=64160
+
+<region>
+sample=samples\Xylophone C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.69949
+offset=0
+end=71039
+loop_start=8
+loop_end=71031
+
+<region>
+sample=samples\Xylophone F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=5.29941
+offset=0
+end=53887
+loop_start=8
+loop_end=53879
+
+<region>
+sample=samples\Xylophone C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.80099
+offset=0
+end=56638
+loop_start=8
+loop_end=56630
+
+<region>
+sample=samples\Xylophone F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4.19886
+offset=0
+end=46591
+loop_start=8
+loop_end=46583
+
+<region>
+sample=samples\Xylophone C 7(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=43959
+loop_start=8
+loop_end=43951
+
+<region>
+sample=samples\Xylophone F# 7(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=2.7007
+offset=0
+end=33535
+loop_start=8
+loop_end=33527
+
+<region>
+sample=samples\Xylophone C 8(L).wav
+lokey=96 hikey=101
+pitch_keycenter=96
+ampeg_decay=1.80042
+offset=0
+end=29167
+loop_start=8
+loop_end=29159
+
+<region>
+sample=samples\Xylophone F# 8(L).wav
+lokey=102 hikey=107
+pitch_keycenter=102
+ampeg_decay=0.800145
+offset=0
+end=24063
+loop_start=8
+loop_end=24055
+
+<region>
+sample=samples\Xylophone C 9(L).wav
+lokey=108 hikey=127
+pitch_keycenter=108
+offset=0
+end=23039
+loop_start=8
+loop_end=23031
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=3500
+fileg_depth=500
+ampeg_hold=0.100018
+ampeg_sustain=0.001
+ampeg_release=7.0007
+loop_mode=no_loop
+effect1=10
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Xylophone F# 4(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_decay=6.00015
+offset=0
+end=64168
+loop_start=8
+loop_end=64160
+
+<region>
+sample=samples\Xylophone C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.69949
+offset=0
+end=71039
+loop_start=8
+loop_end=71031
+
+<region>
+sample=samples\Xylophone F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=5.29941
+offset=0
+end=53887
+loop_start=8
+loop_end=53879
+
+<region>
+sample=samples\Xylophone C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.80099
+offset=0
+end=56638
+loop_start=8
+loop_end=56630
+
+<region>
+sample=samples\Xylophone F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4.19886
+offset=0
+end=46591
+loop_start=8
+loop_end=46583
+
+<region>
+sample=samples\Xylophone C 7(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=43959
+loop_start=8
+loop_end=43951
+
+<region>
+sample=samples\Xylophone F# 7(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=2.7007
+offset=0
+end=33535
+loop_start=8
+loop_end=33527
+
+<region>
+sample=samples\Xylophone C 8(L).wav
+lokey=96 hikey=101
+pitch_keycenter=96
+ampeg_decay=1.80042
+offset=0
+end=29167
+loop_start=8
+loop_end=29159
+
+<region>
+sample=samples\Xylophone F# 8(L).wav
+lokey=102 hikey=107
+pitch_keycenter=102
+ampeg_decay=0.800145
+offset=0
+end=24063
+loop_start=8
+loop_end=24055
+
+<region>
+sample=samples\Xylophone C 9(L).wav
+lokey=108 hikey=127
+pitch_keycenter=108
+offset=0
+end=23039
+loop_start=8
+loop_end=23031
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=2800
+fileg_depth=500
+ampeg_hold=0.100018
+ampeg_sustain=0.001
+ampeg_release=6.00015
+loop_mode=no_loop
+effect1=10
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Xylophone F# 4(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_decay=6.00015
+offset=0
+end=64168
+loop_start=8
+loop_end=64160
+
+<region>
+sample=samples\Xylophone C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.69949
+offset=0
+end=71039
+loop_start=8
+loop_end=71031
+
+<region>
+sample=samples\Xylophone F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=5.29941
+offset=0
+end=53887
+loop_start=8
+loop_end=53879
+
+<region>
+sample=samples\Xylophone C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.80099
+offset=0
+end=56638
+loop_start=8
+loop_end=56630
+
+<region>
+sample=samples\Xylophone F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4.19886
+offset=0
+end=46591
+loop_start=8
+loop_end=46583
+
+<region>
+sample=samples\Xylophone C 7(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=43959
+loop_start=8
+loop_end=43951
+
+<region>
+sample=samples\Xylophone F# 7(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=2.7007
+offset=0
+end=33535
+loop_start=8
+loop_end=33527
+
+<region>
+sample=samples\Xylophone C 8(L).wav
+lokey=96 hikey=101
+pitch_keycenter=96
+ampeg_decay=1.80042
+offset=0
+end=29167
+loop_start=8
+loop_end=29159
+
+<region>
+sample=samples\Xylophone F# 8(L).wav
+lokey=102 hikey=107
+pitch_keycenter=102
+ampeg_decay=0.800145
+offset=0
+end=24063
+loop_start=8
+loop_end=24055
+
+<region>
+sample=samples\Xylophone C 9(L).wav
+lokey=108 hikey=127
+pitch_keycenter=108
+offset=0
+end=23039
+loop_start=8
+loop_end=23031
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=2100
+fileg_depth=500
+ampeg_hold=0.100018
+ampeg_sustain=0.001
+ampeg_release=4.99909
+loop_mode=no_loop
+effect1=10
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Xylophone F# 4(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_decay=6.00015
+offset=0
+end=64168
+loop_start=8
+loop_end=64160
+
+<region>
+sample=samples\Xylophone C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.69949
+offset=0
+end=71039
+loop_start=8
+loop_end=71031
+
+<region>
+sample=samples\Xylophone F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=5.29941
+offset=0
+end=53887
+loop_start=8
+loop_end=53879
+
+<region>
+sample=samples\Xylophone C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.80099
+offset=0
+end=56638
+loop_start=8
+loop_end=56630
+
+<region>
+sample=samples\Xylophone F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4.19886
+offset=0
+end=46591
+loop_start=8
+loop_end=46583
+
+<region>
+sample=samples\Xylophone C 7(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=43959
+loop_start=8
+loop_end=43951
+
+<region>
+sample=samples\Xylophone F# 7(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=2.7007
+offset=0
+end=33535
+loop_start=8
+loop_end=33527
+
+<region>
+sample=samples\Xylophone C 8(L).wav
+lokey=96 hikey=101
+pitch_keycenter=96
+ampeg_decay=1.80042
+offset=0
+end=29167
+loop_start=8
+loop_end=29159
+
+<region>
+sample=samples\Xylophone F# 8(L).wav
+lokey=102 hikey=107
+pitch_keycenter=102
+ampeg_decay=0.800145
+offset=0
+end=24063
+loop_start=8
+loop_end=24055
+
+<region>
+sample=samples\Xylophone C 9(L).wav
+lokey=108 hikey=127
+pitch_keycenter=108
+offset=0
+end=23039
+loop_start=8
+loop_end=23031
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=1400
+fileg_depth=500
+ampeg_hold=0.100018
+ampeg_sustain=0.001
+ampeg_release=4
+loop_mode=no_loop
+effect1=10
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Xylophone F# 4(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+ampeg_decay=6.00015
+offset=0
+end=64168
+loop_start=8
+loop_end=64160
+
+<region>
+sample=samples\Xylophone C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+ampeg_decay=5.69949
+offset=0
+end=71039
+loop_start=8
+loop_end=71031
+
+<region>
+sample=samples\Xylophone F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+ampeg_decay=5.29941
+offset=0
+end=53887
+loop_start=8
+loop_end=53879
+
+<region>
+sample=samples\Xylophone C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+ampeg_decay=4.80099
+offset=0
+end=56638
+loop_start=8
+loop_end=56630
+
+<region>
+sample=samples\Xylophone F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+ampeg_decay=4.19886
+offset=0
+end=46591
+loop_start=8
+loop_end=46583
+
+<region>
+sample=samples\Xylophone C 7(L).wav
+lokey=84 hikey=89
+pitch_keycenter=84
+ampeg_decay=3.50035
+offset=0
+end=43959
+loop_start=8
+loop_end=43951
+
+<region>
+sample=samples\Xylophone F# 7(L).wav
+lokey=90 hikey=95
+pitch_keycenter=90
+ampeg_decay=2.7007
+offset=0
+end=33535
+loop_start=8
+loop_end=33527
+
+<region>
+sample=samples\Xylophone C 8(L).wav
+lokey=96 hikey=101
+pitch_keycenter=96
+ampeg_decay=1.80042
+offset=0
+end=29167
+loop_start=8
+loop_end=29159
+
+<region>
+sample=samples\Xylophone F# 8(L).wav
+lokey=102 hikey=107
+pitch_keycenter=102
+ampeg_decay=0.800145
+offset=0
+end=24063
+loop_start=8
+loop_end=24055
+
+<region>
+sample=samples\Xylophone C 9(L).wav
+lokey=108 hikey=127
+pitch_keycenter=108
+offset=0
+end=23039
+loop_start=8
+loop_end=23031

@@ -1,0 +1,123 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fileg_depth=-100
+ampeg_hold=3.00008
+ampeg_decay=28.0028
+ampeg_sustain=0.001
+ampeg_release=0.200036
+loop_mode=loop_continuous
+effect1=2
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Sine Wave E4.wav
+lokey=0 hikey=84
+pitch_keycenter=76
+fil_type=lpf_2p
+cutoff=412
+resonance=4.8
+amplfo_freq=5.45998
+fillfo_freq=5.45998
+pitchlfo_freq=5.37859
+pitcheg_release=1.04006
+fileg_release=1.04006
+ampeg_attack=0.0459912
+ampeg_hold=0.0119999
+ampeg_decay=14.6975
+ampeg_sustain=0.001
+ampeg_release=0.25807
+volume=-2.2232
+tune=4
+offset=0
+end=103
+loop_start=29
+loop_end=95
+
+<region>
+sample=samples\Fretless E1.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+ampeg_decay=36.0018
+tune=4
+offset=0
+end=150361
+loop_start=149186
+loop_end=150354
+
+<region>
+sample=samples\Fretless G1.wav
+lokey=29 hikey=31
+pitch_keycenter=31
+ampeg_decay=32
+tune=-3
+offset=0
+end=141359
+loop_start=138365
+loop_end=141308
+
+<region>
+sample=samples\Fretless A#1.wav
+lokey=32 hikey=34
+pitch_keycenter=34
+ampeg_decay=28.0028
+offset=0
+end=92047
+loop_start=91178
+loop_end=92001
+
+<region>
+sample=samples\Fretless D2.wav
+lokey=35 hikey=38
+pitch_keycenter=38
+ampeg_delay=0.001
+ampeg_decay=24.0006
+tune=-14
+offset=0
+end=88199
+loop_start=87514
+loop_end=88161
+
+<region>
+sample=samples\Fretless G#2.wav
+lokey=39 hikey=44
+pitch_keycenter=44
+ampeg_decay=19.9964
+tune=-15
+offset=0
+end=64239
+loop_start=62816
+loop_end=64191
+
+<region>
+sample=samples\Fretless C3.wav
+lokey=45 hikey=48
+pitch_keycenter=48
+ampeg_decay=14.9977
+tune=-12
+offset=0
+end=75023
+loop_start=72033
+loop_end=74585
+
+<region>
+sample=samples\Fretless A3.wav
+lokey=49 hikey=84
+pitch_keycenter=62
+ampeg_decay=10.998
+tune=-12
+offset=0
+end=68561
+loop_start=67527
+loop_end=68341

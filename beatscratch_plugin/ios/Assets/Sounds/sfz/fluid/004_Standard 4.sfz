@@ -1,0 +1,1263 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lochan=10 hichan=10
+loop_mode=no_loop
+volume=0
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\High Q(L).wav
+lokey=27 hikey=27
+pitch_keycenter=27
+ampeg_decay=4
+ampeg_release=2
+volume=0
+offset=0
+end=1556
+loop_start=1
+loop_end=1556
+
+<region>
+sample=samples\Slap.wav
+lokey=28 hikey=28
+pitch_keycenter=28
+ampeg_decay=4
+ampeg_release=2
+volume=0
+offset=0
+end=28773
+loop_start=8
+loop_end=28765
+
+<region>
+sample=samples\Scratch Push(L).wav
+lokey=29 hikey=29
+pitch_keycenter=29
+ampeg_decay=4
+ampeg_release=2
+volume=0
+offset=0
+end=5437
+loop_start=8
+loop_end=5429
+
+<region>
+sample=samples\Scratch Pull(L).wav
+lokey=30 hikey=30
+pitch_keycenter=30
+ampeg_decay=4
+ampeg_release=2
+volume=0
+offset=0
+end=5044
+loop_start=8
+loop_end=5036
+
+<region>
+sample=samples\Sticks(R).wav
+lokey=31 hikey=31
+pitch_keycenter=31
+ampeg_decay=0.5
+ampeg_sustain=0.001
+ampeg_release=3.00008
+offset=0
+end=8004
+loop_start=8
+loop_end=7996
+
+<region>
+sample=samples\Sticks(L).wav
+lokey=31 hikey=31
+pitch_keycenter=31
+ampeg_decay=0.5
+ampeg_sustain=0.001
+ampeg_release=3.00008
+offset=0
+end=8004
+loop_start=8
+loop_end=7996
+
+<region>
+sample=samples\Square Click(L).wav
+lokey=32 hikey=32
+pitch_keycenter=32
+ampeg_decay=4
+ampeg_release=2
+volume=0
+offset=0
+end=1052
+loop_start=3
+loop_end=63
+
+<region>
+sample=samples\Metronome Click.wav
+lokey=33 hikey=33
+pitch_keycenter=33
+ampeg_decay=4
+ampeg_release=2
+volume=0
+offset=0
+end=439
+loop_start=8
+loop_end=431
+
+<region>
+sample=samples\Metronome Bell(L).wav
+lokey=34 hikey=34
+pitch_keycenter=34
+ampeg_decay=4
+ampeg_release=2
+volume=0
+offset=0
+end=19723
+loop_start=8
+loop_end=19715
+
+<region>
+sample=samples\Rim Tap(L).wav
+lokey=37 hikey=37
+pitch_keycenter=37
+ampeg_decay=4
+ampeg_release=8.51004
+volume=0
+offset=0
+end=63999
+loop_start=8
+loop_end=63991
+
+<region>
+sample=samples\Clap(L).wav
+lokey=39 hikey=39
+pitch_keycenter=39
+ampeg_release=2
+offset=0
+end=16895
+loop_start=8
+loop_end=16887
+
+<region>
+sample=samples\Tambourine(L).wav
+lokey=54 hikey=54
+pitch_keycenter=54
+ampeg_decay=4
+ampeg_release=2
+offset=0
+end=22655
+loop_start=8
+loop_end=22647
+
+<region>
+sample=samples\Cow Bell(L).wav
+lokey=56 hikey=56
+pitch_keycenter=56
+ampeg_decay=4
+ampeg_release=2
+volume=0
+offset=0
+end=16959
+loop_start=8
+loop_end=16951
+
+<region>
+sample=samples\Vibra Slap.wav
+lokey=58 hikey=58
+pitch_keycenter=58
+ampeg_decay=29.9953
+ampeg_release=29.9953
+offset=0
+end=66848
+loop_start=8
+loop_end=66840
+
+<group>
+lochan=10 hichan=10
+ampeg_sustain=0.001
+loop_mode=no_loop
+volume=0
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Piccolo 1-1(L).wav
+lokey=38 hikey=38
+pitch_keycenter=38
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=10002
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=14.9977
+ampeg_release=14.9977
+offset=0
+end=19224
+loop_start=8
+loop_end=19216
+
+<region>
+sample=samples\Piccolo 1-1(L).wav
+lokey=38 hikey=38
+pitch_keycenter=38
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=9501
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00199994
+ampeg_decay=13.0035
+ampeg_release=13.0035
+offset=0
+end=19224
+loop_start=8
+loop_end=19216
+
+<region>
+sample=samples\Piccolo 1-1(L).wav
+lokey=38 hikey=38
+pitch_keycenter=38
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=8999
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00299998
+ampeg_decay=10.998
+ampeg_release=10.998
+offset=0
+end=19224
+loop_start=8
+loop_end=19216
+
+<region>
+sample=samples\Piccolo 1-1(L).wav
+lokey=38 hikey=38
+pitch_keycenter=38
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=8499
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00399987
+ampeg_decay=9.00046
+ampeg_release=9.00046
+offset=0
+end=19224
+loop_start=8
+loop_end=19216
+
+<region>
+sample=samples\Piccolo 1-1(L).wav
+lokey=38 hikey=38
+pitch_keycenter=38
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=7999
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00499893
+ampeg_decay=7.0007
+ampeg_release=7.0007
+offset=0
+end=19224
+loop_start=8
+loop_end=19216
+
+<region>
+sample=samples\Piccolo 1-1(L).wav
+lokey=38 hikey=38
+pitch_keycenter=38
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=7502
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00599996
+ampeg_decay=4.99909
+ampeg_release=4.99909
+offset=0
+end=19224
+loop_start=8
+loop_end=19216
+
+<region>
+sample=samples\Piccolo 1-1(L).wav
+lokey=38 hikey=38
+pitch_keycenter=38
+lovel=0 hivel=80
+fil_type=lpf_2p
+cutoff=7000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00700048
+ampeg_decay=3.00008
+ampeg_release=3.00008
+offset=0
+end=19224
+loop_start=8
+loop_end=19216
+
+<region>
+sample=samples\Piccolo 1-2(L).wav
+lokey=40 hikey=40
+pitch_keycenter=40
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=10002
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=14.9977
+ampeg_release=14.9977
+offset=0
+end=20319
+loop_start=8
+loop_end=20311
+
+<region>
+sample=samples\Piccolo 1-2(L).wav
+lokey=40 hikey=40
+pitch_keycenter=40
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=9501
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00199994
+ampeg_decay=13.0035
+ampeg_release=13.0035
+offset=0
+end=20319
+loop_start=8
+loop_end=20311
+
+<region>
+sample=samples\Piccolo 1-2(L).wav
+lokey=40 hikey=40
+pitch_keycenter=40
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=8999
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00299998
+ampeg_decay=10.998
+ampeg_release=10.998
+offset=0
+end=20319
+loop_start=8
+loop_end=20311
+
+<region>
+sample=samples\Piccolo 1-2(L).wav
+lokey=40 hikey=40
+pitch_keycenter=40
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=8499
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00399987
+ampeg_decay=9.00046
+ampeg_release=9.00046
+offset=0
+end=20319
+loop_start=8
+loop_end=20311
+
+<region>
+sample=samples\Piccolo 1-2(L).wav
+lokey=40 hikey=40
+pitch_keycenter=40
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=7999
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00499893
+ampeg_decay=7.0007
+ampeg_release=7.0007
+offset=0
+end=20319
+loop_start=8
+loop_end=20311
+
+<region>
+sample=samples\Piccolo 1-2(L).wav
+lokey=40 hikey=40
+pitch_keycenter=40
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=7502
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00599996
+ampeg_decay=4.99909
+ampeg_release=4.99909
+offset=0
+end=20319
+loop_start=8
+loop_end=20311
+
+<region>
+sample=samples\Piccolo 1-2(L).wav
+lokey=40 hikey=40
+pitch_keycenter=40
+lovel=0 hivel=80
+fil_type=lpf_2p
+cutoff=7000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00700048
+ampeg_decay=3.00008
+ampeg_release=3.00008
+offset=0
+end=20319
+loop_start=8
+loop_end=20311
+
+<group>
+lochan=10 hichan=10
+loop_mode=no_loop
+volume=0
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\High Agogo(L).wav
+lokey=67 hikey=67
+pitch_keycenter=67
+ampeg_decay=9.99818
+ampeg_release=4
+volume=0
+offset=0
+end=12394
+loop_start=8
+loop_end=12386
+
+<region>
+sample=samples\Low Agogo(L).wav
+lokey=68 hikey=68
+pitch_keycenter=68
+ampeg_decay=9.99818
+ampeg_release=4
+volume=0
+offset=0
+end=17813
+loop_start=8
+loop_end=17805
+
+<region>
+sample=samples\Cabasa(L).wav
+lokey=69 hikey=69
+pitch_keycenter=69
+amplfo_freq=5.12977
+fillfo_freq=5.12977
+pitchlfo_freq=5.12977
+ampeg_release=4
+offset=0
+end=7691
+loop_start=8
+loop_end=7683
+
+<region>
+sample=samples\Maracas(L).wav
+lokey=70 hikey=70
+pitch_keycenter=70
+amplfo_freq=5.12977
+fillfo_freq=5.12977
+pitchlfo_freq=5.12977
+ampeg_release=5.33936
+offset=0
+end=4613
+loop_start=8
+loop_end=4605
+
+<region>
+sample=samples\Short Whistle.wav
+lokey=71 hikey=71
+pitch_keycenter=71
+ampeg_release=0.100018
+volume=0
+offset=0
+end=8447
+loop_start=8
+loop_end=8439
+
+<region>
+sample=samples\Long Whistle.wav
+lokey=72 hikey=72
+pitch_keycenter=72
+ampeg_release=0.100018
+volume=0
+offset=0
+end=19647
+loop_start=8
+loop_end=19639
+
+<region>
+sample=samples\Guiro Down(L).wav
+lokey=73 hikey=73
+pitch_keycenter=73
+pitcheg_release=5.33936
+fileg_release=5.33936
+ampeg_release=5.33936
+volume=0
+group=5
+off_by=5
+offset=0
+end=9412
+loop_start=8
+loop_end=9404
+
+<region>
+sample=samples\Guiro Up(L).wav
+lokey=74 hikey=74
+pitch_keycenter=74
+amplfo_freq=5.12977
+fillfo_freq=5.12977
+pitchlfo_freq=5.12977
+pitcheg_release=5.33936
+fileg_release=5.33936
+ampeg_release=5.33936
+volume=0
+group=5
+off_by=5
+offset=0
+end=22041
+loop_start=8
+loop_end=22033
+
+<region>
+sample=samples\Clave(L).wav
+lokey=75 hikey=75
+pitch_keycenter=75
+amplfo_freq=5.12977
+fillfo_freq=5.12977
+pitchlfo_freq=5.12977
+pitcheg_release=5.33936
+fileg_release=5.33936
+ampeg_release=5.33936
+offset=0
+end=4575
+loop_start=8
+loop_end=4567
+
+<region>
+sample=samples\High Woodblock(L).wav
+lokey=76 hikey=76
+pitch_keycenter=76
+pitcheg_release=5.33936
+fileg_release=5.33936
+ampeg_release=5.33936
+offset=0
+end=13375
+loop_start=8
+loop_end=13367
+
+<region>
+sample=samples\Low Woodblock(L).wav
+lokey=77 hikey=77
+pitch_keycenter=77
+pitcheg_release=5.33936
+fileg_release=5.33936
+ampeg_release=5.33936
+offset=0
+end=14335
+loop_start=8
+loop_end=14327
+
+<region>
+sample=samples\Quica Hi.wav
+lokey=78 hikey=78
+pitch_keycenter=78
+amplfo_freq=5.12977
+fillfo_freq=5.12977
+pitchlfo_freq=5.12977
+ampeg_release=5.33936
+volume=0
+group=4
+off_by=4
+offset=0
+end=69119
+loop_start=8
+loop_end=69111
+
+<region>
+sample=samples\Quica Low.wav
+lokey=79 hikey=79
+pitch_keycenter=79
+amplfo_freq=5.12977
+fillfo_freq=5.12977
+pitchlfo_freq=5.12977
+pitcheg_release=5.33936
+fileg_release=5.33936
+ampeg_release=5.33936
+volume=0
+group=4
+off_by=4
+offset=0
+end=82125
+loop_start=8
+loop_end=82117
+
+<region>
+sample=samples\Triangle.wav
+lokey=80 hikey=80
+pitch_keycenter=80
+amplfo_delay=0.33294
+fillfo_delay=0.33294
+amplfo_freq=4.2005
+fillfo_freq=4.2005
+pitchlfo_delay=0.33294
+pitchlfo_freq=4.2005
+ampeg_decay=0.709972
+ampeg_sustain=0.001
+ampeg_release=0.5
+group=5
+off_by=5
+offset=0
+end=72135
+loop_start=70959
+loop_end=72099
+
+<region>
+sample=samples\Triangle.wav
+lokey=81 hikey=81
+pitch_keycenter=81
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+loop_mode=loop_continuous
+group=5
+off_by=5
+offset=0
+end=72135
+loop_start=70959
+loop_end=72099
+
+<region>
+sample=samples\Small Shaker (L).wav
+lokey=82 hikey=82
+pitch_keycenter=82
+amplfo_freq=5.12977
+fillfo_freq=5.12977
+pitchlfo_freq=5.12977
+pitcheg_release=1.04006
+fileg_release=1.04006
+ampeg_release=1.04006
+volume=0
+offset=0
+end=30427
+loop_start=8
+loop_end=30419
+
+<region>
+sample=samples\Sleigh Bells.wav
+lokey=83 hikey=83
+pitch_keycenter=83
+fil_type=lpf_2p
+cutoff=19914
+amplfo_freq=5.12977
+fillfo_freq=5.12977
+pitchlfo_freq=5.12977
+pitcheg_release=1.06008
+fileg_release=1.06008
+ampeg_hold=0.137977
+ampeg_release=1.29984
+offset=0
+end=88831
+loop_start=8
+loop_end=88823
+
+<region>
+sample=samples\Bell Tree.wav
+lokey=84 hikey=84
+pitch_keycenter=84
+ampeg_decay=59.9906
+ampeg_sustain=0.001
+ampeg_release=50.0107
+loop_mode=loop_continuous
+offset=0
+end=284927
+loop_start=249856
+loop_end=284672
+
+<region>
+sample=samples\Castanet.wav
+lokey=85 hikey=85
+pitch_keycenter=85
+amplfo_freq=5.12977
+fillfo_freq=5.12977
+pitchlfo_freq=5.12977
+pitcheg_release=5.33936
+fileg_release=5.33936
+ampeg_release=9.99818
+offset=0
+end=2583
+loop_start=8
+loop_end=2575
+
+<region>
+sample=samples\Short Taiko Hit.wav
+lokey=86 hikey=86
+pitch_keycenter=86
+amplfo_freq=5.12977
+fillfo_freq=5.12977
+pitchlfo_freq=5.12977
+pitcheg_release=5.33936
+fileg_release=5.33936
+ampeg_release=19.9964
+volume=0
+group=6
+off_by=6
+offset=0
+end=63275
+loop_start=8
+loop_end=63267
+
+<region>
+sample=samples\Long Taiko Hit.wav
+lokey=87 hikey=87
+pitch_keycenter=87
+ampeg_release=19.9964
+volume=0
+group=6
+off_by=6
+offset=0
+end=82687
+loop_start=8
+loop_end=82687
+
+<region>
+sample=samples\Long Taiko Hit.wav
+lokey=87 hikey=87
+pitch_keycenter=87
+fil_type=lpf_2p
+cutoff=5121
+ampeg_release=19.9964
+volume=0
+group=6
+off_by=6
+offset=0
+end=82687
+loop_start=8
+loop_end=82687
+
+<group>
+lochan=10 hichan=10
+fil_type=lpf_2p
+cutoff=7999
+ampeg_hold=9.92912
+ampeg_sustain=0.001
+ampeg_release=29.007
+loop_mode=no_loop
+effect1=5
+volume=0
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Low Flr Studio(L).wav
+lokey=41 hikey=41
+pitch_keycenter=41
+tune=-5
+offset=0
+end=43775
+loop_start=8
+loop_end=43767
+
+<region>
+sample=samples\Flr Studio(L).wav
+lokey=43 hikey=43
+pitch_keycenter=43
+tune=-5
+offset=0
+end=36735
+loop_start=8
+loop_end=36727
+
+<region>
+sample=samples\Low Studio(L).wav
+lokey=45 hikey=45
+pitch_keycenter=45
+tune=-5
+offset=0
+end=51327
+loop_start=8
+loop_end=51319
+
+<region>
+sample=samples\Md Studio(L).wav
+lokey=47 hikey=47
+pitch_keycenter=47
+tune=-5
+offset=0
+end=44543
+loop_start=8
+loop_end=44535
+
+<region>
+sample=samples\MdHi Studio(L).wav
+lokey=48 hikey=48
+pitch_keycenter=48
+tune=-5
+offset=0
+end=41794
+loop_start=8
+loop_end=41786
+
+<region>
+sample=samples\Hi Studio(L).wav
+lokey=50 hikey=50
+pitch_keycenter=50
+tune=-5
+offset=0
+end=44159
+loop_start=8
+loop_end=44151
+
+<group>
+lochan=10 hichan=10
+ampeg_hold=7.79923
+loop_mode=no_loop
+volume=0
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Crsh 1(L).wav
+lokey=49 hikey=49
+pitch_keycenter=49
+fileg_depth=12000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=44.9941
+ampeg_release=29.9953
+volume=0
+offset=0
+end=375829
+loop_start=8
+loop_end=375821
+
+<region>
+sample=samples\Ride1(L).wav
+lokey=51 hikey=51
+pitch_keycenter=51
+fileg_depth=12000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=44.9941
+ampeg_release=19.9964
+volume=0
+offset=0
+end=113919
+loop_start=8
+loop_end=113911
+
+<region>
+sample=samples\China Crash(L).wav
+lokey=52 hikey=52
+pitch_keycenter=52
+fileg_depth=12000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=39.9927
+ampeg_release=19.9964
+volume=0
+offset=0
+end=157951
+loop_start=8
+loop_end=157943
+
+<region>
+sample=samples\BellRide(R).wav
+lokey=53 hikey=53
+pitch_keycenter=53
+ampeg_release=29.9953
+volume=0
+offset=0
+end=144895
+loop_start=8
+loop_end=144887
+
+<region>
+sample=samples\Splash(L).wav
+lokey=55 hikey=55
+pitch_keycenter=55
+fileg_depth=12000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=39.9927
+ampeg_release=19.9964
+volume=0
+offset=0
+end=118942
+loop_start=8
+loop_end=118934
+
+<region>
+sample=samples\Crsh 2(L).wav
+lokey=57 hikey=57
+pitch_keycenter=57
+fileg_depth=12000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=44.9941
+ampeg_release=29.9953
+volume=0
+offset=0
+end=251265
+loop_start=8
+loop_end=251257
+
+<region>
+sample=samples\Ride2(L).wav
+lokey=59 hikey=59
+pitch_keycenter=59
+fileg_depth=12000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=44.9941
+ampeg_release=25.0053
+volume=0
+offset=0
+end=129791
+loop_start=8
+loop_end=129783
+
+<group>
+lochan=10 hichan=10
+volume=0
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Bongo Rim(L).wav
+lokey=60 hikey=60
+pitch_keycenter=60
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=9.99818
+ampeg_release=4
+offset=0
+end=13887
+loop_start=8
+loop_end=13879
+volume=0
+
+<region>
+sample=samples\Low Bongo(L).wav
+lokey=61 hikey=61
+pitch_keycenter=61
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=9.99818
+ampeg_release=4
+offset=0
+end=17151
+loop_start=8
+loop_end=17143
+volume=0
+
+<region>
+sample=samples\Closed Slap(L).wav
+lokey=62 hikey=62
+pitch_keycenter=62
+pitcheg_delay=0.100018
+fileg_delay=0.100018
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=9.99818
+ampeg_release=4
+offset=0
+end=12031
+loop_start=8
+loop_end=12023
+volume=0
+
+<region>
+sample=samples\High Conga(L).wav
+lokey=63 hikey=63
+pitch_keycenter=63
+pitcheg_delay=0.100018
+fileg_delay=0.100018
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=9.99818
+ampeg_release=4
+offset=0
+end=31260
+loop_start=8
+loop_end=31252
+volume=0
+
+<region>
+sample=samples\Low Tumba(L).wav
+lokey=64 hikey=64
+pitch_keycenter=64
+pitcheg_delay=0.100018
+fileg_delay=0.100018
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=9.99818
+ampeg_release=4
+offset=0
+end=28159
+loop_start=8
+loop_end=28151
+volume=0
+
+<region>
+sample=samples\High Timbale(L).wav
+lokey=65 hikey=65
+pitch_keycenter=65
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=9.99818
+ampeg_release=9.99818
+volume=0
+offset=0
+end=65407
+loop_start=8
+loop_end=65399
+
+<region>
+sample=samples\Low Timbale(L).wav
+lokey=66 hikey=66
+pitch_keycenter=66
+fileg_depth=-6000
+pitcheg_delay=0.100018
+fileg_delay=0.100018
+pitcheg_attack=9.50266
+fileg_attack=9.50266
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=9.99818
+ampeg_release=9.99818
+volume=0
+offset=0
+end=70655
+loop_start=8
+loop_end=70647
+
+<group>
+lochan=10 hichan=10
+ampeg_sustain=0.001
+loop_mode=no_loop
+effect1=2
+volume=0
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Std Kick 5(L).wav
+lokey=35 hikey=36
+pitch_keycenter=36
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=7999
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_decay=14.9977
+ampeg_release=14.9977
+offset=0
+end=10371
+loop_start=8
+loop_end=10363
+
+<region>
+sample=samples\Std Kick 5(L).wav
+lokey=35 hikey=36
+pitch_keycenter=36
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=7502
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00199994
+ampeg_decay=13.0035
+ampeg_release=13.0035
+tune=-1
+offset=0
+end=10371
+loop_start=8
+loop_end=10363
+
+<region>
+sample=samples\Std Kick 5(L).wav
+lokey=35 hikey=36
+pitch_keycenter=36
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=7000
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00299998
+ampeg_decay=10.998
+ampeg_release=10.998
+tune=-2
+offset=0
+end=10371
+loop_start=8
+loop_end=10363
+
+<region>
+sample=samples\Std Kick 5(L).wav
+lokey=35 hikey=36
+pitch_keycenter=36
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=6501
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00399987
+ampeg_decay=9.00046
+ampeg_release=9.00046
+tune=-3
+offset=0
+end=10371
+loop_start=8
+loop_end=10363
+
+<region>
+sample=samples\Std Kick 5(L).wav
+lokey=35 hikey=36
+pitch_keycenter=36
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=5999
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00499893
+ampeg_decay=7.0007
+ampeg_release=7.0007
+tune=-4
+offset=0
+end=10371
+loop_start=8
+loop_end=10363
+
+<region>
+sample=samples\Std Kick 5(L).wav
+lokey=35 hikey=36
+pitch_keycenter=36
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=5501
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00599996
+ampeg_decay=4.99909
+ampeg_release=4.99909
+tune=-5
+offset=0
+end=10371
+loop_start=8
+loop_end=10363
+
+<region>
+sample=samples\Std Kick 5(L).wav
+lokey=35 hikey=36
+pitch_keycenter=36
+lovel=0 hivel=80
+fil_type=lpf_2p
+cutoff=5001
+pitcheg_release=100.021
+fileg_release=100.021
+ampeg_attack=0.00700048
+ampeg_decay=3.00008
+ampeg_release=3.00008
+tune=-6
+offset=0
+end=10371
+loop_start=8
+loop_end=10363
+
+<group>
+lochan=10 hichan=10
+resonance=10
+ampeg_hold=4.99909
+ampeg_sustain=0.001
+ampeg_release=29.007
+loop_mode=no_loop
+volume=0
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Hi-Hat Closed(L).wav
+lokey=42 hikey=42
+pitch_keycenter=42
+volume=-0.1588
+group=1
+off_by=1
+offset=0
+end=31359
+loop_start=8
+loop_end=31351
+
+<region>
+sample=samples\Hi-Hat Foot(L).wav
+lokey=44 hikey=44
+pitch_keycenter=44
+volume=-0.1588
+group=1
+off_by=1
+offset=0
+end=22527
+loop_start=8
+loop_end=22519
+
+<region>
+sample=samples\Hi-Hat Half-Open(L).wav
+lokey=46 hikey=46
+pitch_keycenter=46
+volume=0
+group=1
+off_by=1
+offset=0
+end=139669
+loop_start=8
+loop_end=139661

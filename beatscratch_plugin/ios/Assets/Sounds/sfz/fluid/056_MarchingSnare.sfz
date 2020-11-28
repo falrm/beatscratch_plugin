@@ -1,0 +1,115 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lochan=10 hichan=10
+pitch_keycenter=60
+pitch_keytrack=0
+loop_mode=no_loop
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\56_48_SNR_BUZZ.wav
+lokey=48 hikey=48
+ampeg_decay=4.02085
+ampeg_sustain=98.8553
+ampeg_release=4.02085
+offset=0
+end=573299
+loop_start=8
+loop_end=573291
+
+<region>
+sample=samples\56_50_SNR_NORM_WHOL.wav
+lokey=50 hikey=50
+offset=0
+end=573299
+loop_start=8
+loop_end=573291
+
+<region>
+sample=samples\56_52_SNR_RIMSHOT.wav
+lokey=52 hikey=52
+offset=0
+end=573299
+loop_start=8
+loop_end=573291
+
+<region>
+sample=samples\56_53_SNR_RIM.wav
+lokey=53 hikey=53
+offset=0
+end=573299
+loop_start=8
+loop_end=573291
+
+<region>
+sample=samples\56_55_SNR_STICKCLIC.wav
+lokey=55 hikey=55
+offset=0
+end=44181
+loop_start=8
+loop_end=44173
+
+<region>
+sample=samples\56_57_SNR_STICKSHOT.wav
+lokey=57 hikey=57
+offset=0
+end=573299
+loop_start=8
+loop_end=573291
+
+<region>
+sample=samples\56_59_SNR_SHELL.wav
+lokey=59 hikey=59
+offset=0
+end=573299
+loop_start=8
+loop_end=573291
+
+<region>
+sample=samples\56_60_SNR_VIS.wav
+lokey=60 hikey=60
+offset=0
+end=573299
+loop_start=8
+loop_end=573291
+
+<region>
+sample=samples\56_72_SNR_RIDECYM.wav
+lokey=72 hikey=72
+ampeg_decay=14.3039
+ampeg_sustain=97.7237
+ampeg_release=14.3039
+offset=0
+end=573299
+loop_start=8
+loop_end=573291
+
+<region>
+sample=samples\56_74_SNR_HHLOOSE.wav
+lokey=74 hikey=74
+ampeg_decay=14.3039
+ampeg_sustain=97.7237
+ampeg_release=14.3039
+offset=0
+end=573299
+loop_start=8
+loop_end=573291
+
+<region>
+sample=samples\56_76_SNR_HHCLOSE.wav
+lokey=76 hikey=76
+offset=0
+end=573299
+loop_start=8
+loop_end=573291

@@ -1,0 +1,1383 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+ampeg_release=0.480187
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\E's Bassoon B0(L).wav
+lokey=0 hikey=35
+pitch_keycenter=35
+tune=-30
+offset=0
+end=29838
+loop_start=23746
+loop_end=29754
+
+<region>
+sample=samples\E's Bassoon C#1(L).wav
+lokey=36 hikey=37
+pitch_keycenter=37
+tune=-19
+offset=0
+end=11752
+loop_start=6143
+loop_end=11746
+
+<region>
+sample=samples\E's Bassoon E1(L).wav
+lokey=38 hikey=40
+pitch_keycenter=40
+tune=-34
+offset=0
+end=19926
+loop_start=14135
+loop_end=19906
+
+<region>
+sample=samples\E's Bassoon G1(L).wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-15
+offset=0
+end=23236
+loop_start=17207
+loop_end=23228
+
+<region>
+sample=samples\E's Bassoon A#1(L).wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-15
+offset=0
+end=28986
+loop_start=23346
+loop_end=28969
+
+<region>
+sample=samples\E's Bassoon C#2(L).wav
+lokey=47 hikey=49
+pitch_keycenter=49
+tune=-25
+offset=0
+end=16142
+loop_start=10955
+loop_end=16135
+
+<region>
+sample=samples\E's Bassoon E2(L).wav
+lokey=50 hikey=52
+pitch_keycenter=52
+tune=-30
+offset=0
+end=22538
+loop_start=17000
+loop_end=22531
+
+<region>
+sample=samples\E's Bassoon G2(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+tune=-25
+offset=0
+end=29702
+loop_start=23936
+loop_end=29695
+
+<region>
+sample=samples\E's Bassoon A#2(L).wav
+lokey=56 hikey=58
+pitch_keycenter=58
+tune=-17
+offset=0
+end=23674
+loop_start=17764
+loop_end=23657
+
+<region>
+sample=samples\E's Bassoon C#3(L).wav
+lokey=59 hikey=61
+pitch_keycenter=61
+tune=-2
+offset=0
+end=15950
+loop_start=10384
+loop_end=15945
+
+<region>
+sample=samples\E's Bassoon E3(L).wav
+lokey=62 hikey=64
+pitch_keycenter=64
+tune=7
+offset=0
+end=26172
+loop_start=20220
+loop_end=26127
+
+<region>
+sample=samples\E's Bassoon G3(L).wav
+lokey=65 hikey=67
+pitch_keycenter=67
+tune=-32
+offset=0
+end=21732
+loop_start=16370
+loop_end=21724
+
+<region>
+sample=samples\E's Bassoon A#3(L).wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-4
+offset=0
+end=22536
+loop_start=17526
+loop_end=22529
+
+<region>
+sample=samples\E's Bassoon C#4(L).wav
+lokey=71 hikey=84
+pitch_keycenter=73
+tune=-27
+offset=0
+end=21140
+loop_start=15802
+loop_end=21135
+
+<group>
+lovel=113 hivel=120
+ampeg_release=0.440079
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\E's Bassoon B0(L).wav
+lokey=0 hikey=35
+pitch_keycenter=35
+tune=-30
+offset=0
+end=29838
+loop_start=23746
+loop_end=29754
+
+<region>
+sample=samples\E's Bassoon C#1(L).wav
+lokey=36 hikey=37
+pitch_keycenter=37
+tune=-19
+offset=0
+end=11752
+loop_start=6143
+loop_end=11746
+
+<region>
+sample=samples\E's Bassoon E1(L).wav
+lokey=38 hikey=40
+pitch_keycenter=40
+tune=-34
+offset=0
+end=19926
+loop_start=14135
+loop_end=19906
+
+<region>
+sample=samples\E's Bassoon G1(L).wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-15
+offset=0
+end=23236
+loop_start=17207
+loop_end=23228
+
+<region>
+sample=samples\E's Bassoon A#1(L).wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-15
+offset=0
+end=28986
+loop_start=23346
+loop_end=28969
+
+<region>
+sample=samples\E's Bassoon C#2(L).wav
+lokey=47 hikey=49
+pitch_keycenter=49
+tune=-25
+offset=0
+end=16142
+loop_start=10955
+loop_end=16135
+
+<region>
+sample=samples\E's Bassoon E2(L).wav
+lokey=50 hikey=52
+pitch_keycenter=52
+tune=-30
+offset=0
+end=22538
+loop_start=17000
+loop_end=22531
+
+<region>
+sample=samples\E's Bassoon G2(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+tune=-25
+offset=0
+end=29702
+loop_start=23936
+loop_end=29695
+
+<region>
+sample=samples\E's Bassoon A#2(L).wav
+lokey=56 hikey=58
+pitch_keycenter=58
+tune=-17
+offset=0
+end=23674
+loop_start=17764
+loop_end=23657
+
+<region>
+sample=samples\E's Bassoon C#3(L).wav
+lokey=59 hikey=61
+pitch_keycenter=61
+tune=-2
+offset=0
+end=15950
+loop_start=10384
+loop_end=15945
+
+<region>
+sample=samples\E's Bassoon E3(L).wav
+lokey=62 hikey=64
+pitch_keycenter=64
+tune=7
+offset=0
+end=26172
+loop_start=20220
+loop_end=26127
+
+<region>
+sample=samples\E's Bassoon G3(L).wav
+lokey=65 hikey=67
+pitch_keycenter=67
+tune=-32
+offset=0
+end=21732
+loop_start=16370
+loop_end=21724
+
+<region>
+sample=samples\E's Bassoon A#3(L).wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-4
+offset=0
+end=22536
+loop_start=17526
+loop_end=22529
+
+<region>
+sample=samples\E's Bassoon C#4(L).wav
+lokey=71 hikey=84
+pitch_keycenter=73
+tune=-27
+offset=0
+end=21140
+loop_start=15802
+loop_end=21135
+
+<group>
+lovel=105 hivel=112
+ampeg_release=0.400073
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\E's Bassoon B0(L).wav
+lokey=0 hikey=35
+pitch_keycenter=35
+tune=-30
+offset=0
+end=29838
+loop_start=23746
+loop_end=29754
+
+<region>
+sample=samples\E's Bassoon C#1(L).wav
+lokey=36 hikey=37
+pitch_keycenter=37
+tune=-19
+offset=0
+end=11752
+loop_start=6143
+loop_end=11746
+
+<region>
+sample=samples\E's Bassoon E1(L).wav
+lokey=38 hikey=40
+pitch_keycenter=40
+tune=-34
+offset=0
+end=19926
+loop_start=14135
+loop_end=19906
+
+<region>
+sample=samples\E's Bassoon G1(L).wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-15
+offset=0
+end=23236
+loop_start=17207
+loop_end=23228
+
+<region>
+sample=samples\E's Bassoon A#1(L).wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-15
+offset=0
+end=28986
+loop_start=23346
+loop_end=28969
+
+<region>
+sample=samples\E's Bassoon C#2(L).wav
+lokey=47 hikey=49
+pitch_keycenter=49
+tune=-25
+offset=0
+end=16142
+loop_start=10955
+loop_end=16135
+
+<region>
+sample=samples\E's Bassoon E2(L).wav
+lokey=50 hikey=52
+pitch_keycenter=52
+tune=-30
+offset=0
+end=22538
+loop_start=17000
+loop_end=22531
+
+<region>
+sample=samples\E's Bassoon G2(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+tune=-25
+offset=0
+end=29702
+loop_start=23936
+loop_end=29695
+
+<region>
+sample=samples\E's Bassoon A#2(L).wav
+lokey=56 hikey=58
+pitch_keycenter=58
+tune=-17
+offset=0
+end=23674
+loop_start=17764
+loop_end=23657
+
+<region>
+sample=samples\E's Bassoon C#3(L).wav
+lokey=59 hikey=61
+pitch_keycenter=61
+tune=-2
+offset=0
+end=15950
+loop_start=10384
+loop_end=15945
+
+<region>
+sample=samples\E's Bassoon E3(L).wav
+lokey=62 hikey=64
+pitch_keycenter=64
+tune=7
+offset=0
+end=26172
+loop_start=20220
+loop_end=26127
+
+<region>
+sample=samples\E's Bassoon G3(L).wav
+lokey=65 hikey=67
+pitch_keycenter=67
+tune=-32
+offset=0
+end=21732
+loop_start=16370
+loop_end=21724
+
+<region>
+sample=samples\E's Bassoon A#3(L).wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-4
+offset=0
+end=22536
+loop_start=17526
+loop_end=22529
+
+<region>
+sample=samples\E's Bassoon C#4(L).wav
+lokey=71 hikey=84
+pitch_keycenter=73
+tune=-27
+offset=0
+end=21140
+loop_start=15802
+loop_end=21135
+
+<group>
+lovel=97 hivel=104
+ampeg_release=0.360149
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\E's Bassoon B0(L).wav
+lokey=0 hikey=35
+pitch_keycenter=35
+tune=-30
+offset=0
+end=29838
+loop_start=23746
+loop_end=29754
+
+<region>
+sample=samples\E's Bassoon C#1(L).wav
+lokey=36 hikey=37
+pitch_keycenter=37
+tune=-19
+offset=0
+end=11752
+loop_start=6143
+loop_end=11746
+
+<region>
+sample=samples\E's Bassoon E1(L).wav
+lokey=38 hikey=40
+pitch_keycenter=40
+tune=-34
+offset=0
+end=19926
+loop_start=14135
+loop_end=19906
+
+<region>
+sample=samples\E's Bassoon G1(L).wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-15
+offset=0
+end=23236
+loop_start=17207
+loop_end=23228
+
+<region>
+sample=samples\E's Bassoon A#1(L).wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-15
+offset=0
+end=28986
+loop_start=23346
+loop_end=28969
+
+<region>
+sample=samples\E's Bassoon C#2(L).wav
+lokey=47 hikey=49
+pitch_keycenter=49
+tune=-25
+offset=0
+end=16142
+loop_start=10955
+loop_end=16135
+
+<region>
+sample=samples\E's Bassoon E2(L).wav
+lokey=50 hikey=52
+pitch_keycenter=52
+tune=-30
+offset=0
+end=22538
+loop_start=17000
+loop_end=22531
+
+<region>
+sample=samples\E's Bassoon G2(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+tune=-25
+offset=0
+end=29702
+loop_start=23936
+loop_end=29695
+
+<region>
+sample=samples\E's Bassoon A#2(L).wav
+lokey=56 hikey=58
+pitch_keycenter=58
+tune=-17
+offset=0
+end=23674
+loop_start=17764
+loop_end=23657
+
+<region>
+sample=samples\E's Bassoon C#3(L).wav
+lokey=59 hikey=61
+pitch_keycenter=61
+tune=-2
+offset=0
+end=15950
+loop_start=10384
+loop_end=15945
+
+<region>
+sample=samples\E's Bassoon E3(L).wav
+lokey=62 hikey=64
+pitch_keycenter=64
+tune=7
+offset=0
+end=26172
+loop_start=20220
+loop_end=26127
+
+<region>
+sample=samples\E's Bassoon G3(L).wav
+lokey=65 hikey=67
+pitch_keycenter=67
+tune=-32
+offset=0
+end=21732
+loop_start=16370
+loop_end=21724
+
+<region>
+sample=samples\E's Bassoon A#3(L).wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-4
+offset=0
+end=22536
+loop_start=17526
+loop_end=22529
+
+<region>
+sample=samples\E's Bassoon C#4(L).wav
+lokey=71 hikey=84
+pitch_keycenter=73
+tune=-27
+offset=0
+end=21140
+loop_start=15802
+loop_end=21135
+
+<group>
+lovel=89 hivel=96
+ampeg_release=0.320116
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\E's Bassoon B0(L).wav
+lokey=0 hikey=35
+pitch_keycenter=35
+tune=-30
+offset=0
+end=29838
+loop_start=23746
+loop_end=29754
+
+<region>
+sample=samples\E's Bassoon C#1(L).wav
+lokey=36 hikey=37
+pitch_keycenter=37
+tune=-19
+offset=0
+end=11752
+loop_start=6143
+loop_end=11746
+
+<region>
+sample=samples\E's Bassoon E1(L).wav
+lokey=38 hikey=40
+pitch_keycenter=40
+tune=-34
+offset=0
+end=19926
+loop_start=14135
+loop_end=19906
+
+<region>
+sample=samples\E's Bassoon G1(L).wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-15
+offset=0
+end=23236
+loop_start=17207
+loop_end=23228
+
+<region>
+sample=samples\E's Bassoon A#1(L).wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-15
+offset=0
+end=28986
+loop_start=23346
+loop_end=28969
+
+<region>
+sample=samples\E's Bassoon C#2(L).wav
+lokey=47 hikey=49
+pitch_keycenter=49
+tune=-25
+offset=0
+end=16142
+loop_start=10955
+loop_end=16135
+
+<region>
+sample=samples\E's Bassoon E2(L).wav
+lokey=50 hikey=52
+pitch_keycenter=52
+tune=-30
+offset=0
+end=22538
+loop_start=17000
+loop_end=22531
+
+<region>
+sample=samples\E's Bassoon G2(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+tune=-25
+offset=0
+end=29702
+loop_start=23936
+loop_end=29695
+
+<region>
+sample=samples\E's Bassoon A#2(L).wav
+lokey=56 hikey=58
+pitch_keycenter=58
+tune=-17
+offset=0
+end=23674
+loop_start=17764
+loop_end=23657
+
+<region>
+sample=samples\E's Bassoon C#3(L).wav
+lokey=59 hikey=61
+pitch_keycenter=61
+tune=-2
+offset=0
+end=15950
+loop_start=10384
+loop_end=15945
+
+<region>
+sample=samples\E's Bassoon E3(L).wav
+lokey=62 hikey=64
+pitch_keycenter=64
+tune=7
+offset=0
+end=26172
+loop_start=20220
+loop_end=26127
+
+<region>
+sample=samples\E's Bassoon G3(L).wav
+lokey=65 hikey=67
+pitch_keycenter=67
+tune=-32
+offset=0
+end=21732
+loop_start=16370
+loop_end=21724
+
+<region>
+sample=samples\E's Bassoon A#3(L).wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-4
+offset=0
+end=22536
+loop_start=17526
+loop_end=22529
+
+<region>
+sample=samples\E's Bassoon C#4(L).wav
+lokey=71 hikey=84
+pitch_keycenter=73
+tune=-27
+offset=0
+end=21140
+loop_start=15802
+loop_end=21135
+
+<group>
+lovel=81 hivel=88
+ampeg_release=0.28013
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\E's Bassoon B0(L).wav
+lokey=0 hikey=35
+pitch_keycenter=35
+tune=-30
+offset=0
+end=29838
+loop_start=23746
+loop_end=29754
+
+<region>
+sample=samples\E's Bassoon C#1(L).wav
+lokey=36 hikey=37
+pitch_keycenter=37
+tune=-19
+offset=0
+end=11752
+loop_start=6143
+loop_end=11746
+
+<region>
+sample=samples\E's Bassoon E1(L).wav
+lokey=38 hikey=40
+pitch_keycenter=40
+tune=-34
+offset=0
+end=19926
+loop_start=14135
+loop_end=19906
+
+<region>
+sample=samples\E's Bassoon G1(L).wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-15
+offset=0
+end=23236
+loop_start=17207
+loop_end=23228
+
+<region>
+sample=samples\E's Bassoon A#1(L).wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-15
+offset=0
+end=28986
+loop_start=23346
+loop_end=28969
+
+<region>
+sample=samples\E's Bassoon C#2(L).wav
+lokey=47 hikey=49
+pitch_keycenter=49
+tune=-25
+offset=0
+end=16142
+loop_start=10955
+loop_end=16135
+
+<region>
+sample=samples\E's Bassoon E2(L).wav
+lokey=50 hikey=52
+pitch_keycenter=52
+tune=-30
+offset=0
+end=22538
+loop_start=17000
+loop_end=22531
+
+<region>
+sample=samples\E's Bassoon G2(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+tune=-25
+offset=0
+end=29702
+loop_start=23936
+loop_end=29695
+
+<region>
+sample=samples\E's Bassoon A#2(L).wav
+lokey=56 hikey=58
+pitch_keycenter=58
+tune=-17
+offset=0
+end=23674
+loop_start=17764
+loop_end=23657
+
+<region>
+sample=samples\E's Bassoon C#3(L).wav
+lokey=59 hikey=61
+pitch_keycenter=61
+tune=-2
+offset=0
+end=15950
+loop_start=10384
+loop_end=15945
+
+<region>
+sample=samples\E's Bassoon E3(L).wav
+lokey=62 hikey=64
+pitch_keycenter=64
+tune=7
+offset=0
+end=26172
+loop_start=20220
+loop_end=26127
+
+<region>
+sample=samples\E's Bassoon G3(L).wav
+lokey=65 hikey=67
+pitch_keycenter=67
+tune=-32
+offset=0
+end=21732
+loop_start=16370
+loop_end=21724
+
+<region>
+sample=samples\E's Bassoon A#3(L).wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-4
+offset=0
+end=22536
+loop_start=17526
+loop_end=22529
+
+<region>
+sample=samples\E's Bassoon C#4(L).wav
+lokey=71 hikey=84
+pitch_keycenter=73
+tune=-27
+offset=0
+end=21140
+loop_start=15802
+loop_end=21135
+
+<group>
+lovel=73 hivel=80
+ampeg_release=0.240093
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\E's Bassoon B0(L).wav
+lokey=0 hikey=35
+pitch_keycenter=35
+tune=-30
+offset=0
+end=29838
+loop_start=23746
+loop_end=29754
+
+<region>
+sample=samples\E's Bassoon C#1(L).wav
+lokey=36 hikey=37
+pitch_keycenter=37
+tune=-19
+offset=0
+end=11752
+loop_start=6143
+loop_end=11746
+
+<region>
+sample=samples\E's Bassoon E1(L).wav
+lokey=38 hikey=40
+pitch_keycenter=40
+tune=-34
+offset=0
+end=19926
+loop_start=14135
+loop_end=19906
+
+<region>
+sample=samples\E's Bassoon G1(L).wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-15
+offset=0
+end=23236
+loop_start=17207
+loop_end=23228
+
+<region>
+sample=samples\E's Bassoon A#1(L).wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-15
+offset=0
+end=28986
+loop_start=23346
+loop_end=28969
+
+<region>
+sample=samples\E's Bassoon C#2(L).wav
+lokey=47 hikey=49
+pitch_keycenter=49
+tune=-25
+offset=0
+end=16142
+loop_start=10955
+loop_end=16135
+
+<region>
+sample=samples\E's Bassoon E2(L).wav
+lokey=50 hikey=52
+pitch_keycenter=52
+tune=-30
+offset=0
+end=22538
+loop_start=17000
+loop_end=22531
+
+<region>
+sample=samples\E's Bassoon G2(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+tune=-25
+offset=0
+end=29702
+loop_start=23936
+loop_end=29695
+
+<region>
+sample=samples\E's Bassoon A#2(L).wav
+lokey=56 hikey=58
+pitch_keycenter=58
+tune=-17
+offset=0
+end=23674
+loop_start=17764
+loop_end=23657
+
+<region>
+sample=samples\E's Bassoon C#3(L).wav
+lokey=59 hikey=61
+pitch_keycenter=61
+tune=-2
+offset=0
+end=15950
+loop_start=10384
+loop_end=15945
+
+<region>
+sample=samples\E's Bassoon E3(L).wav
+lokey=62 hikey=64
+pitch_keycenter=64
+tune=7
+offset=0
+end=26172
+loop_start=20220
+loop_end=26127
+
+<region>
+sample=samples\E's Bassoon G3(L).wav
+lokey=65 hikey=67
+pitch_keycenter=67
+tune=-32
+offset=0
+end=21732
+loop_start=16370
+loop_end=21724
+
+<region>
+sample=samples\E's Bassoon A#3(L).wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-4
+offset=0
+end=22536
+loop_start=17526
+loop_end=22529
+
+<region>
+sample=samples\E's Bassoon C#4(L).wav
+lokey=71 hikey=84
+pitch_keycenter=73
+tune=-27
+offset=0
+end=21140
+loop_start=15802
+loop_end=21135
+
+<group>
+lovel=65 hivel=72
+ampeg_release=0.200036
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\E's Bassoon B0(L).wav
+lokey=0 hikey=35
+pitch_keycenter=35
+tune=-30
+offset=0
+end=29838
+loop_start=23746
+loop_end=29754
+
+<region>
+sample=samples\E's Bassoon C#1(L).wav
+lokey=36 hikey=37
+pitch_keycenter=37
+tune=-19
+offset=0
+end=11752
+loop_start=6143
+loop_end=11746
+
+<region>
+sample=samples\E's Bassoon E1(L).wav
+lokey=38 hikey=40
+pitch_keycenter=40
+tune=-34
+offset=0
+end=19926
+loop_start=14135
+loop_end=19906
+
+<region>
+sample=samples\E's Bassoon G1(L).wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-15
+offset=0
+end=23236
+loop_start=17207
+loop_end=23228
+
+<region>
+sample=samples\E's Bassoon A#1(L).wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-15
+offset=0
+end=28986
+loop_start=23346
+loop_end=28969
+
+<region>
+sample=samples\E's Bassoon C#2(L).wav
+lokey=47 hikey=49
+pitch_keycenter=49
+tune=-25
+offset=0
+end=16142
+loop_start=10955
+loop_end=16135
+
+<region>
+sample=samples\E's Bassoon E2(L).wav
+lokey=50 hikey=52
+pitch_keycenter=52
+tune=-30
+offset=0
+end=22538
+loop_start=17000
+loop_end=22531
+
+<region>
+sample=samples\E's Bassoon G2(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+tune=-25
+offset=0
+end=29702
+loop_start=23936
+loop_end=29695
+
+<region>
+sample=samples\E's Bassoon A#2(L).wav
+lokey=56 hikey=58
+pitch_keycenter=58
+tune=-17
+offset=0
+end=23674
+loop_start=17764
+loop_end=23657
+
+<region>
+sample=samples\E's Bassoon C#3(L).wav
+lokey=59 hikey=61
+pitch_keycenter=61
+tune=-2
+offset=0
+end=15950
+loop_start=10384
+loop_end=15945
+
+<region>
+sample=samples\E's Bassoon E3(L).wav
+lokey=62 hikey=64
+pitch_keycenter=64
+tune=7
+offset=0
+end=26172
+loop_start=20220
+loop_end=26127
+
+<region>
+sample=samples\E's Bassoon G3(L).wav
+lokey=65 hikey=67
+pitch_keycenter=67
+tune=-32
+offset=0
+end=21732
+loop_start=16370
+loop_end=21724
+
+<region>
+sample=samples\E's Bassoon A#3(L).wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-4
+offset=0
+end=22536
+loop_start=17526
+loop_end=22529
+
+<region>
+sample=samples\E's Bassoon C#4(L).wav
+lokey=71 hikey=84
+pitch_keycenter=73
+tune=-27
+offset=0
+end=21140
+loop_start=15802
+loop_end=21135
+
+<group>
+lovel=0 hivel=64
+ampeg_release=0.160058
+loop_mode=loop_continuous
+effect1=15
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\E's Bassoon B0(L).wav
+lokey=0 hikey=35
+pitch_keycenter=35
+tune=-30
+offset=0
+end=29838
+loop_start=23746
+loop_end=29754
+
+<region>
+sample=samples\E's Bassoon C#1(L).wav
+lokey=36 hikey=37
+pitch_keycenter=37
+tune=-19
+offset=0
+end=11752
+loop_start=6143
+loop_end=11746
+
+<region>
+sample=samples\E's Bassoon E1(L).wav
+lokey=38 hikey=40
+pitch_keycenter=40
+tune=-34
+offset=0
+end=19926
+loop_start=14135
+loop_end=19906
+
+<region>
+sample=samples\E's Bassoon G1(L).wav
+lokey=41 hikey=43
+pitch_keycenter=43
+tune=-15
+offset=0
+end=23236
+loop_start=17207
+loop_end=23228
+
+<region>
+sample=samples\E's Bassoon A#1(L).wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-15
+offset=0
+end=28986
+loop_start=23346
+loop_end=28969
+
+<region>
+sample=samples\E's Bassoon C#2(L).wav
+lokey=47 hikey=49
+pitch_keycenter=49
+tune=-25
+offset=0
+end=16142
+loop_start=10955
+loop_end=16135
+
+<region>
+sample=samples\E's Bassoon E2(L).wav
+lokey=50 hikey=52
+pitch_keycenter=52
+tune=-30
+offset=0
+end=22538
+loop_start=17000
+loop_end=22531
+
+<region>
+sample=samples\E's Bassoon G2(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+tune=-25
+offset=0
+end=29702
+loop_start=23936
+loop_end=29695
+
+<region>
+sample=samples\E's Bassoon A#2(L).wav
+lokey=56 hikey=58
+pitch_keycenter=58
+tune=-17
+offset=0
+end=23674
+loop_start=17764
+loop_end=23657
+
+<region>
+sample=samples\E's Bassoon C#3(L).wav
+lokey=59 hikey=61
+pitch_keycenter=61
+tune=-2
+offset=0
+end=15950
+loop_start=10384
+loop_end=15945
+
+<region>
+sample=samples\E's Bassoon E3(L).wav
+lokey=62 hikey=64
+pitch_keycenter=64
+tune=7
+offset=0
+end=26172
+loop_start=20220
+loop_end=26127
+
+<region>
+sample=samples\E's Bassoon G3(L).wav
+lokey=65 hikey=67
+pitch_keycenter=67
+tune=-32
+offset=0
+end=21732
+loop_start=16370
+loop_end=21724
+
+<region>
+sample=samples\E's Bassoon A#3(L).wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-4
+offset=0
+end=22536
+loop_start=17526
+loop_end=22529
+
+<region>
+sample=samples\E's Bassoon C#4(L).wav
+lokey=71 hikey=84
+pitch_keycenter=73
+tune=-27
+offset=0
+end=21140
+loop_start=15802
+loop_end=21135

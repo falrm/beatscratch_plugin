@@ -1,0 +1,1176 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+effect2=7
+ampeg_sustain=0.001
+ampeg_release=0.600124
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\PalmMuted Guitar E3.wav
+lokey=0 hikey=40
+pitch_keycenter=40
+ampeg_decay=19.9964
+tune=-15
+loop_mode=loop_continuous
+offset=0
+end=36223
+loop_start=35629
+loop_end=36158
+
+<region>
+sample=samples\PalmMuted Guitar G3.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+ampeg_decay=19.9964
+tune=-25
+loop_mode=loop_continuous
+offset=0
+end=39503
+loop_start=38526
+loop_end=39414
+
+<region>
+sample=samples\PalmMuted Guitar A3.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+ampeg_decay=19.9964
+tune=-28
+loop_mode=loop_continuous
+offset=0
+end=28703
+loop_start=27878
+loop_end=28668
+
+<region>
+sample=samples\PalmMuted Guitar C4.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+ampeg_decay=4.99909
+tune=-32
+loop_mode=loop_continuous
+offset=0
+end=37519
+loop_start=36798
+loop_end=37460
+
+<region>
+sample=samples\PalmMuted Guitar D4.wav
+lokey=49 hikey=50
+pitch_keycenter=50
+ampeg_hold=0.001
+ampeg_decay=9.99818
+tune=-23
+loop_mode=loop_continuous
+offset=0
+end=32247
+loop_start=31906
+loop_end=32202
+
+<region>
+sample=samples\PalmMuted Guitar F#.wav
+lokey=51 hikey=54
+pitch_keycenter=54
+ampeg_decay=9.99818
+tune=-23
+offset=0
+end=28402
+loop_start=8
+loop_end=28394
+
+<region>
+sample=samples\PalmMuted Guitar Bb.wav
+lokey=55 hikey=58
+pitch_keycenter=55
+ampeg_decay=9.99818
+tune=-22
+offset=0
+end=23700
+loop_start=8
+loop_end=23692
+
+<region>
+sample=samples\PalmMuted Guitar D5.wav
+lokey=59 hikey=62
+pitch_keycenter=62
+ampeg_decay=9.99818
+tune=-32
+offset=0
+end=23849
+loop_start=8
+loop_end=23841
+
+<region>
+sample=samples\PalmMuted Guitar F5.wav
+lokey=63 hikey=65
+pitch_keycenter=65
+ampeg_decay=9.99818
+tune=-21
+offset=0
+end=11895
+loop_start=8
+loop_end=11887
+
+<region>
+sample=samples\PalmMuted Guitar Bb-1.wav
+lokey=66 hikey=84
+pitch_keycenter=70
+ampeg_decay=9.99818
+tune=-44
+offset=0
+end=21271
+loop_start=8
+loop_end=21263
+
+<group>
+lovel=113 hivel=120
+effect2=7
+ampeg_sustain=0.001
+ampeg_release=0.549999
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\PalmMuted Guitar E3.wav
+lokey=0 hikey=40
+pitch_keycenter=40
+ampeg_decay=19.9964
+tune=-15
+loop_mode=loop_continuous
+offset=0
+end=36223
+loop_start=35629
+loop_end=36158
+
+<region>
+sample=samples\PalmMuted Guitar G3.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+ampeg_decay=19.9964
+tune=-25
+loop_mode=loop_continuous
+offset=0
+end=39503
+loop_start=38526
+loop_end=39414
+
+<region>
+sample=samples\PalmMuted Guitar A3.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+ampeg_decay=19.9964
+tune=-28
+loop_mode=loop_continuous
+offset=0
+end=28703
+loop_start=27878
+loop_end=28668
+
+<region>
+sample=samples\PalmMuted Guitar C4.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+ampeg_decay=4.99909
+tune=-32
+loop_mode=loop_continuous
+offset=0
+end=37519
+loop_start=36798
+loop_end=37460
+
+<region>
+sample=samples\PalmMuted Guitar D4.wav
+lokey=49 hikey=50
+pitch_keycenter=50
+ampeg_hold=0.001
+ampeg_decay=9.99818
+tune=-23
+loop_mode=loop_continuous
+offset=0
+end=32247
+loop_start=31906
+loop_end=32202
+
+<region>
+sample=samples\PalmMuted Guitar F#.wav
+lokey=51 hikey=54
+pitch_keycenter=54
+ampeg_decay=9.99818
+tune=-23
+offset=0
+end=28402
+loop_start=8
+loop_end=28394
+
+<region>
+sample=samples\PalmMuted Guitar Bb.wav
+lokey=55 hikey=58
+pitch_keycenter=55
+ampeg_decay=9.99818
+tune=-22
+offset=0
+end=23700
+loop_start=8
+loop_end=23692
+
+<region>
+sample=samples\PalmMuted Guitar D5.wav
+lokey=59 hikey=62
+pitch_keycenter=62
+ampeg_decay=9.99818
+tune=-32
+offset=0
+end=23849
+loop_start=8
+loop_end=23841
+
+<region>
+sample=samples\PalmMuted Guitar F5.wav
+lokey=63 hikey=65
+pitch_keycenter=65
+ampeg_decay=9.99818
+tune=-21
+offset=0
+end=11895
+loop_start=8
+loop_end=11887
+
+<region>
+sample=samples\PalmMuted Guitar Bb-1.wav
+lokey=66 hikey=84
+pitch_keycenter=70
+ampeg_decay=9.99818
+tune=-44
+offset=0
+end=21271
+loop_start=8
+loop_end=21263
+
+<group>
+lovel=105 hivel=112
+effect2=7
+ampeg_sustain=0.001
+ampeg_release=0.5
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\PalmMuted Guitar E3.wav
+lokey=0 hikey=40
+pitch_keycenter=40
+ampeg_decay=19.9964
+tune=-15
+loop_mode=loop_continuous
+offset=0
+end=36223
+loop_start=35629
+loop_end=36158
+
+<region>
+sample=samples\PalmMuted Guitar G3.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+ampeg_decay=19.9964
+tune=-25
+loop_mode=loop_continuous
+offset=0
+end=39503
+loop_start=38526
+loop_end=39414
+
+<region>
+sample=samples\PalmMuted Guitar A3.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+ampeg_decay=19.9964
+tune=-28
+loop_mode=loop_continuous
+offset=0
+end=28703
+loop_start=27878
+loop_end=28668
+
+<region>
+sample=samples\PalmMuted Guitar C4.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+ampeg_decay=4.99909
+tune=-32
+loop_mode=loop_continuous
+offset=0
+end=37519
+loop_start=36798
+loop_end=37460
+
+<region>
+sample=samples\PalmMuted Guitar D4.wav
+lokey=49 hikey=50
+pitch_keycenter=50
+ampeg_hold=0.001
+ampeg_decay=9.99818
+tune=-23
+loop_mode=loop_continuous
+offset=0
+end=32247
+loop_start=31906
+loop_end=32202
+
+<region>
+sample=samples\PalmMuted Guitar F#.wav
+lokey=51 hikey=54
+pitch_keycenter=54
+ampeg_decay=9.99818
+tune=-23
+offset=0
+end=28402
+loop_start=8
+loop_end=28394
+
+<region>
+sample=samples\PalmMuted Guitar Bb.wav
+lokey=55 hikey=58
+pitch_keycenter=55
+ampeg_decay=9.99818
+tune=-22
+offset=0
+end=23700
+loop_start=8
+loop_end=23692
+
+<region>
+sample=samples\PalmMuted Guitar D5.wav
+lokey=59 hikey=62
+pitch_keycenter=62
+ampeg_decay=9.99818
+tune=-32
+offset=0
+end=23849
+loop_start=8
+loop_end=23841
+
+<region>
+sample=samples\PalmMuted Guitar F5.wav
+lokey=63 hikey=65
+pitch_keycenter=65
+ampeg_decay=9.99818
+tune=-21
+offset=0
+end=11895
+loop_start=8
+loop_end=11887
+
+<region>
+sample=samples\PalmMuted Guitar Bb-1.wav
+lokey=66 hikey=84
+pitch_keycenter=70
+ampeg_decay=9.99818
+tune=-44
+offset=0
+end=21271
+loop_start=8
+loop_end=21263
+
+<group>
+lovel=97 hivel=104
+effect2=7
+ampeg_sustain=0.001
+ampeg_release=0.450105
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\PalmMuted Guitar E3.wav
+lokey=0 hikey=40
+pitch_keycenter=40
+ampeg_decay=19.9964
+tune=-15
+loop_mode=loop_continuous
+offset=0
+end=36223
+loop_start=35629
+loop_end=36158
+
+<region>
+sample=samples\PalmMuted Guitar G3.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+ampeg_decay=19.9964
+tune=-25
+loop_mode=loop_continuous
+offset=0
+end=39503
+loop_start=38526
+loop_end=39414
+
+<region>
+sample=samples\PalmMuted Guitar A3.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+ampeg_decay=19.9964
+tune=-28
+loop_mode=loop_continuous
+offset=0
+end=28703
+loop_start=27878
+loop_end=28668
+
+<region>
+sample=samples\PalmMuted Guitar C4.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+ampeg_decay=4.99909
+tune=-32
+loop_mode=loop_continuous
+offset=0
+end=37519
+loop_start=36798
+loop_end=37460
+
+<region>
+sample=samples\PalmMuted Guitar D4.wav
+lokey=49 hikey=50
+pitch_keycenter=50
+ampeg_hold=0.001
+ampeg_decay=9.99818
+tune=-23
+loop_mode=loop_continuous
+offset=0
+end=32247
+loop_start=31906
+loop_end=32202
+
+<region>
+sample=samples\PalmMuted Guitar F#.wav
+lokey=51 hikey=54
+pitch_keycenter=54
+ampeg_decay=9.99818
+tune=-23
+offset=0
+end=28402
+loop_start=8
+loop_end=28394
+
+<region>
+sample=samples\PalmMuted Guitar Bb.wav
+lokey=55 hikey=58
+pitch_keycenter=55
+ampeg_decay=9.99818
+tune=-22
+offset=0
+end=23700
+loop_start=8
+loop_end=23692
+
+<region>
+sample=samples\PalmMuted Guitar D5.wav
+lokey=59 hikey=62
+pitch_keycenter=62
+ampeg_decay=9.99818
+tune=-32
+offset=0
+end=23849
+loop_start=8
+loop_end=23841
+
+<region>
+sample=samples\PalmMuted Guitar F5.wav
+lokey=63 hikey=65
+pitch_keycenter=65
+ampeg_decay=9.99818
+tune=-21
+offset=0
+end=11895
+loop_start=8
+loop_end=11887
+
+<region>
+sample=samples\PalmMuted Guitar Bb-1.wav
+lokey=66 hikey=84
+pitch_keycenter=70
+ampeg_decay=9.99818
+tune=-44
+offset=0
+end=21271
+loop_start=8
+loop_end=21263
+
+<group>
+lovel=89 hivel=96
+effect2=7
+ampeg_sustain=0.001
+ampeg_release=0.400073
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\PalmMuted Guitar E3.wav
+lokey=0 hikey=40
+pitch_keycenter=40
+ampeg_decay=19.9964
+tune=-15
+loop_mode=loop_continuous
+offset=0
+end=36223
+loop_start=35629
+loop_end=36158
+
+<region>
+sample=samples\PalmMuted Guitar G3.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+ampeg_decay=19.9964
+tune=-25
+loop_mode=loop_continuous
+offset=0
+end=39503
+loop_start=38526
+loop_end=39414
+
+<region>
+sample=samples\PalmMuted Guitar A3.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+ampeg_decay=19.9964
+tune=-28
+loop_mode=loop_continuous
+offset=0
+end=28703
+loop_start=27878
+loop_end=28668
+
+<region>
+sample=samples\PalmMuted Guitar C4.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+ampeg_decay=4.99909
+tune=-32
+loop_mode=loop_continuous
+offset=0
+end=37519
+loop_start=36798
+loop_end=37460
+
+<region>
+sample=samples\PalmMuted Guitar D4.wav
+lokey=49 hikey=50
+pitch_keycenter=50
+ampeg_hold=0.001
+ampeg_decay=9.99818
+tune=-23
+loop_mode=loop_continuous
+offset=0
+end=32247
+loop_start=31906
+loop_end=32202
+
+<region>
+sample=samples\PalmMuted Guitar F#.wav
+lokey=51 hikey=54
+pitch_keycenter=54
+ampeg_decay=9.99818
+tune=-23
+offset=0
+end=28402
+loop_start=8
+loop_end=28394
+
+<region>
+sample=samples\PalmMuted Guitar Bb.wav
+lokey=55 hikey=58
+pitch_keycenter=55
+ampeg_decay=9.99818
+tune=-22
+offset=0
+end=23700
+loop_start=8
+loop_end=23692
+
+<region>
+sample=samples\PalmMuted Guitar D5.wav
+lokey=59 hikey=62
+pitch_keycenter=62
+ampeg_decay=9.99818
+tune=-32
+offset=0
+end=23849
+loop_start=8
+loop_end=23841
+
+<region>
+sample=samples\PalmMuted Guitar F5.wav
+lokey=63 hikey=65
+pitch_keycenter=65
+ampeg_decay=9.99818
+tune=-21
+offset=0
+end=11895
+loop_start=8
+loop_end=11887
+
+<region>
+sample=samples\PalmMuted Guitar Bb-1.wav
+lokey=66 hikey=84
+pitch_keycenter=70
+ampeg_decay=9.99818
+tune=-44
+offset=0
+end=21271
+loop_start=8
+loop_end=21263
+
+<group>
+lovel=81 hivel=88
+effect2=7
+ampeg_sustain=0.001
+ampeg_release=0.350099
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\PalmMuted Guitar E3.wav
+lokey=0 hikey=40
+pitch_keycenter=40
+ampeg_decay=19.9964
+tune=-15
+loop_mode=loop_continuous
+offset=0
+end=36223
+loop_start=35629
+loop_end=36158
+
+<region>
+sample=samples\PalmMuted Guitar G3.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+ampeg_decay=19.9964
+tune=-25
+loop_mode=loop_continuous
+offset=0
+end=39503
+loop_start=38526
+loop_end=39414
+
+<region>
+sample=samples\PalmMuted Guitar A3.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+ampeg_decay=19.9964
+tune=-28
+loop_mode=loop_continuous
+offset=0
+end=28703
+loop_start=27878
+loop_end=28668
+
+<region>
+sample=samples\PalmMuted Guitar C4.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+ampeg_decay=4.99909
+tune=-32
+loop_mode=loop_continuous
+offset=0
+end=37519
+loop_start=36798
+loop_end=37460
+
+<region>
+sample=samples\PalmMuted Guitar D4.wav
+lokey=49 hikey=50
+pitch_keycenter=50
+ampeg_hold=0.001
+ampeg_decay=9.99818
+tune=-23
+loop_mode=loop_continuous
+offset=0
+end=32247
+loop_start=31906
+loop_end=32202
+
+<region>
+sample=samples\PalmMuted Guitar F#.wav
+lokey=51 hikey=54
+pitch_keycenter=54
+ampeg_decay=9.99818
+tune=-23
+offset=0
+end=28402
+loop_start=8
+loop_end=28394
+
+<region>
+sample=samples\PalmMuted Guitar Bb.wav
+lokey=55 hikey=58
+pitch_keycenter=55
+ampeg_decay=9.99818
+tune=-22
+offset=0
+end=23700
+loop_start=8
+loop_end=23692
+
+<region>
+sample=samples\PalmMuted Guitar D5.wav
+lokey=59 hikey=62
+pitch_keycenter=62
+ampeg_decay=9.99818
+tune=-32
+offset=0
+end=23849
+loop_start=8
+loop_end=23841
+
+<region>
+sample=samples\PalmMuted Guitar F5.wav
+lokey=63 hikey=65
+pitch_keycenter=65
+ampeg_decay=9.99818
+tune=-21
+offset=0
+end=11895
+loop_start=8
+loop_end=11887
+
+<region>
+sample=samples\PalmMuted Guitar Bb-1.wav
+lokey=66 hikey=84
+pitch_keycenter=70
+ampeg_decay=9.99818
+tune=-44
+offset=0
+end=21271
+loop_start=8
+loop_end=21263
+
+<group>
+lovel=73 hivel=80
+effect2=7
+ampeg_sustain=0.001
+ampeg_release=0.300062
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\PalmMuted Guitar E3.wav
+lokey=0 hikey=40
+pitch_keycenter=40
+ampeg_decay=19.9964
+tune=-15
+loop_mode=loop_continuous
+offset=0
+end=36223
+loop_start=35629
+loop_end=36158
+
+<region>
+sample=samples\PalmMuted Guitar G3.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+ampeg_decay=19.9964
+tune=-25
+loop_mode=loop_continuous
+offset=0
+end=39503
+loop_start=38526
+loop_end=39414
+
+<region>
+sample=samples\PalmMuted Guitar A3.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+ampeg_decay=19.9964
+tune=-28
+loop_mode=loop_continuous
+offset=0
+end=28703
+loop_start=27878
+loop_end=28668
+
+<region>
+sample=samples\PalmMuted Guitar C4.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+ampeg_decay=4.99909
+tune=-32
+loop_mode=loop_continuous
+offset=0
+end=37519
+loop_start=36798
+loop_end=37460
+
+<region>
+sample=samples\PalmMuted Guitar D4.wav
+lokey=49 hikey=50
+pitch_keycenter=50
+ampeg_hold=0.001
+ampeg_decay=9.99818
+tune=-23
+loop_mode=loop_continuous
+offset=0
+end=32247
+loop_start=31906
+loop_end=32202
+
+<region>
+sample=samples\PalmMuted Guitar F#.wav
+lokey=51 hikey=54
+pitch_keycenter=54
+ampeg_decay=9.99818
+tune=-23
+offset=0
+end=28402
+loop_start=8
+loop_end=28394
+
+<region>
+sample=samples\PalmMuted Guitar Bb.wav
+lokey=55 hikey=58
+pitch_keycenter=55
+ampeg_decay=9.99818
+tune=-22
+offset=0
+end=23700
+loop_start=8
+loop_end=23692
+
+<region>
+sample=samples\PalmMuted Guitar D5.wav
+lokey=59 hikey=62
+pitch_keycenter=62
+ampeg_decay=9.99818
+tune=-32
+offset=0
+end=23849
+loop_start=8
+loop_end=23841
+
+<region>
+sample=samples\PalmMuted Guitar F5.wav
+lokey=63 hikey=65
+pitch_keycenter=65
+ampeg_decay=9.99818
+tune=-21
+offset=0
+end=11895
+loop_start=8
+loop_end=11887
+
+<region>
+sample=samples\PalmMuted Guitar Bb-1.wav
+lokey=66 hikey=84
+pitch_keycenter=70
+ampeg_decay=9.99818
+tune=-44
+offset=0
+end=21271
+loop_start=8
+loop_end=21263
+
+<group>
+lovel=65 hivel=72
+effect2=7
+ampeg_sustain=0.001
+ampeg_release=0.25
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\PalmMuted Guitar E3.wav
+lokey=0 hikey=40
+pitch_keycenter=40
+ampeg_decay=19.9964
+tune=-15
+loop_mode=loop_continuous
+offset=0
+end=36223
+loop_start=35629
+loop_end=36158
+
+<region>
+sample=samples\PalmMuted Guitar G3.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+ampeg_decay=19.9964
+tune=-25
+loop_mode=loop_continuous
+offset=0
+end=39503
+loop_start=38526
+loop_end=39414
+
+<region>
+sample=samples\PalmMuted Guitar A3.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+ampeg_decay=19.9964
+tune=-28
+loop_mode=loop_continuous
+offset=0
+end=28703
+loop_start=27878
+loop_end=28668
+
+<region>
+sample=samples\PalmMuted Guitar C4.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+ampeg_decay=4.99909
+tune=-32
+loop_mode=loop_continuous
+offset=0
+end=37519
+loop_start=36798
+loop_end=37460
+
+<region>
+sample=samples\PalmMuted Guitar D4.wav
+lokey=49 hikey=50
+pitch_keycenter=50
+ampeg_hold=0.001
+ampeg_decay=9.99818
+tune=-23
+loop_mode=loop_continuous
+offset=0
+end=32247
+loop_start=31906
+loop_end=32202
+
+<region>
+sample=samples\PalmMuted Guitar F#.wav
+lokey=51 hikey=54
+pitch_keycenter=54
+ampeg_decay=9.99818
+tune=-23
+offset=0
+end=28402
+loop_start=8
+loop_end=28394
+
+<region>
+sample=samples\PalmMuted Guitar Bb.wav
+lokey=55 hikey=58
+pitch_keycenter=55
+ampeg_decay=9.99818
+tune=-22
+offset=0
+end=23700
+loop_start=8
+loop_end=23692
+
+<region>
+sample=samples\PalmMuted Guitar D5.wav
+lokey=59 hikey=62
+pitch_keycenter=62
+ampeg_decay=9.99818
+tune=-32
+offset=0
+end=23849
+loop_start=8
+loop_end=23841
+
+<region>
+sample=samples\PalmMuted Guitar F5.wav
+lokey=63 hikey=65
+pitch_keycenter=65
+ampeg_decay=9.99818
+tune=-21
+offset=0
+end=11895
+loop_start=8
+loop_end=11887
+
+<region>
+sample=samples\PalmMuted Guitar Bb-1.wav
+lokey=66 hikey=84
+pitch_keycenter=70
+ampeg_decay=9.99818
+tune=-44
+offset=0
+end=21271
+loop_start=8
+loop_end=21263
+
+<group>
+lovel=0 hivel=64
+effect2=7
+ampeg_sustain=0.001
+ampeg_release=0.200036
+loop_mode=no_loop
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\PalmMuted Guitar E3.wav
+lokey=0 hikey=40
+pitch_keycenter=40
+ampeg_decay=19.9964
+tune=-15
+loop_mode=loop_continuous
+offset=0
+end=36223
+loop_start=35629
+loop_end=36158
+
+<region>
+sample=samples\PalmMuted Guitar G3.wav
+lokey=41 hikey=43
+pitch_keycenter=43
+ampeg_decay=19.9964
+tune=-25
+loop_mode=loop_continuous
+offset=0
+end=39503
+loop_start=38526
+loop_end=39414
+
+<region>
+sample=samples\PalmMuted Guitar A3.wav
+lokey=44 hikey=45
+pitch_keycenter=45
+ampeg_decay=19.9964
+tune=-28
+loop_mode=loop_continuous
+offset=0
+end=28703
+loop_start=27878
+loop_end=28668
+
+<region>
+sample=samples\PalmMuted Guitar C4.wav
+lokey=46 hikey=48
+pitch_keycenter=48
+ampeg_decay=4.99909
+tune=-32
+loop_mode=loop_continuous
+offset=0
+end=37519
+loop_start=36798
+loop_end=37460
+
+<region>
+sample=samples\PalmMuted Guitar D4.wav
+lokey=49 hikey=50
+pitch_keycenter=50
+ampeg_hold=0.001
+ampeg_decay=9.99818
+tune=-23
+loop_mode=loop_continuous
+offset=0
+end=32247
+loop_start=31906
+loop_end=32202
+
+<region>
+sample=samples\PalmMuted Guitar F#.wav
+lokey=51 hikey=54
+pitch_keycenter=54
+ampeg_decay=9.99818
+tune=-23
+offset=0
+end=28402
+loop_start=8
+loop_end=28394
+
+<region>
+sample=samples\PalmMuted Guitar Bb.wav
+lokey=55 hikey=58
+pitch_keycenter=55
+ampeg_decay=9.99818
+tune=-22
+offset=0
+end=23700
+loop_start=8
+loop_end=23692
+
+<region>
+sample=samples\PalmMuted Guitar D5.wav
+lokey=59 hikey=62
+pitch_keycenter=62
+ampeg_decay=9.99818
+tune=-32
+offset=0
+end=23849
+loop_start=8
+loop_end=23841
+
+<region>
+sample=samples\PalmMuted Guitar F5.wav
+lokey=63 hikey=65
+pitch_keycenter=65
+ampeg_decay=9.99818
+tune=-21
+offset=0
+end=11895
+loop_start=8
+loop_end=11887
+
+<region>
+sample=samples\PalmMuted Guitar Bb-1.wav
+lokey=66 hikey=84
+pitch_keycenter=70
+ampeg_decay=9.99818
+tune=-44
+offset=0
+end=21271
+loop_start=8
+loop_end=21263

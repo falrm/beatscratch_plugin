@@ -1,0 +1,94 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=1300
+fileg_depth=1957
+amplfo_depth=0.4
+amplfo_delay=0.400073
+fillfo_delay=0.400073
+amplfo_freq=5.40038
+fillfo_freq=5.40038
+pitchlfo_freq=5.40038
+pitcheg_attack=0.00599996
+fileg_attack=0.00599996
+pitcheg_decay=0.400073
+fileg_decay=0.400073
+fileg_sustain=39
+pitcheg_sustain=39
+pitcheg_release=1
+fileg_release=1
+ampeg_decay=1.67018
+ampeg_sustain=70.7946
+ampeg_release=0.243023
+loop_mode=loop_continuous
+effect1=10
+pitchlfo_depth=5
+pitchlfo_delay=0.400073
+ampeg_attack=0.001
+volume=-0.4
+
+<region>
+sample=samples\Shenai F#4(L).wav
+lokey=0 hikey=59
+pitch_keycenter=54
+offset=0
+end=4412
+loop_start=4164
+loop_end=4401
+volume=-0.4
+
+<region>
+sample=samples\Shenai C5(L).wav
+lokey=60 hikey=64
+pitch_keycenter=60
+offset=0
+end=3959
+loop_start=3780
+loop_end=3948
+volume=-0.4
+
+<region>
+sample=samples\Shenai F#5(L).wav
+lokey=65 hikey=71
+pitch_keycenter=66
+offset=0
+end=4129
+loop_start=3754
+loop_end=4111
+volume=-0.4
+
+<region>
+sample=samples\Shenai C6(L).wav
+lokey=72 hikey=76
+pitch_keycenter=72
+offset=0
+end=3357
+loop_start=2921
+loop_end=3341
+volume=-0.4
+
+<region>
+sample=samples\Shenai F#6(L).wav
+lokey=77 hikey=81
+pitch_keycenter=78
+offset=0
+end=2296
+loop_start=1922
+loop_end=2279
+volume=-0.4
+
+<region>
+sample=samples\Shenai C7(L).wav
+lokey=82 hikey=127
+pitch_keycenter=84
+offset=0
+end=2619
+loop_start=1672
+loop_end=2599
+volume=-0.4

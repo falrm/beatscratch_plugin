@@ -1,0 +1,81 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+ampeg_release=1.02042
+loop_mode=loop_continuous
+effect1=15
+volume=-0.794
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Ohh Voices C 4(L).wav
+lokey=0 hikey=53
+pitch_keycenter=48
+offset=0
+end=35483
+loop_start=23105
+loop_end=35456
+
+<region>
+sample=samples\Ohh Voices F# 4(L).wav
+lokey=54 hikey=59
+pitch_keycenter=54
+offset=0
+end=41487
+loop_start=26026
+loop_end=41471
+
+<region>
+sample=samples\Ohh Voices C 5(L).wav
+lokey=60 hikey=65
+pitch_keycenter=60
+offset=0
+end=43479
+loop_start=26793
+loop_end=43463
+
+<region>
+sample=samples\Ohh Voices F# 5(L).wav
+lokey=66 hikey=71
+pitch_keycenter=66
+offset=0
+end=61707
+loop_start=45263
+loop_end=61686
+
+<region>
+sample=samples\Ohh Voices C 6(L).wav
+lokey=72 hikey=77
+pitch_keycenter=72
+offset=0
+end=41283
+loop_start=25364
+loop_end=41273
+
+<region>
+sample=samples\Ohh Voices F# 6(L).wav
+lokey=78 hikey=83
+pitch_keycenter=78
+offset=0
+end=47947
+loop_start=36096
+loop_end=47936
+
+<region>
+sample=samples\Ohh Voices C 7(L).wav
+lokey=84 hikey=96
+pitch_keycenter=84
+offset=0
+end=38679
+loop_start=23818
+loop_end=38670

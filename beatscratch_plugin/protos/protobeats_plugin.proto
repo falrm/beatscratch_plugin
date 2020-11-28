@@ -1,0 +1,56 @@
+syntax = "proto3";
+// `java_package` must match the package name you declare for `androidPackage` in your pubspec.yaml
+option java_package = "org.beatscratch.commands";
+
+message MidiSynthesizer {
+  string id = 1;
+  string name = 2;
+  bool enabled = 3;
+}
+
+message MidiController {
+  string id = 1;
+  string name = 2;
+  bool enabled = 3;
+}
+
+message MidiDevices {
+  repeated MidiSynthesizer synthesizers = 1;
+  repeated MidiController controllers = 2;
+}
+
+message SynthesizerApp {
+  string name = 1;
+  bool installed = 2;
+  string storeLink = 3;
+  string launchLink = 4;
+}
+
+message ControllerApp {
+  string name = 1;
+  bool installed = 2;
+  string storeLink = 3;
+  string launchLink = 4;
+}
+
+message MidiApps {
+  repeated SynthesizerApp synthesizers = 1;
+  repeated ControllerApp controllers = 2;
+}
+
+message MidiNotes {
+  repeated uint32 midi_notes = 1;
+}
+
+message RegisterMelody {
+  string melody_id = 1;
+  string part_id = 2;
+}
+
+message Playback {
+  enum Mode {
+    score = 0;
+    section = 1;
+  }
+  Mode mode = 1;
+}

@@ -1,0 +1,29 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=8238
+loop_mode=no_loop
+effect1=5
+volume=-1.2704
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Taiko Drum(L).wav
+pitch_keycenter=60
+ampeg_decay=19.9964
+ampeg_sustain=0.001
+ampeg_release=9.99818
+pitch_keytrack=50
+offset=0
+end=44799
+loop_start=8
+loop_end=44791

@@ -1,0 +1,807 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+ampeg_hold=0.5
+ampeg_decay=12.0003
+ampeg_sustain=0.001
+ampeg_release=8.40258
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Glocken G7.wav
+lokey=0 hikey=79
+pitch_keycenter=79
+offset=0
+end=36007
+loop_start=35102
+loop_end=36000
+
+<region>
+sample=samples\Glocken C8.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+offset=0
+end=36007
+loop_start=35202
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#8.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=36011
+loop_start=35189
+loop_end=36000
+
+<region>
+sample=samples\Glocken G8.wav
+lokey=88 hikey=91
+pitch_keycenter=91
+offset=0
+end=36015
+loop_start=35104
+loop_end=36000
+
+<region>
+sample=samples\Glocken C9.wav
+lokey=92 hikey=96
+pitch_keycenter=96
+offset=0
+end=36003
+loop_start=35037
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#9.wav
+lokey=97 hikey=99
+pitch_keycenter=99
+fileg_depth=-100
+offset=0
+end=36011
+loop_start=35067
+loop_end=36000
+
+<region>
+sample=samples\Glocken G9.wav
+lokey=100 hikey=103
+pitch_keycenter=103
+offset=0
+end=36005
+loop_start=35050
+loop_end=36000
+
+<region>
+sample=samples\Glocken C10.wav
+lokey=104 hikey=127
+pitch_keycenter=108
+offset=0
+end=36007
+loop_start=35028
+loop_end=36000
+
+<group>
+lovel=113 hivel=120
+ampeg_hold=0.5
+ampeg_decay=12.0003
+ampeg_sustain=0.001
+ampeg_release=7.70075
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=17925
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Glocken G7.wav
+lokey=0 hikey=79
+pitch_keycenter=79
+offset=0
+end=36007
+loop_start=35102
+loop_end=36000
+
+<region>
+sample=samples\Glocken C8.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+offset=0
+end=36007
+loop_start=35202
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#8.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=36011
+loop_start=35189
+loop_end=36000
+
+<region>
+sample=samples\Glocken G8.wav
+lokey=88 hikey=91
+pitch_keycenter=91
+offset=0
+end=36015
+loop_start=35104
+loop_end=36000
+
+<region>
+sample=samples\Glocken C9.wav
+lokey=92 hikey=96
+pitch_keycenter=96
+offset=0
+end=36003
+loop_start=35037
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#9.wav
+lokey=97 hikey=99
+pitch_keycenter=99
+fileg_depth=-100
+offset=0
+end=36011
+loop_start=35067
+loop_end=36000
+
+<region>
+sample=samples\Glocken G9.wav
+lokey=100 hikey=103
+pitch_keycenter=103
+offset=0
+end=36005
+loop_start=35050
+loop_end=36000
+
+<region>
+sample=samples\Glocken C10.wav
+lokey=104 hikey=127
+pitch_keycenter=108
+offset=0
+end=36007
+loop_start=35028
+loop_end=36000
+
+<group>
+lovel=105 hivel=112
+ampeg_hold=0.5
+ampeg_decay=12.0003
+ampeg_sustain=0.001
+ampeg_release=7.0007
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=15933
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Glocken G7.wav
+lokey=0 hikey=79
+pitch_keycenter=79
+offset=0
+end=36007
+loop_start=35102
+loop_end=36000
+
+<region>
+sample=samples\Glocken C8.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+offset=0
+end=36007
+loop_start=35202
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#8.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=36011
+loop_start=35189
+loop_end=36000
+
+<region>
+sample=samples\Glocken G8.wav
+lokey=88 hikey=91
+pitch_keycenter=91
+offset=0
+end=36015
+loop_start=35104
+loop_end=36000
+
+<region>
+sample=samples\Glocken C9.wav
+lokey=92 hikey=96
+pitch_keycenter=96
+offset=0
+end=36003
+loop_start=35037
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#9.wav
+lokey=97 hikey=99
+pitch_keycenter=99
+fileg_depth=-100
+offset=0
+end=36011
+loop_start=35067
+loop_end=36000
+
+<region>
+sample=samples\Glocken G9.wav
+lokey=100 hikey=103
+pitch_keycenter=103
+offset=0
+end=36005
+loop_start=35050
+loop_end=36000
+
+<region>
+sample=samples\Glocken C10.wav
+lokey=104 hikey=127
+pitch_keycenter=108
+offset=0
+end=36007
+loop_start=35028
+loop_end=36000
+
+<group>
+lovel=97 hivel=104
+ampeg_hold=0.5
+ampeg_decay=12.0003
+ampeg_sustain=0.001
+ampeg_release=6.3021
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=13943
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Glocken G7.wav
+lokey=0 hikey=79
+pitch_keycenter=79
+offset=0
+end=36007
+loop_start=35102
+loop_end=36000
+
+<region>
+sample=samples\Glocken C8.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+offset=0
+end=36007
+loop_start=35202
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#8.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=36011
+loop_start=35189
+loop_end=36000
+
+<region>
+sample=samples\Glocken G8.wav
+lokey=88 hikey=91
+pitch_keycenter=91
+offset=0
+end=36015
+loop_start=35104
+loop_end=36000
+
+<region>
+sample=samples\Glocken C9.wav
+lokey=92 hikey=96
+pitch_keycenter=96
+offset=0
+end=36003
+loop_start=35037
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#9.wav
+lokey=97 hikey=99
+pitch_keycenter=99
+fileg_depth=-100
+offset=0
+end=36011
+loop_start=35067
+loop_end=36000
+
+<region>
+sample=samples\Glocken G9.wav
+lokey=100 hikey=103
+pitch_keycenter=103
+offset=0
+end=36005
+loop_start=35050
+loop_end=36000
+
+<region>
+sample=samples\Glocken C10.wav
+lokey=104 hikey=127
+pitch_keycenter=108
+offset=0
+end=36007
+loop_start=35028
+loop_end=36000
+
+<group>
+lovel=89 hivel=96
+ampeg_hold=0.5
+ampeg_decay=12.0003
+ampeg_sustain=0.001
+ampeg_release=5.60157
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=11950
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Glocken G7.wav
+lokey=0 hikey=79
+pitch_keycenter=79
+offset=0
+end=36007
+loop_start=35102
+loop_end=36000
+
+<region>
+sample=samples\Glocken C8.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+offset=0
+end=36007
+loop_start=35202
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#8.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=36011
+loop_start=35189
+loop_end=36000
+
+<region>
+sample=samples\Glocken G8.wav
+lokey=88 hikey=91
+pitch_keycenter=91
+offset=0
+end=36015
+loop_start=35104
+loop_end=36000
+
+<region>
+sample=samples\Glocken C9.wav
+lokey=92 hikey=96
+pitch_keycenter=96
+offset=0
+end=36003
+loop_start=35037
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#9.wav
+lokey=97 hikey=99
+pitch_keycenter=99
+fileg_depth=-100
+offset=0
+end=36011
+loop_start=35067
+loop_end=36000
+
+<region>
+sample=samples\Glocken G9.wav
+lokey=100 hikey=103
+pitch_keycenter=103
+offset=0
+end=36005
+loop_start=35050
+loop_end=36000
+
+<region>
+sample=samples\Glocken C10.wav
+lokey=104 hikey=127
+pitch_keycenter=108
+offset=0
+end=36007
+loop_start=35028
+loop_end=36000
+
+<group>
+lovel=81 hivel=88
+ampeg_hold=0.5
+ampeg_decay=12.0003
+ampeg_sustain=0.001
+ampeg_release=4.90187
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=9956
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Glocken G7.wav
+lokey=0 hikey=79
+pitch_keycenter=79
+offset=0
+end=36007
+loop_start=35102
+loop_end=36000
+
+<region>
+sample=samples\Glocken C8.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+offset=0
+end=36007
+loop_start=35202
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#8.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=36011
+loop_start=35189
+loop_end=36000
+
+<region>
+sample=samples\Glocken G8.wav
+lokey=88 hikey=91
+pitch_keycenter=91
+offset=0
+end=36015
+loop_start=35104
+loop_end=36000
+
+<region>
+sample=samples\Glocken C9.wav
+lokey=92 hikey=96
+pitch_keycenter=96
+offset=0
+end=36003
+loop_start=35037
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#9.wav
+lokey=97 hikey=99
+pitch_keycenter=99
+fileg_depth=-100
+offset=0
+end=36011
+loop_start=35067
+loop_end=36000
+
+<region>
+sample=samples\Glocken G9.wav
+lokey=100 hikey=103
+pitch_keycenter=103
+offset=0
+end=36005
+loop_start=35050
+loop_end=36000
+
+<region>
+sample=samples\Glocken C10.wav
+lokey=104 hikey=127
+pitch_keycenter=108
+offset=0
+end=36007
+loop_start=35028
+loop_end=36000
+
+<group>
+lovel=73 hivel=80
+ampeg_hold=0.5
+ampeg_decay=12.0003
+ampeg_sustain=0.001
+ampeg_release=4.20129
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=7966
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Glocken G7.wav
+lokey=0 hikey=79
+pitch_keycenter=79
+offset=0
+end=36007
+loop_start=35102
+loop_end=36000
+
+<region>
+sample=samples\Glocken C8.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+offset=0
+end=36007
+loop_start=35202
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#8.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=36011
+loop_start=35189
+loop_end=36000
+
+<region>
+sample=samples\Glocken G8.wav
+lokey=88 hikey=91
+pitch_keycenter=91
+offset=0
+end=36015
+loop_start=35104
+loop_end=36000
+
+<region>
+sample=samples\Glocken C9.wav
+lokey=92 hikey=96
+pitch_keycenter=96
+offset=0
+end=36003
+loop_start=35037
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#9.wav
+lokey=97 hikey=99
+pitch_keycenter=99
+fileg_depth=-100
+offset=0
+end=36011
+loop_start=35067
+loop_end=36000
+
+<region>
+sample=samples\Glocken G9.wav
+lokey=100 hikey=103
+pitch_keycenter=103
+offset=0
+end=36005
+loop_start=35050
+loop_end=36000
+
+<region>
+sample=samples\Glocken C10.wav
+lokey=104 hikey=127
+pitch_keycenter=108
+offset=0
+end=36007
+loop_start=35028
+loop_end=36000
+
+<group>
+lovel=65 hivel=72
+ampeg_hold=0.5
+ampeg_decay=12.0003
+ampeg_sustain=0.001
+ampeg_release=3.50035
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=5975
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Glocken G7.wav
+lokey=0 hikey=79
+pitch_keycenter=79
+offset=0
+end=36007
+loop_start=35102
+loop_end=36000
+
+<region>
+sample=samples\Glocken C8.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+offset=0
+end=36007
+loop_start=35202
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#8.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=36011
+loop_start=35189
+loop_end=36000
+
+<region>
+sample=samples\Glocken G8.wav
+lokey=88 hikey=91
+pitch_keycenter=91
+offset=0
+end=36015
+loop_start=35104
+loop_end=36000
+
+<region>
+sample=samples\Glocken C9.wav
+lokey=92 hikey=96
+pitch_keycenter=96
+offset=0
+end=36003
+loop_start=35037
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#9.wav
+lokey=97 hikey=99
+pitch_keycenter=99
+fileg_depth=-100
+offset=0
+end=36011
+loop_start=35067
+loop_end=36000
+
+<region>
+sample=samples\Glocken G9.wav
+lokey=100 hikey=103
+pitch_keycenter=103
+offset=0
+end=36005
+loop_start=35050
+loop_end=36000
+
+<region>
+sample=samples\Glocken C10.wav
+lokey=104 hikey=127
+pitch_keycenter=108
+offset=0
+end=36007
+loop_start=35028
+loop_end=36000
+
+<group>
+lovel=0 hivel=64
+ampeg_hold=0.5
+ampeg_decay=12.0003
+ampeg_sustain=0.001
+ampeg_release=2.80079
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=3983
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Glocken G7.wav
+lokey=0 hikey=79
+pitch_keycenter=79
+offset=0
+end=36007
+loop_start=35102
+loop_end=36000
+
+<region>
+sample=samples\Glocken C8.wav
+lokey=80 hikey=84
+pitch_keycenter=84
+offset=0
+end=36007
+loop_start=35202
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#8.wav
+lokey=85 hikey=87
+pitch_keycenter=87
+offset=0
+end=36011
+loop_start=35189
+loop_end=36000
+
+<region>
+sample=samples\Glocken G8.wav
+lokey=88 hikey=91
+pitch_keycenter=91
+offset=0
+end=36015
+loop_start=35104
+loop_end=36000
+
+<region>
+sample=samples\Glocken C9.wav
+lokey=92 hikey=96
+pitch_keycenter=96
+offset=0
+end=36003
+loop_start=35037
+loop_end=36000
+
+<region>
+sample=samples\Glocken D#9.wav
+lokey=97 hikey=99
+pitch_keycenter=99
+fileg_depth=-100
+offset=0
+end=36011
+loop_start=35067
+loop_end=36000
+
+<region>
+sample=samples\Glocken G9.wav
+lokey=100 hikey=103
+pitch_keycenter=103
+offset=0
+end=36005
+loop_start=35050
+loop_end=36000
+
+<region>
+sample=samples\Glocken C10.wav
+lokey=104 hikey=127
+pitch_keycenter=108
+offset=0
+end=36007
+loop_start=35028
+loop_end=36000

@@ -1,0 +1,1302 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=10002
+ampeg_release=0.420206
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\tromboneG3.wav
+lokey=0 hikey=43
+pitch_keycenter=43
+tune=10
+offset=0
+end=28597
+loop_start=28139
+loop_end=28591
+
+<region>
+sample=samples\tromboneBb3.wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-4
+offset=0
+end=20425
+loop_start=19284
+loop_end=20416
+
+<region>
+sample=samples\tromboneC4.wav
+lokey=47 hikey=48
+pitch_keycenter=48
+tune=16
+offset=0
+end=21341
+loop_start=20650
+loop_end=21330
+
+<region>
+sample=samples\tromboneEb4.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+tune=8
+offset=0
+end=11661
+loop_start=11373
+loop_end=11657
+
+<region>
+sample=samples\tromboneF4.wav
+lokey=52 hikey=54
+pitch_keycenter=53
+tune=-5
+offset=0
+end=23563
+loop_start=23050
+loop_end=23553
+
+<region>
+sample=samples\tromboneBb4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+tune=-6
+offset=0
+end=20393
+loop_start=19822
+loop_end=20387
+
+<region>
+sample=samples\tromboneC5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+tune=-11
+offset=0
+end=16443
+loop_start=16107
+loop_end=16441
+
+<region>
+sample=samples\tromboneEb5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+tune=8
+offset=0
+end=22147
+loop_start=21423
+loop_end=22134
+
+<region>
+sample=samples\tromboneF5.wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=2
+offset=0
+end=12665
+loop_start=12406
+loop_end=12658
+
+<region>
+sample=samples\tromboneG5.wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=3
+offset=0
+end=18523
+loop_start=17950
+loop_end=18513
+
+<region>
+sample=samples\tromboneBb5.wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-6
+offset=0
+end=9228
+loop_start=8944
+loop_end=9226
+
+<region>
+sample=samples\tromboneC6.wav
+lokey=71 hikey=72
+pitch_keycenter=72
+tune=8
+offset=0
+end=9257
+loop_start=8911
+loop_end=9249
+
+<region>
+sample=samples\tromboneEb6.wav
+lokey=73 hikey=96
+pitch_keycenter=75
+tune=-23
+offset=0
+end=9774
+loop_start=9562
+loop_end=9771
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=9004
+ampeg_release=0.420206
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\tromboneG3.wav
+lokey=0 hikey=43
+pitch_keycenter=43
+tune=10
+offset=0
+end=28597
+loop_start=28139
+loop_end=28591
+
+<region>
+sample=samples\tromboneBb3.wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-4
+offset=0
+end=20425
+loop_start=19284
+loop_end=20416
+
+<region>
+sample=samples\tromboneC4.wav
+lokey=47 hikey=48
+pitch_keycenter=48
+tune=16
+offset=0
+end=21341
+loop_start=20650
+loop_end=21330
+
+<region>
+sample=samples\tromboneEb4.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+tune=8
+offset=0
+end=11661
+loop_start=11373
+loop_end=11657
+
+<region>
+sample=samples\tromboneF4.wav
+lokey=52 hikey=54
+pitch_keycenter=53
+tune=-5
+offset=0
+end=23563
+loop_start=23050
+loop_end=23553
+
+<region>
+sample=samples\tromboneBb4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+tune=-6
+offset=0
+end=20393
+loop_start=19822
+loop_end=20387
+
+<region>
+sample=samples\tromboneC5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+tune=-11
+offset=0
+end=16443
+loop_start=16107
+loop_end=16441
+
+<region>
+sample=samples\tromboneEb5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+tune=8
+offset=0
+end=22147
+loop_start=21423
+loop_end=22134
+
+<region>
+sample=samples\tromboneF5.wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=2
+offset=0
+end=12665
+loop_start=12406
+loop_end=12658
+
+<region>
+sample=samples\tromboneG5.wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=3
+offset=0
+end=18523
+loop_start=17950
+loop_end=18513
+
+<region>
+sample=samples\tromboneBb5.wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-6
+offset=0
+end=9228
+loop_start=8944
+loop_end=9226
+
+<region>
+sample=samples\tromboneC6.wav
+lokey=71 hikey=72
+pitch_keycenter=72
+tune=8
+offset=0
+end=9257
+loop_start=8911
+loop_end=9249
+
+<region>
+sample=samples\tromboneEb6.wav
+lokey=73 hikey=96
+pitch_keycenter=75
+tune=-23
+offset=0
+end=9774
+loop_start=9562
+loop_end=9771
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=8003
+ampeg_release=0.420206
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\tromboneG3.wav
+lokey=0 hikey=43
+pitch_keycenter=43
+tune=10
+offset=0
+end=28597
+loop_start=28139
+loop_end=28591
+
+<region>
+sample=samples\tromboneBb3.wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-4
+offset=0
+end=20425
+loop_start=19284
+loop_end=20416
+
+<region>
+sample=samples\tromboneC4.wav
+lokey=47 hikey=48
+pitch_keycenter=48
+tune=16
+offset=0
+end=21341
+loop_start=20650
+loop_end=21330
+
+<region>
+sample=samples\tromboneEb4.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+tune=8
+offset=0
+end=11661
+loop_start=11373
+loop_end=11657
+
+<region>
+sample=samples\tromboneF4.wav
+lokey=52 hikey=54
+pitch_keycenter=53
+tune=-5
+offset=0
+end=23563
+loop_start=23050
+loop_end=23553
+
+<region>
+sample=samples\tromboneBb4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+tune=-6
+offset=0
+end=20393
+loop_start=19822
+loop_end=20387
+
+<region>
+sample=samples\tromboneC5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+tune=-11
+offset=0
+end=16443
+loop_start=16107
+loop_end=16441
+
+<region>
+sample=samples\tromboneEb5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+tune=8
+offset=0
+end=22147
+loop_start=21423
+loop_end=22134
+
+<region>
+sample=samples\tromboneF5.wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=2
+offset=0
+end=12665
+loop_start=12406
+loop_end=12658
+
+<region>
+sample=samples\tromboneG5.wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=3
+offset=0
+end=18523
+loop_start=17950
+loop_end=18513
+
+<region>
+sample=samples\tromboneBb5.wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-6
+offset=0
+end=9228
+loop_start=8944
+loop_end=9226
+
+<region>
+sample=samples\tromboneC6.wav
+lokey=71 hikey=72
+pitch_keycenter=72
+tune=8
+offset=0
+end=9257
+loop_start=8911
+loop_end=9249
+
+<region>
+sample=samples\tromboneEb6.wav
+lokey=73 hikey=96
+pitch_keycenter=75
+tune=-23
+offset=0
+end=9774
+loop_start=9562
+loop_end=9771
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=7004
+ampeg_release=0.420206
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\tromboneG3.wav
+lokey=0 hikey=43
+pitch_keycenter=43
+tune=10
+offset=0
+end=28597
+loop_start=28139
+loop_end=28591
+
+<region>
+sample=samples\tromboneBb3.wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-4
+offset=0
+end=20425
+loop_start=19284
+loop_end=20416
+
+<region>
+sample=samples\tromboneC4.wav
+lokey=47 hikey=48
+pitch_keycenter=48
+tune=16
+offset=0
+end=21341
+loop_start=20650
+loop_end=21330
+
+<region>
+sample=samples\tromboneEb4.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+tune=8
+offset=0
+end=11661
+loop_start=11373
+loop_end=11657
+
+<region>
+sample=samples\tromboneF4.wav
+lokey=52 hikey=54
+pitch_keycenter=53
+tune=-5
+offset=0
+end=23563
+loop_start=23050
+loop_end=23553
+
+<region>
+sample=samples\tromboneBb4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+tune=-6
+offset=0
+end=20393
+loop_start=19822
+loop_end=20387
+
+<region>
+sample=samples\tromboneC5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+tune=-11
+offset=0
+end=16443
+loop_start=16107
+loop_end=16441
+
+<region>
+sample=samples\tromboneEb5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+tune=8
+offset=0
+end=22147
+loop_start=21423
+loop_end=22134
+
+<region>
+sample=samples\tromboneF5.wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=2
+offset=0
+end=12665
+loop_start=12406
+loop_end=12658
+
+<region>
+sample=samples\tromboneG5.wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=3
+offset=0
+end=18523
+loop_start=17950
+loop_end=18513
+
+<region>
+sample=samples\tromboneBb5.wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-6
+offset=0
+end=9228
+loop_start=8944
+loop_end=9226
+
+<region>
+sample=samples\tromboneC6.wav
+lokey=71 hikey=72
+pitch_keycenter=72
+tune=8
+offset=0
+end=9257
+loop_start=8911
+loop_end=9249
+
+<region>
+sample=samples\tromboneEb6.wav
+lokey=73 hikey=96
+pitch_keycenter=75
+tune=-23
+offset=0
+end=9774
+loop_start=9562
+loop_end=9771
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=6003
+ampeg_release=0.420206
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\tromboneG3.wav
+lokey=0 hikey=43
+pitch_keycenter=43
+tune=10
+offset=0
+end=28597
+loop_start=28139
+loop_end=28591
+
+<region>
+sample=samples\tromboneBb3.wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-4
+offset=0
+end=20425
+loop_start=19284
+loop_end=20416
+
+<region>
+sample=samples\tromboneC4.wav
+lokey=47 hikey=48
+pitch_keycenter=48
+tune=16
+offset=0
+end=21341
+loop_start=20650
+loop_end=21330
+
+<region>
+sample=samples\tromboneEb4.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+tune=8
+offset=0
+end=11661
+loop_start=11373
+loop_end=11657
+
+<region>
+sample=samples\tromboneF4.wav
+lokey=52 hikey=54
+pitch_keycenter=53
+tune=-5
+offset=0
+end=23563
+loop_start=23050
+loop_end=23553
+
+<region>
+sample=samples\tromboneBb4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+tune=-6
+offset=0
+end=20393
+loop_start=19822
+loop_end=20387
+
+<region>
+sample=samples\tromboneC5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+tune=-11
+offset=0
+end=16443
+loop_start=16107
+loop_end=16441
+
+<region>
+sample=samples\tromboneEb5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+tune=8
+offset=0
+end=22147
+loop_start=21423
+loop_end=22134
+
+<region>
+sample=samples\tromboneF5.wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=2
+offset=0
+end=12665
+loop_start=12406
+loop_end=12658
+
+<region>
+sample=samples\tromboneG5.wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=3
+offset=0
+end=18523
+loop_start=17950
+loop_end=18513
+
+<region>
+sample=samples\tromboneBb5.wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-6
+offset=0
+end=9228
+loop_start=8944
+loop_end=9226
+
+<region>
+sample=samples\tromboneC6.wav
+lokey=71 hikey=72
+pitch_keycenter=72
+tune=8
+offset=0
+end=9257
+loop_start=8911
+loop_end=9249
+
+<region>
+sample=samples\tromboneEb6.wav
+lokey=73 hikey=96
+pitch_keycenter=75
+tune=-23
+offset=0
+end=9774
+loop_start=9562
+loop_end=9771
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=5001
+ampeg_release=0.420206
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\tromboneG3.wav
+lokey=0 hikey=43
+pitch_keycenter=43
+tune=10
+offset=0
+end=28597
+loop_start=28139
+loop_end=28591
+
+<region>
+sample=samples\tromboneBb3.wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-4
+offset=0
+end=20425
+loop_start=19284
+loop_end=20416
+
+<region>
+sample=samples\tromboneC4.wav
+lokey=47 hikey=48
+pitch_keycenter=48
+tune=16
+offset=0
+end=21341
+loop_start=20650
+loop_end=21330
+
+<region>
+sample=samples\tromboneEb4.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+tune=8
+offset=0
+end=11661
+loop_start=11373
+loop_end=11657
+
+<region>
+sample=samples\tromboneF4.wav
+lokey=52 hikey=54
+pitch_keycenter=53
+tune=-5
+offset=0
+end=23563
+loop_start=23050
+loop_end=23553
+
+<region>
+sample=samples\tromboneBb4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+tune=-6
+offset=0
+end=20393
+loop_start=19822
+loop_end=20387
+
+<region>
+sample=samples\tromboneC5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+tune=-11
+offset=0
+end=16443
+loop_start=16107
+loop_end=16441
+
+<region>
+sample=samples\tromboneEb5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+tune=8
+offset=0
+end=22147
+loop_start=21423
+loop_end=22134
+
+<region>
+sample=samples\tromboneF5.wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=2
+offset=0
+end=12665
+loop_start=12406
+loop_end=12658
+
+<region>
+sample=samples\tromboneG5.wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=3
+offset=0
+end=18523
+loop_start=17950
+loop_end=18513
+
+<region>
+sample=samples\tromboneBb5.wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-6
+offset=0
+end=9228
+loop_start=8944
+loop_end=9226
+
+<region>
+sample=samples\tromboneC6.wav
+lokey=71 hikey=72
+pitch_keycenter=72
+tune=8
+offset=0
+end=9257
+loop_start=8911
+loop_end=9249
+
+<region>
+sample=samples\tromboneEb6.wav
+lokey=73 hikey=96
+pitch_keycenter=75
+tune=-23
+offset=0
+end=9774
+loop_start=9562
+loop_end=9771
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=4002
+ampeg_release=0.420206
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\tromboneG3.wav
+lokey=0 hikey=43
+pitch_keycenter=43
+tune=10
+offset=0
+end=28597
+loop_start=28139
+loop_end=28591
+
+<region>
+sample=samples\tromboneBb3.wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-4
+offset=0
+end=20425
+loop_start=19284
+loop_end=20416
+
+<region>
+sample=samples\tromboneC4.wav
+lokey=47 hikey=48
+pitch_keycenter=48
+tune=16
+offset=0
+end=21341
+loop_start=20650
+loop_end=21330
+
+<region>
+sample=samples\tromboneEb4.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+tune=8
+offset=0
+end=11661
+loop_start=11373
+loop_end=11657
+
+<region>
+sample=samples\tromboneF4.wav
+lokey=52 hikey=54
+pitch_keycenter=53
+tune=-5
+offset=0
+end=23563
+loop_start=23050
+loop_end=23553
+
+<region>
+sample=samples\tromboneBb4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+tune=-6
+offset=0
+end=20393
+loop_start=19822
+loop_end=20387
+
+<region>
+sample=samples\tromboneC5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+tune=-11
+offset=0
+end=16443
+loop_start=16107
+loop_end=16441
+
+<region>
+sample=samples\tromboneEb5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+tune=8
+offset=0
+end=22147
+loop_start=21423
+loop_end=22134
+
+<region>
+sample=samples\tromboneF5.wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=2
+offset=0
+end=12665
+loop_start=12406
+loop_end=12658
+
+<region>
+sample=samples\tromboneG5.wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=3
+offset=0
+end=18523
+loop_start=17950
+loop_end=18513
+
+<region>
+sample=samples\tromboneBb5.wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-6
+offset=0
+end=9228
+loop_start=8944
+loop_end=9226
+
+<region>
+sample=samples\tromboneC6.wav
+lokey=71 hikey=72
+pitch_keycenter=72
+tune=8
+offset=0
+end=9257
+loop_start=8911
+loop_end=9249
+
+<region>
+sample=samples\tromboneEb6.wav
+lokey=73 hikey=96
+pitch_keycenter=75
+tune=-23
+offset=0
+end=9774
+loop_start=9562
+loop_end=9771
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=3001
+ampeg_release=0.420206
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\tromboneG3.wav
+lokey=0 hikey=43
+pitch_keycenter=43
+tune=10
+offset=0
+end=28597
+loop_start=28139
+loop_end=28591
+
+<region>
+sample=samples\tromboneBb3.wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-4
+offset=0
+end=20425
+loop_start=19284
+loop_end=20416
+
+<region>
+sample=samples\tromboneC4.wav
+lokey=47 hikey=48
+pitch_keycenter=48
+tune=16
+offset=0
+end=21341
+loop_start=20650
+loop_end=21330
+
+<region>
+sample=samples\tromboneEb4.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+tune=8
+offset=0
+end=11661
+loop_start=11373
+loop_end=11657
+
+<region>
+sample=samples\tromboneF4.wav
+lokey=52 hikey=54
+pitch_keycenter=53
+tune=-5
+offset=0
+end=23563
+loop_start=23050
+loop_end=23553
+
+<region>
+sample=samples\tromboneBb4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+tune=-6
+offset=0
+end=20393
+loop_start=19822
+loop_end=20387
+
+<region>
+sample=samples\tromboneC5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+tune=-11
+offset=0
+end=16443
+loop_start=16107
+loop_end=16441
+
+<region>
+sample=samples\tromboneEb5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+tune=8
+offset=0
+end=22147
+loop_start=21423
+loop_end=22134
+
+<region>
+sample=samples\tromboneF5.wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=2
+offset=0
+end=12665
+loop_start=12406
+loop_end=12658
+
+<region>
+sample=samples\tromboneG5.wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=3
+offset=0
+end=18523
+loop_start=17950
+loop_end=18513
+
+<region>
+sample=samples\tromboneBb5.wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-6
+offset=0
+end=9228
+loop_start=8944
+loop_end=9226
+
+<region>
+sample=samples\tromboneC6.wav
+lokey=71 hikey=72
+pitch_keycenter=72
+tune=8
+offset=0
+end=9257
+loop_start=8911
+loop_end=9249
+
+<region>
+sample=samples\tromboneEb6.wav
+lokey=73 hikey=96
+pitch_keycenter=75
+tune=-23
+offset=0
+end=9774
+loop_start=9562
+loop_end=9771
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=2001
+ampeg_release=0.420206
+loop_mode=loop_continuous
+amplfo_delay=0.00976387
+fillfo_delay=0.00976387
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\tromboneG3.wav
+lokey=0 hikey=43
+pitch_keycenter=43
+tune=10
+offset=0
+end=28597
+loop_start=28139
+loop_end=28591
+
+<region>
+sample=samples\tromboneBb3.wav
+lokey=44 hikey=46
+pitch_keycenter=46
+tune=-4
+offset=0
+end=20425
+loop_start=19284
+loop_end=20416
+
+<region>
+sample=samples\tromboneC4.wav
+lokey=47 hikey=48
+pitch_keycenter=48
+tune=16
+offset=0
+end=21341
+loop_start=20650
+loop_end=21330
+
+<region>
+sample=samples\tromboneEb4.wav
+lokey=49 hikey=51
+pitch_keycenter=51
+tune=8
+offset=0
+end=11661
+loop_start=11373
+loop_end=11657
+
+<region>
+sample=samples\tromboneF4.wav
+lokey=52 hikey=54
+pitch_keycenter=53
+tune=-5
+offset=0
+end=23563
+loop_start=23050
+loop_end=23553
+
+<region>
+sample=samples\tromboneBb4.wav
+lokey=55 hikey=58
+pitch_keycenter=58
+tune=-6
+offset=0
+end=20393
+loop_start=19822
+loop_end=20387
+
+<region>
+sample=samples\tromboneC5.wav
+lokey=59 hikey=60
+pitch_keycenter=60
+tune=-11
+offset=0
+end=16443
+loop_start=16107
+loop_end=16441
+
+<region>
+sample=samples\tromboneEb5.wav
+lokey=61 hikey=63
+pitch_keycenter=63
+tune=8
+offset=0
+end=22147
+loop_start=21423
+loop_end=22134
+
+<region>
+sample=samples\tromboneF5.wav
+lokey=64 hikey=65
+pitch_keycenter=65
+tune=2
+offset=0
+end=12665
+loop_start=12406
+loop_end=12658
+
+<region>
+sample=samples\tromboneG5.wav
+lokey=66 hikey=67
+pitch_keycenter=67
+tune=3
+offset=0
+end=18523
+loop_start=17950
+loop_end=18513
+
+<region>
+sample=samples\tromboneBb5.wav
+lokey=68 hikey=70
+pitch_keycenter=70
+tune=-6
+offset=0
+end=9228
+loop_start=8944
+loop_end=9226
+
+<region>
+sample=samples\tromboneC6.wav
+lokey=71 hikey=72
+pitch_keycenter=72
+tune=8
+offset=0
+end=9257
+loop_start=8911
+loop_end=9249
+
+<region>
+sample=samples\tromboneEb6.wav
+lokey=73 hikey=96
+pitch_keycenter=75
+tune=-23
+offset=0
+end=9774
+loop_start=9562
+loop_end=9771

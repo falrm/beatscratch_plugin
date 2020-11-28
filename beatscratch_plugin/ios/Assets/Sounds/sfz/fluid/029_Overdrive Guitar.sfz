@@ -1,0 +1,2292 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+effect2=2
+ampeg_hold=2.49955
+ampeg_sustain=15.3109
+ampeg_release=0.240093
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<group>
+lovel=113 hivel=120
+effect2=2
+ampeg_hold=2.49955
+ampeg_sustain=15.3109
+ampeg_release=0.220039
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<group>
+lovel=105 hivel=112
+effect2=2
+ampeg_hold=2.49955
+ampeg_sustain=15.3109
+ampeg_release=0.200036
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<group>
+lovel=97 hivel=104
+effect2=2
+ampeg_hold=2.49955
+ampeg_sustain=15.3109
+ampeg_release=0.180075
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<group>
+lovel=89 hivel=96
+effect2=2
+ampeg_hold=2.49955
+ampeg_sustain=15.3109
+ampeg_release=0.160058
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<group>
+lovel=81 hivel=88
+effect2=2
+ampeg_hold=2.49955
+ampeg_sustain=15.3109
+ampeg_release=0.140065
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<group>
+lovel=73 hivel=80
+effect2=2
+ampeg_hold=2.49955
+ampeg_sustain=15.3109
+ampeg_release=0.120047
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<group>
+lovel=65 hivel=72
+effect2=2
+ampeg_hold=2.49955
+ampeg_sustain=15.3109
+ampeg_release=0.100018
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<group>
+lovel=0 hivel=64
+effect2=2
+ampeg_hold=2.49955
+ampeg_sustain=15.3109
+ampeg_release=0.0800291
+loop_mode=loop_continuous
+effect1=10
+volume=-2.382
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_decay=53.0151
+tune=-5
+offset=0
+end=247059
+loop_start=245954
+loop_end=247022
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_decay=48.0012
+tune=-6
+offset=0
+end=286385
+loop_start=285092
+loop_end=286292
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_decay=50.0107
+offset=0
+end=239198
+loop_start=238520
+loop_end=239121
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion G4.wav
+lokey=54 hikey=57
+pitch_keycenter=55
+ampeg_decay=43.0119
+tune=6
+offset=0
+end=159774
+loop_start=159496
+loop_end=159721
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion B4.wav
+lokey=58 hikey=60
+pitch_keycenter=59
+ampeg_decay=29.9953
+tune=5
+offset=0
+end=147167
+loop_start=146707
+loop_end=147154
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion E5.wav
+lokey=61 hikey=65
+pitch_keycenter=64
+ampeg_decay=25.0053
+tune=10
+offset=0
+end=76312
+loop_start=75802
+loop_end=76272
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion A5.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+ampeg_decay=21.9959
+tune=13
+offset=0
+end=66812
+loop_start=66351
+loop_end=66805
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion B6.wav
+lokey=70 hikey=72
+pitch_keycenter=71
+ampeg_decay=19.9964
+tune=16
+offset=0
+end=67503
+loop_start=67263
+loop_end=67487
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion E6.wav
+lokey=73 hikey=76
+pitch_keycenter=76
+ampeg_decay=17.0004
+tune=18
+offset=0
+end=70565
+loop_start=70374
+loop_end=70542
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+fil_type=lpf_2p
+cutoff=1000
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078
+
+<region>
+sample=samples\Distortion G6.wav
+lokey=77 hikey=108
+pitch_keycenter=79
+ampeg_decay=14.7997
+tune=19
+offset=0
+end=56084
+loop_start=52211
+loop_end=56078

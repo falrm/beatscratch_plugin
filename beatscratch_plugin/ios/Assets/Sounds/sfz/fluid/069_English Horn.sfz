@@ -1,0 +1,960 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=3420
+effect2=7
+ampeg_decay=19.9964
+ampeg_sustain=56.2341
+ampeg_release=0.336031
+volume=-0.794
+loop_mode=loop_continuous
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\English Horn E4(L).wav
+lokey=0 hikey=52
+pitch_keycenter=52
+ampeg_sustain=56.2341
+volume=-2.0644
+tune=-15
+offset=0
+end=78495
+loop_start=69323
+loop_end=78358
+
+<region>
+sample=samples\English Horn G4(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+volume=-1.588
+tune=-16
+offset=0
+end=54703
+loop_start=45528
+loop_end=54678
+
+<region>
+sample=samples\English Horn B4(L).wav
+lokey=56 hikey=58
+pitch_keycenter=59
+volume=-1.588
+tune=-9
+offset=0
+end=106607
+loop_start=97277
+loop_end=106537
+
+<region>
+sample=samples\English Horn C5(L).wav
+lokey=59 hikey=61
+pitch_keycenter=60
+ampeg_decay=12.0003
+volume=-1.588
+tune=-24
+offset=0
+end=85671
+loop_start=77909
+loop_end=85561
+
+<region>
+sample=samples\English Horn F#5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=66
+volume=0
+tune=-22
+offset=0
+end=66685
+loop_start=55217
+loop_end=66654
+
+<region>
+sample=samples\English Horn G5(L).wav
+lokey=65 hikey=68
+pitch_keycenter=67
+tune=-25
+offset=0
+end=65643
+loop_start=48324
+loop_end=65626
+volume=-0.794
+
+<region>
+sample=samples\English Horn B5(L).wav
+lokey=69 hikey=72
+pitch_keycenter=71
+tune=-40
+offset=0
+end=67479
+loop_start=59340
+loop_end=67457
+volume=-0.794
+
+<region>
+sample=samples\English Horn D6(L).wav
+lokey=73 hikey=85
+pitch_keycenter=74
+tune=-35
+offset=0
+end=66167
+loop_start=57763
+loop_end=66146
+volume=-0.794
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=3420
+effect2=7
+ampeg_decay=19.9964
+ampeg_sustain=56.2341
+ampeg_release=0.307964
+volume=-0.794
+loop_mode=loop_continuous
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\English Horn E4(L).wav
+lokey=0 hikey=52
+pitch_keycenter=52
+ampeg_sustain=56.2341
+volume=-2.0644
+tune=-15
+offset=0
+end=78495
+loop_start=69323
+loop_end=78358
+
+<region>
+sample=samples\English Horn G4(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+volume=-1.588
+tune=-16
+offset=0
+end=54703
+loop_start=45528
+loop_end=54678
+
+<region>
+sample=samples\English Horn B4(L).wav
+lokey=56 hikey=58
+pitch_keycenter=59
+volume=-1.588
+tune=-9
+offset=0
+end=106607
+loop_start=97277
+loop_end=106537
+
+<region>
+sample=samples\English Horn C5(L).wav
+lokey=59 hikey=61
+pitch_keycenter=60
+ampeg_decay=12.0003
+volume=-1.588
+tune=-24
+offset=0
+end=85671
+loop_start=77909
+loop_end=85561
+
+<region>
+sample=samples\English Horn F#5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=66
+volume=0
+tune=-22
+offset=0
+end=66685
+loop_start=55217
+loop_end=66654
+
+<region>
+sample=samples\English Horn G5(L).wav
+lokey=65 hikey=68
+pitch_keycenter=67
+tune=-25
+offset=0
+end=65643
+loop_start=48324
+loop_end=65626
+volume=-0.794
+
+<region>
+sample=samples\English Horn B5(L).wav
+lokey=69 hikey=72
+pitch_keycenter=71
+tune=-40
+offset=0
+end=67479
+loop_start=59340
+loop_end=67457
+volume=-0.794
+
+<region>
+sample=samples\English Horn D6(L).wav
+lokey=73 hikey=85
+pitch_keycenter=74
+tune=-35
+offset=0
+end=66167
+loop_start=57763
+loop_end=66146
+volume=-0.794
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=3420
+effect2=7
+ampeg_decay=19.9964
+ampeg_sustain=56.2341
+ampeg_release=0.279968
+volume=-0.794
+loop_mode=loop_continuous
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\English Horn E4(L).wav
+lokey=0 hikey=52
+pitch_keycenter=52
+ampeg_sustain=56.2341
+volume=-2.0644
+tune=-15
+offset=0
+end=78495
+loop_start=69323
+loop_end=78358
+
+<region>
+sample=samples\English Horn G4(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+volume=-1.588
+tune=-16
+offset=0
+end=54703
+loop_start=45528
+loop_end=54678
+
+<region>
+sample=samples\English Horn B4(L).wav
+lokey=56 hikey=58
+pitch_keycenter=59
+volume=-1.588
+tune=-9
+offset=0
+end=106607
+loop_start=97277
+loop_end=106537
+
+<region>
+sample=samples\English Horn C5(L).wav
+lokey=59 hikey=61
+pitch_keycenter=60
+ampeg_decay=12.0003
+volume=-1.588
+tune=-24
+offset=0
+end=85671
+loop_start=77909
+loop_end=85561
+
+<region>
+sample=samples\English Horn F#5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=66
+volume=0
+tune=-22
+offset=0
+end=66685
+loop_start=55217
+loop_end=66654
+
+<region>
+sample=samples\English Horn G5(L).wav
+lokey=65 hikey=68
+pitch_keycenter=67
+tune=-25
+offset=0
+end=65643
+loop_start=48324
+loop_end=65626
+volume=-0.794
+
+<region>
+sample=samples\English Horn B5(L).wav
+lokey=69 hikey=72
+pitch_keycenter=71
+tune=-40
+offset=0
+end=67479
+loop_start=59340
+loop_end=67457
+volume=-0.794
+
+<region>
+sample=samples\English Horn D6(L).wav
+lokey=73 hikey=85
+pitch_keycenter=74
+tune=-35
+offset=0
+end=66167
+loop_start=57763
+loop_end=66146
+volume=-0.794
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=3420
+effect2=7
+ampeg_decay=19.9964
+ampeg_sustain=56.2341
+ampeg_release=0.25203
+volume=-0.794
+loop_mode=loop_continuous
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\English Horn E4(L).wav
+lokey=0 hikey=52
+pitch_keycenter=52
+ampeg_sustain=56.2341
+volume=-2.0644
+tune=-15
+offset=0
+end=78495
+loop_start=69323
+loop_end=78358
+
+<region>
+sample=samples\English Horn G4(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+volume=-1.588
+tune=-16
+offset=0
+end=54703
+loop_start=45528
+loop_end=54678
+
+<region>
+sample=samples\English Horn B4(L).wav
+lokey=56 hikey=58
+pitch_keycenter=59
+volume=-1.588
+tune=-9
+offset=0
+end=106607
+loop_start=97277
+loop_end=106537
+
+<region>
+sample=samples\English Horn C5(L).wav
+lokey=59 hikey=61
+pitch_keycenter=60
+ampeg_decay=12.0003
+volume=-1.588
+tune=-24
+offset=0
+end=85671
+loop_start=77909
+loop_end=85561
+
+<region>
+sample=samples\English Horn F#5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=66
+volume=0
+tune=-22
+offset=0
+end=66685
+loop_start=55217
+loop_end=66654
+
+<region>
+sample=samples\English Horn G5(L).wav
+lokey=65 hikey=68
+pitch_keycenter=67
+tune=-25
+offset=0
+end=65643
+loop_start=48324
+loop_end=65626
+volume=-0.794
+
+<region>
+sample=samples\English Horn B5(L).wav
+lokey=69 hikey=72
+pitch_keycenter=71
+tune=-40
+offset=0
+end=67479
+loop_start=59340
+loop_end=67457
+volume=-0.794
+
+<region>
+sample=samples\English Horn D6(L).wav
+lokey=73 hikey=85
+pitch_keycenter=74
+tune=-35
+offset=0
+end=66167
+loop_start=57763
+loop_end=66146
+volume=-0.794
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=3420
+effect2=7
+ampeg_decay=19.9964
+ampeg_sustain=56.2341
+ampeg_release=0.224015
+volume=-0.794
+loop_mode=loop_continuous
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\English Horn E4(L).wav
+lokey=0 hikey=52
+pitch_keycenter=52
+ampeg_sustain=56.2341
+volume=-2.0644
+tune=-15
+offset=0
+end=78495
+loop_start=69323
+loop_end=78358
+
+<region>
+sample=samples\English Horn G4(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+volume=-1.588
+tune=-16
+offset=0
+end=54703
+loop_start=45528
+loop_end=54678
+
+<region>
+sample=samples\English Horn B4(L).wav
+lokey=56 hikey=58
+pitch_keycenter=59
+volume=-1.588
+tune=-9
+offset=0
+end=106607
+loop_start=97277
+loop_end=106537
+
+<region>
+sample=samples\English Horn C5(L).wav
+lokey=59 hikey=61
+pitch_keycenter=60
+ampeg_decay=12.0003
+volume=-1.588
+tune=-24
+offset=0
+end=85671
+loop_start=77909
+loop_end=85561
+
+<region>
+sample=samples\English Horn F#5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=66
+volume=0
+tune=-22
+offset=0
+end=66685
+loop_start=55217
+loop_end=66654
+
+<region>
+sample=samples\English Horn G5(L).wav
+lokey=65 hikey=68
+pitch_keycenter=67
+tune=-25
+offset=0
+end=65643
+loop_start=48324
+loop_end=65626
+volume=-0.794
+
+<region>
+sample=samples\English Horn B5(L).wav
+lokey=69 hikey=72
+pitch_keycenter=71
+tune=-40
+offset=0
+end=67479
+loop_start=59340
+loop_end=67457
+volume=-0.794
+
+<region>
+sample=samples\English Horn D6(L).wav
+lokey=73 hikey=85
+pitch_keycenter=74
+tune=-35
+offset=0
+end=66167
+loop_start=57763
+loop_end=66146
+volume=-0.794
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=3420
+effect2=7
+ampeg_decay=19.9964
+ampeg_sustain=56.2341
+ampeg_release=0.196033
+volume=-0.794
+loop_mode=loop_continuous
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\English Horn E4(L).wav
+lokey=0 hikey=52
+pitch_keycenter=52
+ampeg_sustain=56.2341
+volume=-2.0644
+tune=-15
+offset=0
+end=78495
+loop_start=69323
+loop_end=78358
+
+<region>
+sample=samples\English Horn G4(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+volume=-1.588
+tune=-16
+offset=0
+end=54703
+loop_start=45528
+loop_end=54678
+
+<region>
+sample=samples\English Horn B4(L).wav
+lokey=56 hikey=58
+pitch_keycenter=59
+volume=-1.588
+tune=-9
+offset=0
+end=106607
+loop_start=97277
+loop_end=106537
+
+<region>
+sample=samples\English Horn C5(L).wav
+lokey=59 hikey=61
+pitch_keycenter=60
+ampeg_decay=12.0003
+volume=-1.588
+tune=-24
+offset=0
+end=85671
+loop_start=77909
+loop_end=85561
+
+<region>
+sample=samples\English Horn F#5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=66
+volume=0
+tune=-22
+offset=0
+end=66685
+loop_start=55217
+loop_end=66654
+
+<region>
+sample=samples\English Horn G5(L).wav
+lokey=65 hikey=68
+pitch_keycenter=67
+tune=-25
+offset=0
+end=65643
+loop_start=48324
+loop_end=65626
+volume=-0.794
+
+<region>
+sample=samples\English Horn B5(L).wav
+lokey=69 hikey=72
+pitch_keycenter=71
+tune=-40
+offset=0
+end=67479
+loop_start=59340
+loop_end=67457
+volume=-0.794
+
+<region>
+sample=samples\English Horn D6(L).wav
+lokey=73 hikey=85
+pitch_keycenter=74
+tune=-35
+offset=0
+end=66167
+loop_start=57763
+loop_end=66146
+volume=-0.794
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=3420
+effect2=7
+ampeg_decay=19.9964
+ampeg_sustain=56.2341
+ampeg_release=0.168016
+volume=-0.794
+loop_mode=loop_continuous
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\English Horn E4(L).wav
+lokey=0 hikey=52
+pitch_keycenter=52
+ampeg_sustain=56.2341
+volume=-2.0644
+tune=-15
+offset=0
+end=78495
+loop_start=69323
+loop_end=78358
+
+<region>
+sample=samples\English Horn G4(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+volume=-1.588
+tune=-16
+offset=0
+end=54703
+loop_start=45528
+loop_end=54678
+
+<region>
+sample=samples\English Horn B4(L).wav
+lokey=56 hikey=58
+pitch_keycenter=59
+volume=-1.588
+tune=-9
+offset=0
+end=106607
+loop_start=97277
+loop_end=106537
+
+<region>
+sample=samples\English Horn C5(L).wav
+lokey=59 hikey=61
+pitch_keycenter=60
+ampeg_decay=12.0003
+volume=-1.588
+tune=-24
+offset=0
+end=85671
+loop_start=77909
+loop_end=85561
+
+<region>
+sample=samples\English Horn F#5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=66
+volume=0
+tune=-22
+offset=0
+end=66685
+loop_start=55217
+loop_end=66654
+
+<region>
+sample=samples\English Horn G5(L).wav
+lokey=65 hikey=68
+pitch_keycenter=67
+tune=-25
+offset=0
+end=65643
+loop_start=48324
+loop_end=65626
+volume=-0.794
+
+<region>
+sample=samples\English Horn B5(L).wav
+lokey=69 hikey=72
+pitch_keycenter=71
+tune=-40
+offset=0
+end=67479
+loop_start=59340
+loop_end=67457
+volume=-0.794
+
+<region>
+sample=samples\English Horn D6(L).wav
+lokey=73 hikey=85
+pitch_keycenter=74
+tune=-35
+offset=0
+end=66167
+loop_start=57763
+loop_end=66146
+volume=-0.794
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=3420
+effect2=7
+ampeg_decay=19.9964
+ampeg_sustain=56.2341
+ampeg_release=0.139984
+volume=-0.794
+loop_mode=loop_continuous
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\English Horn E4(L).wav
+lokey=0 hikey=52
+pitch_keycenter=52
+ampeg_sustain=56.2341
+volume=-2.0644
+tune=-15
+offset=0
+end=78495
+loop_start=69323
+loop_end=78358
+
+<region>
+sample=samples\English Horn G4(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+volume=-1.588
+tune=-16
+offset=0
+end=54703
+loop_start=45528
+loop_end=54678
+
+<region>
+sample=samples\English Horn B4(L).wav
+lokey=56 hikey=58
+pitch_keycenter=59
+volume=-1.588
+tune=-9
+offset=0
+end=106607
+loop_start=97277
+loop_end=106537
+
+<region>
+sample=samples\English Horn C5(L).wav
+lokey=59 hikey=61
+pitch_keycenter=60
+ampeg_decay=12.0003
+volume=-1.588
+tune=-24
+offset=0
+end=85671
+loop_start=77909
+loop_end=85561
+
+<region>
+sample=samples\English Horn F#5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=66
+volume=0
+tune=-22
+offset=0
+end=66685
+loop_start=55217
+loop_end=66654
+
+<region>
+sample=samples\English Horn G5(L).wav
+lokey=65 hikey=68
+pitch_keycenter=67
+tune=-25
+offset=0
+end=65643
+loop_start=48324
+loop_end=65626
+volume=-0.794
+
+<region>
+sample=samples\English Horn B5(L).wav
+lokey=69 hikey=72
+pitch_keycenter=71
+tune=-40
+offset=0
+end=67479
+loop_start=59340
+loop_end=67457
+volume=-0.794
+
+<region>
+sample=samples\English Horn D6(L).wav
+lokey=73 hikey=85
+pitch_keycenter=74
+tune=-35
+offset=0
+end=66167
+loop_start=57763
+loop_end=66146
+volume=-0.794
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=3420
+effect2=7
+ampeg_decay=19.9964
+ampeg_sustain=56.2341
+ampeg_release=0.112008
+volume=-0.794
+loop_mode=loop_continuous
+effect1=15
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\English Horn E4(L).wav
+lokey=0 hikey=52
+pitch_keycenter=52
+ampeg_sustain=56.2341
+volume=-2.0644
+tune=-15
+offset=0
+end=78495
+loop_start=69323
+loop_end=78358
+
+<region>
+sample=samples\English Horn G4(L).wav
+lokey=53 hikey=55
+pitch_keycenter=55
+volume=-1.588
+tune=-16
+offset=0
+end=54703
+loop_start=45528
+loop_end=54678
+
+<region>
+sample=samples\English Horn B4(L).wav
+lokey=56 hikey=58
+pitch_keycenter=59
+volume=-1.588
+tune=-9
+offset=0
+end=106607
+loop_start=97277
+loop_end=106537
+
+<region>
+sample=samples\English Horn C5(L).wav
+lokey=59 hikey=61
+pitch_keycenter=60
+ampeg_decay=12.0003
+volume=-1.588
+tune=-24
+offset=0
+end=85671
+loop_start=77909
+loop_end=85561
+
+<region>
+sample=samples\English Horn F#5(L).wav
+lokey=62 hikey=64
+pitch_keycenter=66
+volume=0
+tune=-22
+offset=0
+end=66685
+loop_start=55217
+loop_end=66654
+
+<region>
+sample=samples\English Horn G5(L).wav
+lokey=65 hikey=68
+pitch_keycenter=67
+tune=-25
+offset=0
+end=65643
+loop_start=48324
+loop_end=65626
+volume=-0.794
+
+<region>
+sample=samples\English Horn B5(L).wav
+lokey=69 hikey=72
+pitch_keycenter=71
+tune=-40
+offset=0
+end=67479
+loop_start=59340
+loop_end=67457
+volume=-0.794
+
+<region>
+sample=samples\English Horn D6(L).wav
+lokey=73 hikey=85
+pitch_keycenter=74
+tune=-35
+offset=0
+end=66167
+loop_start=57763
+loop_end=66146
+volume=-0.794

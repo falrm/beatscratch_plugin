@@ -1,0 +1,37 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=7511
+resonance=4.5
+ampeg_attack=0.30566
+ampeg_decay=0.00164238
+ampeg_release=0.001
+volume=-0.57168
+tune=2
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Sine Wave high.wav
+lokey=0 hikey=97
+pitch_keycenter=87
+pitcheg_depth=-600
+effect1=7
+amplfo_freq=4.96076
+fillfo_freq=4.96076
+pitchlfo_freq=4.96076
+ampeg_attack=2.50388
+ampeg_decay=9.51915
+ampeg_release=0.001
+offset=0
+end=215
+loop_start=188
+loop_end=212

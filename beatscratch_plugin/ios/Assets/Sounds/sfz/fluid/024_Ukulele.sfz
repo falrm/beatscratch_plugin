@@ -1,0 +1,144 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=3015
+ampeg_sustain=0.001
+ampeg_release=0.840896
+loop_mode=loop_continuous
+fileg_depth=-350
+pitcheg_decay=0.001
+fileg_decay=0.001
+fileg_sustain=81.2
+pitcheg_sustain=81.2
+ampeg_hold=0.00179103
+ampeg_decay=0.001
+volume=0
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Nylon E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_hold=1.83401
+ampeg_decay=15.015
+tune=-5
+offset=0
+end=193503
+loop_start=192810
+loop_end=193344
+
+<region>
+sample=samples\Nylon A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_hold=1.83401
+ampeg_decay=14.0176
+tune=6
+offset=0
+end=141735
+loop_start=141308
+loop_end=141710
+
+<region>
+sample=samples\Nylon D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_hold=1.83401
+ampeg_decay=13.011
+offset=0
+end=200095
+loop_start=198834
+loop_end=200035
+
+<region>
+sample=samples\Nylon G4.wav
+lokey=54 hikey=58
+pitch_keycenter=55
+ampeg_hold=1.83401
+ampeg_decay=12.3448
+tune=11
+offset=0
+end=88267
+loop_start=87577
+loop_end=88256
+
+<region>
+sample=samples\Nylon B4.wav
+lokey=59 hikey=62
+pitch_keycenter=59
+ampeg_hold=1.83401
+ampeg_decay=11.6789
+tune=-3
+offset=0
+end=62567
+loop_start=62185
+loop_end=62541
+
+<region>
+sample=samples\Nylon E5.wav
+lokey=63 hikey=67
+pitch_keycenter=64
+ampeg_hold=1.83401
+ampeg_decay=10.6787
+tune=2
+offset=0
+end=40063
+loop_start=39342
+loop_end=39878
+
+<region>
+sample=samples\Nylon A5.wav
+lokey=68 hikey=70
+pitch_keycenter=69
+ampeg_hold=1.28194
+ampeg_decay=7.67411
+tune=-8
+offset=0
+end=37031
+loop_start=36509
+loop_end=37007
+
+<region>
+sample=samples\Nylon B6.wav
+lokey=71 hikey=75
+pitch_keycenter=71
+ampeg_hold=1.28194
+ampeg_decay=6.00709
+tune=-10
+offset=0
+end=27069
+loop_start=26621
+loop_end=27064
+
+<region>
+sample=samples\Nylon E6.wav
+lokey=76 hikey=83
+pitch_keycenter=76
+ampeg_hold=0.917004
+ampeg_decay=2.66968
+tune=-13
+offset=0
+end=31471
+loop_start=30993
+loop_end=31457
+
+<region>
+sample=samples\Extension.wav
+lokey=84 hikey=127
+pitch_keycenter=84
+ampeg_hold=0.366868
+ampeg_decay=2.00231
+tune=-13
+offset=0
+end=19825
+loop_start=19524
+loop_end=19816

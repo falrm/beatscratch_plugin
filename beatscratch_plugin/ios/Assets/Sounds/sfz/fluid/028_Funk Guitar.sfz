@@ -1,0 +1,422 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+resonance=6.4
+effect2=0
+pitcheg_attack=0.100018
+fileg_attack=0.100018
+pitcheg_decay=0.0890032
+fileg_decay=0.0890032
+pitcheg_release=0.800145
+fileg_release=0.800145
+ampeg_attack=0.00799974
+ampeg_sustain=0.001
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=16211
+fileg_sustain=93.7
+pitcheg_sustain=93.7
+ampeg_release=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Clean F10.wav
+lokey=0 hikey=44
+pitch_keycenter=40
+fil_type=lpf_2p
+cutoff=651
+ampeg_hold=4.50023
+ampeg_decay=25.0053
+ampeg_release=0.400073
+tune=-24
+offset=0
+end=35894
+loop_start=35331
+loop_end=35858
+
+<region>
+sample=samples\Clean F10.wav
+lokey=0 hikey=44
+pitch_keycenter=40
+ampeg_hold=4.50023
+ampeg_decay=25.0053
+ampeg_release=0.400073
+tune=-24
+offset=0
+end=35894
+loop_start=35331
+loop_end=35858
+
+<region>
+sample=samples\Clean F20.wav
+lokey=45 hikey=49
+pitch_keycenter=45
+fil_type=lpf_2p
+cutoff=651
+ampeg_hold=4
+ampeg_decay=22.9963
+ampeg_release=0.400073
+tune=-13
+offset=0
+end=41423
+loop_start=41018
+loop_end=41415
+
+<region>
+sample=samples\Clean F20.wav
+lokey=45 hikey=49
+pitch_keycenter=45
+ampeg_hold=4
+ampeg_decay=22.9963
+ampeg_release=0.400073
+tune=-13
+offset=0
+end=41423
+loop_start=41018
+loop_end=41415
+
+<region>
+sample=samples\Clean F30.wav
+lokey=50 hikey=54
+pitch_keycenter=50
+fil_type=lpf_2p
+cutoff=651
+ampeg_hold=4
+ampeg_decay=22.9963
+ampeg_release=0.400073
+tune=-10
+offset=0
+end=39311
+loop_start=38255
+loop_end=39299
+
+<region>
+sample=samples\Clean F30.wav
+lokey=50 hikey=54
+pitch_keycenter=50
+ampeg_hold=4
+ampeg_decay=22.9963
+ampeg_release=0.400073
+tune=-10
+offset=0
+end=39311
+loop_start=38255
+loop_end=39299
+
+<region>
+sample=samples\Clean F40.wav
+lokey=55 hikey=58
+pitch_keycenter=55
+fil_type=lpf_2p
+cutoff=651
+ampeg_hold=4
+ampeg_decay=21.9959
+ampeg_release=0.400073
+tune=-6
+offset=0
+end=87311
+loop_start=86039
+loop_end=87273
+
+<region>
+sample=samples\Clean F40.wav
+lokey=55 hikey=58
+pitch_keycenter=55
+ampeg_hold=4
+ampeg_decay=21.9959
+ampeg_release=0.400073
+tune=-6
+offset=0
+end=87311
+loop_start=86039
+loop_end=87273
+
+<region>
+sample=samples\Clean F50.wav
+lokey=59 hikey=63
+pitch_keycenter=59
+fil_type=lpf_2p
+cutoff=651
+ampeg_hold=2
+ampeg_decay=19.0053
+ampeg_release=0.400073
+tune=-15
+offset=0
+end=36399
+loop_start=35590
+loop_end=36386
+
+<region>
+sample=samples\Clean F50.wav
+lokey=59 hikey=63
+pitch_keycenter=59
+ampeg_hold=2
+ampeg_decay=19.0053
+ampeg_release=0.400073
+tune=-15
+offset=0
+end=36399
+loop_start=35590
+loop_end=36386
+
+<region>
+sample=samples\Clean F60.wav
+lokey=64 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=651
+ampeg_hold=1.29984
+ampeg_decay=16
+ampeg_release=0.400073
+tune=-14
+offset=0
+end=21719
+loop_start=21373
+loop_end=21704
+
+<region>
+sample=samples\Clean F60.wav
+lokey=64 hikey=65
+pitch_keycenter=64
+ampeg_hold=1.29984
+ampeg_decay=16
+ampeg_release=0.400073
+tune=-14
+offset=0
+end=21719
+loop_start=21373
+loop_end=21704
+
+<region>
+sample=samples\Clean F65.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+fil_type=lpf_2p
+cutoff=651
+ampeg_hold=1
+ampeg_decay=14.9977
+ampeg_release=0.400073
+tune=-14
+offset=0
+end=21743
+loop_start=21185
+loop_end=21731
+
+<region>
+sample=samples\Clean F65.wav
+lokey=66 hikey=69
+pitch_keycenter=69
+ampeg_hold=1
+ampeg_decay=14.9977
+ampeg_release=0.400073
+tune=-14
+offset=0
+end=21743
+loop_start=21185
+loop_end=21731
+
+<region>
+sample=samples\Clean F67.wav
+lokey=70 hikey=71
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=651
+ampeg_hold=0.800145
+ampeg_decay=12.0003
+ampeg_release=0.400073
+tune=-12
+offset=0
+end=23230
+loop_start=22964
+loop_end=23229
+
+<region>
+sample=samples\Clean F67.wav
+lokey=70 hikey=71
+pitch_keycenter=71
+ampeg_hold=0.800145
+ampeg_decay=12.0003
+ampeg_release=0.400073
+tune=-12
+offset=0
+end=23230
+loop_start=22964
+loop_end=23229
+
+<region>
+sample=samples\Clean F612.wav
+lokey=72 hikey=76
+pitch_keycenter=76
+fil_type=lpf_2p
+cutoff=651
+ampeg_hold=0.599085
+ampeg_decay=9.99818
+ampeg_release=0.400073
+tune=-9
+offset=0
+end=28479
+loop_start=27892
+loop_end=28457
+
+<region>
+sample=samples\Clean F612.wav
+lokey=72 hikey=76
+pitch_keycenter=76
+ampeg_hold=0.599085
+ampeg_decay=9.99818
+ampeg_release=0.400073
+tune=-9
+offset=0
+end=28479
+loop_start=27892
+loop_end=28457
+
+<region>
+sample=samples\Clean F615.wav
+lokey=77 hikey=127
+pitch_keycenter=79
+fil_type=lpf_2p
+cutoff=651
+ampeg_hold=0.5
+ampeg_decay=9.00046
+ampeg_release=0.300062
+tune=-8
+offset=0
+end=28755
+loop_start=28487
+loop_end=28738
+
+<region>
+sample=samples\Clean F615.wav
+lokey=77 hikey=127
+pitch_keycenter=79
+ampeg_hold=0.5
+ampeg_decay=9.00046
+ampeg_release=0.300062
+tune=-8
+offset=0
+end=28755
+loop_start=28487
+loop_end=28738
+
+<group>
+fil_type=lpf_2p
+cutoff=600
+pitcheg_release=0.400073
+fileg_release=0.400073
+ampeg_hold=3.00008
+ampeg_sustain=0.001
+ampeg_release=0.200036
+loop_mode=loop_continuous
+resonance=7.5
+fileg_depth=-25
+ampeg_decay=0.00103463
+volume=-0.5558
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Slap Bass E0.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+ampeg_decay=42.3708
+tune=2
+offset=0
+end=113040
+loop_start=111363
+loop_end=112972
+
+<region>
+sample=samples\Slap Bass E2.wav
+lokey=29 hikey=30
+pitch_keycenter=30
+ampeg_decay=40.2709
+tune=-4
+offset=0
+end=101877
+loop_start=100452
+loop_end=101877
+
+<region>
+sample=samples\Slap Bass E4.wav
+lokey=31 hikey=32
+pitch_keycenter=32
+ampeg_decay=38.1426
+tune=-4
+offset=0
+end=131055
+loop_start=129113
+loop_end=130811
+
+<region>
+sample=samples\Slap Bass A1.wav
+lokey=33 hikey=35
+pitch_keycenter=35
+ampeg_decay=36.0226
+offset=0
+end=119504
+loop_start=117978
+loop_end=119049
+
+<region>
+sample=samples\Slap Bass A3.wav
+lokey=36 hikey=37
+pitch_keycenter=36
+ampeg_decay=33.9028
+offset=0
+end=131018
+loop_start=129650
+loop_end=130998
+
+<region>
+sample=samples\Slap Bass D1.wav
+lokey=38 hikey=39
+pitch_keycenter=39
+ampeg_decay=31.7789
+tune=2
+offset=0
+end=116134
+loop_start=115216
+loop_end=116068
+
+<region>
+sample=samples\Slap Bass D3.wav
+lokey=40 hikey=42
+pitch_keycenter=41
+ampeg_decay=29.6679
+tune=4
+offset=0
+end=123639
+loop_start=123053
+loop_end=123559
+
+<region>
+sample=samples\Slap Bass G0.wav
+lokey=43 hikey=45
+pitch_keycenter=43
+ampeg_decay=27.5535
+tune=1
+offset=0
+end=111999
+loop_start=111174
+loop_end=111849
+
+<region>
+sample=samples\Slap Bass G5.wav
+lokey=46 hikey=84
+pitch_keycenter=48
+ampeg_decay=25.4277
+tune=-2
+offset=0
+end=107249
+loop_start=106070
+loop_end=106912

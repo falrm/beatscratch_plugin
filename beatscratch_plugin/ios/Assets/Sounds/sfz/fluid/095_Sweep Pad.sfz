@@ -1,0 +1,197 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lokey=0 hikey=108
+fil_type=lpf_2p
+cutoff=130
+amplfo_delay=0.340132
+fillfo_delay=0.340132
+amplfo_freq=0.0999995
+fillfo_freq=0.0999995
+pitchlfo_delay=0.100018
+pitchlfo_freq=3.00125
+pitcheg_delay=0.0950064
+fileg_delay=0.0950064
+pitcheg_attack=1.50004
+fileg_attack=1.50004
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=0.00999787
+fileg_decay=0.00999787
+pitcheg_release=5.03096
+fileg_release=5.03096
+ampeg_delay=0.001
+ampeg_attack=0.100018
+ampeg_hold=0.001
+ampeg_decay=0.00999787
+ampeg_release=6.94833
+loop_mode=loop_continuous
+fillfo_depth=-1000
+fileg_depth=7000
+pan=60
+effect2=7
+effect1=7
+volume=-2.8584
+
+<region>
+sample=samples\sawstack2.wav
+lokey=0 hikey=43
+pitch_keycenter=42
+offset=0
+end=208207
+loop_start=68429
+loop_end=208169
+
+<region>
+sample=samples\sawstack3.wav
+lokey=44 hikey=55
+pitch_keycenter=54
+offset=0
+end=172795
+loop_start=33973
+loop_end=172755
+
+<region>
+sample=samples\sawstack4.wav
+lokey=56 hikey=67
+pitch_keycenter=66
+offset=0
+end=154134
+loop_start=50364
+loop_end=154092
+
+<region>
+sample=samples\sawstack5.wav
+lokey=68 hikey=79
+pitch_keycenter=78
+offset=0
+end=164545
+loop_start=44440
+loop_end=164503
+
+<region>
+sample=samples\sawstack6.wav
+lokey=80 hikey=91
+pitch_keycenter=90
+offset=0
+end=189223
+loop_start=30358
+loop_end=189174
+
+<region>
+sample=samples\sawstack7.wav
+lokey=92 hikey=103
+pitch_keycenter=102
+offset=0
+end=140590
+loop_start=26549
+loop_end=140551
+
+<region>
+sample=samples\sawstack8.wav
+lokey=104 hikey=108
+pitch_keycenter=102
+offset=0
+end=70295
+loop_start=13277
+loop_end=70270
+
+<group>
+lokey=0 hikey=108
+fil_type=lpf_2p
+cutoff=200
+amplfo_delay=0.100018
+fillfo_delay=0.100018
+amplfo_freq=3.00125
+fillfo_freq=3.00125
+pitchlfo_delay=0.100018
+pitchlfo_freq=3.00125
+pitcheg_delay=0.001
+fileg_delay=0.001
+pitcheg_attack=2
+fileg_attack=2
+pitcheg_hold=0.001
+fileg_hold=0.001
+pitcheg_decay=0.00999787
+fileg_decay=0.00999787
+pitcheg_release=4.75133
+fileg_release=4.75133
+ampeg_delay=0.001
+ampeg_attack=1
+ampeg_hold=0.001
+ampeg_decay=0.00999787
+ampeg_release=7.29799
+loop_mode=loop_continuous
+fileg_depth=5250
+pan=-60
+effect2=7
+effect1=7
+volume=-2.8584
+
+<region>
+sample=samples\sawstack2.wav
+lokey=0 hikey=43
+pitch_keycenter=42
+offset=12000
+loop_start=68429
+loop_end=208169
+end=208207
+
+<region>
+sample=samples\sawstack3.wav
+lokey=44 hikey=55
+pitch_keycenter=54
+offset=12000
+loop_start=33973
+loop_end=172755
+end=172795
+
+<region>
+sample=samples\sawstack4.wav
+lokey=56 hikey=67
+pitch_keycenter=66
+offset=12000
+loop_start=50364
+loop_end=154092
+end=154134
+
+<region>
+sample=samples\sawstack5.wav
+lokey=68 hikey=79
+pitch_keycenter=78
+offset=12000
+loop_start=44440
+loop_end=164503
+end=164545
+
+<region>
+sample=samples\sawstack6.wav
+lokey=80 hikey=91
+pitch_keycenter=90
+offset=12000
+loop_start=30358
+loop_end=189174
+end=189223
+
+<region>
+sample=samples\sawstack7.wav
+lokey=92 hikey=103
+pitch_keycenter=102
+offset=12000
+loop_start=26549
+loop_end=140551
+end=140590
+
+<region>
+sample=samples\sawstack8.wav
+lokey=104 hikey=108
+pitch_keycenter=102
+offset=6000
+loop_start=13277
+loop_end=70270
+end=70295

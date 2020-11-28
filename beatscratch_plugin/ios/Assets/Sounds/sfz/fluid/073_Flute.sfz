@@ -1,0 +1,1725 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+loop_mode=loop_continuous
+ampeg_release=0.00107422
+effect1=15
+volume=-1.7468
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Flute C#4(L).wav
+lokey=0 hikey=62
+pitch_keycenter=61
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.549999
+offset=0
+end=40223
+loop_start=29084
+loop_end=40191
+volume=-0.8
+
+<region>
+sample=samples\Flute E4(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.549999
+tune=11
+offset=0
+end=43031
+loop_start=31993
+loop_end=43008
+volume=-0.8
+
+<region>
+sample=samples\Flute G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.549999
+offset=0
+end=38447
+loop_start=28411
+loop_end=38400
+volume=-0.8
+
+<region>
+sample=samples\Flute B4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.549999
+tune=2
+offset=0
+end=27147
+loop_start=16790
+loop_end=27136
+volume=-0.8
+
+<region>
+sample=samples\Flute D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.549999
+tune=-10
+offset=0
+end=55359
+loop_start=44803
+loop_end=55296
+volume=-0.8
+
+<region>
+sample=samples\Flute F#5(L).wav
+lokey=76 hikey=78
+pitch_keycenter=78
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.549999
+tune=-11
+offset=0
+end=29954
+loop_start=19435
+loop_end=29951
+volume=-0.8
+
+<region>
+sample=samples\Flute G#5(L).wav
+lokey=79 hikey=81
+pitch_keycenter=80
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.549999
+tune=-11
+offset=0
+end=22023
+loop_start=11271
+loop_end=22015
+volume=-0.8
+
+<region>
+sample=samples\Flute C6(L).wav
+lokey=82 hikey=84
+pitch_keycenter=84
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.549999
+tune=-21
+offset=0
+end=32543
+loop_start=22529
+loop_end=32512
+volume=-0.8
+
+<region>
+sample=samples\Flute F#6(L).wav
+lokey=85 hikey=127
+pitch_keycenter=90
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.549999
+tune=-32
+offset=0
+end=29955
+loop_start=18767
+loop_end=29951
+volume=-0.8
+
+<group>
+lovel=113 hivel=120
+loop_mode=loop_continuous
+ampeg_release=0.00102512
+effect1=15
+volume=-1.7468
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Flute C#4(L).wav
+lokey=0 hikey=62
+pitch_keycenter=61
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.524858
+offset=0
+end=40223
+loop_start=29084
+loop_end=40191
+volume=-0.8
+
+<region>
+sample=samples\Flute E4(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.524858
+tune=11
+offset=0
+end=43031
+loop_start=31993
+loop_end=43008
+volume=-0.8
+
+<region>
+sample=samples\Flute G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.524858
+offset=0
+end=38447
+loop_start=28411
+loop_end=38400
+volume=-0.8
+
+<region>
+sample=samples\Flute B4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.524858
+tune=2
+offset=0
+end=27147
+loop_start=16790
+loop_end=27136
+volume=-0.8
+
+<region>
+sample=samples\Flute D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.524858
+tune=-10
+offset=0
+end=55359
+loop_start=44803
+loop_end=55296
+volume=-0.8
+
+<region>
+sample=samples\Flute F#5(L).wav
+lokey=76 hikey=78
+pitch_keycenter=78
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.524858
+tune=-11
+offset=0
+end=29954
+loop_start=19435
+loop_end=29951
+volume=-0.8
+
+<region>
+sample=samples\Flute G#5(L).wav
+lokey=79 hikey=81
+pitch_keycenter=80
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.524858
+tune=-11
+offset=0
+end=22023
+loop_start=11271
+loop_end=22015
+volume=-0.8
+
+<region>
+sample=samples\Flute C6(L).wav
+lokey=82 hikey=84
+pitch_keycenter=84
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.524858
+tune=-21
+offset=0
+end=32543
+loop_start=22529
+loop_end=32512
+volume=-0.8
+
+<region>
+sample=samples\Flute F#6(L).wav
+lokey=85 hikey=127
+pitch_keycenter=90
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.524858
+tune=-32
+offset=0
+end=29955
+loop_start=18767
+loop_end=29951
+volume=-0.8
+
+<group>
+lovel=105 hivel=112
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=15
+volume=-1.7468
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Flute C#4(L).wav
+lokey=0 hikey=62
+pitch_keycenter=61
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.5
+offset=0
+end=40223
+loop_start=29084
+loop_end=40191
+volume=-0.8
+
+<region>
+sample=samples\Flute E4(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.5
+tune=11
+offset=0
+end=43031
+loop_start=31993
+loop_end=43008
+volume=-0.8
+
+<region>
+sample=samples\Flute G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.5
+offset=0
+end=38447
+loop_start=28411
+loop_end=38400
+volume=-0.8
+
+<region>
+sample=samples\Flute B4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.5
+tune=2
+offset=0
+end=27147
+loop_start=16790
+loop_end=27136
+volume=-0.8
+
+<region>
+sample=samples\Flute D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.5
+tune=-10
+offset=0
+end=55359
+loop_start=44803
+loop_end=55296
+volume=-0.8
+
+<region>
+sample=samples\Flute F#5(L).wav
+lokey=76 hikey=78
+pitch_keycenter=78
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.5
+tune=-11
+offset=0
+end=29954
+loop_start=19435
+loop_end=29951
+volume=-0.8
+
+<region>
+sample=samples\Flute G#5(L).wav
+lokey=79 hikey=81
+pitch_keycenter=80
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.5
+tune=-11
+offset=0
+end=22023
+loop_start=11271
+loop_end=22015
+volume=-0.8
+
+<region>
+sample=samples\Flute C6(L).wav
+lokey=82 hikey=84
+pitch_keycenter=84
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.5
+tune=-21
+offset=0
+end=32543
+loop_start=22529
+loop_end=32512
+volume=-0.8
+
+<region>
+sample=samples\Flute F#6(L).wav
+lokey=85 hikey=127
+pitch_keycenter=90
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.5
+tune=-32
+offset=0
+end=29955
+loop_start=18767
+loop_end=29951
+volume=-0.8
+
+<group>
+lovel=97 hivel=104
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=15
+volume=-1.7468
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Flute C#4(L).wav
+lokey=0 hikey=62
+pitch_keycenter=61
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.474945
+offset=0
+end=40223
+loop_start=29084
+loop_end=40191
+volume=-0.8
+
+<region>
+sample=samples\Flute E4(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.474945
+tune=11
+offset=0
+end=43031
+loop_start=31993
+loop_end=43008
+volume=-0.8
+
+<region>
+sample=samples\Flute G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.474945
+offset=0
+end=38447
+loop_start=28411
+loop_end=38400
+volume=-0.8
+
+<region>
+sample=samples\Flute B4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.474945
+tune=2
+offset=0
+end=27147
+loop_start=16790
+loop_end=27136
+volume=-0.8
+
+<region>
+sample=samples\Flute D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.474945
+tune=-10
+offset=0
+end=55359
+loop_start=44803
+loop_end=55296
+volume=-0.8
+
+<region>
+sample=samples\Flute F#5(L).wav
+lokey=76 hikey=78
+pitch_keycenter=78
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.474945
+tune=-11
+offset=0
+end=29954
+loop_start=19435
+loop_end=29951
+volume=-0.8
+
+<region>
+sample=samples\Flute G#5(L).wav
+lokey=79 hikey=81
+pitch_keycenter=80
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.474945
+tune=-11
+offset=0
+end=22023
+loop_start=11271
+loop_end=22015
+volume=-0.8
+
+<region>
+sample=samples\Flute C6(L).wav
+lokey=82 hikey=84
+pitch_keycenter=84
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.474945
+tune=-21
+offset=0
+end=32543
+loop_start=22529
+loop_end=32512
+volume=-0.8
+
+<region>
+sample=samples\Flute F#6(L).wav
+lokey=85 hikey=127
+pitch_keycenter=90
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.474945
+tune=-32
+offset=0
+end=29955
+loop_start=18767
+loop_end=29951
+volume=-0.8
+
+<group>
+lovel=89 hivel=96
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=15
+volume=-1.7468
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Flute C#4(L).wav
+lokey=0 hikey=62
+pitch_keycenter=61
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.450105
+offset=0
+end=40223
+loop_start=29084
+loop_end=40191
+volume=-0.8
+
+<region>
+sample=samples\Flute E4(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.450105
+tune=11
+offset=0
+end=43031
+loop_start=31993
+loop_end=43008
+volume=-0.8
+
+<region>
+sample=samples\Flute G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.450105
+offset=0
+end=38447
+loop_start=28411
+loop_end=38400
+volume=-0.8
+
+<region>
+sample=samples\Flute B4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.450105
+tune=2
+offset=0
+end=27147
+loop_start=16790
+loop_end=27136
+volume=-0.8
+
+<region>
+sample=samples\Flute D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.450105
+tune=-10
+offset=0
+end=55359
+loop_start=44803
+loop_end=55296
+volume=-0.8
+
+<region>
+sample=samples\Flute F#5(L).wav
+lokey=76 hikey=78
+pitch_keycenter=78
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.450105
+tune=-11
+offset=0
+end=29954
+loop_start=19435
+loop_end=29951
+volume=-0.8
+
+<region>
+sample=samples\Flute G#5(L).wav
+lokey=79 hikey=81
+pitch_keycenter=80
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.450105
+tune=-11
+offset=0
+end=22023
+loop_start=11271
+loop_end=22015
+volume=-0.8
+
+<region>
+sample=samples\Flute C6(L).wav
+lokey=82 hikey=84
+pitch_keycenter=84
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.450105
+tune=-21
+offset=0
+end=32543
+loop_start=22529
+loop_end=32512
+volume=-0.8
+
+<region>
+sample=samples\Flute F#6(L).wav
+lokey=85 hikey=127
+pitch_keycenter=90
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.450105
+tune=-32
+offset=0
+end=29955
+loop_start=18767
+loop_end=29951
+volume=-0.8
+
+<group>
+lovel=81 hivel=88
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=15
+volume=-1.7468
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Flute C#4(L).wav
+lokey=0 hikey=62
+pitch_keycenter=61
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.425088
+offset=0
+end=40223
+loop_start=29084
+loop_end=40191
+volume=-0.8
+
+<region>
+sample=samples\Flute E4(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.425088
+tune=11
+offset=0
+end=43031
+loop_start=31993
+loop_end=43008
+volume=-0.8
+
+<region>
+sample=samples\Flute G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.425088
+offset=0
+end=38447
+loop_start=28411
+loop_end=38400
+volume=-0.8
+
+<region>
+sample=samples\Flute B4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.425088
+tune=2
+offset=0
+end=27147
+loop_start=16790
+loop_end=27136
+volume=-0.8
+
+<region>
+sample=samples\Flute D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.425088
+tune=-10
+offset=0
+end=55359
+loop_start=44803
+loop_end=55296
+volume=-0.8
+
+<region>
+sample=samples\Flute F#5(L).wav
+lokey=76 hikey=78
+pitch_keycenter=78
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.425088
+tune=-11
+offset=0
+end=29954
+loop_start=19435
+loop_end=29951
+volume=-0.8
+
+<region>
+sample=samples\Flute G#5(L).wav
+lokey=79 hikey=81
+pitch_keycenter=80
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.425088
+tune=-11
+offset=0
+end=22023
+loop_start=11271
+loop_end=22015
+volume=-0.8
+
+<region>
+sample=samples\Flute C6(L).wav
+lokey=82 hikey=84
+pitch_keycenter=84
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.425088
+tune=-21
+offset=0
+end=32543
+loop_start=22529
+loop_end=32512
+volume=-0.8
+
+<region>
+sample=samples\Flute F#6(L).wav
+lokey=85 hikey=127
+pitch_keycenter=90
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.425088
+tune=-32
+offset=0
+end=29955
+loop_start=18767
+loop_end=29951
+volume=-0.8
+
+<group>
+lovel=73 hivel=80
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=15
+volume=-1.7468
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Flute C#4(L).wav
+lokey=0 hikey=62
+pitch_keycenter=61
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.400073
+offset=0
+end=40223
+loop_start=29084
+loop_end=40191
+volume=-0.8
+
+<region>
+sample=samples\Flute E4(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.400073
+tune=11
+offset=0
+end=43031
+loop_start=31993
+loop_end=43008
+volume=-0.8
+
+<region>
+sample=samples\Flute G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.400073
+offset=0
+end=38447
+loop_start=28411
+loop_end=38400
+volume=-0.8
+
+<region>
+sample=samples\Flute B4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.400073
+tune=2
+offset=0
+end=27147
+loop_start=16790
+loop_end=27136
+volume=-0.8
+
+<region>
+sample=samples\Flute D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.400073
+tune=-10
+offset=0
+end=55359
+loop_start=44803
+loop_end=55296
+volume=-0.8
+
+<region>
+sample=samples\Flute F#5(L).wav
+lokey=76 hikey=78
+pitch_keycenter=78
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.400073
+tune=-11
+offset=0
+end=29954
+loop_start=19435
+loop_end=29951
+volume=-0.8
+
+<region>
+sample=samples\Flute G#5(L).wav
+lokey=79 hikey=81
+pitch_keycenter=80
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.400073
+tune=-11
+offset=0
+end=22023
+loop_start=11271
+loop_end=22015
+volume=-0.8
+
+<region>
+sample=samples\Flute C6(L).wav
+lokey=82 hikey=84
+pitch_keycenter=84
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.400073
+tune=-21
+offset=0
+end=32543
+loop_start=22529
+loop_end=32512
+volume=-0.8
+
+<region>
+sample=samples\Flute F#6(L).wav
+lokey=85 hikey=127
+pitch_keycenter=90
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.400073
+tune=-32
+offset=0
+end=29955
+loop_start=18767
+loop_end=29951
+volume=-0.8
+
+<group>
+lovel=65 hivel=72
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=15
+volume=-1.7468
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Flute C#4(L).wav
+lokey=0 hikey=62
+pitch_keycenter=61
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.37501
+offset=0
+end=40223
+loop_start=29084
+loop_end=40191
+volume=-0.8
+
+<region>
+sample=samples\Flute E4(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.37501
+tune=11
+offset=0
+end=43031
+loop_start=31993
+loop_end=43008
+volume=-0.8
+
+<region>
+sample=samples\Flute G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.37501
+offset=0
+end=38447
+loop_start=28411
+loop_end=38400
+volume=-0.8
+
+<region>
+sample=samples\Flute B4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.37501
+tune=2
+offset=0
+end=27147
+loop_start=16790
+loop_end=27136
+volume=-0.8
+
+<region>
+sample=samples\Flute D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.37501
+tune=-10
+offset=0
+end=55359
+loop_start=44803
+loop_end=55296
+volume=-0.8
+
+<region>
+sample=samples\Flute F#5(L).wav
+lokey=76 hikey=78
+pitch_keycenter=78
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.37501
+tune=-11
+offset=0
+end=29954
+loop_start=19435
+loop_end=29951
+volume=-0.8
+
+<region>
+sample=samples\Flute G#5(L).wav
+lokey=79 hikey=81
+pitch_keycenter=80
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.37501
+tune=-11
+offset=0
+end=22023
+loop_start=11271
+loop_end=22015
+volume=-0.8
+
+<region>
+sample=samples\Flute C6(L).wav
+lokey=82 hikey=84
+pitch_keycenter=84
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.37501
+tune=-21
+offset=0
+end=32543
+loop_start=22529
+loop_end=32512
+volume=-0.8
+
+<region>
+sample=samples\Flute F#6(L).wav
+lokey=85 hikey=127
+pitch_keycenter=90
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.37501
+tune=-32
+offset=0
+end=29955
+loop_start=18767
+loop_end=29951
+volume=-0.8
+
+<group>
+lovel=0 hivel=64
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=15
+volume=-1.7468
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Flute C#4(L).wav
+lokey=0 hikey=62
+pitch_keycenter=61
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.350099
+offset=0
+end=40223
+loop_start=29084
+loop_end=40191
+volume=-0.8
+
+<region>
+sample=samples\Flute E4(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.350099
+tune=11
+offset=0
+end=43031
+loop_start=31993
+loop_end=43008
+volume=-0.8
+
+<region>
+sample=samples\Flute G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.350099
+offset=0
+end=38447
+loop_start=28411
+loop_end=38400
+volume=-0.8
+
+<region>
+sample=samples\Flute B4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=71
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.350099
+tune=2
+offset=0
+end=27147
+loop_start=16790
+loop_end=27136
+volume=-0.8
+
+<region>
+sample=samples\Flute D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.350099
+tune=-10
+offset=0
+end=55359
+loop_start=44803
+loop_end=55296
+volume=-0.8
+
+<region>
+sample=samples\Flute F#5(L).wav
+lokey=76 hikey=78
+pitch_keycenter=78
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.350099
+tune=-11
+offset=0
+end=29954
+loop_start=19435
+loop_end=29951
+volume=-0.8
+
+<region>
+sample=samples\Flute G#5(L).wav
+lokey=79 hikey=81
+pitch_keycenter=80
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.350099
+tune=-11
+offset=0
+end=22023
+loop_start=11271
+loop_end=22015
+volume=-0.8
+
+<region>
+sample=samples\Flute C6(L).wav
+lokey=82 hikey=84
+pitch_keycenter=84
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.350099
+tune=-21
+offset=0
+end=32543
+loop_start=22529
+loop_end=32512
+volume=-0.8
+
+<region>
+sample=samples\Flute F#6(L).wav
+lokey=85 hikey=127
+pitch_keycenter=90
+fil_type=lpf_2p
+cutoff=7999
+amplfo_depth=0.8
+amplfo_delay=0.200036
+fillfo_delay=0.200036
+amplfo_freq=1.18009
+fillfo_freq=1.18009
+ampeg_decay=2
+ampeg_release=0.350099
+tune=-32
+offset=0
+end=29955
+loop_start=18767
+loop_end=29951
+volume=-0.8

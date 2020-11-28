@@ -1,0 +1,789 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=8999
+amplfo_delay=0.800145
+fillfo_delay=0.800145
+amplfo_freq=5.83836
+fillfo_freq=5.83836
+ampeg_release=0.480187
+loop_mode=loop_continuous
+effect1=15
+volume=-1.2704
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Oboe D#4(L).wav
+lokey=0 hikey=63
+pitch_keycenter=63
+tune=-8
+offset=0
+end=38415
+loop_start=29362
+loop_end=38400
+
+<region>
+sample=samples\Oboe E4(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+volume=-2.0644
+tune=-27
+offset=0
+end=29711
+loop_start=20857
+loop_end=29696
+
+<region>
+sample=samples\Oboe G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+volume=-2.0644
+tune=-26
+offset=0
+end=28679
+loop_start=20252
+loop_end=28672
+
+<region>
+sample=samples\Oboe A#4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=-17
+offset=0
+end=38915
+loop_start=30219
+loop_end=38911
+
+<region>
+sample=samples\Oboe D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+tune=-26
+offset=0
+end=26891
+loop_start=18961
+loop_end=26879
+
+<region>
+sample=samples\Oboe G5(L).wav
+lokey=76 hikey=79
+pitch_keycenter=79
+tune=-32
+offset=0
+end=28183
+loop_start=19434
+loop_end=28160
+
+<region>
+sample=samples\Oboe A#5(L).wav
+lokey=80 hikey=96
+pitch_keycenter=82
+tune=2
+offset=0
+end=28959
+loop_start=19744
+loop_end=28927
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=8999
+amplfo_delay=0.800145
+fillfo_delay=0.800145
+amplfo_freq=5.83836
+fillfo_freq=5.83836
+ampeg_release=0.440079
+loop_mode=loop_continuous
+effect1=15
+volume=-1.2704
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Oboe D#4(L).wav
+lokey=0 hikey=63
+pitch_keycenter=63
+tune=-8
+offset=0
+end=38415
+loop_start=29362
+loop_end=38400
+
+<region>
+sample=samples\Oboe E4(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+volume=-2.0644
+tune=-27
+offset=0
+end=29711
+loop_start=20857
+loop_end=29696
+
+<region>
+sample=samples\Oboe G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+volume=-2.0644
+tune=-26
+offset=0
+end=28679
+loop_start=20252
+loop_end=28672
+
+<region>
+sample=samples\Oboe A#4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=-17
+offset=0
+end=38915
+loop_start=30219
+loop_end=38911
+
+<region>
+sample=samples\Oboe D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+tune=-26
+offset=0
+end=26891
+loop_start=18961
+loop_end=26879
+
+<region>
+sample=samples\Oboe G5(L).wav
+lokey=76 hikey=79
+pitch_keycenter=79
+tune=-32
+offset=0
+end=28183
+loop_start=19434
+loop_end=28160
+
+<region>
+sample=samples\Oboe A#5(L).wav
+lokey=80 hikey=96
+pitch_keycenter=82
+tune=2
+offset=0
+end=28959
+loop_start=19744
+loop_end=28927
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=8999
+amplfo_delay=0.800145
+fillfo_delay=0.800145
+amplfo_freq=5.83836
+fillfo_freq=5.83836
+ampeg_release=0.400073
+loop_mode=loop_continuous
+effect1=15
+volume=-1.2704
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Oboe D#4(L).wav
+lokey=0 hikey=63
+pitch_keycenter=63
+tune=-8
+offset=0
+end=38415
+loop_start=29362
+loop_end=38400
+
+<region>
+sample=samples\Oboe E4(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+volume=-2.0644
+tune=-27
+offset=0
+end=29711
+loop_start=20857
+loop_end=29696
+
+<region>
+sample=samples\Oboe G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+volume=-2.0644
+tune=-26
+offset=0
+end=28679
+loop_start=20252
+loop_end=28672
+
+<region>
+sample=samples\Oboe A#4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=-17
+offset=0
+end=38915
+loop_start=30219
+loop_end=38911
+
+<region>
+sample=samples\Oboe D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+tune=-26
+offset=0
+end=26891
+loop_start=18961
+loop_end=26879
+
+<region>
+sample=samples\Oboe G5(L).wav
+lokey=76 hikey=79
+pitch_keycenter=79
+tune=-32
+offset=0
+end=28183
+loop_start=19434
+loop_end=28160
+
+<region>
+sample=samples\Oboe A#5(L).wav
+lokey=80 hikey=96
+pitch_keycenter=82
+tune=2
+offset=0
+end=28959
+loop_start=19744
+loop_end=28927
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=8999
+amplfo_delay=0.800145
+fillfo_delay=0.800145
+amplfo_freq=5.83836
+fillfo_freq=5.83836
+ampeg_release=0.360149
+loop_mode=loop_continuous
+effect1=15
+volume=-1.2704
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Oboe D#4(L).wav
+lokey=0 hikey=63
+pitch_keycenter=63
+tune=-8
+offset=0
+end=38415
+loop_start=29362
+loop_end=38400
+
+<region>
+sample=samples\Oboe E4(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+volume=-2.0644
+tune=-27
+offset=0
+end=29711
+loop_start=20857
+loop_end=29696
+
+<region>
+sample=samples\Oboe G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+volume=-2.0644
+tune=-26
+offset=0
+end=28679
+loop_start=20252
+loop_end=28672
+
+<region>
+sample=samples\Oboe A#4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=-17
+offset=0
+end=38915
+loop_start=30219
+loop_end=38911
+
+<region>
+sample=samples\Oboe D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+tune=-26
+offset=0
+end=26891
+loop_start=18961
+loop_end=26879
+
+<region>
+sample=samples\Oboe G5(L).wav
+lokey=76 hikey=79
+pitch_keycenter=79
+tune=-32
+offset=0
+end=28183
+loop_start=19434
+loop_end=28160
+
+<region>
+sample=samples\Oboe A#5(L).wav
+lokey=80 hikey=96
+pitch_keycenter=82
+tune=2
+offset=0
+end=28959
+loop_start=19744
+loop_end=28927
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=8999
+amplfo_delay=0.800145
+fillfo_delay=0.800145
+amplfo_freq=5.83836
+fillfo_freq=5.83836
+ampeg_release=0.320116
+loop_mode=loop_continuous
+effect1=15
+volume=-1.2704
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Oboe D#4(L).wav
+lokey=0 hikey=63
+pitch_keycenter=63
+tune=-8
+offset=0
+end=38415
+loop_start=29362
+loop_end=38400
+
+<region>
+sample=samples\Oboe E4(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+volume=-2.0644
+tune=-27
+offset=0
+end=29711
+loop_start=20857
+loop_end=29696
+
+<region>
+sample=samples\Oboe G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+volume=-2.0644
+tune=-26
+offset=0
+end=28679
+loop_start=20252
+loop_end=28672
+
+<region>
+sample=samples\Oboe A#4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=-17
+offset=0
+end=38915
+loop_start=30219
+loop_end=38911
+
+<region>
+sample=samples\Oboe D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+tune=-26
+offset=0
+end=26891
+loop_start=18961
+loop_end=26879
+
+<region>
+sample=samples\Oboe G5(L).wav
+lokey=76 hikey=79
+pitch_keycenter=79
+tune=-32
+offset=0
+end=28183
+loop_start=19434
+loop_end=28160
+
+<region>
+sample=samples\Oboe A#5(L).wav
+lokey=80 hikey=96
+pitch_keycenter=82
+tune=2
+offset=0
+end=28959
+loop_start=19744
+loop_end=28927
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=8999
+amplfo_delay=0.800145
+fillfo_delay=0.800145
+amplfo_freq=5.83836
+fillfo_freq=5.83836
+ampeg_release=0.28013
+loop_mode=loop_continuous
+effect1=15
+volume=-1.2704
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Oboe D#4(L).wav
+lokey=0 hikey=63
+pitch_keycenter=63
+tune=-8
+offset=0
+end=38415
+loop_start=29362
+loop_end=38400
+
+<region>
+sample=samples\Oboe E4(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+volume=-2.0644
+tune=-27
+offset=0
+end=29711
+loop_start=20857
+loop_end=29696
+
+<region>
+sample=samples\Oboe G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+volume=-2.0644
+tune=-26
+offset=0
+end=28679
+loop_start=20252
+loop_end=28672
+
+<region>
+sample=samples\Oboe A#4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=-17
+offset=0
+end=38915
+loop_start=30219
+loop_end=38911
+
+<region>
+sample=samples\Oboe D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+tune=-26
+offset=0
+end=26891
+loop_start=18961
+loop_end=26879
+
+<region>
+sample=samples\Oboe G5(L).wav
+lokey=76 hikey=79
+pitch_keycenter=79
+tune=-32
+offset=0
+end=28183
+loop_start=19434
+loop_end=28160
+
+<region>
+sample=samples\Oboe A#5(L).wav
+lokey=80 hikey=96
+pitch_keycenter=82
+tune=2
+offset=0
+end=28959
+loop_start=19744
+loop_end=28927
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=8999
+amplfo_delay=0.800145
+fillfo_delay=0.800145
+amplfo_freq=5.83836
+fillfo_freq=5.83836
+ampeg_release=0.240093
+loop_mode=loop_continuous
+effect1=15
+volume=-1.2704
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Oboe D#4(L).wav
+lokey=0 hikey=63
+pitch_keycenter=63
+tune=-8
+offset=0
+end=38415
+loop_start=29362
+loop_end=38400
+
+<region>
+sample=samples\Oboe E4(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+volume=-2.0644
+tune=-27
+offset=0
+end=29711
+loop_start=20857
+loop_end=29696
+
+<region>
+sample=samples\Oboe G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+volume=-2.0644
+tune=-26
+offset=0
+end=28679
+loop_start=20252
+loop_end=28672
+
+<region>
+sample=samples\Oboe A#4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=-17
+offset=0
+end=38915
+loop_start=30219
+loop_end=38911
+
+<region>
+sample=samples\Oboe D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+tune=-26
+offset=0
+end=26891
+loop_start=18961
+loop_end=26879
+
+<region>
+sample=samples\Oboe G5(L).wav
+lokey=76 hikey=79
+pitch_keycenter=79
+tune=-32
+offset=0
+end=28183
+loop_start=19434
+loop_end=28160
+
+<region>
+sample=samples\Oboe A#5(L).wav
+lokey=80 hikey=96
+pitch_keycenter=82
+tune=2
+offset=0
+end=28959
+loop_start=19744
+loop_end=28927
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=8999
+amplfo_delay=0.800145
+fillfo_delay=0.800145
+amplfo_freq=5.83836
+fillfo_freq=5.83836
+ampeg_release=0.200036
+loop_mode=loop_continuous
+effect1=15
+volume=-1.2704
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Oboe D#4(L).wav
+lokey=0 hikey=63
+pitch_keycenter=63
+tune=-8
+offset=0
+end=38415
+loop_start=29362
+loop_end=38400
+
+<region>
+sample=samples\Oboe E4(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+volume=-2.0644
+tune=-27
+offset=0
+end=29711
+loop_start=20857
+loop_end=29696
+
+<region>
+sample=samples\Oboe G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+volume=-2.0644
+tune=-26
+offset=0
+end=28679
+loop_start=20252
+loop_end=28672
+
+<region>
+sample=samples\Oboe A#4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=-17
+offset=0
+end=38915
+loop_start=30219
+loop_end=38911
+
+<region>
+sample=samples\Oboe D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+tune=-26
+offset=0
+end=26891
+loop_start=18961
+loop_end=26879
+
+<region>
+sample=samples\Oboe G5(L).wav
+lokey=76 hikey=79
+pitch_keycenter=79
+tune=-32
+offset=0
+end=28183
+loop_start=19434
+loop_end=28160
+
+<region>
+sample=samples\Oboe A#5(L).wav
+lokey=80 hikey=96
+pitch_keycenter=82
+tune=2
+offset=0
+end=28959
+loop_start=19744
+loop_end=28927
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=8999
+amplfo_delay=0.800145
+fillfo_delay=0.800145
+amplfo_freq=5.83836
+fillfo_freq=5.83836
+ampeg_release=0.160058
+loop_mode=loop_continuous
+effect1=15
+volume=-1.2704
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Oboe D#4(L).wav
+lokey=0 hikey=63
+pitch_keycenter=63
+tune=-8
+offset=0
+end=38415
+loop_start=29362
+loop_end=38400
+
+<region>
+sample=samples\Oboe E4(L).wav
+lokey=64 hikey=65
+pitch_keycenter=64
+volume=-2.0644
+tune=-27
+offset=0
+end=29711
+loop_start=20857
+loop_end=29696
+
+<region>
+sample=samples\Oboe G4(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+volume=-2.0644
+tune=-26
+offset=0
+end=28679
+loop_start=20252
+loop_end=28672
+
+<region>
+sample=samples\Oboe A#4(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=-17
+offset=0
+end=38915
+loop_start=30219
+loop_end=38911
+
+<region>
+sample=samples\Oboe D5(L).wav
+lokey=72 hikey=75
+pitch_keycenter=74
+tune=-26
+offset=0
+end=26891
+loop_start=18961
+loop_end=26879
+
+<region>
+sample=samples\Oboe G5(L).wav
+lokey=76 hikey=79
+pitch_keycenter=79
+tune=-32
+offset=0
+end=28183
+loop_start=19434
+loop_end=28160
+
+<region>
+sample=samples\Oboe A#5(L).wav
+lokey=80 hikey=96
+pitch_keycenter=82
+tune=2
+offset=0
+end=28959
+loop_start=19744
+loop_end=28927

@@ -1,0 +1,1203 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=10397
+ampeg_sustain=0.001
+ampeg_release=0.600124
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Nylon E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_hold=1
+ampeg_decay=44.9941
+tune=-5
+offset=0
+end=193503
+loop_start=192810
+loop_end=193344
+
+<region>
+sample=samples\Nylon A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_hold=1
+ampeg_decay=42.0053
+tune=6
+offset=0
+end=141735
+loop_start=141308
+loop_end=141710
+
+<region>
+sample=samples\Nylon D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_hold=1
+ampeg_decay=38.9891
+offset=0
+end=200095
+loop_start=198834
+loop_end=200035
+
+<region>
+sample=samples\Nylon G4.wav
+lokey=54 hikey=58
+pitch_keycenter=55
+ampeg_hold=1
+ampeg_decay=36.9926
+tune=11
+offset=0
+end=88267
+loop_start=87577
+loop_end=88256
+
+<region>
+sample=samples\Nylon B4.wav
+lokey=59 hikey=62
+pitch_keycenter=59
+ampeg_hold=1
+ampeg_decay=34.9971
+tune=-3
+offset=0
+end=62567
+loop_start=62185
+loop_end=62541
+
+<region>
+sample=samples\Nylon E5.wav
+lokey=63 hikey=67
+pitch_keycenter=64
+ampeg_hold=1
+ampeg_decay=32
+tune=2
+offset=0
+end=40063
+loop_start=39342
+loop_end=39878
+
+<region>
+sample=samples\Nylon A5.wav
+lokey=68 hikey=70
+pitch_keycenter=69
+ampeg_hold=0.698985
+ampeg_decay=22.9963
+tune=-8
+offset=0
+end=37031
+loop_start=36509
+loop_end=37007
+
+<region>
+sample=samples\Nylon B6.wav
+lokey=71 hikey=75
+pitch_keycenter=71
+ampeg_hold=0.698985
+ampeg_decay=18.0009
+tune=-10
+offset=0
+end=27069
+loop_start=26621
+loop_end=27064
+
+<region>
+sample=samples\Nylon E6.wav
+lokey=76 hikey=83
+pitch_keycenter=76
+ampeg_hold=0.5
+ampeg_decay=7.99999
+tune=-13
+offset=0
+end=31471
+loop_start=30993
+loop_end=31457
+
+<region>
+sample=samples\Extension.wav
+lokey=84 hikey=127
+pitch_keycenter=84
+ampeg_hold=0.200036
+ampeg_decay=6.00015
+tune=-13
+offset=0
+end=19825
+loop_start=19524
+loop_end=19816
+
+<group>
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=9360
+ampeg_sustain=0.001
+ampeg_release=0.600124
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Nylon E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_hold=1
+ampeg_decay=44.9941
+tune=-5
+offset=0
+end=193503
+loop_start=192810
+loop_end=193344
+
+<region>
+sample=samples\Nylon A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_hold=1
+ampeg_decay=42.0053
+tune=6
+offset=0
+end=141735
+loop_start=141308
+loop_end=141710
+
+<region>
+sample=samples\Nylon D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_hold=1
+ampeg_decay=38.9891
+offset=0
+end=200095
+loop_start=198834
+loop_end=200035
+
+<region>
+sample=samples\Nylon G4.wav
+lokey=54 hikey=58
+pitch_keycenter=55
+ampeg_hold=1
+ampeg_decay=36.9926
+tune=11
+offset=0
+end=88267
+loop_start=87577
+loop_end=88256
+
+<region>
+sample=samples\Nylon B4.wav
+lokey=59 hikey=62
+pitch_keycenter=59
+ampeg_hold=1
+ampeg_decay=34.9971
+tune=-3
+offset=0
+end=62567
+loop_start=62185
+loop_end=62541
+
+<region>
+sample=samples\Nylon E5.wav
+lokey=63 hikey=67
+pitch_keycenter=64
+ampeg_hold=1
+ampeg_decay=32
+tune=2
+offset=0
+end=40063
+loop_start=39342
+loop_end=39878
+
+<region>
+sample=samples\Nylon A5.wav
+lokey=68 hikey=70
+pitch_keycenter=69
+ampeg_hold=0.698985
+ampeg_decay=22.9963
+tune=-8
+offset=0
+end=37031
+loop_start=36509
+loop_end=37007
+
+<region>
+sample=samples\Nylon B6.wav
+lokey=71 hikey=75
+pitch_keycenter=71
+ampeg_hold=0.698985
+ampeg_decay=18.0009
+tune=-10
+offset=0
+end=27069
+loop_start=26621
+loop_end=27064
+
+<region>
+sample=samples\Nylon E6.wav
+lokey=76 hikey=83
+pitch_keycenter=76
+ampeg_hold=0.5
+ampeg_decay=7.99999
+tune=-13
+offset=0
+end=31471
+loop_start=30993
+loop_end=31457
+
+<region>
+sample=samples\Extension.wav
+lokey=84 hikey=127
+pitch_keycenter=84
+ampeg_hold=0.200036
+ampeg_decay=6.00015
+tune=-13
+offset=0
+end=19825
+loop_start=19524
+loop_end=19816
+
+<group>
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=8319
+ampeg_sustain=0.001
+ampeg_release=0.600124
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Nylon E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_hold=1
+ampeg_decay=44.9941
+tune=-5
+offset=0
+end=193503
+loop_start=192810
+loop_end=193344
+
+<region>
+sample=samples\Nylon A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_hold=1
+ampeg_decay=42.0053
+tune=6
+offset=0
+end=141735
+loop_start=141308
+loop_end=141710
+
+<region>
+sample=samples\Nylon D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_hold=1
+ampeg_decay=38.9891
+offset=0
+end=200095
+loop_start=198834
+loop_end=200035
+
+<region>
+sample=samples\Nylon G4.wav
+lokey=54 hikey=58
+pitch_keycenter=55
+ampeg_hold=1
+ampeg_decay=36.9926
+tune=11
+offset=0
+end=88267
+loop_start=87577
+loop_end=88256
+
+<region>
+sample=samples\Nylon B4.wav
+lokey=59 hikey=62
+pitch_keycenter=59
+ampeg_hold=1
+ampeg_decay=34.9971
+tune=-3
+offset=0
+end=62567
+loop_start=62185
+loop_end=62541
+
+<region>
+sample=samples\Nylon E5.wav
+lokey=63 hikey=67
+pitch_keycenter=64
+ampeg_hold=1
+ampeg_decay=32
+tune=2
+offset=0
+end=40063
+loop_start=39342
+loop_end=39878
+
+<region>
+sample=samples\Nylon A5.wav
+lokey=68 hikey=70
+pitch_keycenter=69
+ampeg_hold=0.698985
+ampeg_decay=22.9963
+tune=-8
+offset=0
+end=37031
+loop_start=36509
+loop_end=37007
+
+<region>
+sample=samples\Nylon B6.wav
+lokey=71 hikey=75
+pitch_keycenter=71
+ampeg_hold=0.698985
+ampeg_decay=18.0009
+tune=-10
+offset=0
+end=27069
+loop_start=26621
+loop_end=27064
+
+<region>
+sample=samples\Nylon E6.wav
+lokey=76 hikey=83
+pitch_keycenter=76
+ampeg_hold=0.5
+ampeg_decay=7.99999
+tune=-13
+offset=0
+end=31471
+loop_start=30993
+loop_end=31457
+
+<region>
+sample=samples\Extension.wav
+lokey=84 hikey=127
+pitch_keycenter=84
+ampeg_hold=0.200036
+ampeg_decay=6.00015
+tune=-13
+offset=0
+end=19825
+loop_start=19524
+loop_end=19816
+
+<group>
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=7176
+ampeg_sustain=0.001
+ampeg_release=0.600124
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Nylon E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_hold=1
+ampeg_decay=44.9941
+tune=-5
+offset=0
+end=193503
+loop_start=192810
+loop_end=193344
+
+<region>
+sample=samples\Nylon A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_hold=1
+ampeg_decay=42.0053
+tune=6
+offset=0
+end=141735
+loop_start=141308
+loop_end=141710
+
+<region>
+sample=samples\Nylon D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_hold=1
+ampeg_decay=38.9891
+offset=0
+end=200095
+loop_start=198834
+loop_end=200035
+
+<region>
+sample=samples\Nylon G4.wav
+lokey=54 hikey=58
+pitch_keycenter=55
+ampeg_hold=1
+ampeg_decay=36.9926
+tune=11
+offset=0
+end=88267
+loop_start=87577
+loop_end=88256
+
+<region>
+sample=samples\Nylon B4.wav
+lokey=59 hikey=62
+pitch_keycenter=59
+ampeg_hold=1
+ampeg_decay=34.9971
+tune=-3
+offset=0
+end=62567
+loop_start=62185
+loop_end=62541
+
+<region>
+sample=samples\Nylon E5.wav
+lokey=63 hikey=67
+pitch_keycenter=64
+ampeg_hold=1
+ampeg_decay=32
+tune=2
+offset=0
+end=40063
+loop_start=39342
+loop_end=39878
+
+<region>
+sample=samples\Nylon A5.wav
+lokey=68 hikey=70
+pitch_keycenter=69
+ampeg_hold=0.698985
+ampeg_decay=22.9963
+tune=-8
+offset=0
+end=37031
+loop_start=36509
+loop_end=37007
+
+<region>
+sample=samples\Nylon B6.wav
+lokey=71 hikey=75
+pitch_keycenter=71
+ampeg_hold=0.698985
+ampeg_decay=18.0009
+tune=-10
+offset=0
+end=27069
+loop_start=26621
+loop_end=27064
+
+<region>
+sample=samples\Nylon E6.wav
+lokey=76 hikey=83
+pitch_keycenter=76
+ampeg_hold=0.5
+ampeg_decay=7.99999
+tune=-13
+offset=0
+end=31471
+loop_start=30993
+loop_end=31457
+
+<region>
+sample=samples\Extension.wav
+lokey=84 hikey=127
+pitch_keycenter=84
+ampeg_hold=0.200036
+ampeg_decay=6.00015
+tune=-13
+offset=0
+end=19825
+loop_start=19524
+loop_end=19816
+
+<group>
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=6136
+ampeg_sustain=0.001
+ampeg_release=0.600124
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Nylon E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_hold=1
+ampeg_decay=44.9941
+tune=-5
+offset=0
+end=193503
+loop_start=192810
+loop_end=193344
+
+<region>
+sample=samples\Nylon A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_hold=1
+ampeg_decay=42.0053
+tune=6
+offset=0
+end=141735
+loop_start=141308
+loop_end=141710
+
+<region>
+sample=samples\Nylon D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_hold=1
+ampeg_decay=38.9891
+offset=0
+end=200095
+loop_start=198834
+loop_end=200035
+
+<region>
+sample=samples\Nylon G4.wav
+lokey=54 hikey=58
+pitch_keycenter=55
+ampeg_hold=1
+ampeg_decay=36.9926
+tune=11
+offset=0
+end=88267
+loop_start=87577
+loop_end=88256
+
+<region>
+sample=samples\Nylon B4.wav
+lokey=59 hikey=62
+pitch_keycenter=59
+ampeg_hold=1
+ampeg_decay=34.9971
+tune=-3
+offset=0
+end=62567
+loop_start=62185
+loop_end=62541
+
+<region>
+sample=samples\Nylon E5.wav
+lokey=63 hikey=67
+pitch_keycenter=64
+ampeg_hold=1
+ampeg_decay=32
+tune=2
+offset=0
+end=40063
+loop_start=39342
+loop_end=39878
+
+<region>
+sample=samples\Nylon A5.wav
+lokey=68 hikey=70
+pitch_keycenter=69
+ampeg_hold=0.698985
+ampeg_decay=22.9963
+tune=-8
+offset=0
+end=37031
+loop_start=36509
+loop_end=37007
+
+<region>
+sample=samples\Nylon B6.wav
+lokey=71 hikey=75
+pitch_keycenter=71
+ampeg_hold=0.698985
+ampeg_decay=18.0009
+tune=-10
+offset=0
+end=27069
+loop_start=26621
+loop_end=27064
+
+<region>
+sample=samples\Nylon E6.wav
+lokey=76 hikey=83
+pitch_keycenter=76
+ampeg_hold=0.5
+ampeg_decay=7.99999
+tune=-13
+offset=0
+end=31471
+loop_start=30993
+loop_end=31457
+
+<region>
+sample=samples\Extension.wav
+lokey=84 hikey=127
+pitch_keycenter=84
+ampeg_hold=0.200036
+ampeg_decay=6.00015
+tune=-13
+offset=0
+end=19825
+loop_start=19524
+loop_end=19816
+
+<group>
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=5199
+ampeg_sustain=0.001
+ampeg_release=0.600124
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Nylon E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_hold=1
+ampeg_decay=44.9941
+tune=-5
+offset=0
+end=193503
+loop_start=192810
+loop_end=193344
+
+<region>
+sample=samples\Nylon A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_hold=1
+ampeg_decay=42.0053
+tune=6
+offset=0
+end=141735
+loop_start=141308
+loop_end=141710
+
+<region>
+sample=samples\Nylon D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_hold=1
+ampeg_decay=38.9891
+offset=0
+end=200095
+loop_start=198834
+loop_end=200035
+
+<region>
+sample=samples\Nylon G4.wav
+lokey=54 hikey=58
+pitch_keycenter=55
+ampeg_hold=1
+ampeg_decay=36.9926
+tune=11
+offset=0
+end=88267
+loop_start=87577
+loop_end=88256
+
+<region>
+sample=samples\Nylon B4.wav
+lokey=59 hikey=62
+pitch_keycenter=59
+ampeg_hold=1
+ampeg_decay=34.9971
+tune=-3
+offset=0
+end=62567
+loop_start=62185
+loop_end=62541
+
+<region>
+sample=samples\Nylon E5.wav
+lokey=63 hikey=67
+pitch_keycenter=64
+ampeg_hold=1
+ampeg_decay=32
+tune=2
+offset=0
+end=40063
+loop_start=39342
+loop_end=39878
+
+<region>
+sample=samples\Nylon A5.wav
+lokey=68 hikey=70
+pitch_keycenter=69
+ampeg_hold=0.698985
+ampeg_decay=22.9963
+tune=-8
+offset=0
+end=37031
+loop_start=36509
+loop_end=37007
+
+<region>
+sample=samples\Nylon B6.wav
+lokey=71 hikey=75
+pitch_keycenter=71
+ampeg_hold=0.698985
+ampeg_decay=18.0009
+tune=-10
+offset=0
+end=27069
+loop_start=26621
+loop_end=27064
+
+<region>
+sample=samples\Nylon E6.wav
+lokey=76 hikey=83
+pitch_keycenter=76
+ampeg_hold=0.5
+ampeg_decay=7.99999
+tune=-13
+offset=0
+end=31471
+loop_start=30993
+loop_end=31457
+
+<region>
+sample=samples\Extension.wav
+lokey=84 hikey=127
+pitch_keycenter=84
+ampeg_hold=0.200036
+ampeg_decay=6.00015
+tune=-13
+offset=0
+end=19825
+loop_start=19524
+loop_end=19816
+
+<group>
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=4160
+ampeg_sustain=0.001
+ampeg_release=0.600124
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Nylon E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_hold=1
+ampeg_decay=44.9941
+tune=-5
+offset=0
+end=193503
+loop_start=192810
+loop_end=193344
+
+<region>
+sample=samples\Nylon A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_hold=1
+ampeg_decay=42.0053
+tune=6
+offset=0
+end=141735
+loop_start=141308
+loop_end=141710
+
+<region>
+sample=samples\Nylon D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_hold=1
+ampeg_decay=38.9891
+offset=0
+end=200095
+loop_start=198834
+loop_end=200035
+
+<region>
+sample=samples\Nylon G4.wav
+lokey=54 hikey=58
+pitch_keycenter=55
+ampeg_hold=1
+ampeg_decay=36.9926
+tune=11
+offset=0
+end=88267
+loop_start=87577
+loop_end=88256
+
+<region>
+sample=samples\Nylon B4.wav
+lokey=59 hikey=62
+pitch_keycenter=59
+ampeg_hold=1
+ampeg_decay=34.9971
+tune=-3
+offset=0
+end=62567
+loop_start=62185
+loop_end=62541
+
+<region>
+sample=samples\Nylon E5.wav
+lokey=63 hikey=67
+pitch_keycenter=64
+ampeg_hold=1
+ampeg_decay=32
+tune=2
+offset=0
+end=40063
+loop_start=39342
+loop_end=39878
+
+<region>
+sample=samples\Nylon A5.wav
+lokey=68 hikey=70
+pitch_keycenter=69
+ampeg_hold=0.698985
+ampeg_decay=22.9963
+tune=-8
+offset=0
+end=37031
+loop_start=36509
+loop_end=37007
+
+<region>
+sample=samples\Nylon B6.wav
+lokey=71 hikey=75
+pitch_keycenter=71
+ampeg_hold=0.698985
+ampeg_decay=18.0009
+tune=-10
+offset=0
+end=27069
+loop_start=26621
+loop_end=27064
+
+<region>
+sample=samples\Nylon E6.wav
+lokey=76 hikey=83
+pitch_keycenter=76
+ampeg_hold=0.5
+ampeg_decay=7.99999
+tune=-13
+offset=0
+end=31471
+loop_start=30993
+loop_end=31457
+
+<region>
+sample=samples\Extension.wav
+lokey=84 hikey=127
+pitch_keycenter=84
+ampeg_hold=0.200036
+ampeg_decay=6.00015
+tune=-13
+offset=0
+end=19825
+loop_start=19524
+loop_end=19816
+
+<group>
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=3015
+ampeg_sustain=0.001
+ampeg_release=0.600124
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Nylon E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_hold=1
+ampeg_decay=44.9941
+tune=-5
+offset=0
+end=193503
+loop_start=192810
+loop_end=193344
+
+<region>
+sample=samples\Nylon A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_hold=1
+ampeg_decay=42.0053
+tune=6
+offset=0
+end=141735
+loop_start=141308
+loop_end=141710
+
+<region>
+sample=samples\Nylon D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_hold=1
+ampeg_decay=38.9891
+offset=0
+end=200095
+loop_start=198834
+loop_end=200035
+
+<region>
+sample=samples\Nylon G4.wav
+lokey=54 hikey=58
+pitch_keycenter=55
+ampeg_hold=1
+ampeg_decay=36.9926
+tune=11
+offset=0
+end=88267
+loop_start=87577
+loop_end=88256
+
+<region>
+sample=samples\Nylon B4.wav
+lokey=59 hikey=62
+pitch_keycenter=59
+ampeg_hold=1
+ampeg_decay=34.9971
+tune=-3
+offset=0
+end=62567
+loop_start=62185
+loop_end=62541
+
+<region>
+sample=samples\Nylon E5.wav
+lokey=63 hikey=67
+pitch_keycenter=64
+ampeg_hold=1
+ampeg_decay=32
+tune=2
+offset=0
+end=40063
+loop_start=39342
+loop_end=39878
+
+<region>
+sample=samples\Nylon A5.wav
+lokey=68 hikey=70
+pitch_keycenter=69
+ampeg_hold=0.698985
+ampeg_decay=22.9963
+tune=-8
+offset=0
+end=37031
+loop_start=36509
+loop_end=37007
+
+<region>
+sample=samples\Nylon B6.wav
+lokey=71 hikey=75
+pitch_keycenter=71
+ampeg_hold=0.698985
+ampeg_decay=18.0009
+tune=-10
+offset=0
+end=27069
+loop_start=26621
+loop_end=27064
+
+<region>
+sample=samples\Nylon E6.wav
+lokey=76 hikey=83
+pitch_keycenter=76
+ampeg_hold=0.5
+ampeg_decay=7.99999
+tune=-13
+offset=0
+end=31471
+loop_start=30993
+loop_end=31457
+
+<region>
+sample=samples\Extension.wav
+lokey=84 hikey=127
+pitch_keycenter=84
+ampeg_hold=0.200036
+ampeg_decay=6.00015
+tune=-13
+offset=0
+end=19825
+loop_start=19524
+loop_end=19816
+
+<group>
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=2080
+ampeg_sustain=0.001
+ampeg_release=0.600124
+loop_mode=loop_continuous
+effect1=10
+volume=-1.588
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\Nylon E3.wav
+lokey=0 hikey=43
+pitch_keycenter=40
+ampeg_hold=1
+ampeg_decay=44.9941
+tune=-5
+offset=0
+end=193503
+loop_start=192810
+loop_end=193344
+
+<region>
+sample=samples\Nylon A3.wav
+lokey=44 hikey=48
+pitch_keycenter=45
+ampeg_hold=1
+ampeg_decay=42.0053
+tune=6
+offset=0
+end=141735
+loop_start=141308
+loop_end=141710
+
+<region>
+sample=samples\Nylon D4.wav
+lokey=49 hikey=53
+pitch_keycenter=50
+ampeg_hold=1
+ampeg_decay=38.9891
+offset=0
+end=200095
+loop_start=198834
+loop_end=200035
+
+<region>
+sample=samples\Nylon G4.wav
+lokey=54 hikey=58
+pitch_keycenter=55
+ampeg_hold=1
+ampeg_decay=36.9926
+tune=11
+offset=0
+end=88267
+loop_start=87577
+loop_end=88256
+
+<region>
+sample=samples\Nylon B4.wav
+lokey=59 hikey=62
+pitch_keycenter=59
+ampeg_hold=1
+ampeg_decay=34.9971
+tune=-3
+offset=0
+end=62567
+loop_start=62185
+loop_end=62541
+
+<region>
+sample=samples\Nylon E5.wav
+lokey=63 hikey=67
+pitch_keycenter=64
+ampeg_hold=1
+ampeg_decay=32
+tune=2
+offset=0
+end=40063
+loop_start=39342
+loop_end=39878
+
+<region>
+sample=samples\Nylon A5.wav
+lokey=68 hikey=70
+pitch_keycenter=69
+ampeg_hold=0.698985
+ampeg_decay=22.9963
+tune=-8
+offset=0
+end=37031
+loop_start=36509
+loop_end=37007
+
+<region>
+sample=samples\Nylon B6.wav
+lokey=71 hikey=75
+pitch_keycenter=71
+ampeg_hold=0.698985
+ampeg_decay=18.0009
+tune=-10
+offset=0
+end=27069
+loop_start=26621
+loop_end=27064
+
+<region>
+sample=samples\Nylon E6.wav
+lokey=76 hikey=83
+pitch_keycenter=76
+ampeg_hold=0.5
+ampeg_decay=7.99999
+tune=-13
+offset=0
+end=31471
+loop_start=30993
+loop_end=31457
+
+<region>
+sample=samples\Extension.wav
+lokey=84 hikey=127
+pitch_keycenter=84
+ampeg_hold=0.200036
+ampeg_decay=6.00015
+tune=-13
+offset=0
+end=19825
+loop_start=19524
+loop_end=19816

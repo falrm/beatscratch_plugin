@@ -1,0 +1,282 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+effect2=10
+transpose=-24
+loop_mode=loop_continuous
+ampeg_release=0.00117212
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=121 hivel=127
+fil_type=lpf_2p
+cutoff=8598
+resonance=0.2
+effect1=20
+ampeg_release=0.300062
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<group>
+lovel=113 hivel=120
+effect2=10
+transpose=-24
+loop_mode=loop_continuous
+ampeg_release=0.00107422
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=113 hivel=120
+fil_type=lpf_2p
+cutoff=8499
+resonance=0.3
+effect1=19
+ampeg_delay=0.00199994
+ampeg_attack=0.00499893
+ampeg_sustain=94.4061
+ampeg_release=0.26395
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<group>
+lovel=105 hivel=112
+effect2=10
+transpose=-24
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=105 hivel=112
+fil_type=lpf_2p
+cutoff=8401
+resonance=0.4
+effect1=18
+ampeg_delay=0.00299998
+ampeg_attack=0.00700048
+ampeg_sustain=89.1251
+ampeg_release=0.230047
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<group>
+lovel=97 hivel=104
+effect2=10
+transpose=-24
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=97 hivel=104
+fil_type=lpf_2p
+cutoff=8300
+resonance=0.5
+effect1=17
+ampeg_delay=0.00399987
+ampeg_attack=0.00900018
+ampeg_sustain=84.1395
+ampeg_release=0.198082
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<group>
+lovel=89 hivel=96
+effect2=10
+transpose=-24
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=89 hivel=96
+fil_type=lpf_2p
+cutoff=8200
+resonance=0.6
+effect1=16
+ampeg_delay=0.00499893
+ampeg_attack=0.0109976
+ampeg_sustain=79.4328
+ampeg_release=0.176063
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<group>
+lovel=81 hivel=88
+effect2=10
+transpose=-24
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=81 hivel=88
+fil_type=lpf_2p
+cutoff=8101
+resonance=0.7
+effect1=15
+ampeg_delay=0.00599996
+ampeg_attack=0.0130031
+ampeg_sustain=74.9894
+ampeg_release=0.147029
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<group>
+lovel=73 hivel=80
+effect2=10
+transpose=-24
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=73 hivel=80
+fil_type=lpf_2p
+cutoff=7999
+resonance=0.8
+effect1=14
+ampeg_delay=0.00700048
+ampeg_attack=0.0149972
+ampeg_sustain=70.7946
+ampeg_release=0.120047
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<group>
+lovel=65 hivel=72
+effect2=10
+transpose=-24
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=65 hivel=72
+fil_type=lpf_2p
+cutoff=7902
+resonance=0.9
+effect1=13
+ampeg_delay=0.00799974
+ampeg_attack=0.0169999
+ampeg_sustain=66.8344
+ampeg_release=0.0950064
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215
+
+<group>
+lovel=0 hivel=64
+effect2=10
+transpose=-24
+loop_mode=loop_continuous
+ampeg_release=0.001
+effect1=10
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Drawbar Organ(L).wav
+pitch_keycenter=72
+lovel=0 hivel=64
+fil_type=lpf_2p
+cutoff=7798
+resonance=1
+effect1=12
+ampeg_delay=0.00900018
+ampeg_attack=0.0190047
+ampeg_sustain=63.0957
+ampeg_release=0.0720014
+offset=0
+end=49218
+loop_start=11297
+loop_end=49215

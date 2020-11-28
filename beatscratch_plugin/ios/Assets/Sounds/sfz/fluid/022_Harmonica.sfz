@@ -1,0 +1,111 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+fil_type=lpf_2p
+cutoff=5999
+fileg_depth=-85
+amplfo_depth=0.6
+amplfo_delay=0.486047
+fillfo_delay=0.486047
+amplfo_freq=3.99925
+fillfo_freq=3.99925
+pitcheg_attack=3.00008
+fileg_attack=3.00008
+pitcheg_decay=4.25994
+fileg_decay=4.25994
+fileg_sustain=58.9
+pitcheg_sustain=58.9
+ampeg_hold=0.346078
+ampeg_decay=9.92912
+ampeg_sustain=79.4328
+ampeg_release=0.169968
+loop_mode=loop_continuous
+effect1=10
+volume=-2.1438
+ampeg_attack=0.001
+pitchlfo_freq=8.176
+
+<region>
+sample=samples\harmon_c2(L).wav
+lokey=0 hikey=60
+pitch_keycenter=48
+offset=0
+end=16907
+loop_start=16175
+loop_end=16848
+volume=-0.6
+
+<region>
+sample=samples\harmnc_e3(L).wav
+lokey=61 hikey=65
+pitch_keycenter=64
+offset=0
+end=17754
+loop_start=16326
+loop_end=17663
+volume=-0.6
+
+<region>
+sample=samples\harmnc_g3(L).wav
+lokey=66 hikey=69
+pitch_keycenter=67
+offset=0
+end=16873
+loop_start=16294
+loop_end=16855
+volume=-0.6
+
+<region>
+sample=samples\harmon_c4(L).wav
+lokey=70 hikey=72
+pitch_keycenter=72
+offset=0
+end=17369
+loop_start=17099
+loop_end=17351
+volume=-0.6
+
+<region>
+sample=samples\harmnc_e4(L).wav
+lokey=73 hikey=76
+pitch_keycenter=76
+offset=0
+end=16575
+loop_start=15704
+loop_end=16506
+volume=-0.6
+
+<region>
+sample=samples\harmnc_g4(L).wav
+lokey=77 hikey=80
+pitch_keycenter=79
+offset=0
+end=15751
+loop_start=15496
+loop_end=15720
+volume=-0.6
+
+<region>
+sample=samples\harmon_c5(L).wav
+lokey=81 hikey=84
+pitch_keycenter=84
+offset=0
+end=16902
+loop_start=16500
+loop_end=16878
+volume=-0.6
+
+<region>
+sample=samples\harmnc_e5(L).wav
+lokey=85 hikey=96
+pitch_keycenter=88
+offset=0
+end=16759
+loop_start=16280
+loop_end=16747
+volume=-0.6

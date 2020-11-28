@@ -1,0 +1,1455 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : MS_General v0.1
+// Author    : Frank Wen, Michael Cowgill & S. Christian Collins - see license file for details
+// Copyright : Frank Wen 2000-2002, Michael Cowgill 2014-17, S. Christian Collins 2018
+// Date      : 2020/04/05
+// Comment   : Released under the MIT license. Please see "MS_General-License.md" for more information.
+
+<group>
+lovel=121 hivel=127
+ampeg_release=0.450105
+loop_mode=loop_continuous
+effect1=15
+volume=-1.4292
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Viola C#2(L).wav
+lokey=0 hikey=50
+pitch_keycenter=49
+tune=12
+offset=0
+end=45495
+loop_start=36843
+loop_end=45478
+
+<region>
+sample=samples\Viola E2(L).wav
+lokey=51 hikey=53
+pitch_keycenter=52
+tune=15
+offset=0
+end=51095
+loop_start=42146
+loop_end=51076
+
+<region>
+sample=samples\Viola G2(L).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+tune=-5
+offset=0
+end=75051
+loop_start=66034
+loop_end=75035
+
+<region>
+sample=samples\Viola A#2(L).wav
+lokey=57 hikey=59
+pitch_keycenter=58
+tune=28
+offset=0
+end=59179
+loop_start=49724
+loop_end=59158
+
+<region>
+sample=samples\Viola C#3(L).wav
+lokey=60 hikey=62
+pitch_keycenter=61
+tune=-11
+offset=0
+end=58615
+loop_start=48944
+loop_end=58604
+
+<region>
+sample=samples\Viola E3(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+tune=3
+offset=0
+end=70823
+loop_start=62355
+loop_end=70797
+
+<region>
+sample=samples\Viola G3(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+tune=7
+offset=0
+end=42791
+loop_start=34406
+loop_end=42769
+
+<region>
+sample=samples\Viola A#3(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=8
+offset=0
+end=67087
+loop_start=57759
+loop_end=67075
+
+<region>
+sample=samples\Viola C#4(L).wav
+lokey=72 hikey=74
+pitch_keycenter=73
+tune=5
+offset=0
+end=61527
+loop_start=51662
+loop_end=61505
+
+<region>
+sample=samples\Viola E4(L).wav
+lokey=75 hikey=77
+pitch_keycenter=76
+tune=-7
+offset=0
+end=52387
+loop_start=42782
+loop_end=52377
+
+<region>
+sample=samples\Viola G4(L).wav
+lokey=78 hikey=80
+pitch_keycenter=79
+tune=3
+offset=0
+end=46303
+loop_start=38099
+loop_end=46295
+
+<region>
+sample=samples\Viola A#4(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=73955
+loop_start=66055
+loop_end=73947
+
+<region>
+sample=samples\Viola C#5(L).wav
+lokey=84 hikey=86
+pitch_keycenter=85
+offset=0
+end=38345
+loop_start=30442
+loop_end=38337
+
+<region>
+sample=samples\Viola E5(L).wav
+lokey=87 hikey=89
+pitch_keycenter=88
+tune=7
+offset=0
+end=39175
+loop_start=31360
+loop_end=39168
+
+<region>
+sample=samples\Viola G5(L).wav
+lokey=90 hikey=96
+pitch_keycenter=91
+tune=-32
+offset=0
+end=61859
+loop_start=53774
+loop_end=61845
+
+<group>
+lovel=113 hivel=120
+ampeg_release=0.450105
+loop_mode=loop_continuous
+ampeg_attack=0.00102512
+effect1=15
+volume=-1.4292
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Viola C#2(L).wav
+lokey=0 hikey=50
+pitch_keycenter=49
+tune=12
+offset=0
+end=45495
+loop_start=36843
+loop_end=45478
+
+<region>
+sample=samples\Viola E2(L).wav
+lokey=51 hikey=53
+pitch_keycenter=52
+tune=15
+offset=0
+end=51095
+loop_start=42146
+loop_end=51076
+
+<region>
+sample=samples\Viola G2(L).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+tune=-5
+offset=0
+end=75051
+loop_start=66034
+loop_end=75035
+
+<region>
+sample=samples\Viola A#2(L).wav
+lokey=57 hikey=59
+pitch_keycenter=58
+tune=28
+offset=0
+end=59179
+loop_start=49724
+loop_end=59158
+
+<region>
+sample=samples\Viola C#3(L).wav
+lokey=60 hikey=62
+pitch_keycenter=61
+tune=-11
+offset=0
+end=58615
+loop_start=48944
+loop_end=58604
+
+<region>
+sample=samples\Viola E3(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+tune=3
+offset=0
+end=70823
+loop_start=62355
+loop_end=70797
+
+<region>
+sample=samples\Viola G3(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+tune=7
+offset=0
+end=42791
+loop_start=34406
+loop_end=42769
+
+<region>
+sample=samples\Viola A#3(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=8
+offset=0
+end=67087
+loop_start=57759
+loop_end=67075
+
+<region>
+sample=samples\Viola C#4(L).wav
+lokey=72 hikey=74
+pitch_keycenter=73
+tune=5
+offset=0
+end=61527
+loop_start=51662
+loop_end=61505
+
+<region>
+sample=samples\Viola E4(L).wav
+lokey=75 hikey=77
+pitch_keycenter=76
+tune=-7
+offset=0
+end=52387
+loop_start=42782
+loop_end=52377
+
+<region>
+sample=samples\Viola G4(L).wav
+lokey=78 hikey=80
+pitch_keycenter=79
+tune=3
+offset=0
+end=46303
+loop_start=38099
+loop_end=46295
+
+<region>
+sample=samples\Viola A#4(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=73955
+loop_start=66055
+loop_end=73947
+
+<region>
+sample=samples\Viola C#5(L).wav
+lokey=84 hikey=86
+pitch_keycenter=85
+offset=0
+end=38345
+loop_start=30442
+loop_end=38337
+
+<region>
+sample=samples\Viola E5(L).wav
+lokey=87 hikey=89
+pitch_keycenter=88
+tune=7
+offset=0
+end=39175
+loop_start=31360
+loop_end=39168
+
+<region>
+sample=samples\Viola G5(L).wav
+lokey=90 hikey=96
+pitch_keycenter=91
+tune=-32
+offset=0
+end=61859
+loop_start=53774
+loop_end=61845
+
+<group>
+lovel=105 hivel=112
+ampeg_release=0.450105
+loop_mode=loop_continuous
+ampeg_attack=0.00107422
+effect1=15
+volume=-1.4292
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Viola C#2(L).wav
+lokey=0 hikey=50
+pitch_keycenter=49
+tune=12
+offset=0
+end=45495
+loop_start=36843
+loop_end=45478
+
+<region>
+sample=samples\Viola E2(L).wav
+lokey=51 hikey=53
+pitch_keycenter=52
+tune=15
+offset=0
+end=51095
+loop_start=42146
+loop_end=51076
+
+<region>
+sample=samples\Viola G2(L).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+tune=-5
+offset=0
+end=75051
+loop_start=66034
+loop_end=75035
+
+<region>
+sample=samples\Viola A#2(L).wav
+lokey=57 hikey=59
+pitch_keycenter=58
+tune=28
+offset=0
+end=59179
+loop_start=49724
+loop_end=59158
+
+<region>
+sample=samples\Viola C#3(L).wav
+lokey=60 hikey=62
+pitch_keycenter=61
+tune=-11
+offset=0
+end=58615
+loop_start=48944
+loop_end=58604
+
+<region>
+sample=samples\Viola E3(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+tune=3
+offset=0
+end=70823
+loop_start=62355
+loop_end=70797
+
+<region>
+sample=samples\Viola G3(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+tune=7
+offset=0
+end=42791
+loop_start=34406
+loop_end=42769
+
+<region>
+sample=samples\Viola A#3(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=8
+offset=0
+end=67087
+loop_start=57759
+loop_end=67075
+
+<region>
+sample=samples\Viola C#4(L).wav
+lokey=72 hikey=74
+pitch_keycenter=73
+tune=5
+offset=0
+end=61527
+loop_start=51662
+loop_end=61505
+
+<region>
+sample=samples\Viola E4(L).wav
+lokey=75 hikey=77
+pitch_keycenter=76
+tune=-7
+offset=0
+end=52387
+loop_start=42782
+loop_end=52377
+
+<region>
+sample=samples\Viola G4(L).wav
+lokey=78 hikey=80
+pitch_keycenter=79
+tune=3
+offset=0
+end=46303
+loop_start=38099
+loop_end=46295
+
+<region>
+sample=samples\Viola A#4(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=73955
+loop_start=66055
+loop_end=73947
+
+<region>
+sample=samples\Viola C#5(L).wav
+lokey=84 hikey=86
+pitch_keycenter=85
+offset=0
+end=38345
+loop_start=30442
+loop_end=38337
+
+<region>
+sample=samples\Viola E5(L).wav
+lokey=87 hikey=89
+pitch_keycenter=88
+tune=7
+offset=0
+end=39175
+loop_start=31360
+loop_end=39168
+
+<region>
+sample=samples\Viola G5(L).wav
+lokey=90 hikey=96
+pitch_keycenter=91
+tune=-32
+offset=0
+end=61859
+loop_start=53774
+loop_end=61845
+
+<group>
+lovel=97 hivel=104
+ampeg_release=0.450105
+loop_mode=loop_continuous
+ampeg_attack=0.00111339
+effect1=15
+volume=-1.4292
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Viola C#2(L).wav
+lokey=0 hikey=50
+pitch_keycenter=49
+tune=12
+offset=0
+end=45495
+loop_start=36843
+loop_end=45478
+
+<region>
+sample=samples\Viola E2(L).wav
+lokey=51 hikey=53
+pitch_keycenter=52
+tune=15
+offset=0
+end=51095
+loop_start=42146
+loop_end=51076
+
+<region>
+sample=samples\Viola G2(L).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+tune=-5
+offset=0
+end=75051
+loop_start=66034
+loop_end=75035
+
+<region>
+sample=samples\Viola A#2(L).wav
+lokey=57 hikey=59
+pitch_keycenter=58
+tune=28
+offset=0
+end=59179
+loop_start=49724
+loop_end=59158
+
+<region>
+sample=samples\Viola C#3(L).wav
+lokey=60 hikey=62
+pitch_keycenter=61
+tune=-11
+offset=0
+end=58615
+loop_start=48944
+loop_end=58604
+
+<region>
+sample=samples\Viola E3(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+tune=3
+offset=0
+end=70823
+loop_start=62355
+loop_end=70797
+
+<region>
+sample=samples\Viola G3(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+tune=7
+offset=0
+end=42791
+loop_start=34406
+loop_end=42769
+
+<region>
+sample=samples\Viola A#3(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=8
+offset=0
+end=67087
+loop_start=57759
+loop_end=67075
+
+<region>
+sample=samples\Viola C#4(L).wav
+lokey=72 hikey=74
+pitch_keycenter=73
+tune=5
+offset=0
+end=61527
+loop_start=51662
+loop_end=61505
+
+<region>
+sample=samples\Viola E4(L).wav
+lokey=75 hikey=77
+pitch_keycenter=76
+tune=-7
+offset=0
+end=52387
+loop_start=42782
+loop_end=52377
+
+<region>
+sample=samples\Viola G4(L).wav
+lokey=78 hikey=80
+pitch_keycenter=79
+tune=3
+offset=0
+end=46303
+loop_start=38099
+loop_end=46295
+
+<region>
+sample=samples\Viola A#4(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=73955
+loop_start=66055
+loop_end=73947
+
+<region>
+sample=samples\Viola C#5(L).wav
+lokey=84 hikey=86
+pitch_keycenter=85
+offset=0
+end=38345
+loop_start=30442
+loop_end=38337
+
+<region>
+sample=samples\Viola E5(L).wav
+lokey=87 hikey=89
+pitch_keycenter=88
+tune=7
+offset=0
+end=39175
+loop_start=31360
+loop_end=39168
+
+<region>
+sample=samples\Viola G5(L).wav
+lokey=90 hikey=96
+pitch_keycenter=91
+tune=-32
+offset=0
+end=61859
+loop_start=53774
+loop_end=61845
+
+<group>
+lovel=89 hivel=96
+ampeg_release=0.450105
+loop_mode=loop_continuous
+ampeg_attack=0.00117212
+effect1=15
+volume=-1.4292
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Viola C#2(L).wav
+lokey=0 hikey=50
+pitch_keycenter=49
+tune=12
+offset=0
+end=45495
+loop_start=36843
+loop_end=45478
+
+<region>
+sample=samples\Viola E2(L).wav
+lokey=51 hikey=53
+pitch_keycenter=52
+tune=15
+offset=0
+end=51095
+loop_start=42146
+loop_end=51076
+
+<region>
+sample=samples\Viola G2(L).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+tune=-5
+offset=0
+end=75051
+loop_start=66034
+loop_end=75035
+
+<region>
+sample=samples\Viola A#2(L).wav
+lokey=57 hikey=59
+pitch_keycenter=58
+tune=28
+offset=0
+end=59179
+loop_start=49724
+loop_end=59158
+
+<region>
+sample=samples\Viola C#3(L).wav
+lokey=60 hikey=62
+pitch_keycenter=61
+tune=-11
+offset=0
+end=58615
+loop_start=48944
+loop_end=58604
+
+<region>
+sample=samples\Viola E3(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+tune=3
+offset=0
+end=70823
+loop_start=62355
+loop_end=70797
+
+<region>
+sample=samples\Viola G3(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+tune=7
+offset=0
+end=42791
+loop_start=34406
+loop_end=42769
+
+<region>
+sample=samples\Viola A#3(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=8
+offset=0
+end=67087
+loop_start=57759
+loop_end=67075
+
+<region>
+sample=samples\Viola C#4(L).wav
+lokey=72 hikey=74
+pitch_keycenter=73
+tune=5
+offset=0
+end=61527
+loop_start=51662
+loop_end=61505
+
+<region>
+sample=samples\Viola E4(L).wav
+lokey=75 hikey=77
+pitch_keycenter=76
+tune=-7
+offset=0
+end=52387
+loop_start=42782
+loop_end=52377
+
+<region>
+sample=samples\Viola G4(L).wav
+lokey=78 hikey=80
+pitch_keycenter=79
+tune=3
+offset=0
+end=46303
+loop_start=38099
+loop_end=46295
+
+<region>
+sample=samples\Viola A#4(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=73955
+loop_start=66055
+loop_end=73947
+
+<region>
+sample=samples\Viola C#5(L).wav
+lokey=84 hikey=86
+pitch_keycenter=85
+offset=0
+end=38345
+loop_start=30442
+loop_end=38337
+
+<region>
+sample=samples\Viola E5(L).wav
+lokey=87 hikey=89
+pitch_keycenter=88
+tune=7
+offset=0
+end=39175
+loop_start=31360
+loop_end=39168
+
+<region>
+sample=samples\Viola G5(L).wav
+lokey=90 hikey=96
+pitch_keycenter=91
+tune=-32
+offset=0
+end=61859
+loop_start=53774
+loop_end=61845
+
+<group>
+lovel=81 hivel=88
+ampeg_release=0.450105
+loop_mode=loop_continuous
+ampeg_attack=0.00122049
+effect1=15
+volume=-1.4292
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Viola C#2(L).wav
+lokey=0 hikey=50
+pitch_keycenter=49
+tune=12
+offset=0
+end=45495
+loop_start=36843
+loop_end=45478
+
+<region>
+sample=samples\Viola E2(L).wav
+lokey=51 hikey=53
+pitch_keycenter=52
+tune=15
+offset=0
+end=51095
+loop_start=42146
+loop_end=51076
+
+<region>
+sample=samples\Viola G2(L).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+tune=-5
+offset=0
+end=75051
+loop_start=66034
+loop_end=75035
+
+<region>
+sample=samples\Viola A#2(L).wav
+lokey=57 hikey=59
+pitch_keycenter=58
+tune=28
+offset=0
+end=59179
+loop_start=49724
+loop_end=59158
+
+<region>
+sample=samples\Viola C#3(L).wav
+lokey=60 hikey=62
+pitch_keycenter=61
+tune=-11
+offset=0
+end=58615
+loop_start=48944
+loop_end=58604
+
+<region>
+sample=samples\Viola E3(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+tune=3
+offset=0
+end=70823
+loop_start=62355
+loop_end=70797
+
+<region>
+sample=samples\Viola G3(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+tune=7
+offset=0
+end=42791
+loop_start=34406
+loop_end=42769
+
+<region>
+sample=samples\Viola A#3(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=8
+offset=0
+end=67087
+loop_start=57759
+loop_end=67075
+
+<region>
+sample=samples\Viola C#4(L).wav
+lokey=72 hikey=74
+pitch_keycenter=73
+tune=5
+offset=0
+end=61527
+loop_start=51662
+loop_end=61505
+
+<region>
+sample=samples\Viola E4(L).wav
+lokey=75 hikey=77
+pitch_keycenter=76
+tune=-7
+offset=0
+end=52387
+loop_start=42782
+loop_end=52377
+
+<region>
+sample=samples\Viola G4(L).wav
+lokey=78 hikey=80
+pitch_keycenter=79
+tune=3
+offset=0
+end=46303
+loop_start=38099
+loop_end=46295
+
+<region>
+sample=samples\Viola A#4(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=73955
+loop_start=66055
+loop_end=73947
+
+<region>
+sample=samples\Viola C#5(L).wav
+lokey=84 hikey=86
+pitch_keycenter=85
+offset=0
+end=38345
+loop_start=30442
+loop_end=38337
+
+<region>
+sample=samples\Viola E5(L).wav
+lokey=87 hikey=89
+pitch_keycenter=88
+tune=7
+offset=0
+end=39175
+loop_start=31360
+loop_end=39168
+
+<region>
+sample=samples\Viola G5(L).wav
+lokey=90 hikey=96
+pitch_keycenter=91
+tune=-32
+offset=0
+end=61859
+loop_start=53774
+loop_end=61845
+
+<group>
+lovel=73 hivel=80
+ampeg_release=0.450105
+loop_mode=loop_continuous
+ampeg_attack=0.00126938
+effect1=15
+volume=-1.4292
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Viola C#2(L).wav
+lokey=0 hikey=50
+pitch_keycenter=49
+tune=12
+offset=0
+end=45495
+loop_start=36843
+loop_end=45478
+
+<region>
+sample=samples\Viola E2(L).wav
+lokey=51 hikey=53
+pitch_keycenter=52
+tune=15
+offset=0
+end=51095
+loop_start=42146
+loop_end=51076
+
+<region>
+sample=samples\Viola G2(L).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+tune=-5
+offset=0
+end=75051
+loop_start=66034
+loop_end=75035
+
+<region>
+sample=samples\Viola A#2(L).wav
+lokey=57 hikey=59
+pitch_keycenter=58
+tune=28
+offset=0
+end=59179
+loop_start=49724
+loop_end=59158
+
+<region>
+sample=samples\Viola C#3(L).wav
+lokey=60 hikey=62
+pitch_keycenter=61
+tune=-11
+offset=0
+end=58615
+loop_start=48944
+loop_end=58604
+
+<region>
+sample=samples\Viola E3(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+tune=3
+offset=0
+end=70823
+loop_start=62355
+loop_end=70797
+
+<region>
+sample=samples\Viola G3(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+tune=7
+offset=0
+end=42791
+loop_start=34406
+loop_end=42769
+
+<region>
+sample=samples\Viola A#3(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=8
+offset=0
+end=67087
+loop_start=57759
+loop_end=67075
+
+<region>
+sample=samples\Viola C#4(L).wav
+lokey=72 hikey=74
+pitch_keycenter=73
+tune=5
+offset=0
+end=61527
+loop_start=51662
+loop_end=61505
+
+<region>
+sample=samples\Viola E4(L).wav
+lokey=75 hikey=77
+pitch_keycenter=76
+tune=-7
+offset=0
+end=52387
+loop_start=42782
+loop_end=52377
+
+<region>
+sample=samples\Viola G4(L).wav
+lokey=78 hikey=80
+pitch_keycenter=79
+tune=3
+offset=0
+end=46303
+loop_start=38099
+loop_end=46295
+
+<region>
+sample=samples\Viola A#4(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=73955
+loop_start=66055
+loop_end=73947
+
+<region>
+sample=samples\Viola C#5(L).wav
+lokey=84 hikey=86
+pitch_keycenter=85
+offset=0
+end=38345
+loop_start=30442
+loop_end=38337
+
+<region>
+sample=samples\Viola E5(L).wav
+lokey=87 hikey=89
+pitch_keycenter=88
+tune=7
+offset=0
+end=39175
+loop_start=31360
+loop_end=39168
+
+<region>
+sample=samples\Viola G5(L).wav
+lokey=90 hikey=96
+pitch_keycenter=91
+tune=-32
+offset=0
+end=61859
+loop_start=53774
+loop_end=61845
+
+<group>
+lovel=65 hivel=72
+ampeg_release=0.450105
+loop_mode=loop_continuous
+ampeg_attack=0.0013187
+effect1=15
+volume=-1.4292
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Viola C#2(L).wav
+lokey=0 hikey=50
+pitch_keycenter=49
+tune=12
+offset=0
+end=45495
+loop_start=36843
+loop_end=45478
+
+<region>
+sample=samples\Viola E2(L).wav
+lokey=51 hikey=53
+pitch_keycenter=52
+tune=15
+offset=0
+end=51095
+loop_start=42146
+loop_end=51076
+
+<region>
+sample=samples\Viola G2(L).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+tune=-5
+offset=0
+end=75051
+loop_start=66034
+loop_end=75035
+
+<region>
+sample=samples\Viola A#2(L).wav
+lokey=57 hikey=59
+pitch_keycenter=58
+tune=28
+offset=0
+end=59179
+loop_start=49724
+loop_end=59158
+
+<region>
+sample=samples\Viola C#3(L).wav
+lokey=60 hikey=62
+pitch_keycenter=61
+tune=-11
+offset=0
+end=58615
+loop_start=48944
+loop_end=58604
+
+<region>
+sample=samples\Viola E3(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+tune=3
+offset=0
+end=70823
+loop_start=62355
+loop_end=70797
+
+<region>
+sample=samples\Viola G3(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+tune=7
+offset=0
+end=42791
+loop_start=34406
+loop_end=42769
+
+<region>
+sample=samples\Viola A#3(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=8
+offset=0
+end=67087
+loop_start=57759
+loop_end=67075
+
+<region>
+sample=samples\Viola C#4(L).wav
+lokey=72 hikey=74
+pitch_keycenter=73
+tune=5
+offset=0
+end=61527
+loop_start=51662
+loop_end=61505
+
+<region>
+sample=samples\Viola E4(L).wav
+lokey=75 hikey=77
+pitch_keycenter=76
+tune=-7
+offset=0
+end=52387
+loop_start=42782
+loop_end=52377
+
+<region>
+sample=samples\Viola G4(L).wav
+lokey=78 hikey=80
+pitch_keycenter=79
+tune=3
+offset=0
+end=46303
+loop_start=38099
+loop_end=46295
+
+<region>
+sample=samples\Viola A#4(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=73955
+loop_start=66055
+loop_end=73947
+
+<region>
+sample=samples\Viola C#5(L).wav
+lokey=84 hikey=86
+pitch_keycenter=85
+offset=0
+end=38345
+loop_start=30442
+loop_end=38337
+
+<region>
+sample=samples\Viola E5(L).wav
+lokey=87 hikey=89
+pitch_keycenter=88
+tune=7
+offset=0
+end=39175
+loop_start=31360
+loop_end=39168
+
+<region>
+sample=samples\Viola G5(L).wav
+lokey=90 hikey=96
+pitch_keycenter=91
+tune=-32
+offset=0
+end=61859
+loop_start=53774
+loop_end=61845
+
+<group>
+lovel=0 hivel=64
+ampeg_release=0.450105
+loop_mode=loop_continuous
+ampeg_attack=0.00136758
+effect1=15
+volume=-1.4292
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\Viola C#2(L).wav
+lokey=0 hikey=50
+pitch_keycenter=49
+tune=12
+offset=0
+end=45495
+loop_start=36843
+loop_end=45478
+
+<region>
+sample=samples\Viola E2(L).wav
+lokey=51 hikey=53
+pitch_keycenter=52
+tune=15
+offset=0
+end=51095
+loop_start=42146
+loop_end=51076
+
+<region>
+sample=samples\Viola G2(L).wav
+lokey=54 hikey=56
+pitch_keycenter=55
+tune=-5
+offset=0
+end=75051
+loop_start=66034
+loop_end=75035
+
+<region>
+sample=samples\Viola A#2(L).wav
+lokey=57 hikey=59
+pitch_keycenter=58
+tune=28
+offset=0
+end=59179
+loop_start=49724
+loop_end=59158
+
+<region>
+sample=samples\Viola C#3(L).wav
+lokey=60 hikey=62
+pitch_keycenter=61
+tune=-11
+offset=0
+end=58615
+loop_start=48944
+loop_end=58604
+
+<region>
+sample=samples\Viola E3(L).wav
+lokey=63 hikey=65
+pitch_keycenter=64
+tune=3
+offset=0
+end=70823
+loop_start=62355
+loop_end=70797
+
+<region>
+sample=samples\Viola G3(L).wav
+lokey=66 hikey=68
+pitch_keycenter=67
+tune=7
+offset=0
+end=42791
+loop_start=34406
+loop_end=42769
+
+<region>
+sample=samples\Viola A#3(L).wav
+lokey=69 hikey=71
+pitch_keycenter=70
+tune=8
+offset=0
+end=67087
+loop_start=57759
+loop_end=67075
+
+<region>
+sample=samples\Viola C#4(L).wav
+lokey=72 hikey=74
+pitch_keycenter=73
+tune=5
+offset=0
+end=61527
+loop_start=51662
+loop_end=61505
+
+<region>
+sample=samples\Viola E4(L).wav
+lokey=75 hikey=77
+pitch_keycenter=76
+tune=-7
+offset=0
+end=52387
+loop_start=42782
+loop_end=52377
+
+<region>
+sample=samples\Viola G4(L).wav
+lokey=78 hikey=80
+pitch_keycenter=79
+tune=3
+offset=0
+end=46303
+loop_start=38099
+loop_end=46295
+
+<region>
+sample=samples\Viola A#4(L).wav
+lokey=81 hikey=83
+pitch_keycenter=82
+offset=0
+end=73955
+loop_start=66055
+loop_end=73947
+
+<region>
+sample=samples\Viola C#5(L).wav
+lokey=84 hikey=86
+pitch_keycenter=85
+offset=0
+end=38345
+loop_start=30442
+loop_end=38337
+
+<region>
+sample=samples\Viola E5(L).wav
+lokey=87 hikey=89
+pitch_keycenter=88
+tune=7
+offset=0
+end=39175
+loop_start=31360
+loop_end=39168
+
+<region>
+sample=samples\Viola G5(L).wav
+lokey=90 hikey=96
+pitch_keycenter=91
+tune=-32
+offset=0
+end=61859
+loop_start=53774
+loop_end=61845
