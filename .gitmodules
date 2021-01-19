@@ -1,0 +1,4 @@
+[submodule "protos/protobeats"]
+	path = protos/protobeats
+	url = git@github.com:falrm/protobeats.git
+	branch = main

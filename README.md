@@ -1,6 +1,6 @@
 # beatscratch_plugin
 
-A Flutter plugin that bundles AudioKit, FluidSynth and other synthesizers as oppropriate and provides a common Protobuf-based interface to all of them.
+A Flutter plugin that bundles AudioKit, FluidSynth and other synthesizers as appropriate and provides a common Protobuf-based interface ([`protobeats`](https://github.com/falrm/protobeats)) to all of them.
 
 ## Getting Started
 

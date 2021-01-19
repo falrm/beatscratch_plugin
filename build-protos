@@ -3,6 +3,9 @@
 # Paths assume pwd is directory of build script.
 cd "$(dirname "$0")"
 
-protoc --dart_out=./lib/generated ./protos/*
-protoc --swift_out=./ios/Classes/Protos ./protos/*
-protoc --js_out=import_style=browser:./web/generated ./protos/*
+protoc --dart_out=./lib/generated ./protos/*.proto
+protoc --dart_out=./lib/generated ./protos/protobeats/*.proto
+protoc --swift_out=./ios/Classes/Protos ./protos/*.proto
+protoc --swift_out=./ios/Classes/Protos ./protos/protobeats/*.proto
+protoc --js_out=import_style=browser:./web/generated ./protos/*.proto
+protoc --js_out=import_style=browser:./web/generated ./protos/protobeats/*.proto

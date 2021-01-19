@@ -1,5 +1,4 @@
 syntax = "proto3";
-// `java_package` must match the package name you declare for `androidPackage` in your pubspec.yaml
 option java_package = "org.beatscratch.commands";
 
 message MidiSynthesizer {

@@ -1,8 +1,8 @@
 ///
 //  Generated code. Do not modify.
-//  source: protos/music.proto
+//  source: protos/protobeats/music.proto
 //
-// @dart = 2.12
+// @dart = 2.7
 // ignore_for_file: annotate_overrides,camel_case_types,unnecessary_const,non_constant_identifier_names,library_prefixes,unused_import,unused_shown_name,return_of_invalid_type,unnecessary_this,prefer_final_fields
 
 // ignore_for_file: UNDEFINED_SHOWN_NAME
@@ -29,7 +29,7 @@ class NoteLetter extends $pb.ProtobufEnum {
   ];
 
   static final $core.Map<$core.int, NoteLetter> _byValue = $pb.ProtobufEnum.initByValue(values);
-  static NoteLetter? valueOf($core.int value) => _byValue[value];
+  static NoteLetter valueOf($core.int value) => _byValue[value];
 
   const NoteLetter._($core.int v, $core.String n) : super(v, n);
 }
@@ -50,7 +50,7 @@ class NoteSign extends $pb.ProtobufEnum {
   ];
 
   static final $core.Map<$core.int, NoteSign> _byValue = $pb.ProtobufEnum.initByValue(values);
-  static NoteSign? valueOf($core.int value) => _byValue[value];
+  static NoteSign valueOf($core.int value) => _byValue[value];
 
   const NoteSign._($core.int v, $core.String n) : super(v, n);
 }
@@ -65,7 +65,7 @@ class InstrumentType extends $pb.ProtobufEnum {
   ];
 
   static final $core.Map<$core.int, InstrumentType> _byValue = $pb.ProtobufEnum.initByValue(values);
-  static InstrumentType? valueOf($core.int value) => _byValue[value];
+  static InstrumentType valueOf($core.int value) => _byValue[value];
 
   const InstrumentType._($core.int v, $core.String n) : super(v, n);
 }
@@ -80,7 +80,7 @@ class MelodyType extends $pb.ProtobufEnum {
   ];
 
   static final $core.Map<$core.int, MelodyType> _byValue = $pb.ProtobufEnum.initByValue(values);
-  static MelodyType? valueOf($core.int value) => _byValue[value];
+  static MelodyType valueOf($core.int value) => _byValue[value];
 
   const MelodyType._($core.int v, $core.String n) : super(v, n);
 }
@@ -119,7 +119,7 @@ class MelodyInterpretationType extends $pb.ProtobufEnum {
   ];
 
   static final $core.Map<$core.int, MelodyInterpretationType> _byValue = $pb.ProtobufEnum.initByValue(values);
-  static MelodyInterpretationType? valueOf($core.int value) => _byValue[value];
+  static MelodyInterpretationType valueOf($core.int value) => _byValue[value];
 
   const MelodyInterpretationType._($core.int v, $core.String n) : super(v, n);
 }
@@ -134,7 +134,7 @@ class Tempo_Transition extends $pb.ProtobufEnum {
   ];
 
   static final $core.Map<$core.int, Tempo_Transition> _byValue = $pb.ProtobufEnum.initByValue(values);
-  static Tempo_Transition? valueOf($core.int value) => _byValue[value];
+  static Tempo_Transition valueOf($core.int value) => _byValue[value];
 
   const Tempo_Transition._($core.int v, $core.String n) : super(v, n);
 }
@@ -149,7 +149,7 @@ class MelodyReference_PlaybackType extends $pb.ProtobufEnum {
   ];
 
   static final $core.Map<$core.int, MelodyReference_PlaybackType> _byValue = $pb.ProtobufEnum.initByValue(values);
-  static MelodyReference_PlaybackType? valueOf($core.int value) => _byValue[value];
+  static MelodyReference_PlaybackType valueOf($core.int value) => _byValue[value];
 
   const MelodyReference_PlaybackType._($core.int v, $core.String n) : super(v, n);
 }
@@ -170,7 +170,7 @@ class Section_Color extends $pb.ProtobufEnum {
   ];
 
   static final $core.Map<$core.int, Section_Color> _byValue = $pb.ProtobufEnum.initByValue(values);
-  static Section_Color? valueOf($core.int value) => _byValue[value];
+  static Section_Color valueOf($core.int value) => _byValue[value];
 
   const Section_Color._($core.int v, $core.String n) : super(v, n);
 }
